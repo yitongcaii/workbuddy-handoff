@@ -407,4 +407,124 @@
     "relation": "exec",
     "summary": "5理由(transparency/alignment/culture/celebrate/inspire)+节奏(周/月/季)+format+60min"
   }
+  ,{
+    "title": "Leadership Team Offsite 议程模板库",
+    "normKey": "leadership team offsite议程模板库",
+    "url": "https://georgedupontleadership.com/leadership-team-offsite-planning-guide-and-agenda-ideas",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "1/2/3天议程模板；每session必映射发散或收敛单一模式(混用是常见失败)；时间比60%决策/30%关系/10%更新；单节≤90min；含20个分组session(pre-mortem/BHAG压力测试/工作风格地图/OKR评分/RACI重建)"
+  }
+  ,{
+    "title": "战略领导力 Offsite 议程设计法",
+    "normKey": "战略领导力offsite议程设计法",
+    "url": "https://eblingroup.com/blog/develop-a-strategic-leadership-offsite-agenda",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "会前1月对每位参与者20-30min结构化访谈做模式分析出草案；与C级主官定稿；提前7-10天发议程；顶部列3-5目标；软开场+留白(一天≤2-3深话题)+结尾30min收获/欣赏/下一步；下午3点前散场"
+  }
+  ,{
+    "title": "Off-sites That Work（HBR 经典）",
+    "normKey": "off sites that work hbr经典",
+    "url": "https://www.thecasecentre.org/products/view?id=69070",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Frisch&Chandler HBR：务虚会失败根因是缺乏结构；会前严设范围/名单/材料/议程四件套，会中框架化引导，会后行动计绑定问责；金句——每年4天认真设计战略对话远比4天漂流更能改变公司"
+  }
+  ,{
+    "title": "6 招让 Offsite 不白开",
+    "normKey": "6招让offsite不白开",
+    "url": "https://en.git.ir/article/hbr-6-tips-for-running-offsites-that-arent-a-waste-of-time",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "HBR口径：用『如果结束时我们___就满意』锚定成功；名单按目标精选关键少数；会前定衡量方式；会后建跟进让成果stick(对业务持续影响)"
+  }
+  ,{
+    "title": "高管团队 Offsite 21 条实操",
+    "normKey": "高管团队offsite21条实操",
+    "url": "https://www.consultclarity.org/post/executive-team-offsites",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "活动贴合不打扰深化信任；小组拆解放大发言；决策即落owner+期限；规划会后cascade沟通传下一层与全员；月/季复盘节奏固化势能；把offsite当持续进化系统"
+  }
+  ,{
+    "title": "设计「能落地」的领导力 Offsite",
+    "normKey": "设计能落地的领导力offsite",
+    "url": "http://leadershipmoxie.com/blog/designing-leadership-offsites-that-stick",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "目的驱动定结构(战略对齐SOAR/文化Values in Action/信任修复Clearing Conversations)；Fishbowl/World Café/Story Swap替代演讲；每段Action Canvas；结尾仪式(Commitment Circle/致未来信)；30天复盘"
+  }
+  ,{
+    "title": "高效且安全闭门会议组织指南",
+    "normKey": "高效且安全闭门会议组织指南",
+    "url": "https://tsight.io/articles/18389997",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "目标SMART书面前置；参会精简只邀必要者；物理+信息双安全(禁录/加密/门禁)；议程结构化时间分配；主动警惕信息茧房与认知偏差保决策客观"
+  }
+  ,{
+    "title": "高效团队 Offsite 白皮书",
+    "normKey": "高效团队offsite白皮书",
+    "url": "https://treetrunk.ch/wp-content/uploads/2024/10/Tree-Trunk_Whitepaper_Tips-for-Effective-Team-Offsite-Meetings_by-David-Patrick.pdf",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "offsite核心=团队抽离日常为未来规划；早定日期/场地/引导师三件套；会前匿名调研让异议安全浮现；邀客户或上级给外部视角；SWOT/波特五力/BCG对齐优先级"
+  }
+  ,{
+    "title": "行动学习工作坊·问题共诊→方案落地",
+    "normKey": "行动学习工作坊问题共诊方案落地",
+    "url": "https://m.qg68.cn/neixun/detail/227073.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "真课题为素材走共诊→共创→共担三段式；逻辑树/5Why/鱼骨图挖根因；收益-难度矩阵收敛；城镇会议跨组质询；训后小组不解散持续复盘落地"
+  }
+  ,{
+    "title": "行动学习项目工作坊·方法菜单",
+    "normKey": "行动学习项目工作坊方法菜单",
+    "url": "http://www.333ce.cn/nxcourse/course_2304.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中高层/基层/骨干可用工具箱：欣赏式探寻4D/深度汇谈ORID/群策群力WORKOUT/世界咖啡/开放空间/团队共创；视觉引导+情境呈现+团队教练把讨论变决策"
+  }
+  ,{
+    "title": "群策群力团队催化能力提升",
+    "normKey": "群策群力团队催化能力提升",
+    "url": "http://szhanray.com/index.php?c=msg&id=1358",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "GE群策群力溯源；四大核心价值=建立团队信任/赋予员工权力/鼓励创新/激发执行；三阶段(规划/催化/落地)；六步法(愿景/SWOT/承诺/关键行动/城镇会议/复盘)；把指令管理转承诺管理"
+  }
+  ,{
+    "title": "管理者的复盘思维工作坊",
+    "normKey": "管理者的复盘思维工作坊",
+    "url": "https://m.qg68.cn/neixun/detail/227096.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中层三维复盘(管理自己/问题/团队)；第一天沙盘造共同体验，第二天ORID/5Why/SCOA闭环；带走真实痛点行动计划；把甩锅会转真进化"
+  }
+  ,{
+    "title": "公司员工团建拓展策划方案",
+    "normKey": "公司员工团建拓展策划方案",
+    "url": "https://www.renrendoc.com/paper/531327758.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "体验-反思-分享-应用循环；角色互换模拟决策破单一思维；跨职能高压协作验边界；动态复盘转长期默契；领导力模块专设中高层(领袖风采/孤岛求生)"
+  }
+  ,{
+    "title": "管理层参与团建项目选型",
+    "normKey": "管理层参与团建项目选型",
+    "url": "https://www.lanmatj.com/news_detail/1331225849769529344.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "8类适配管理层与团队共建：战略模拟/户外拓展(信任背摔按承受力规划)/创意工作坊/团队竞赛/公益/文化体验/领导力培训/团队旅行；强调管理层以引领者非玩伴姿态参与"
+  }
+  ,{
+    "title": "团队凝聚力魔鬼训练营（中高层）",
+    "normKey": "团队凝聚力魔鬼训练营中高层",
+    "url": "https://www.huishi365.com/icourse_detail/39.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2天体验式(高层/中层)；六大价值观信任/负责任/选择/承诺/双赢/关爱；信任倒建归属、领袖风采培养担当、向内发掘盲点迁善心态；去游戏化重担当适配上下级"
+  }
 ]
