@@ -311,4 +311,100 @@
     "relation": "supervisor",
     "summary": "四段式(认可/倾听/对齐/承诺)必以可兑现行动收尾；跨团队数据归属感+45%离职-50%协作+38%"
   }
+  ,{
+    "title": "员工大会·议程与执行方案（领导致辞+战略展望+表彰）",
+    "normKey": "员工大会议程与执行方案领导致辞战略展望表彰",
+    "url": "https://m.renrendoc.com/paper/528738552.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "议程两维：会前暖场+核心30-45min领导致辞(运营回顾/形势/战略/号召)+40-60min总结表彰"
+  }
+  ,{
+    "title": "公司员工大会流程详解·互动答疑+会后闭环",
+    "normKey": "公司员工大会流程详解互动答疑会后闭环",
+    "url": "https://wap.jiandaoyun.com/nblog/67475/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "完整示例议程+线上问卷满意度+24h纪要(决策/待办/责任人)+协同提醒追踪"
+  }
+  ,{
+    "title": "公司员工大会组织流程·主题公式+分工落地",
+    "normKey": "公司员工大会组织流程主题公式分工落地",
+    "url": "https://m.renrendoc.com/paper/457098210.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "主题'关键词+行动'；3h议程框架；预算预留10-15%弹性；六组责任到人"
+  }
+  ,{
+    "title": "All-Hands Meeting Guide（Slack）·参与设计",
+    "normKey": "all hands meeting guide slack参与设计",
+    "url": "https://slack.com/intl/pt-br/blog/collaboration/what-is-an-all-hands-meeting-a-guide-to-company-wide-alignment",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "会前24-48h发议程+轮换发言人+live Q&A/polls/chat+会后takeaways"
+  }
+  ,{
+    "title": "All-Hands Q&A Best Practices（Lattice）·答疑与心理安全",
+    "normKey": "all hands qa best practices lattice答疑心理安全",
+    "url": "https://lattice.com/library/how-to-run-effective-all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "会前征题+主持人+现场投票+心理安全感+R.E.A.C.T.+留存记录"
+  }
+  ,{
+    "title": "社員総会企画コンテンツ（vcube）·含経営層对话session",
+    "normKey": "社员总会使划content vcube经营层对话session",
+    "url": "https://jp.vcube.com/eventdx/blog/general-employee-meeting-planning-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "経営方針発表+表彰MVP+社長役員对话(匿名質問Slido)+部門成果LT"
+  }
+  ,{
+    "title": "Company Townhall 脚本模板（ajobthing）",
+    "normKey": "company townhall脚本模板ajobthing",
+    "url": "https://www.ajobthing.com/resources/blog/company-townhall-conduct-how-what-need-to-say",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "标准45-60min逐段脚本+CEO视觉化更新+会前匿名问题+散会summary"
+  }
+  ,{
+    "title": "Ultimate Guide to All-Hands（ExpertBeacon）·议程六段解剖",
+    "normKey": "ultimate guide to all hands expertbeacon议程六段解剖",
+    "url": "https://expertbeacon.com/the-ultimate-guide-to-running-highly-effective-all-hands-meetings/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Opening/业务/部门/表彰/互动/展望六段；深耕少数认可；必含互动段"
+  }
+  ,{
+    "title": "CEO 沟通→有意义员工参与（福布斯教练委员会）",
+    "normKey": "ceo沟通有意义员工参与福布斯教练委员会",
+    "url": "https://forbes-forbescom-live.non-prod.zephrcf.com/councils/forbescoachescouncil/2026/02/26/how-to-turn-ceo-communications-into-meaningful-employee-engagement",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "从广播到共创意义：authenticity/so what/sense-making/个人stakes"
+  }
+  ,{
+    "title": "Town Hall That Inspires（CEO 议程模板·BHAG/3HAG）",
+    "normKey": "town hall that inspires ceo议程模板bhag 3hag",
+    "url": "https://www.incrementa.ca/how-to-run-a-town-hall-meeting-that-inspires-your-team",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "CEO镇会模板：六大关键问→传达；BHAG/3HAG/年度目标；<30min+实时+必含Q&A"
+  }
+  ,{
+    "title": "CEOs Transform Town Hall（数据变故事·KP Strategies）",
+    "normKey": "ceos transform town hall数据变故事kp strategies",
+    "url": "https://www.kpstrategies.net/blog/setting-the-tone-for-q2-and-beyond-how-ceos-can-transform-town-hall-meetings",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "四招：数据变故事/会前介入/做互动/CEO放手领导"
+  }
+  ,{
+    "title": "All-Hands Best Practices（RingCentral）·战略沟通支柱",
+    "normKey": "all hands best practices ringcentral战略沟通支柱",
+    "url": "https://www.ringcentral.com/us/en/blog/all-hands-meeting/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "5理由(transparency/alignment/culture/celebrate/inspire)+节奏(周/月/季)+format+60min"
+  }
 ]
