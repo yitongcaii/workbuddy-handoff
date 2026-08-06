@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Day 开放日 · 知识采集卡片墙</title>
+<style>
+:root{
+  --bg:#f4f6fb; --card:#ffffff; --ink:#1f2430; --sub:#5b6478;
+  --accent:#6c5ce7; --accent2:#00b8d9; --chip:#eef0ff;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}
+.wrap{max-width:1080px;margin:0 auto;}
+.hero{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:30px 32px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}
+.hero h1{font-size:28px;font-weight:800;letter-spacing:1px;margin-bottom:8px;}
+.hero p{font-size:14px;opacity:.95;}
+.relbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;}
+.relbar span{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}
+.sec{margin:30px 0 12px;display:flex;align-items:center;gap:10px;}
+.sec h2{font-size:19px;font-weight:800;}
+.sec .tag{font-size:12px;padding:4px 12px;border-radius:12px;font-weight:700;}
+.sec3 .tag{background:#f3e8ff;color:#7b2cbf;} .sec3 h2{color:#7b2cbf;}
+.sec2 .tag{background:#fff3e0;color:#c0651a;} .sec2 h2{color:#c0651a;}
+.sec1 .tag{background:#eaf2ff;color:#2b6cb0;} .sec1 h2{color:#2b6cb0;}
+.sec .desc{font-size:12.5px;color:var(--sub);margin-left:2px;}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.hl{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.emoji{font-size:22px;}
+.hl h3{font-size:16px;font-weight:700;flex:1;min-width:120px;}
+.cat{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}
+.badge{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}
+.b1{background:#e6f9f0;color:#0a8f5b;}
+.b2{background:#fff1e6;color:#c0651a;}
+.r1{background:#eaf2ff;color:#2b6cb0;}
+.r2{background:#fff3e0;color:#c0651a;}
+.r3{background:#f3e8ff;color:#7b2cbf;}
+.val{font-size:13.5px;color:var(--sub);}
+.exec{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}
+.exec summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}
+.exec .inner{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}
+.src{font-size:12px;word-break:break-all;}
+.src a{color:var(--accent2);text-decoration:none;}
+.note{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}
+@media(max-width:680px){.grid{grid-template-columns:1fr;}}
+footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <h1>🚪 Open Day 开放日 · 知识采集卡片墙</h1>
+    <p>采集于 2026-08-06 ｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系三档分层</p>
+    <div class="relbar">
+      <span>① 平级/朋友向（peer）</span>
+      <span>② 领导↔员工（上下级，supervisor）</span>
+      <span>③ 领导↔领导（高管间，exec）</span>
+    </div>
+  </div>
+
+  <!-- ============ ① 平级/朋友向 ============ -->
+  <div class="sec sec1">
+    <h2>① 平级/朋友向（peer）</h2>
+    <span class="tag">5 卡</span>
+    <span class="desc">轻松、可暴露、可搞笑；员工/学生以平级身份做向导、家属互访、趣味互动</span>
+  </div>
+  <div class="grid">
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🎓</span><h3>校园开放日·与学长面对面交流区</h3><span class="cat">校园开放日</span><span class="badge r1">平级</span><span class="badge b2">二手</span></div>
+      <p class="val">首届校园开放日方案：设「与学长面对面」交流区，组织不同年级/专业优秀学生代表与访客自由交流、分享学习生活经验；配套文艺汇演/社团风采/学生成果展/亲子互动/文创美食/留言墙心愿树，弱化官方感、增强真实感。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">学生会/社团承办交流区，提前筛选有代表性的学长学姐并准备话题；与校园参观、公开课、咨询区串联成动线；留互动区收集反馈。</div></details>
+      <div class="src">🔗 <a href="https://www.renrendoc.com/paper/522814826.html" target="_blank">renrendoc.com/paper/522814826.html</a></div>
+      <div class="note">适用：① 学生↔准新生/家长的平级分享，适合招募校园志愿者。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>高校开放日学生接待全攻略</h3><span class="cat">接待SOP</span><span class="badge r1">平级</span><span class="badge b2">二手</span></div>
+      <p class="val">面向在校生的接待实操指南：前期做「活地图」（教学楼/图书馆/食堂/宿舍/校史馆）、准备3-5分钟自我介绍与学校概况话术、着装佩戴胸牌；现场热情破冰（问考生来自哪/心仪专业）、按身份规划动线（校门合影→教学楼→图书馆→食堂→宿舍样板间→体育馆）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">按访客身份分组准备话术（考生家庭关心宿舍/食堂/转专业，学者关心实验室/文献）；熟记当日流程表与各环节负责人；数据一律引用官网最新信息。</div></details>
+      <div class="src">🔗 <a href="https://www.worlduc.com/gaokaodongtai/167294.html" target="_blank">worlduc.com/gaokaodongtai/167294.html</a></div>
+      <div class="note">适用：① 学生以平级身份做向导，专业且有温度。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🧑‍💼</span><h3>员工志愿者/大使机制</h3><span class="cat">志愿者运营</span><span class="badge r1">平级</span><span class="badge b2">二手</span></div>
+      <p class="val">CIO Women：开放日吸引人才的关键不是场地而是「人」。要点——提前与参与员工澄清工作量与截止期，只让有空且愿意的人参与；让毕业生/访客听到员工一手讲述（公司/岗位/环境）；员工满意会自然转化成正面口碑。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">设「员工大使」岗并提前排班；给大使统一话术包+胸牌；开放日前后做员工满意度小调查，避免占用核心工期引发抱怨。</div></details>
+      <div class="src">🔗 <a href="https://ciowomenmagazine.com/successful-open-day-for-your-business" target="_blank">ciowomenmagazine.com/successful-open-day-for-your-business</a></div>
+      <div class="note">适用：① 员工以平级身份做开放日向导/大使，增强真实感与归属感。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🏫</span><h3>高校开放日高效组织法</h3><span class="cat">组织框架</span><span class="badge r1">平级</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">顶尖院校开放日框架：①明确目标与受众（学生/家长/职业转型者期望各异）②提前4-6个月定周六、避假期③组建总协调+后勤/接待/传播经理团队④个性化导览（按兴趣分研究型/校园生活/体育路线，按阶段分组）⑤混合模式（线下+线上远程+虚拟开放日兜底）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">目标与受众绑定设计体验；主题路线让访客「被理解」；预留线上通道覆盖无法到场者；团队角色与KPI清晰。</div></details>
+      <div class="src">🔗 <a href="https://www.emundus.fr/zh-cn/ressources/blog/comment-organiser-une-journee-portes-ouvertes-efficace-pour-des-etudiants-de-grandes-ecoles-ou-universites" target="_blank">emundus.fr/.../journee-portes-ouvertes-efficace</a></div>
+      <div class="note">适用：①+② 学生/家长场景，框架可平移到企业开放日。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🎪</span><h3>企业开放日娱乐创意</h3><span class="cat">互动创意</span><span class="badge r1">平级</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">开放日互动清单：主题竞答（公司历史/业务）、寻宝解谜（每站揭示一面公司）、会议室密室逃脱（协作突围）、DIY工坊（企业色徽章/钥匙扣）、本地艺术家工作坊、现场乐队/展览、定制拍照亭（道具+背景板，社媒传播引擎）。强调按受众选活动：专业人士→技术演示，家庭→趣味互动。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">依品牌调性选活动（创新→科技互动，可持续→环保选项）；按受众分流（家庭重玩、伙伴重商）；拍照亭生成可分享素材做病毒传播。</div></details>
+      <div class="src">🔗 <a href="https://www.luxbooth.lu/en/ideas-activities-open-day-company" target="_blank">luxbooth.lu/en/ideas-activities-open-day-company</a></div>
+      <div class="note">适用：①+② 轻娱乐创意库，家庭日/员工开放日通用。</div>
+    </div>
+
+  </div>
+
+  <!-- ============ ② 领导↔员工 ============ -->
+  <div class="sec sec2">
+    <h2>② 领导↔员工（上下级 · supervisor）</h2>
+    <span class="tag">6 卡</span>
+    <span class="desc">尊重、不隐私暴露、建信任不越界；公司 hosting 员工家属、领导致辞+员工带队的开放日</span>
+  </div>
+  <div class="grid">
+
+    <div class="hl">
+      <div class="top"><span class="emoji">👨‍👩‍👧</span><h3>员工家庭日策划（亲子运动会/DIY）</h3><span class="cat">家庭日</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">上海企业家庭日方案：创意手印签到→趣味运动会（指压板/投壶/毛毛虫竞速/气球保卫战）→亲子时光（泥塑/彩绘/流体熊）→集邮兑奖+领导寄语+冠军家庭分享。目的：深化家庭情感联结、塑有温度企业形象、提升归属感忠诚度。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">设独立场地+热闹氛围；游戏兼顾老少；领导寄语收尾而非全程主导；儿童餐区/家庭专座；颁奖评「最萌笑容家庭」轻量不排名压力。</div></details>
+      <div class="src">🔗 <a href="https://fttj001.com/SHTJHD/Wk23g5zN" target="_blank">fttj001.com/SHTJHD/Wk23g5zN</a></div>
+      <div class="note">适用：② 公司 hosting 员工家属，领导以「大家长」轻出场。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🐠</span><h3>办公室家庭日攻略（捞金鱼/套圈）</h3><span class="cat">家庭日</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">把公司变「亲子嘉年华」：低成本利用会议室/茶水间/走廊。必玩TOP5——捞金鱼、套圈、棉花糖DIY、黏土工坊、迷你灌篮；半日流程：签到领「游园护照」+伴手礼→破冰自我介绍→游园集章兑奖→颁奖+大合影。价值：家属零距离看「你奋斗的地方」、亲子互动、文化软植入。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">气球拱门+拍照背景墙（「我们是一家」手举牌）；零食补给站+低龄休息区；不租场地控成本；员工子女才艺自愿展示。</div></details>
+      <div class="src">🔗 <a href="https://www.damaotuanjian.com/notes?id=NWHME" target="_blank">damaotuanjian.com/notes?id=NWHME</a></div>
+      <div class="note">适用：② 办公室内家庭日，行政可抄作业，成本可控。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🎠</span><h3>企业家庭日趣味活动（运动会/亲子）</h3><span class="cat">家庭日</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">家庭日团建四模块：家庭运动会（亲子接力/家庭拔河/三人四脚）、亲子游戏（绘画/猜谜/烹饪）、文化展示（历史/产品/员工故事+宣传片）、美食分享+才艺表演+照片墙。注意：提前规划流程/注重安全（低龄看护）/关注细节需求。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">设专人引导每模块；文化展示用员工真实故事而非口号；美食区考虑儿童过敏；安全预案+专业看护人员。</div></details>
+      <div class="src">🔗 <a href="https://www.orange-tb.com/detail/919.html" target="_blank">orange-tb.com/detail/919.html</a></div>
+      <div class="note">适用：② 标准家庭日模块清单，可按规模裁剪。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🏢</span><h3>公司开放日流程（致辞+参观+部门体验）</h3><span class="cat">流程SOP</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">公司开放日完整流程：9:00签到领资料→9:15领导致辞+公司概况→9:15-10:30文化/产品/研发展示→10:30-12:00部门体验（市场模拟调研/销售演练/技术难题探讨/客服模拟/行政协作游戏，员工带队）→12:00午餐交流→下午技术讲座/文化体验/合作洽谈。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">各部门派员工负责引导讲解；领导致辞控时；部门体验让来宾「上手」而非仅看；午餐安排混合座位促交流。</div></details>
+      <div class="src">🔗 <a href="https://www.renrendoc.com/paper/431832439.html" target="_blank">renrendoc.com/paper/431832439.html</a></div>
+      <div class="note">适用：② 员工带队的开放日，领导开场、员工主角。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🏭</span><h3>工厂/企业开放日标准流程</h3><span class="cat">流程SOP</span><span class="badge r2">上下级</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">工厂开放日五段：签到发胸牌+茶歇→领导开场致辞→专业讲解员带队参观（生产工艺/设备/质控，专人安保）→产品展示与体验→交流座谈会（领导面对面听意见+寻合作）。后续：总结会+媒体通稿+客户跟进转化。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">参观节点配讲解员答疑；座谈聚焦意见收集与合作共识；安保专人；会后销售跟进潜在客户、PR做媒体剪报归档。</div></details>
+      <div class="src">🔗 <a href="https://m.renrendoc.com/paper/437603844.html" target="_blank">m.renrendoc.com/paper/437603844.html</a></div>
+      <div class="note">适用：②+③ 含领导座谈与对外合作，可升 exec 场景。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🔭</span><h3>企业开放日全流程SOP（观摩会/开放活动）</h3><span class="cat">流程SOP</span><span class="badge r2">上下级</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">观摩开放活动方案：目的（展示成果/搭建交流平台/推广经验/收集建议）；参与对象（上级领导/行业专家/合作单位/媒体/群众/员工家属）；7-15天筹备（筹备组责任到人/场地规划/物料/人员培训+全流程彩排）；当日流程含致辞+参观+互动+离场。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">成立专项组分工（接待/讲解/后勤/宣传/安保/应急）；提前1天全流程彩排；媒体预热+内部通知；对安保后勤培训岗位职责。</div></details>
+      <div class="src">🔗 <a href="http://www.zzwzk.com/luyanditui/178.html" target="_blank">zzwzk.com/luyanditui/178.html</a></div>
+      <div class="note">适用：②+③ 含上级领导/媒体/群众，对外展示型开放日。</div>
+    </div>
+
+  </div>
+
+  <!-- ============ ③ 领导↔领导 ============ -->
+  <div class="sec sec3">
+    <h2>③ 领导↔领导（高管间 · exec）</h2>
+    <span class="tag">7 卡</span>
+    <span class="desc">商务化、以专业/共同目标切入，避免幼稚游戏；投资者/政府/媒体/合作伙伴开放日，一手源为主</span>
+  </div>
+  <div class="grid">
+
+    <div class="hl">
+      <div class="top"><span class="emoji">💊</span><h3>甘李药业投资者开放日官方回顾</h3><span class="cat">投资者开放日</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
+      <p class="val">甘李药业（603087）官方回顾：由北京证监局指导、协会主办、国信证券协办「股东来了——走进甘李」。百名机构/分析师/媒体/中小投资者实地参观厂区（三代胰岛素/四代周制剂/GLP-1管线），董秘邹蓉+财务负责人孙程以「聚焦主业·创新发展」系统梳理，互动坦诚高效。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">厂区实物+案例+多媒体呈现核心优势；高管系统讲经营/研发/行业；互动环节就市场关切逐条回应；以「治理透明度+发展韧性」加固价值认同。</div></details>
+      <div class="src">🔗 <a href="https://www.ganlee.com.cn/detail/1601.html" target="_blank">ganlee.com.cn/detail/1601.html</a></div>
+      <div class="note">适用：③ 上市公司官方回顾，一手源，投资者关系标杆。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🌿</span><h3>盘龙药业投资者开放日（秦药为纽带）</h3><span class="cat">投资者开放日</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">盘龙药业2025投资者开放日（中国上市公司协会等联合主办）：「沉浸式参访+深度座谈」——走进秦岭秦药文化馆、智能化生产基地、标本馆、文化展厅；董事长谢晓林以「经营答卷」锚信心，提「聚焦确定性/布局未来性/深化透明化沟通」三方向；高管坦诚答疑消弭信息差。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">以文化根脉+智造实景双内核解码价值；协会搭台增强公信力；高层直面提问传递战略定力；把开放日当「全面亮家底、坦诚话未来」的沟通。</div></details>
+      <div class="src">🔗 <a href="https://cls.cn/detail/xk/6911bfdccf32f645d9f64f14" target="_blank">cls.cn/detail/xk/6911bfdccf32f645d9f64f14</a>（另 p5w.net 协会总结）</div>
+      <div class="note">适用：③ 协会主办的官方总结，半一手，监管背书。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🛢️</span><h3>宏华集团投资者开放日（智能钻机参访）</h3><span class="cat">投资者开放日</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">宏华集团2025投资者开放日：董事长王旭、董秘何斌接待财通/国海/华西证券及多家机构。实地探访宏华电气、汉正检测等生产一线（智能钻机/数字控制中心/智能检测），管理层系统阐释核心竞争力、战略蓝图与业务现状，巩固市场信心。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">高管致辞+一线参访+经营战略解码三件套；沉浸式看技术实力与研发进展；以「全面开放、高度透明」呈现活力形象。</div></details>
+      <div class="src">🔗 <a href="https://new.qq.com/rain/a/20250714A04K5T00" target="_blank">new.qq.com/rain/a/20250714A04K5T00</a></div>
+      <div class="note">适用：③ 新闻稿视角投资者开放日，看「参访+解码」结构。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🩻</span><h3>一脉阳光投资人开放日（影像+AI基座）</h3><span class="cat">投资者开放日</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">一脉阳光(2522.HK)首届投资人开放日「坚守医疗本质，定义行业未来」：董事长陈朝阳+CFO+副院长+区域代表出席；现场参观旗舰中心（设备/AI孵化区/互联互通平台）；各业务负责人讲区域共享/影像AI基座大模型(L0)/商业化路径；提出轻资产+多产品四大增长路径。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">管理层+业务负责人双层出场；用真实运营数据（千万人次扫描/千万级数据集）讲护城河；开放日作「全面呈现核心竞争力+释放增长信号」窗口。</div></details>
+      <div class="src">🔗 <a href="https://xueqiu.com/1144496770/336422806" target="_blank">xueqiu.com/1144496770/336422806</a></div>
+      <div class="note">适用：③ 投资者社区复盘，看港股公司如何用开放日讲增长故事。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🏛️</span><h3>深圳证监局「走进上市公司」范式</h3><span class="cat">监管范式</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
+      <p class="val">深圳证监局+深交所组织「走进上市公司」系列活动（盐田港/深圳能源/华侨城等）：三环节——宣传手册+宣传片+展厅初步了解→深入生产经营现场感受运作→董事长/总裁与中小投资者交流。媒体全程报道（《证券时报》整版等），调动投资者参与公司治理。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">监管搭台保公信力；「看展厅→看现场→高管对话」三段式；媒体全程放大影响；引导公司主动办投资者开放日，形成透明文化。</div></details>
+      <div class="src">🔗 <a href="https://www.csrc.gov.cn/shenzhen/c105613/c1310507/content.shtml" target="_blank">csrc.gov.cn/shenzhen/.../c1310507/content.shtml</a></div>
+      <div class="note">适用：③ 监管权威范式，设计投资者开放日的最高参考。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">📋</span><h3>上市公司投资者开放日公告范式</h3><span class="cat">公告范式</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
+      <p class="val">投资者开放日公告标准要素（海峡股份/三一重能为例）：主题（如「走进XX·感受活力」）→对象（中小+机构，限名额）→时间地点→内容（高管陪同参观+座谈+产业链调研+餐叙）→出席高管→报名方式（二维码/邮箱，签承诺书+身份核验）→可提前提交问题。三一重能联合东方财富证券办「我是股东」活动。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">公告明确名额/报名/承诺书/身份核验；提前收集投资者问题提升座谈针对性；给现场出席者股东回馈等小权益；费用承担写清。</div></details>
+      <div class="src">🔗 <a href="https://epaper.cs.com.cn/zgzqb/html/2024-07/06/nw.D110000zgzqb_20240706_7-B005.htm" target="_blank">epaper.cs.com.cn/.../B005.htm</a>（海峡股份）；<a href="https://finance.sina.com.cn/jjxw/2025-11-26/doc-infysxmk1219890.shtml" target="_blank">sina/三一重能</a></div>
+      <div class="note">适用：③ 合规公告模板，照抄可落地。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🧬</span><h3>投资者开放日黄金结构（参访+座谈+透明）</h3><span class="cat">模式提炼</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">综合多家上市公司官方回顾提炼的投资者开放日黄金公式：①沉浸式参访（厂区/展厅/研发一线，眼见为实）②高管深度座谈（董事长/CFO直面提问，坦诚答疑消弭信息差）③透明沟通常态（提前收问题、签承诺书、后续通稿+跟进）④价值叙事（用文化根脉/智造实景/真实数据讲护城河与增长）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">参访路线围绕「核心能力」设计而非走过场；座谈高管层级够高且准备充分；把开放日当年度IR固定动作而非一次性；会后做满意度+媒体声量复盘。</div></details>
+      <div class="src">🔗 基于 ganlee/盘龙/宏华/一脉阳光/证监局范式 综合提炼</div>
+      <div class="note">适用：③ 可复用的投资者开放日方法论骨架。</div>
+    </div>
+
+  </div>
+
+  <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body>
+</html>
