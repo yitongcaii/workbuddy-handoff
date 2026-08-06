@@ -1,75 +1,5 @@
 [
   {
-    "title": "两真一假",
-    "normKey": "两真一假",
-    "url": "https://www.asana.com/zh-tw/resources/team-building-games",
-    "sourceType": "primary",
-    "summary": "每人说2事实1谎言投票猜谎，适合不熟团体"
-  },
-  {
-    "title": "心情图片开场",
-    "normKey": "心情图片开场",
-    "url": "https://www.asana.com/zh-tw/resources/team-building-games",
-    "sourceType": "primary",
-    "summary": "选共鸣图片分享感受，会议工作坊开场低压力破冰"
-  },
-  {
-    "title": "一语练习·团队情绪探针",
-    "normKey": "一语练习团队情绪探针",
-    "url": "https://www.asana.com/zh-tw/resources/team-building-games",
-    "sourceType": "primary",
-    "summary": "便利贴写脑海词语收集看团队情绪疑虑"
-  },
-  {
-    "title": "背对背画图·非语言沟通",
-    "normKey": "背对背画图非语言沟通",
-    "url": "https://www.asana.com/zh-tw/resources/team-building-games",
-    "sourceType": "primary",
-    "summary": "一人看图标描述一人画，练聆听与表达"
-  },
-  {
-    "title": "生日排队·无声协作",
-    "normKey": "生日排队无声协作",
-    "url": "https://www.asana.com/zh-tw/resources/team-building-games",
-    "sourceType": "primary",
-    "summary": "不说话按生日排序，练非语言沟通"
-  },
-  {
-    "title": "名字接龙+趣味标签",
-    "normKey": "名字接龙趣味标签",
-    "url": "http://www.niuenwh.com/m/news/919.html",
-    "sourceType": "secondary",
-    "summary": "含趣味标签记名字破冰"
-  },
-  {
-    "title": "我有你没有·轻社交共鸣",
-    "normKey": "我有你没有轻社交共鸣",
-    "url": "http://www.niuenwh.com/m/news/919.html",
-    "sourceType": "secondary",
-    "summary": "共同经历找共鸣破尴尬"
-  },
-  {
-    "title": "身份盲盒·肢体演绎",
-    "normKey": "身份盲盒肢体演绎",
-    "url": "https://www.zhiaier.com/news2640.html",
-    "sourceType": "secondary",
-    "summary": "抽职业身份卡肢体演绎猜，三段式破冰首环"
-  },
-  {
-    "title": "户外破冰·创意大合影+寻宝",
-    "normKey": "户外破冰创意大合影寻宝",
-    "url": "https://www.toutiao.com/article/7663850035972538920",
-    "sourceType": "secondary",
-    "summary": "风车山户外开场合影寻宝零成本低"
-  },
-  {
-    "title": "破冰2.0·情感解码/记忆配对",
-    "normKey": "破冰2.0情感解码记忆配对",
-    "url": "https://www.fzxgwl.cn/yxjc/25728.html",
-    "sourceType": "secondary",
-    "summary": "从抢凳子升级主题抢位记忆配对"
-  },
-  {
     "title": "企业员工颁奖典礼流程模板",
     "normKey": "企业员工颁奖典礼流程模板",
     "url": "https://www.huixiaoer.com/ask/161756982102430636322",
@@ -100,30 +30,6 @@
     "sourceType": "secondary",
     "relation": "supervisor,exec",
     "summary": "奖项分层与颁奖嘉宾层级挂钩(HR总监→副总→总经理→董事长)，含人物短片+三句话感言+高管战略解码"
-  },
-  {
-    "title": "17个搞笑员工奖项·同事互提品格奖",
-    "normKey": "17个搞笑员工奖项同事互提品格奖",
-    "url": "https://ahaslides.com/zh-CN/blog/17-funny-awards-for-employees",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "同事互提比自上而下更有意义（Buffer案例）"
-  },
-  {
-    "title": "50个搞笑奖项清单",
-    "normKey": "50个搞笑奖项清单",
-    "url": "https://word.baidu.com/view/70ac9316804769eae009581b6bd97f192279bfcb.html",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "冷场终结者/活雷锋等纯娱乐奖库"
-  },
-  {
-    "title": "21种有趣奖励·老板一对一午餐",
-    "normKey": "21种有趣奖励老板一对一午餐",
-    "url": "http://diette.barnett@thryv.com/blog/ways-to-recognize-employees-on-a-budget/",
-    "sourceType": "secondary",
-    "relation": "peer,supervisor",
-    "summary": "平级为主含轻量上下级一对一午餐"
   },
   {
     "title": "年度员工表彰大会策划方案模板",
@@ -188,86 +94,6 @@
     "sourceType": "secondary",
     "relation": "exec,supervisor",
     "summary": "O.C.Tanner权威：高管出席职业庆典+讲故事+纪念留存"
-  },
-  {
-    "title": "Creating Positive Culture Through Funny Employee Awards",
-    "normKey": "creating positive culture through funny employee awards",
-    "url": "https://www.myshortlister.com/insights/funny-employee-awards",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "真实案例Southwest/Zappos/Hilton同级认可"
-  },
-  {
-    "title": "30 Lighthearted Funny Employee Awards",
-    "normKey": "30 lighthearted funny employee awards",
-    "url": "https://perkflow.io/articles/30-lighthearted-funny-employee-awards-ideas",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "与优势对齐+舒适场合呈现+防尴尬"
-  },
-  {
-    "title": "Why Laughter is the Best Recognition",
-    "normKey": "why laughter is the best recognition",
-    "url": "https://giveriver.com/blog/funny-work-awards",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "幽默奖避坑与个性化：提升而非贬低"
-  },
-  {
-    "title": "Creative and Humorous Superlatives",
-    "normKey": "creative and humorous superlatives",
-    "url": "https://www.hr-communication.net/blog/creative-and-humorous-superlatives-to-boost-workplace-morale",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "超级奖打破层级建联结，含边界提醒"
-  },
-  {
-    "title": "Nomination Campaign Ideas",
-    "normKey": "nomination campaign ideas",
-    "url": "https://recognizeapp.com/cms/articles/nomination-campaign-ideas-to-celebrate-employees-all-year",
-    "sourceType": "secondary",
-    "relation": "peer,supervisor,exec",
-    "summary": "分受众提名战役：同级+经理+领导层全覆盖"
-  },
-  {
-    "title": "校园开放日·与学长面对面交流区",
-    "normKey": "校园开放日与学长面对面交流区",
-    "url": "https://www.renrendoc.com/paper/522814826.html",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "学生代表与访客自由交流分享经验，弱化官方感、增强真实感"
-  },
-  {
-    "title": "高校开放日学生接待全攻略",
-    "normKey": "高校开放日学生接待全攻略",
-    "url": "https://www.worlduc.com/gaokaodongtai/167294.html",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "在校生接待实操：活地图+自我介绍话术+按访客身份规划动线"
-  },
-  {
-    "title": "员工志愿者/大使机制",
-    "normKey": "员工志愿者大使机制",
-    "url": "https://ciowomenmagazine.com/successful-open-day-for-your-business",
-    "sourceType": "secondary",
-    "relation": "peer",
-    "summary": "员工以平级身份做开放日向导/大使，提前澄清工作量只让愿意者参与"
-  },
-  {
-    "title": "高校开放日高效组织法",
-    "normKey": "高校开放日高效组织法",
-    "url": "https://www.emundus.fr/zh-cn/ressources/blog/comment-organiser-une-journee-portes-ouvertes-efficace-pour-des-etudiants-de-grandes-ecoles-ou-universites",
-    "sourceType": "secondary",
-    "relation": "peer,supervisor",
-    "summary": "目标×受众绑定+提前4-6月定周六+总协调团队+个性化导览+混合模式"
-  },
-  {
-    "title": "企业开放日娱乐创意",
-    "normKey": "企业开放日娱乐创意",
-    "url": "https://www.luxbooth.lu/en/ideas-activities-open-day-company",
-    "sourceType": "secondary",
-    "relation": "peer,supervisor",
-    "summary": "寻宝/密室/拍照亭/DIY工坊，按受众选活动（专业vs家庭）"
   },
   {
     "title": "员工家庭日策划（亲子运动会/DIY）",
