@@ -198,5 +198,117 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "综合多家官方回顾提炼：沉浸式参访+高管座谈+透明沟通+价值叙事"
+  },
+  {
+    "title": "CEO下午茶·大湾区定向邀约私密圆桌",
+    "normKey": "ceo下午茶大湾区定向邀约私密圆桌",
+    "url": "https://www.igarment.net/news_detail/5880",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "仅限决策层(CEO/总经理/厂长)15-20席定向邀约+私密圆桌，四城联动四大行业主题，高端私密+实战+深度链接"
+  },
+  {
+    "title": "伯乐私董会·高管闭门圆桌案主制",
+    "normKey": "伯乐私董会高管闭门圆桌案主制",
+    "url": "http://www.m1page.com/s/fkg7s7",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "定向邀约仅对CHO/CXO开放，8-10人同频；案主制+教练式问话剥开表象+茶歇+行动计划"
+  },
+  {
+    "title": "道成珠江经营下午茶·1V1问诊框架",
+    "normKey": "道成珠江经营下午茶1v1问诊框架",
+    "url": "https://www.sohu.com/a/1030593224_386866",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "生意五要素统一框架+1V1深度问诊+产业链/价值链双轴拆解+数据化经营治理四步闭环"
+  },
+  {
+    "title": "天马汇总裁下午茶·董事长圆桌+案主制",
+    "normKey": "天马汇总裁下午茶董事长圆桌案主制",
+    "url": "https://m.dutenews.com/n/article/10205478",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "董事长级三要素破冰+选案主集中攻坚人才议题+茶歇资源对接，产业资源精准链接"
+  },
+  {
+    "title": "金茶花总经理下午茶·行业跨界对话",
+    "normKey": "金茶花总经理下午茶行业跨界对话",
+    "url": "https://chongqing.163.com/26/0415/10/KQI30FKA042199EF.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "政府指导高星酒店×民宿跨界，多视角专题+圆桌会谈+产业链赋能+私宴，连办15期成平台"
+  },
+  {
+    "title": "浙商董事长圆桌闭门恳谈·政产学研金",
+    "normKey": "浙商董事长圆桌闭门恳谈政产学研金",
+    "url": "https://www.zjcxy.org.cn/nd.jsp?fromColId=2&id=1403",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "主办方官网一手：50余位实控人/科学家/投资家/政府领导，技术/资本/产业/生态四大维度闭门对话"
+  },
+  {
+    "title": "工会主席下午茶·一对一茶叙民主管理",
+    "normKey": "工会主席下午茶一对一茶叙民主管理",
+    "url": "https://www.sohu.com/a/969150468_257321",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "月频一对一茶叙(无会议桌)，一线骨干敞开心扉谈瓶颈，议题深化到业务创新+人才盘点"
+  },
+  {
+    "title": "总经理茶话会·抽非经理级+闭环回访",
+    "normKey": "总经理茶话会抽非经理级闭环回访",
+    "url": "https://www.taicang.gov.cn/taicang/uploadfile/c3097050-fe24-4947-b623-a187654f954d/苏州现代货箱码头总经理茶话会.docx",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "每2月抽10名非经理级员工(避压制)，1-1.5h畅谈，会后HR汇总+行动计划+回访确认闭环"
+  },
+  {
+    "title": "职工茶话会闭环机制·即听即记事事有回音",
+    "normKey": "职工茶话会闭环机制即听即记事事有回音",
+    "url": "https://www.fjsen.com/r/2025-09/17/content_32041823.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "茶点围坐无需顾虑职级，即听即记+闭环落实(现场拍板/督办清单/明责任人时限公示)，防形式主义"
+  },
+  {
+    "title": "Skip-level 跳级倾听会·完整指南+频率表",
+    "normKey": "skip-level跳级倾听会完整指南频率表",
+    "url": "https://teamflect.com/blog/hr-basics/the-complete-guide-to-skip-level-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "员工与经理的经理对话，含按组织规模频率矩阵(月/季/轮转/抽样)+70%听+会后聚合主题反馈中层"
+  },
+  {
+    "title": "SHRM：Skip-level 怎么做·权威口径",
+    "normKey": "shrm skip-level怎么做权威口径",
+    "url": "https://www.shrm.org/in/topics-tools/news/organizational-employee-development/preparing-skip-level-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "SHRM权威：移除直接领导保公平，常态化而非危机响应，问了必回应或解释，对中层透明"
+  },
+  {
+    "title": "Skip-level 先 brief 中层+问题集",
+    "normKey": "skip-level先brief中层问题集",
+    "url": "https://blog.pop.work/how-to-run-a-skip-level-meeting-and-what-to-ask",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "先同步直接经理(防震荡)不可协商，设预期消顾虑，对话非审问，给下一步并兑现，附开放式问题集"
+  },
+  {
+    "title": "世界咖啡馆圆桌恳谈·无主席台观点流动",
+    "normKey": "世界咖啡馆圆桌恳谈无主席台观点流动",
+    "url": "https://new.qq.com/rain/a/20260618A063FX00?refer=cp_1009",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "撤主席台改圆桌，管理者与一线同组；桌长引导+组员轮换让观点流动，一线从被服务者变共创造者"
+  },
+  {
+    "title": "管理者咖啡聊天15分钟信任框架",
+    "normKey": "管理者咖啡聊天15分钟信任框架",
+    "url": "https://www.random-coffee.com/blog/manager-coffee-chats-build-trust",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "四段式(认可/倾听/对齐/承诺)必以可兑现行动收尾；跨团队数据归属感+45%离职-50%协作+38%"
   }
 ]

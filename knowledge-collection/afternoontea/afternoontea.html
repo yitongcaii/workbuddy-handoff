@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>下午茶研讨 · 知识采集卡片墙</title>
+<style>
+:root{
+  --bg:#f4f6fb; --card:#ffffff; --ink:#1f2430; --sub:#5b6478;
+  --accent:#6c5ce7; --accent2:#00b8d9; --chip:#eef0ff;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}
+.wrap{max-width:1080px;margin:0 auto;}
+.hero{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:30px 32px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}
+.hero h1{font-size:28px;font-weight:800;letter-spacing:1px;margin-bottom:8px;}
+.hero p{font-size:14px;opacity:.95;}
+.relbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;}
+.relbar span{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}
+.sec{margin:30px 0 12px;display:flex;align-items:center;gap:10px;}
+.sec h2{font-size:19px;font-weight:800;}
+.sec .tag{font-size:12px;padding:4px 12px;border-radius:12px;font-weight:700;}
+.sec3 .tag{background:#f3e8ff;color:#7b2cbf;} .sec3 h2{color:#7b2cbf;}
+.sec2 .tag{background:#fff3e0;color:#c0651a;} .sec2 h2{color:#c0651a;}
+.sec1 .tag{background:#eaf2ff;color:#2b6cb0;} .sec1 h2{color:#2b6cb0;}
+.sec .desc{font-size:12.5px;color:var(--sub);margin-left:2px;}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.hl{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.emoji{font-size:22px;}
+.hl h3{font-size:16px;font-weight:700;flex:1;min-width:120px;}
+.cat{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}
+.badge{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}
+.b2{background:#fff1e6;color:#c0651a;}
+.b1{background:#e6f9ed;color:#1a9e5a;}
+.r1{background:#eaf2ff;color:#2b6cb0;}
+.r2{background:#fff3e0;color:#c0651a;}
+.r3{background:#f3e8ff;color:#7b2cbf;}
+.val{font-size:13.5px;color:var(--sub);}
+.exec{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}
+.exec summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}
+.exec .inner{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}
+.src{font-size:12px;word-break:break-all;}
+.src a{color:var(--accent2);text-decoration:none;}
+.note{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}
+@media(max-width:680px){.grid{grid-template-columns:1fr;}}
+footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <h1>🍵 下午茶研讨 · 知识采集卡片墙</h1>
+    <p>采集于 2026-08-06 ｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）</p>
+    <div class="relbar">
+      <span>② 领导↔员工（上下级，supervisor）</span>
+      <span>③ 领导↔领导（高管间，exec）</span>
+    </div>
+  </div>
+
+  <!-- ============ ③ 高管间 ============ -->
+  <div class="sec sec3">
+    <h2>③ 领导↔领导（高管间 · exec）</h2>
+    <span class="tag">6 卡</span>
+    <span class="desc">商务化、以专业/共同目标切入，避免幼稚游戏；含定向邀约闭门圆桌、案主制私董会、产业链跨界对话</span>
+  </div>
+  <div class="grid">
+
+    <div class="hl">
+      <div class="top"><span class="emoji">☕</span><h3>CEO下午茶·大湾区定向邀约私密圆桌</h3><span class="cat">闭门圆桌</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">大湾区服装业 CEO 下午茶系列：仅限企业决策层（CEO/总经理/厂长），每场 15-20 席、定向邀约 + 高端私密圆桌对话；四城联动（深圳/广州/东莞/香港）围绕精益管理、外贸破局、降本增效、全球化品牌四大主题；核心亮点 = 高端私密 + 实战为王 + 深度链接 + 精准覆盖。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">定向邀约制锁定决策层；小范围圆桌（15-20 人）确保深度；每场一个明确行业痛点主题；嘉宾引导 + 资源对接收尾。</div></details>
+      <div class="src">🔗 <a href="https://www.igarment.net/news_detail/5880" target="_blank">igarment.net/news_detail/5880</a></div>
+      <div class="note">适用：③ 高管圈层私密研讨，强调「同频对等、实战落地」，可作内部高管下午茶对外版参考。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🔒</span><h3>伯乐私董会·高管闭门圆桌案主制</h3><span class="cat">私董会</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">高管圈内闭门圆桌会（定向邀约，仅对 CHO/CXO/HR VP 等高管开放），每期 8-10 人、同发展阶段确保同频；标准流程 = 签到→开场→选案主→澄清问题（教练式问话层层剥开表象）→茶歇→头脑风暴解方案→案主反馈 + 行动计划→合影；往届议题聚焦 HR 影响老板、组织效能、业务协同。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">定向邀约保证对等；选真实管理难题作「案主」；主持人用教练式提问去伪存真；产出具体行动计划并回访。</div></details>
+      <div class="src">🔗 <a href="http://www.m1page.com/s/fkg7s7" target="_blank">m1page.com/s/fkg7s7</a></div>
+      <div class="note">适用：③ 高管同侪互助解题，案主制 + 教练式问话是核心方法论。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🧩</span><h3>道成珠江经营下午茶·1V1问诊框架</h3><span class="cat">经营问诊</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">道成咨询主办「珠江经营下午茶」精品闭门研讨会，定向邀约企业家；创始人以「生意剖析五要素」（客户/产品/提供方式/解决问题/价值）为起点，逐家 1V1 深度问诊，用「产业链纵向延伸 + 价值链横向切割」框架破解个性化困局；回归「小组织自主经营 + 经营会计数据化治理」四步闭环。近 4 小时刀刃向内解剖。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">设「生意五要素」统一框架；1V1 问诊替代泛泛分享；用产业链/价值链双轴拆解；落到数据化经营分析会。</div></details>
+      <div class="src">🔗 <a href="https://www.sohu.com/a/1030593224_386866" target="_blank">sohu.com/a/1030593224_386866</a></div>
+      <div class="note">适用：③ 企业家/业务一号位闭门经营复盘，框架化问诊强（主办方复盘）。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>天马汇总裁下午茶·董事长圆桌+案主制</h3><span class="cat">总裁圆桌</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">深圳天安运营主办「天马汇」总裁下午茶，聚焦电子行业决策者；十余位董事长齐聚，「三要素破冰」拉近距离→提出与选定案主→深度提问建议（多轮剖析人才招聘与留人痛点）→茶歇自由对接；促成高端产业资源精准链接，多家现场达成初步对接。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">主持人引导破冰亮「王牌」；选真实痛点案主集中攻坚；茶歇延续讨论促资源对接；固定品牌持续办。</div></details>
+      <div class="src">🔗 <a href="https://m.dutenews.com/n/article/10205478" target="_blank">dutenews.com/n/article/10205478</a></div>
+      <div class="note">适用：③ 董事长/总裁级产业资源对接，案主制 + 茶歇社交双引擎。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🌺</span><h3>金茶花总经理下午茶·行业跨界对话</h3><span class="cat">行业跨界</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">重庆商务委指导第 15 期「金茶花总经理下午茶」，高星酒店 × 精品民宿跨界对话；多视角专题分享（在地文化转译/设计美学/体系化管理）+ 圆桌会谈（差异化服务标准）+ 产业链赋能（资产配置/餐饮 IP）+ 私宴深化合作；已连办 15 期，构建行业交流 + 传媒矩阵 + 西部联动平台。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">政府/协会背书提规格；设多视角专题 + 圆桌双环节；产业链头部企业赋能收尾；私宴承接深度社交。</div></details>
+      <div class="src">🔗 <a href="https://chongqing.163.com/26/0415/10/KQI30FKA042199EF.html" target="_blank">chongqing.163.com/26/0415/10/KQI30FKA042199EF.html</a></div>
+      <div class="note">适用：③ 行业跨界高管对话，连续举办形成平台势能。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🏛️</span><h3>浙商董事长圆桌闭门恳谈·政产学研金</h3><span class="cat">闭门恳谈</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
+      <p class="val">浙江省产学研合作促进会主办「钱江潮」浙商上市公司董事长圆桌会暨政产学研金闭门恳谈，50 余位实控人/科学家/投资家/政府领导；围绕技术洞见、资本路径、产业实践、生态共建四大维度深度对话；设三大圆桌（前瞻技术/高质量发展/产业实践），聘研究员、促合作落地，打造高端资本生态平台。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">政产学研金多方同框破壁垒；设明确四大议题维度；圆桌分主题深挖；现场聘任 + 合作意向闭环。</div></details>
+      <div class="src">🔗 <a href="https://www.zjcxy.org.cn/nd.jsp?fromColId=2&amp;id=1403" target="_blank">zjcxy.org.cn/nd.jsp?fromColId=2&amp;id=1403</a></div>
+      <div class="note">适用：③ 董事长级政产学研闭门对话，主办方官网一手源。</div>
+    </div>
+
+  </div>
+
+  <!-- ============ ② 上下级 ============ -->
+  <div class="sec sec2">
+    <h2>② 领导↔员工（上下级 · supervisor）</h2>
+    <span class="tag">8 卡</span>
+    <span class="desc">尊重、不隐私暴露、建信任不越界；含一对一茶叙、抽样茶话会、Skip-level 跳级倾听、世界咖啡馆圆桌</span>
+  </div>
+  <div class="grid">
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🍵</span><h3>工会主席下午茶·一对一茶叙民主管理</h3><span class="cat">一对一茶叙</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">浙江东方金控工会主席常态化「工会主席下午茶」：每月第二周周五，工会主席与职工代表一对一、面对面茶叙（无会议桌、无层层汇报），让年轻一线骨干敞开心扉谈职业瓶颈与建议；议题从工会活动深化到业务创新、部门协同；半年推动人才盘点、优化晋升机制。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">固定月频 + 谈心室舒适环境；一对一（非群体）降防御；记录真实声音→转人才盘点/机制优化；工会角色从「发福利」升级为「发展助推器」。</div></details>
+      <div class="src">🔗 <a href="https://www.sohu.com/a/969150468_257321" target="_blank">sohu.com/a/969150468_257321</a></div>
+      <div class="note">适用：② 管理层与一线一对一倾听，民主管理场景。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🎫</span><h3>总经理茶话会·抽非经理级+闭环回访</h3><span class="cat">抽样茶话会</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">苏州现代货箱码头「总经理茶话会」：每 2 月一次，HR 从各部门/职级随机抽 10 名非经理级员工（服务满 1 年，避经理在场压制），1-1.5h 茶水点心轻松畅谈，请总经理解答任何问题；会后 HR 汇总问题、联动部门定行动计划 + 完成期限，完成后向总经理汇报并回访提出者确认解决。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">分层抽样非经理级（防顾虑）；设明确时限行动计划；总经理汇报 + 回访提出者闭环。</div></details>
+      <div class="src">🔗 <a href="https://www.taicang.gov.cn/taicang/uploadfile/c3097050-fe24-4947-b623-a187654f954d/%E8%8B%8F%E5%B7%9E%E7%8E%B0%E4%BB%A3%E8%B4%A7%E7%AE%B1%E7%A0%81%E5%A4%B4%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%9C%89%E4%B8%AA.docx" target="_blank">taicang.gov.cn/.../苏州现代货箱码头总经理茶话会.docx</a></div>
+      <div class="note">适用：② 总经办与基层直接对话，随机抽样 + 回访闭环是亮点。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🔁</span><h3>职工茶话会闭环机制·即听即记事事有回音</h3><span class="cat">闭环机制</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">工人日报评论提炼茶话会「用心听、用情办」真经：区别于传统会议严肃压抑，桌上茶点围坐、无需顾虑职级；「即听即记」务实态度（打印机次日修、洗衣机一周换）；以「闭环落实」机制杜绝空谈——现场能解即刻响应，跨部门明责任人与时限并公示进展，每项诉求全流程跟进，做到「事事有回音」。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">即听即记不拖延；现场拍板 + 督办清单；跨部门明责任人/时限并公示；避免「拍照即止」流于形式。</div></details>
+      <div class="src">🔗 <a href="https://www.fjsen.com/r/2025-09/17/content_32041823.htm" target="_blank">fjsen.com/r/2025-09/17/content_32041823.htm</a></div>
+      <div class="note">适用：② 茶话会防形式主义的闭环方法论（评论级提炼）。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">⚡</span><h3>Skip-level 跳级倾听会·完整指南+频率表</h3><span class="cat">Skip-level</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">跳级会议（员工与「经理的经理」对话，跳过直接上级）完整指南：目的 = 建信任、收集未过滤反馈、提升敬业度（被倾听者绩效最佳概率 4.6×）；非正式 + 保密 + 季度/半年频；给出按组织规模的频率矩阵（小=月/中=季/大=季轮转/企业=半年抽样）；最佳实操 = 温暖开场 + 保密承诺 + 70% 听 30% 说 + 会后聚合主题反馈直接经理。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">非正式开场明确「非绩效评审」；保密承诺（只报主题不点名）；70% 听；会后给中层经理聚合反馈（不泄露个人）。</div></details>
+      <div class="src">🔗 <a href="https://teamflect.com/blog/hr-basics/the-complete-guide-to-skip-level-meetings" target="_blank">teamflect.com/.../the-complete-guide-to-skip-level-meetings</a></div>
+      <div class="note">适用：② 中高层跳过直接下属倾听一线，含频率矩阵可落地。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🛡️</span><h3>SHRM：Skip-level 怎么做·权威口径</h3><span class="cat">Skip-level</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">SHRM（权威 HR 机构）谈 skip-level 准备：资深领导直接对话 individual contributors，需先移除团队/组领导以公平客观；强调「别只在出问题或敬业度调查差时才做」——常态化才真诚；提醒「别把员工建议扫到地毯下」，问了就得行动或解释为何不可行；对直接上级透明以维护信任。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">提前告知直接上级并说明目的；常态化而非危机响应；问了必回应（行动或解释）；对中层透明。</div></details>
+      <div class="src">🔗 <a href="https://www.shrm.org/in/topics-tools/news/organizational-employee-development/preparing-skip-level-meeting" target="_blank">shrm.org/.../preparing-skip-level-meeting</a></div>
+      <div class="note">适用：② 高管 skip-level 倾听，SHRM 权威口径。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">📝</span><h3>Skip-level 先 brief 中层+问题集</h3><span class="cat">Skip-level</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Skip-level 实操五步中的关键原则：第一步「先 brief 直接经理」不可协商（避免焦虑/破坏信任）；邀约时明确「非评审、安全空间、常规倾听」消疑虑；对话非审问（30-45min，领导者先分享脆弱再听）；收尾给清晰下一步（「这对话很重要」并真跟进）；附按主题分组的开放式提问清单（团队动态/流程改进/职业发展/资源需求）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">先同步直接经理（基调=领导力实践非调查）；设预期消顾虑；对话式非审问；给下一步并兑现；用开放式问题清单。</div></details>
+      <div class="src">🔗 <a href="https://blog.pop.work/how-to-run-a-skip-level-meeting-and-what-to-ask" target="_blank">blog.pop.work/how-to-run-a-skip-level-meeting-and-what-to-ask</a></div>
+      <div class="note">适用：② skip-level 执行细节，尤其「先保护中层经理」防组织震荡。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">🔄</span><h3>世界咖啡馆圆桌恳谈·无主席台观点流动</h3><span class="cat">世界咖啡</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">「新」声会客厅用世界咖啡馆法开恳谈会：彻底打破「台上讲台下听」，4 张圆桌无主席台、管理者与一线同组围坐；每桌社工任「桌长」引导记录，讨论过半桌长留原地、组员轮换到他桌——上一桌观点带到下一桌交叉深化；让一线从「被服务者」变「共创造者」，真协商而非走过场。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">撤主席台改圆桌；每桌设桌长引导 + 记录；「桌长留、组员流动」让观点流动；管理者同组倾听追问。</div></details>
+      <div class="src">🔗 <a href="https://new.qq.com/rain/a/20260618A063FX00?refer=cp_1009" target="_blank">new.qq.com/rain/a/20260618A063FX00</a></div>
+      <div class="note">适用：② 管理层与一线/多元群体平等对话，世界咖啡馆法是核心机制（可迁移内部）。</div>
+    </div>
+
+    <div class="hl">
+      <div class="top"><span class="emoji">⏱️</span><h3>管理者咖啡聊天15分钟信任框架</h3><span class="cat">信任框架</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">管理者咖啡聊天可复制框架：15 分钟四段——0-2 认可(具体欣赏)/2-7 他们的世界(开放式问工作关系能量,多听)/7-12 优先级与成长(对齐重点+移除障碍)/12-15 以可兑现承诺收尾；核心「信任靠做完承诺建立非靠聊」。附跨团队咖啡数据：归属感 +45%、自愿离职 -50%、跨团队协作 +38%、新人产出周期 -30%。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">四段式节奏（认可→倾听→对齐→承诺）；必以可兑现的 1 个行动收尾；扩展跨团队/跨层级随机配对打破孤岛；远程用虚拟咖啡。</div></details>
+      <div class="src">🔗 <a href="https://www.random-coffee.com/blog/manager-coffee-chats-build-trust" target="_blank">random-coffee.com/blog/manager-coffee-chats-build-trust</a></div>
+      <div class="note">适用：② 经理与下属/跨团队轻量信任建设，数据驱动说服力强。</div>
+    </div>
+
+  </div>
+
+  <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body>
+</html>
