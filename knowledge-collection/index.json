@@ -310,221 +310,333 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "四段式(认可/倾听/对齐/承诺)必以可兑现行动收尾；跨团队数据归属感+45%离职-50%协作+38%"
-  }
-  ,{
+  },
+  {
     "title": "员工大会·议程与执行方案（领导致辞+战略展望+表彰）",
     "normKey": "员工大会议程与执行方案领导致辞战略展望表彰",
     "url": "https://m.renrendoc.com/paper/528738552.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "议程两维：会前暖场+核心30-45min领导致辞(运营回顾/形势/战略/号召)+40-60min总结表彰"
-  }
-  ,{
+  },
+  {
     "title": "公司员工大会流程详解·互动答疑+会后闭环",
     "normKey": "公司员工大会流程详解互动答疑会后闭环",
     "url": "https://wap.jiandaoyun.com/nblog/67475/",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "完整示例议程+线上问卷满意度+24h纪要(决策/待办/责任人)+协同提醒追踪"
-  }
-  ,{
+  },
+  {
     "title": "公司员工大会组织流程·主题公式+分工落地",
     "normKey": "公司员工大会组织流程主题公式分工落地",
     "url": "https://m.renrendoc.com/paper/457098210.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "主题'关键词+行动'；3h议程框架；预算预留10-15%弹性；六组责任到人"
-  }
-  ,{
+  },
+  {
     "title": "All-Hands Meeting Guide（Slack）·参与设计",
     "normKey": "all hands meeting guide slack参与设计",
     "url": "https://slack.com/intl/pt-br/blog/collaboration/what-is-an-all-hands-meeting-a-guide-to-company-wide-alignment",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "会前24-48h发议程+轮换发言人+live Q&A/polls/chat+会后takeaways"
-  }
-  ,{
+  },
+  {
     "title": "All-Hands Q&A Best Practices（Lattice）·答疑与心理安全",
     "normKey": "all hands qa best practices lattice答疑心理安全",
     "url": "https://lattice.com/library/how-to-run-effective-all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "会前征题+主持人+现场投票+心理安全感+R.E.A.C.T.+留存记录"
-  }
-  ,{
+  },
+  {
     "title": "社員総会企画コンテンツ（vcube）·含経営層对话session",
     "normKey": "社员总会使划content vcube经营层对话session",
     "url": "https://jp.vcube.com/eventdx/blog/general-employee-meeting-planning-ideas",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "経営方針発表+表彰MVP+社長役員对话(匿名質問Slido)+部門成果LT"
-  }
-  ,{
+  },
+  {
     "title": "Company Townhall 脚本模板（ajobthing）",
     "normKey": "company townhall脚本模板ajobthing",
     "url": "https://www.ajobthing.com/resources/blog/company-townhall-conduct-how-what-need-to-say",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "标准45-60min逐段脚本+CEO视觉化更新+会前匿名问题+散会summary"
-  }
-  ,{
+  },
+  {
     "title": "Ultimate Guide to All-Hands（ExpertBeacon）·议程六段解剖",
     "normKey": "ultimate guide to all hands expertbeacon议程六段解剖",
     "url": "https://expertbeacon.com/the-ultimate-guide-to-running-highly-effective-all-hands-meetings/",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "Opening/业务/部门/表彰/互动/展望六段；深耕少数认可；必含互动段"
-  }
-  ,{
+  },
+  {
     "title": "CEO 沟通→有意义员工参与（福布斯教练委员会）",
     "normKey": "ceo沟通有意义员工参与福布斯教练委员会",
     "url": "https://forbes-forbescom-live.non-prod.zephrcf.com/councils/forbescoachescouncil/2026/02/26/how-to-turn-ceo-communications-into-meaningful-employee-engagement",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "从广播到共创意义：authenticity/so what/sense-making/个人stakes"
-  }
-  ,{
+  },
+  {
     "title": "Town Hall That Inspires（CEO 议程模板·BHAG/3HAG）",
     "normKey": "town hall that inspires ceo议程模板bhag 3hag",
     "url": "https://www.incrementa.ca/how-to-run-a-town-hall-meeting-that-inspires-your-team",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "CEO镇会模板：六大关键问→传达；BHAG/3HAG/年度目标；<30min+实时+必含Q&A"
-  }
-  ,{
+  },
+  {
     "title": "CEOs Transform Town Hall（数据变故事·KP Strategies）",
     "normKey": "ceos transform town hall数据变故事kp strategies",
     "url": "https://www.kpstrategies.net/blog/setting-the-tone-for-q2-and-beyond-how-ceos-can-transform-town-hall-meetings",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "四招：数据变故事/会前介入/做互动/CEO放手领导"
-  }
-  ,{
+  },
+  {
     "title": "All-Hands Best Practices（RingCentral）·战略沟通支柱",
     "normKey": "all hands best practices ringcentral战略沟通支柱",
     "url": "https://www.ringcentral.com/us/en/blog/all-hands-meeting/",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "5理由(transparency/alignment/culture/celebrate/inspire)+节奏(周/月/季)+format+60min"
-  }
-  ,{
+  },
+  {
     "title": "Leadership Team Offsite 议程模板库",
     "normKey": "leadership team offsite议程模板库",
     "url": "https://georgedupontleadership.com/leadership-team-offsite-planning-guide-and-agenda-ideas",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "1/2/3天议程模板；每session必映射发散或收敛单一模式(混用是常见失败)；时间比60%决策/30%关系/10%更新；单节≤90min；含20个分组session(pre-mortem/BHAG压力测试/工作风格地图/OKR评分/RACI重建)"
-  }
-  ,{
+  },
+  {
     "title": "战略领导力 Offsite 议程设计法",
     "normKey": "战略领导力offsite议程设计法",
     "url": "https://eblingroup.com/blog/develop-a-strategic-leadership-offsite-agenda",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "会前1月对每位参与者20-30min结构化访谈做模式分析出草案；与C级主官定稿；提前7-10天发议程；顶部列3-5目标；软开场+留白(一天≤2-3深话题)+结尾30min收获/欣赏/下一步；下午3点前散场"
-  }
-  ,{
+  },
+  {
     "title": "Off-sites That Work（HBR 经典）",
     "normKey": "off sites that work hbr经典",
     "url": "https://www.thecasecentre.org/products/view?id=69070",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "Frisch&Chandler HBR：务虚会失败根因是缺乏结构；会前严设范围/名单/材料/议程四件套，会中框架化引导，会后行动计绑定问责；金句——每年4天认真设计战略对话远比4天漂流更能改变公司"
-  }
-  ,{
+  },
+  {
     "title": "6 招让 Offsite 不白开",
     "normKey": "6招让offsite不白开",
     "url": "https://en.git.ir/article/hbr-6-tips-for-running-offsites-that-arent-a-waste-of-time",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "HBR口径：用『如果结束时我们___就满意』锚定成功；名单按目标精选关键少数；会前定衡量方式；会后建跟进让成果stick(对业务持续影响)"
-  }
-  ,{
+  },
+  {
     "title": "高管团队 Offsite 21 条实操",
     "normKey": "高管团队offsite21条实操",
     "url": "https://www.consultclarity.org/post/executive-team-offsites",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "活动贴合不打扰深化信任；小组拆解放大发言；决策即落owner+期限；规划会后cascade沟通传下一层与全员；月/季复盘节奏固化势能；把offsite当持续进化系统"
-  }
-  ,{
+  },
+  {
     "title": "设计「能落地」的领导力 Offsite",
     "normKey": "设计能落地的领导力offsite",
     "url": "http://leadershipmoxie.com/blog/designing-leadership-offsites-that-stick",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "目的驱动定结构(战略对齐SOAR/文化Values in Action/信任修复Clearing Conversations)；Fishbowl/World Café/Story Swap替代演讲；每段Action Canvas；结尾仪式(Commitment Circle/致未来信)；30天复盘"
-  }
-  ,{
+  },
+  {
     "title": "高效且安全闭门会议组织指南",
     "normKey": "高效且安全闭门会议组织指南",
     "url": "https://tsight.io/articles/18389997",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "目标SMART书面前置；参会精简只邀必要者；物理+信息双安全(禁录/加密/门禁)；议程结构化时间分配；主动警惕信息茧房与认知偏差保决策客观"
-  }
-  ,{
+  },
+  {
     "title": "高效团队 Offsite 白皮书",
     "normKey": "高效团队offsite白皮书",
     "url": "https://treetrunk.ch/wp-content/uploads/2024/10/Tree-Trunk_Whitepaper_Tips-for-Effective-Team-Offsite-Meetings_by-David-Patrick.pdf",
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "offsite核心=团队抽离日常为未来规划；早定日期/场地/引导师三件套；会前匿名调研让异议安全浮现；邀客户或上级给外部视角；SWOT/波特五力/BCG对齐优先级"
-  }
-  ,{
+  },
+  {
     "title": "行动学习工作坊·问题共诊→方案落地",
     "normKey": "行动学习工作坊问题共诊方案落地",
     "url": "https://m.qg68.cn/neixun/detail/227073.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "真课题为素材走共诊→共创→共担三段式；逻辑树/5Why/鱼骨图挖根因；收益-难度矩阵收敛；城镇会议跨组质询；训后小组不解散持续复盘落地"
-  }
-  ,{
+  },
+  {
     "title": "行动学习项目工作坊·方法菜单",
     "normKey": "行动学习项目工作坊方法菜单",
     "url": "http://www.333ce.cn/nxcourse/course_2304.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "中高层/基层/骨干可用工具箱：欣赏式探寻4D/深度汇谈ORID/群策群力WORKOUT/世界咖啡/开放空间/团队共创；视觉引导+情境呈现+团队教练把讨论变决策"
-  }
-  ,{
+  },
+  {
     "title": "群策群力团队催化能力提升",
     "normKey": "群策群力团队催化能力提升",
     "url": "http://szhanray.com/index.php?c=msg&id=1358",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "GE群策群力溯源；四大核心价值=建立团队信任/赋予员工权力/鼓励创新/激发执行；三阶段(规划/催化/落地)；六步法(愿景/SWOT/承诺/关键行动/城镇会议/复盘)；把指令管理转承诺管理"
-  }
-  ,{
+  },
+  {
     "title": "管理者的复盘思维工作坊",
     "normKey": "管理者的复盘思维工作坊",
     "url": "https://m.qg68.cn/neixun/detail/227096.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "中层三维复盘(管理自己/问题/团队)；第一天沙盘造共同体验，第二天ORID/5Why/SCOA闭环；带走真实痛点行动计划；把甩锅会转真进化"
-  }
-  ,{
+  },
+  {
     "title": "公司员工团建拓展策划方案",
     "normKey": "公司员工团建拓展策划方案",
     "url": "https://www.renrendoc.com/paper/531327758.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "体验-反思-分享-应用循环；角色互换模拟决策破单一思维；跨职能高压协作验边界；动态复盘转长期默契；领导力模块专设中高层(领袖风采/孤岛求生)"
-  }
-  ,{
+  },
+  {
     "title": "管理层参与团建项目选型",
     "normKey": "管理层参与团建项目选型",
     "url": "https://www.lanmatj.com/news_detail/1331225849769529344.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "8类适配管理层与团队共建：战略模拟/户外拓展(信任背摔按承受力规划)/创意工作坊/团队竞赛/公益/文化体验/领导力培训/团队旅行；强调管理层以引领者非玩伴姿态参与"
-  }
-  ,{
+  },
+  {
     "title": "团队凝聚力魔鬼训练营（中高层）",
     "normKey": "团队凝聚力魔鬼训练营中高层",
     "url": "https://www.huishi365.com/icourse_detail/39.html",
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "2天体验式(高层/中层)；六大价值观信任/负责任/选择/承诺/双赢/关爱；信任倒建归属、领袖风采培养担当、向内发掘盲点迁善心态；去游戏化重担当适配上下级"
+  },
+  {
+    "title": "走上管理岗·破冰对话「知彼解己」交换使用说明书",
+    "normKey": "走上管理岗破冰对话知彼解己交换使用说明书",
+    "url": "https://www.toutiao.com/article/7634449950940381746",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新任管理者上任做平等使用说明书交换：30-45min一对一三问(工作/最需支持/想改什么)+坦诚分享管理说明书(习惯/底线/支持条件)；双向凝视公开肯定顶雷者锻造威信"
+  },
+  {
+    "title": "接手新团队·空降主管快速获团队信任（建功+立信）",
+    "normKey": "接手新团队空降主管快速获团队信任建功立信",
+    "url": "https://www.timingasia.com/new-manager-team-trust-building/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "空降主管两大行为：建功(先施后受,用跨区资源帮业务加速让团队依赖)+立信(到任逐人1对1聊擅长/不满/想改,不涉隐私)；三原则不轻易改资源/积极协助/主动深聊"
+  },
+  {
+    "title": "新人店长没人服？先做「3天观察法」再决策",
+    "normKey": "新人店长没人服3天观察法再决策",
+    "url": "https://www.yuangongpeixun.com/news/451.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新管理者先做观察者再做决策者：第1天跟岗只记录/第2天找3类人聊15min/第3天开倾听会替动员会；从解决员工天天吐槽的小事快速建信任"
+  },
+  {
+    "title": "新晋经理人破局·信任破局「3步公式」",
+    "normKey": "新晋经理人破局信任破局3步公式",
+    "url": "http://www.mingketang.com/nxk/47539.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新晋经理人实战营：快速建信任3步公式=暴露脆弱+正向反馈+共同目标；专设新经理与老下属破冰演练；避坑摆架子/一刀切/只批评不认可；配套信任行动清单"
+  },
+  {
+    "title": "中高层团队赋能与战略共识工作坊·优势接龙破冰",
+    "normKey": "中高层团队赋能与战略共识工作坊优势接龙破冰",
+    "url": "https://m.qg68.cn/neixun/detail/217311.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "中高层工作坊认知破界到战略共识闭环；破冰段优势接龙(每人1关键词管理优势接力)+深度测评+反馈对话(1优点+1改进识盲区)+思维拼图理解差异即互补资源"
+  },
+  {
+    "title": "管理者领导力共识工作坊·破冰启航构建安全场域",
+    "normKey": "管理者领导力共识工作坊破冰启航构建安全场域",
+    "url": "https://m.consulting-china.cn/traning/91847.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "创始人/核心高管+中层；破冰启航=视觉卡片现状墙+信任漫步(跨层级两两配对结构化散步)+我们的大厦蓝图+公约全员表决；收官公众承诺仪式+跨部门学习小组长效机制"
+  },
+  {
+    "title": "破冰·共生：代际领导力全景实战工作坊",
+    "normKey": "破冰共生代际领导力全景实战工作坊",
+    "url": "https://thpx.cn/lingdaolikecheng/13174.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中层管理者；画像与猜想破冰描绘代际特征+对比传统一代到Z世代权威/工作/沟通观；实战混合议程+发言权杖+异议框架+动机可视化意愿投标+模块化人岗匹配"
+  },
+  {
+    "title": "如何破除「上下级的信任障碍」·4条建议",
+    "normKey": "如何破除上下级的信任障碍4条建议",
+    "url": "https://www.shangyexinzhi.com/article/30486006.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "高信任→高敬业→高绩效；领导者4条：定期信任评估收心声/决策公开透明告知原由/搭建开放对话渠道/投入领导力培养；构建高信任-高协同-高绩效循环"
+  },
+  {
+    "title": "团队难带？处好与下级关系的4个高招",
+    "normKey": "团队难带处好与下级关系的4个高招",
+    "url": "https://www.toutiao.com/article/7649312884073234984",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "上下级变上下同欲：合伙人姿态先问你觉得呢/暴露弱点比完美更信服/意见当真给闭环/用我们替代你们；不用力而用对力让他配得上信任"
+  },
+  {
+    "title": "有话直说不会「得罪」领导·上下级坦诚沟通",
+    "normKey": "有话直说不会得罪领导上下级坦诚沟通",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a0ec94148552",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "部门领导主动破有话不敢说陋习：公开表态欢迎直说+非紧急不搞紧急部署/不占休息日/不搞一言堂/时限共定；坦诚相见成联结纽带工作质效反升"
+  },
+  {
+    "title": "Hays：缩小管理与员工的鸿沟·不做「我们vs他们」",
+    "normKey": "hays缩小管理与员工鸿沟不做我们vs他们",
+    "url": "https://www.hays.nl/en/market-insights/reducing-the-gap-between-management-and-staff",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "CEO视角破我们对抗他们：承认问题/倾听肢体语言/参与社交做真人分享失误/亲自参会不派助理/开放点子奖真落地并表彰提出者不采纳也解释"
+  },
+  {
+    "title": "9 Leadership Team Building Exercises That Build Real Trust",
+    "normKey": "9 leadership team building exercises that build real trust",
+    "url": "http://www.buildingteams.com/leadership_activity_ideas.htm",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导力团建目标是有权者在房间建信任坦率对齐非游戏；大象轮/Personal Histories(高管信任最高效)/Working-Style Mapping/Decision Audit/Priority Diamond/Crisis Sim；中立引导师比练习更重要"
+  },
+  {
+    "title": "公司高管团建·不聊PPT只聊信任（6个沉浸式活动）",
+    "normKey": "公司高管团建不聊ppt只聊信任6个沉浸式活动",
+    "url": "https://www.lingmidu.com/%e5%85%ac%e5%8f%b8%e9%ab%98%e7%ae%a1%e5%9b%a2%e5%bb%ba%e7%89%b9%e5%ae%9a%e9%ab%98%e7%ae%a1%e4%b8%8d%e8%81%8appt%ef%bc%8c%e5%8f%aa%e8%81%8a%e4%bf%a1%e4%bb%bb%ef%bc%9a%e7%94%a8%e8%bf%996%e4%b8%aa",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管retreat 1-2天重构信任：身份镜像(互换角色复述写认知卡)/信任负重(蒙眼协作复盘何时相信)/未来对话(3年后成功时刻合并共同叙事)/冲突显影(匿名分歧3+1+中立合成)"
+  },
+  {
+    "title": "北大汇丰CEO班户外领导力课程·破冰竞渡",
+    "normKey": "北大汇丰ceo班户外领导力课程破冰竞渡",
+    "url": "https://edp.phbs.pku.edu.cn/info/1351/13051.htm",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "北大汇丰官方回顾：千帆竞发破冰凝聚团队/沟通致胜模拟高层中层基层信息受限架构/赛艇竞渡背向终点靠绝对信任；高管破冰与领导力培养真实案例"
   }
 ]
