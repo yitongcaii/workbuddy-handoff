@@ -638,5 +638,61 @@
     "sourceType": "primary",
     "relation": "exec",
     "summary": "北大汇丰官方回顾：千帆竞发破冰凝聚团队/沟通致胜模拟高层中层基层信息受限架构/赛艇竞渡背向终点靠绝对信任；高管破冰与领导力培养真实案例"
+  },
+  {
+    "title": "如何让公司奖项让人信服（反 cynicism 设计）",
+    "normKey": "如何让公司奖项让人信服反cynicism设计",
+    "url": "https://www.mgnevents.co.uk/insights/company-awards-ceremony",
+    "sourceType": "secondary",
+    "relation": "exec,supervisor",
+    "summary": "颁奖 cynicism 根因=可预测赢家+空洞类别+冗长+无故事；破解：类别源自文化而非架构、覆盖无名英雄、透明评审、把奖当真实短故事讲；6-9奖/晚；高质量认可降离职率45%"
+  },
+  {
+    "title": "热立方颁奖盛典·十佳传承仪式+总裁特别奖",
+    "normKey": "热立方颁奖盛典十佳传承仪式总裁特别奖",
+    "url": "https://m.sohu.com/coo/heisha/978346831_121335438",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "企业年终盛典案例：十佳员工由上一年度标杆亲自颁奖做成传承仪式；压轴总裁特别奖由总裁亲颁，表彰卓越贡献并寄托对中流砥柱期待"
+  },
+  {
+    "title": "北汽新能源「卫蓝十杰」·战略标杆人物化",
+    "normKey": "北汽新能源卫蓝十杰战略标杆人物化",
+    "url": "https://www.zgjtqx.org.cn/detail/26054.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "企业年度荣誉案例：卫蓝十杰定为公司最高荣誉，配套卫蓝榜样/大工匠/最美卫蓝人多档标杆；盛典集中表彰+先进代表讲故事，把抽象战略具象为可学习人物"
+  },
+  {
+    "title": "颁奖典礼策划完整指南（类别/制作/流程）",
+    "normKey": "颁奖典礼策划完整指南类别制作流程",
+    "url": "https://www.forteeventmgmt.co.uk/insights/how-to-plan-awards-ceremony",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "端到端策划：定目的与6-12类别(由价值观派生、部门负责人共设)、选场地、制作(占预算25-35%)、流程(酒会→开场→3组颁奖→晚宴→压轴)、专业主持、务实餐饮"
+  },
+  {
+    "title": "企业颁奖典礼分步指南（红幕揭晓/时间线/清单）",
+    "normKey": "企业颁奖典礼分步指南红幕揭晓时间线清单",
+    "url": "https://www.coremodus.com/how-to-plan-a-corporate-award-ceremony-in-singapore-a-step-by-step-guide",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "分步执行指南：完整时间线+红幕揭晓增戏剧分量+五段时间表与后勤清单；会后48h感谢信+内刊回顾+问卷+归档；奖项宁少勿多"
+  },
+  {
+    "title": "颁奖典礼目的与流程 Tips（60-90min/私信/录制）",
+    "normKey": "颁奖典礼目的与流程tips6090min私信录制",
+    "url": "https://cinapse.co/award-ceremony-significance-process-tips/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "明确目的(庆祝/强化价值观/共同自豪)；远程可用虚拟形式；流程含短休；单项3-5min；获奖者提前私信、全程录制、48h内公开跟进延长影响"
+  },
+  {
+    "title": "激励全公司的颁奖典礼（类别/节目/技术/造势）",
+    "normKey": "激励全公司的颁奖典礼类别节目技术造势",
+    "url": "https://eventdaddy.in/blog/how-to-plan-award-ceremony-motivates-entire-company",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "十步法：类别设计(含传承奖让人向往)、节目结构、视觉体验、餐饮、技术(直播/AI致敬视频)、前后造势(提前2周提名+会后LinkedIn数字徽章)；多城/混合团队适用"
   }
 ]
