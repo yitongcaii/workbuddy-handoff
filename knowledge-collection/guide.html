@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文化活动知识库 · 使用指引</title>
+<style>
+  :root{
+    --sup:#f59e0b; --sup-soft:#fff7ed;
+    --exec:#8b5cf6; --exec-soft:#f5f3ff;
+    --ink:#1f2937; --sub:#6b7280; --line:#eceef2;
+    --grad:linear-gradient(135deg,#7c3aed 0%,#2563eb 100%);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:#f6f7fb;color:var(--ink);line-height:1.6;padding:0 0 60px}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  /* hero */
+  .hero{background:var(--grad);color:#fff;padding:46px 20px 40px;text-align:center;border-radius:0 0 28px 28px;box-shadow:0 12px 30px rgba(99,102,241,.25)}
+  .hero h1{font-size:30px;font-weight:800;letter-spacing:.5px}
+  .hero p{margin-top:10px;opacity:.92;font-size:15px}
+  .hero .pill{display:inline-block;margin-top:16px;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.35);padding:6px 14px;border-radius:999px;font-size:13px}
+  /* section */
+  .sec{margin-top:38px}
+  .sec-h{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+  .sec-h .bar{width:5px;height:24px;border-radius:3px;background:var(--grad)}
+  .sec-h h2{font-size:21px;font-weight:800}
+  .sec-h .tip{font-size:13px;color:var(--sub);margin-left:auto}
+  /* wizard */
+  .wizard{background:#fff;border-radius:18px;padding:24px;box-shadow:0 6px 20px rgba(17,24,39,.06)}
+  .wrow{margin-bottom:18px}
+  .wrow:last-child{margin-bottom:0}
+  .wlabel{font-size:13px;font-weight:700;color:var(--sub);margin-bottom:9px;display:block}
+  .chips{display:flex;flex-wrap:wrap;gap:10px}
+  .chip{cursor:pointer;border:1.5px solid var(--line);background:#fafbff;padding:9px 16px;border-radius:999px;font-size:14px;font-weight:600;transition:.18s;user-select:none}
+  .chip:hover{border-color:#c7d2fe}
+  .chip.on{background:var(--grad);color:#fff;border-color:transparent;box-shadow:0 4px 12px rgba(99,102,241,.3)}
+  .chip.sup.on{background:var(--sup);box-shadow:0 4px 12px rgba(245,158,11,.3)}
+  .chip.exec.on{background:var(--exec);box-shadow:0 4px 12px rgba(139,92,246,.3)}
+  .result{margin-top:8px;border-top:1px dashed var(--line);padding-top:18px;min-height:60px}
+  .result .empty{color:var(--sub);font-size:14px;text-align:center;padding:14px}
+  .rcard{background:#fafbff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:12px}
+  .rcard h4{font-size:15px;font-weight:800;margin-bottom:4px}
+  .rcard .rdesc{font-size:13px;color:var(--sub);margin-bottom:10px}
+  .rlinks{display:flex;flex-wrap:wrap;gap:8px}
+  .rlink{font-size:13px;font-weight:600;color:#4338ca;text-decoration:none;background:#eef2ff;padding:6px 12px;border-radius:8px;transition:.15s}
+  .rlink:hover{background:#e0e7ff}
+  .rlink.obs{color:#047857;background:#ecfdf5}
+  .rlink.obs:hover{background:#d1fae5}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 9px;border-radius:999px;margin-left:6px;vertical-align:middle}
+  .tag.sup{background:var(--sup-soft);color:#b45309}
+  .tag.exec{background:var(--exec-soft);color:#6d28d9}
+  /* bento grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+  .card{background:#fff;border-radius:18px;padding:20px;box-shadow:0 6px 20px rgba(17,24,39,.06);border-top:4px solid var(--grad);transition:.2s}
+  .card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(17,24,39,.1)}
+  .card .ico{font-size:26px}
+  .card h3{font-size:16px;font-weight:800;margin:8px 0 6px}
+  .card p{font-size:13px;color:var(--sub);margin-bottom:12px}
+  .card a{font-size:13px;font-weight:700;color:#4338ca;text-decoration:none}
+  .card a:hover{text-decoration:underline}
+  /* chain */
+  .chain{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .chain .col{background:#fff;border-radius:18px;padding:20px;box-shadow:0 6px 20px rgba(17,24,39,.06)}
+  .chain .col .lv{font-size:12px;font-weight:800;letter-spacing:1px;color:#fff;display:inline-block;padding:4px 12px;border-radius:999px;margin-bottom:12px}
+  .chain .col h3{font-size:16px;font-weight:800;margin-bottom:10px}
+  .chain .col ul{list-style:none}
+  .chain .col li{font-size:13px;padding:7px 0;border-bottom:1px solid var(--line)}
+  .chain .col li:last-child{border-bottom:none}
+  .chain .col a{color:#4338ca;text-decoration:none;font-weight:600}
+  .chain .col a:hover{text-decoration:underline}
+  .chain .col .local{color:var(--sub);font-size:12px}
+  .arrow{text-align:center;font-size:22px;color:#c7d2fe;align-self:center}
+  footer{text-align:center;margin-top:46px;color:var(--sub);font-size:13px}
+  @media(max-width:760px){.chain{grid-template-columns:1fr}.arrow{transform:rotate(90deg)}}
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>🎯 文化活动知识库 · 使用指引</h1>
+  <p>不想从零想？按「你要办的活动」反查灵感、方案与执行文档</p>
+  <span class="pill">场景化反向入口 · 多模态素材 · 灵感→方案→执行 全链</span>
+</div>
+
+<div class="wrap">
+
+  <!-- 场景化反向入口 -->
+  <section class="sec">
+    <div class="sec-h"><span class="bar"></span><h2>一、场景化反向入口</h2><span class="tip">先选关系，再选活动，秒出推荐</span></div>
+    <div class="wizard">
+      <div class="wrow">
+        <span class="wlabel">① 受众关系（决定方案调性，必须选）</span>
+        <div class="chips" id="relChips">
+          <span class="chip sup" data-v="sup">② 上下级（领导↔员工）</span>
+          <span class="chip exec" data-v="exec">③ 高管间（领导↔领导）</span>
+        </div>
+      </div>
+      <div class="wrow">
+        <span class="wlabel">② 活动类型</span>
+        <div class="chips" id="typeChips">
+          <span class="chip" data-v="staff">员工大会</span>
+          <span class="chip" data-v="offsite">Offsite</span>
+          <span class="chip" data-v="openday">Open Day 开放日</span>
+          <span class="chip" data-v="afternoon">下午茶研讨</span>
+          <span class="chip" data-v="award">表彰 / 颁奖</span>
+          <span class="chip" data-v="icebreaker">破冰 / 互动</span>
+        </div>
+      </div>
+      <div class="wrow">
+        <span class="wlabel">③ 规模（可选，给执行提示）</span>
+        <div class="chips" id="sizeChips">
+          <span class="chip" data-v="s">小型 &lt;30 人</span>
+          <span class="chip" data-v="m">中型 30–100 人</span>
+          <span class="chip" data-v="l">大型 &gt;100 人</span>
+        </div>
+      </div>
+      <div class="result" id="result"><div class="empty">↑ 选完「关系 + 活动类型」，这里会出现推荐的知识卡、创意实验室页面与执行文档</div></div>
+    </div>
+  </section>
+
+  <!-- 多模态素材 -->
+  <section class="sec">
+    <div class="sec-h"><span class="bar"></span><h2>二、多模态素材库</h2><span class="tip">音乐 / PPT / 物料 / 参考图，直接取用</span></div>
+    <div class="grid">
+      <div class="card">
+        <div class="ico">🎵</div>
+        <h3>流程背景音乐库</h3>
+        <p>暖场、颁奖、回温分段 BGM，可在网页试听；配 Obsidian《流程音乐库》标注每段适用环节。</p>
+        <a href="https://yitongcaii.github.io/activities-html/music-gallery.html" target="_blank">▶ 试听音乐库</a>
+      </div>
+      <div class="card">
+        <div class="ico">📊</div>
+        <h3>PPT 模板 & 视频库</h3>
+        <p>6 套活动 PPT 模板（p00–p05）+ 4 段演示视频，直接改文字即可用。</p>
+        <a href="https://yitongcaii.github.io/activities-html/ppt-gallery.html" target="_blank">打开 PPT 库</a>
+      </div>
+      <div class="card">
+        <div class="ico">🎨</div>
+        <h3>Banner & 物料模板</h3>
+        <p>主视觉、排版、配色规范与平滑切换幻灯片模板，统一活动视觉调性。</p>
+        <a href="https://yitongcaii.github.io/activities-html/material/banner-ppt.html" target="_blank">物料手册</a>
+        &nbsp;·&nbsp;<a href="https://yitongcaii.github.io/activities-html/material/smooth-switch.html" target="_blank">切换模板</a>
+      </div>
+      <div class="card">
+        <div class="ico">💡</div>
+        <h3>创意效果实验室</h3>
+        <p>vol.1–5 可交互效果 + 21 个通用 Idea 机制卡，给视觉与环节灵感。</p>
+        <a href="https://yitongcaii.github.io/activities-html/creative/idea-cards.html" target="_blank">Idea 卡片库</a>
+        &nbsp;·&nbsp;<a href="https://yitongcaii.github.io/activities-html/index.html" target="_blank">总目录</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 全链 -->
+  <section class="sec">
+    <div class="sec-h"><span class="bar"></span><h2>三、全链导航：灵感 → 方案 → 执行</h2><span class="tip">三层打通，不再孤立找资料</span></div>
+    <div class="chain">
+      <div class="col">
+        <span class="lv" style="background:#0ea5e9">LAYER 1 · 灵感</span>
+        <h3>创意效果实验室</h3>
+        <ul>
+          <li><a href="https://yitongcaii.github.io/activities-html/index.html" target="_blank">总目录（SOP+创意）</a></li>
+          <li><a href="https://yitongcaii.github.io/activities-html/staff-meeting/staff-meeting-design.html" target="_blank">员工大会 SOP</a></li>
+          <li><a href="https://yitongcaii.github.io/activities-html/offsite/offsite-design.html" target="_blank">Offsite SOP</a></li>
+          <li><a href="https://yitongcaii.github.io/activities-html/creative/idea-cards.html" target="_blank">通用 Idea 卡（21）</a></li>
+          <li><a href="https://yitongcaii.github.io/activities-html/material/banner-ppt.html" target="_blank">物料 / Banner 模板</a></li>
+          <li><a href="https://yitongcaii.github.io/activities-html/trainer/trainer-brief-v2.html" target="_blank">讲师小提纲 v2</a></li>
+        </ul>
+      </div>
+      <div class="arrow">→</div>
+      <div class="col">
+        <span class="lv" style="background:#7c3aed">LAYER 2 · 方案</span>
+        <h3>知识卡卡片墙（96 张）</h3>
+        <ul>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/staff-meeting/staff-meeting.html" target="_blank">员工大会（12 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html" target="_blank">Offsite（15 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/icebreaker/icebreaker.html" target="_blank">破冰（14 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">表彰（19 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/openday/openday.html" target="_blank">Open Day（22 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/afternoontea/afternoontea.html" target="_blank">下午茶研讨（14 卡）</a></li>
+          <li><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/index.html" target="_blank">📚 知识库门户</a></li>
+        </ul>
+      </div>
+      <div class="arrow">→</div>
+      <div class="col">
+        <span class="lv" style="background:#059669">LAYER 3 · 执行</span>
+        <h3>Obsidian 方法库（本地）</h3>
+        <ul>
+          <li><span class="local">员工大会环节设计SOP.md</span></li>
+          <li><span class="local">员工大会-单/双主持串词.md</span></li>
+          <li><span class="local">Offsite环节设计SOP.md</span></li>
+          <li><span class="local">Offsite会后沉淀.md</span></li>
+          <li><span class="local">活动Idea卡片库.md</span></li>
+          <li><span class="local">流程音乐库.md</span></li>
+          <li><span class="local">讲师小提纲.md</span></li>
+          <li><span class="local">📌 云技服运营索引MOC.md</span></li>
+        </ul>
+      </div>
+    </div>
+    <p style="font-size:12px;color:var(--sub);margin-top:12px">执行层文档位于 Obsidian「活动」vault → 素材库/，本地检索；灵感层与方案层为 GitHub Pages 公开链接，可直点。</p>
+  </section>
+
+</div>
+
+<footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+
+<script>
+const KC="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/";
+const LAB="https://yitongcaii.github.io/activities-html/";
+const data={
+  staff:{name:"员工大会",rel:["sup","exec"],kc:"staff-meeting/staff-meeting.html",
+    lab:[["员工大会环节设计SOP",LAB+"staff-meeting/staff-meeting-design.html"],["员工大会环节亮点",LAB+"staff-meeting/staff-meeting-highlights.html"]],
+    obs:["员工大会环节设计SOP.md","员工大会-单主持串词.md","员工大会-双主持串词.md"]},
+  offsite:{name:"Offsite",rel:["sup","exec"],kc:"offsite/offsite.html",
+    lab:[["Offsite环节设计SOP",LAB+"offsite/offsite-design.html"],["Offsite环节亮点",LAB+"offsite/offsite-highlights.html"],["Offsite会后沉淀",LAB+"offsite/offsite-after.html"]],
+    obs:["Offsite环节设计SOP.md","Offsite会后沉淀.md"]},
+  openday:{name:"Open Day 开放日",rel:["sup","exec"],kc:"openday/openday.html",
+    lab:[["开放日主页",LAB+"openday.html"]],
+    obs:[]},
+  afternoon:{name:"下午茶研讨",rel:["sup","exec"],kc:"afternoontea/afternoontea.html",
+    lab:[["下午茶活动页",LAB+"afternoon-tea.html"],["AI沙龙话题库",LAB+"ai-salon-topics.html"]],
+    obs:[]},
+  award:{name:"表彰 / 颁奖",rel:["sup","exec"],kc:"award/award.html",
+    lab:[["员工大会亮点(含颁奖段)",LAB+"staff-meeting/staff-meeting-highlights.html"],["通用Idea卡",LAB+"creative/idea-cards.html"]],
+    obs:["活动Idea卡片库.md"]},
+  icebreaker:{name:"破冰 / 互动",rel:["sup"],kc:"icebreaker/icebreaker.html",
+    lab:[["通用Idea卡(21机制)",LAB+"creative/idea-cards.html"],["创意实验室vol.1",LAB+"creative/vol1.html"]],
+    obs:["活动Idea卡片库.md"]}
+};
+const sizeTip={s:"小型场：轻互动、近距离，优先 Idea 卡里的破冰/分组机制",m:"中型场：需主持串词+环节节奏，参考 SOP 与亮点库",l:"大型场：强流程管控，重点看 SOP 的会前/会中/会后分工"};
+let sel={rel:null,type:null,size:null};
+function bind(id,key){
+  document.querySelectorAll('#'+id+' .chip').forEach(c=>{
+    c.onclick=()=>{
+      const v=c.dataset.v;
+      if(key==='rel'||key==='type'){
+        document.querySelectorAll('#'+id+' .chip').forEach(x=>x.classList.remove('on'));
+        c.classList.add('on'); sel[key]=v;
+      }else{
+        if(c.classList.contains('on')){c.classList.remove('on');sel.size=null;}else{c.classList.add('on');sel.size=v;}
+      }
+      render();
+    };
+  });
+}
+function render(){
+  const r=document.getElementById('result');
+  if(!sel.rel||!sel.type){r.innerHTML='<div class="empty">↑ 选完「关系 + 活动类型」，这里会出现推荐的知识卡、创意实验室页面与执行文档</div>';return;}
+  const d=data[sel.type];
+  if(!d.rel.includes(sel.rel)){
+    const relName=sel.rel==='sup'?'上下级':'高管间';
+    r.innerHTML='<div class="empty">⚠️ 「'+d.name+'」暂不适配「'+relName+'」关系档（如破冰偏上下级轻互动，高管间不适合幼稚游戏）。可换关系档试试。</div>';
+    return;
+  }
+  let h='<div class="rcard"><h4>📚 知识卡卡片墙 · '+d.name;
+  h+=' <span class="tag '+(sel.rel==='sup'?'sup':'exec')+'">'+(sel.rel==='sup'?'②上下级':'③高管间')+'</span></h4>';
+  h+='<div class="rdesc">分层知识卡，含 SOP 要点、Checklist 与适用备注，即取即用。</div><div class="rlinks">';
+  h+='<a class="rlink" href="'+(KC+d.kc)+'" target="_blank">打开 '+d.name+' 卡片墙</a></div></div>';
+  h+='<div class="rcard"><h4>✨ 创意实验室 · 灵感页</h4><div class="rdesc">可交互效果与环节模板，给视觉与流程灵感。</div><div class="rlinks">';
+  d.lab.forEach(([t,u])=>{h+='<a class="rlink" href="'+u+'" target="_blank">'+t+'</a>';});
+  h+='</div></div>';
+  if(d.obs.length){
+    h+='<div class="rcard"><h4>📁 Obsidian 执行文档</h4><div class="rdesc">本地方法库（活动 vault → 素材库/），落地可直接改。</div><div class="rlinks">';
+    d.obs.forEach(o=>{h+='<span class="rlink obs">'+o+'</span>';});
+    h+='</div></div>';
+  }
+  if(sel.size){h+='<div class="rcard" style="border-top:4px solid #10b981"><h4>📐 规模执行提示</h4><div class="rdesc">'+sizeTip[sel.size]+'</div></div>';}
+  r.innerHTML=h;
+}
+bind('relChips','rel');bind('typeChips','type');bind('sizeChips','size');
+</script>
+</body>
+</html>
