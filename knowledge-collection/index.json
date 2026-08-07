@@ -822,5 +822,53 @@
     "sourceType": "primary",
     "relation": "supervisor",
     "summary": "兄弟团队内部一手SOP框架：文化活动分类体系（员工层：员工大会/Openday/下午茶围谈/GM面对面；基干层：leader offsite/工作坊/领导力大会），含收集机制与SLA，可作文化活动运营总框架参考。"
+  },
+  {
+    "title": "千马会高端闭门会·董秘×私募合伙人",
+    "normKey": "千马会高端闭门会董秘私募合伙人",
+    "url": "https://new.qq.com/rain/a/20260706A08TQK00?refer=cp_1009",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "定向邀约+资质审核的高管闭门会，董秘/高管×私募合伙人圆桌答疑+晚宴一对一资源对接，建月度私享长效社群"
+  },
+  {
+    "title": "泰普洛跨文化领导力闭门会·鸡尾酒会破冰",
+    "normKey": "泰普洛跨文化领导力闭门会鸡尾酒会破冰",
+    "url": "http://www.taplowleadership.com.cn/Insight/huodonghuigu/888.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "企业家/高管闭门会：专题分享+鸡尾酒会破冰+私董会圆桌(教练式挑战)共创可行解，从真实问题出发"
+  },
+  {
+    "title": "Executive Mastermind·Hot-seat 施压测试决策",
+    "normKey": "Executive Mastermind Hot-seat 施压测试决策",
+    "url": "https://connex.digital/blog/executive-mastermind-hot-seat-model-for-ai-leaders-68-person-ai-peer-group",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "6-8人非竞争高管同侪小组每月hot-seat，presenter设卡点+小组轮转反馈+承诺问责闭环，确保每次有具体产出"
+  },
+  {
+    "title": "逆向导师·高管坐学生席(OG请接招)",
+    "normKey": "逆向导师高管坐学生席OG请接招",
+    "url": "https://www.toutiao.com/article/7626337277894984226/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "三七互娱逆向导师：新生代员工当导师、高管当学生，沉浸式场景(潮玩/萌宠/二次元)降权力距离做认知对齐"
+  },
+  {
+    "title": "走动式管理 MBWA·随机走访一线",
+    "normKey": "走动式管理 MBWA 随机走访一线",
+    "url": "https://cio-wiki.org/wiki/Management_by_Wandering_Around_(MBWA)",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Management by Walking Around：高管无议程随机走访一线，多听少评+即时认可+可见闭环，零成本缩心理距离"
+  },
+  {
+    "title": "无限极月度茶饮会·核心团队轮值",
+    "normKey": "无限极月度茶饮会核心团队轮值",
+    "url": "https://www.toutiao.com/article/7564502618489078335",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "无限极茶饮会：核心管理团队轮值+员工自主报名，无PPT无议题，领导者末位发言破层级壁垒促坦诚"
   }
 ]
