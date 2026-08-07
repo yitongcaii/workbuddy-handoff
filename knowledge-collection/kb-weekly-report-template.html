@@ -20,7 +20,7 @@
     box-shadow:0 12px 30px rgba(108,92,231,.25)}
   .hero h1{font-size:26px;margin-bottom:8px}
   .hero .sub{opacity:.92;font-size:14px}
-  .kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:18px 0 26px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:18px 0 26px}
   .kpi{background:#fff;border-radius:16px;padding:16px 12px;text-align:center;
     box-shadow:0 6px 18px rgba(31,41,55,.08)}
   .kpi .n{font-size:26px;font-weight:800;color:var(--accent)}
@@ -35,14 +35,12 @@
   th{color:var(--muted);font-weight:600;background:#fafbff}
   .chip{display:inline-block;font-size:11px;padding:2px 9px;border-radius:20px;
     color:#fff;font-weight:600}
-  .r1{background:var(--r1)} .r2{background:var(--r2)} .r3{background:var(--r3)}
   .b1{background:var(--b1)} .b2{background:var(--b2)}
   .bar{height:10px;border-radius:6px;background:linear-gradient(90deg,var(--accent),var(--accent2));display:inline-block;vertical-align:middle}
-  .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:6px}
   .note{font-size:12px;color:var(--muted);background:#fafbff;border-left:3px solid var(--accent2);
     padding:8px 12px;border-radius:0 10px 10px 0;margin-top:10px}
-  .status{display:inline-block;font-size:12px;padding:3px 12px;border-radius:20px;font-weight:700}
-  .ok{background:#dcfce7;color:#15803d} .warn{background:#fef3c7;color:#b45309}
+  td a{color:var(--accent);text-decoration:none;font-weight:600}
+  td a:hover{text-decoration:underline}
   footer{text-align:center;color:var(--muted);font-size:13px;margin-top:24px}
 </style>
 </head>
@@ -52,59 +50,55 @@
   <!-- ===== HERO ===== -->
   <div class="hero">
     <h1>📚 文化活动知识库 · 周报</h1>
-    <!-- 动态填充：上周一 ~ 本周日 -->
-    <div class="sub">统计周期：<b>YYYY-MM-DD</b> ～ <b>YYYY-MM-DD</b>（第 WW 周）｜ 生成于 2026-MM-DD</div>
+    <div class="sub">{{PERIOD_START}} ～ {{PERIOD_END}}｜ 本周自动化新增（净）{{PAGES_NEW}} 个活动创意页面</div>
   </div>
 
   <!-- ===== 数据看板 ===== -->
-  <div class="kpis" style="grid-template-columns:repeat(4,1fr)">
-    <div class="kpi"><div class="n">96</div><div class="l">累计卡片</div></div>
-    <!-- 动态填充 -->
-    <div class="kpi"><div class="n">__</div><div class="l">本周新增</div></div>
-    <div class="kpi"><div class="n">__</div><div class="l">本周去重删</div></div>
+  <div class="kpis">
+    <div class="kpi"><div class="n">{{TOTAL_PAGES}}</div><div class="l">累计新增活动页面</div></div>
+    <div class="kpi"><div class="n">{{CARDS_NEW}}</div><div class="l">本周新增（净）卡片</div></div>
+    <div class="kpi"><div class="n">{{DEDUP_WEEK}}</div><div class="l">本周去重删卡片数</div></div>
     <div class="kpi"><div class="n">6</div><div class="l">覆盖主题</div></div>
   </div>
 
-  <!-- ===== ① 本周采集概览 ===== -->
+  <!-- ===== ① 待办 & 下周计划（前置） ===== -->
   <div class="sec">
-    <h2>① 本周采集概览 <span class="tag">按主题</span></h2>
-    <table>
-      <thead><tr><th>主题</th><th>本周新增</th><th>去重删</th><th>累计</th><th>关系档</th></tr></thead>
-      <tbody>
-        <!-- 动态填充：每主题一行，数据来自 index.json 按 topic 分组 + collectedAt 过滤本周 -->
-        <tr><td>员工大会 staff-meeting</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-        <tr><td>Offsite offsite</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-        <tr><td>破冰 icebreaker</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-        <tr><td>颁奖 award</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-        <tr><td>Open Day openday</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-        <tr><td>下午茶研讨 afternoontea</td><td>__</td><td>__</td><td>__</td><td><span class="chip r2">②</span><span class="chip r3">③</span></td></tr>
-      </tbody>
-    </table>
+    <h2>① 待办 & 下周计划 <span class="tag">运营</span></h2>
+    <p style="font-size:13.5px"><b>开放问题：</b>{{OPEN_ISSUES}}</p>
+    <p style="font-size:13.5px;margin-top:8px"><b>下周计划：</b>{{NEXT_PLAN}}</p>
   </div>
 
-  <!-- ===== ② 本周重点新增 ===== -->
+  <!-- ===== ② 本周采集概览 ===== -->
   <div class="sec">
-    <h2>② 本周重点新增卡片 <span class="tag">collectedAt 本周</span></h2>
-    <!-- 动态填充：取本周 collectedAt 的卡片，每张一行 -->
+    <h2>② 本周采集概览 <span class="tag">按主题</span></h2>
     <table>
-      <thead><tr><th>标题</th><th>关系档</th><th>一手/二手</th><th>一句话价值</th></tr></thead>
+      <thead><tr><th>主题</th><th>本周最终新增</th><th>过程中去重数</th><th>累计</th></tr></thead>
       <tbody>
-        <tr><td>__（示例占位）</td><td><span class="chip r3">③</span></td><td><span class="chip b2">二手</span></td><td>__</td></tr>
+<!--OVERVIEW-->
       </tbody>
     </table>
-    <div class="note">说明：「本周新增」依赖 index.json 每条带 <code>collectedAt</code> 字段；当前 96 条尚未回填，落地前需脚本批量补 <code>topic</code> + <code>collectedAt</code>。</div>
+    <div class="note">{{OVERVIEW_NOTE}}</div>
   </div>
 
-  <!-- ===== ③ 关系档 & 一手二手分布 ===== -->
+  <!-- ===== ③ 本周重点新增卡片（附页面链接） ===== -->
   <div class="sec">
-    <h2>③ 关系档 & 一手/二手分布 <span class="tag">累计快照</span></h2>
-    <p style="font-size:13.5px;margin-bottom:6px">关系档（累计 96 卡，全 ②+③ 无 peer）</p>
-    <div>纯② 上下级 <span class="bar" style="width:51%"></span> 49</div><br>
-    <div>纯③ 高管间 <span class="bar" style="width:34%"></span> 33</div><br>
-    <div>②③ 混合 <span class="bar" style="width:15%"></span> 14</div>
-    <p style="font-size:13.5px;margin:14px 0 6px">一手 / 二手来源</p>
-    <div>二手 <span class="bar" style="width:90%"></span> 86</div><br>
-    <div>一手 <span class="bar" style="width:10%"></span> 10</div>
+    <h2>③ 本周重点新增卡片 <span class="tag">节选 · 真实标题</span></h2>
+    <table>
+      <thead><tr><th>标题</th><th>一手/二手</th><th>一句话价值</th></tr></thead>
+      <tbody>
+<!--HIGHLIGHTS-->
+      </tbody>
+    </table>
+    <div class="note">{{HIGHLIGHTS_NOTE}}</div>
+  </div>
+
+  <!-- ===== ④ 一手/二手分布 ===== -->
+  <div class="sec">
+    <h2>④ 一手/二手分布 <span class="tag">累计快照</span></h2>
+    <p style="font-size:13.5px;margin-bottom:6px">一手 / 二手来源（累计 {{CARDS_TOTAL}} 卡）</p>
+    <div>二手 <span class="bar" style="width:{{SECOND_PCT}}%"></span> {{SECOND_SRC}}</div><br>
+    <div>一手 <span class="bar" style="width:{{FIRST_PCT}}%"></span> {{FIRST_SRC}}</div>
+    <div class="note">{{SOURCE_NOTE}}</div>
   </div>
 
   <!-- ===== ⑤ 质量 & 淘汰 ===== -->
@@ -113,18 +107,11 @@
     <table>
       <thead><tr><th>指标</th><th>本周</th><th>说明</th></tr></thead>
       <tbody>
-        <tr><td>六维评估淘汰</td><td>__</td><td>任一维 &lt;3 不入库</td></tr>
-        <tr><td>peer（①平级向）剔除</td><td>__</td><td>硬约束，全库 0 入库</td></tr>
-        <tr><td>历史去重删</td><td>__</td><td>重复源只留更全更权威版</td></tr>
+        <tr><td>peer（平级向）剔除</td><td>{{DEDUP_WEEK}}</td><td>硬约束，全库 0 入库；计入过程中去重数</td></tr>
+        <tr><td>历史去重删</td><td>{{DEDUP_WEEK}}</td><td>重复源只留更全更权威版（即上述 peer 过滤）</td></tr>
+        <tr><td>六维评估淘汰（非 peer）</td><td>{{SIX_DIM}}</td><td>低权威/低时效二手源任一维 &lt;3 未入库（估算）</td></tr>
       </tbody>
     </table>
-  </div>
-
-  <!-- ===== ⑥ 待办 & 下周计划 ===== -->
-  <div class="sec">
-    <h2>⑥ 待办 & 下周计划 <span class="tag">运营</span></h2>
-    <p style="font-size:13.5px"><b>开放问题：</b>__（如一手源占比偏低、某主题待补采）</p>
-    <p style="font-size:13.5px;margin-top:8px"><b>下周计划：</b>继续按 <code>last-topic.txt</code> 轮询；下个主题 __ ；补采重点 __</p>
   </div>
 
   <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>

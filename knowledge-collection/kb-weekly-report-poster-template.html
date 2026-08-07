@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>知识采集周报海报 · {{WEEK}}</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:750px; background:#0f1226; font-family:"PingFang SC","Microsoft YaHei",sans-serif; color:#fff; }
+  .poster { width:750px; padding:40px 44px 36px; background:linear-gradient(160deg,#1a1f4d 0%,#2d1b4e 55%,#3a1b4a 100%); position:relative; overflow:hidden; }
+  .poster::before { content:""; position:absolute; top:-120px; right:-120px; width:360px; height:360px; background:radial-gradient(circle,rgba(108,92,231,.55),transparent 70%); }
+  .poster::after { content:""; position:absolute; bottom:-140px; left:-100px; width:340px; height:340px; background:radial-gradient(circle,rgba(0,184,217,.45),transparent 70%); }
+  .head { position:relative; z-index:2; display:flex; align-items:center; justify-content:space-between; }
+  .badge { font-size:15px; letter-spacing:2px; color:#9be7ff; background:rgba(0,184,217,.15); border:1px solid rgba(0,184,217,.4); padding:6px 14px; border-radius:30px; }
+  .head .date { font-size:14px; color:#c9c9e8; }
+  .title { position:relative; z-index:2; margin-top:22px; }
+  .title h1 { font-size:46px; font-weight:800; letter-spacing:1px; background:linear-gradient(90deg,#fff,#9be7ff); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; }
+  .title .sub { margin-top:10px; font-size:16px; color:#c9c9e8; }
+  .title .sub b { color:#ffd86b; }
+  .hero { position:relative; z-index:2; margin-top:30px; background:linear-gradient(135deg,rgba(108,92,231,.9),rgba(0,184,217,.85)); border-radius:26px; padding:30px 34px; display:flex; align-items:flex-end; justify-content:space-between; box-shadow:0 18px 50px rgba(108,92,231,.35); }
+  .hero .big { font-size:84px; font-weight:900; line-height:1; }
+  .hero .big small { font-size:26px; font-weight:700; display:block; margin-top:8px; opacity:.95; }
+  .hero .cap { text-align:right; font-size:17px; line-height:1.7; opacity:.95; }
+  .hero .cap b { font-size:30px; }
+  .grid { position:relative; z-index:2; margin-top:26px; display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
+  .cell { background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12); border-radius:18px; padding:18px; text-align:center; }
+  .cell .n { font-size:38px; font-weight:800; color:#ffd86b; }
+  .cell .l { margin-top:6px; font-size:14px; color:#c9c9e8; }
+  .section { position:relative; z-index:2; margin-top:28px; }
+  .section h2 { font-size:20px; font-weight:700; color:#9be7ff; margin-bottom:14px; display:flex; align-items:center; gap:10px; }
+  .section h2::before { content:""; width:6px; height:22px; background:linear-gradient(#6c5ce7,#00b8d9); border-radius:4px; }
+  .topics { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; }
+  .topic { background:rgba(255,255,255,.05); border-radius:16px; padding:16px; display:flex; align-items:center; justify-content:space-between; }
+  .topic .t { font-size:15px; color:#e6e6f5; }
+  .topic .c { font-size:24px; font-weight:800; color:#fff; }
+  .bars { margin-top:6px; }
+  .bar-row { display:flex; align-items:center; gap:12px; margin-top:12px; }
+  .bar-row .lab { width:96px; font-size:14px; color:#c9c9e8; }
+  .bar-track { flex:1; height:16px; background:rgba(255,255,255,.08); border-radius:10px; overflow:hidden; }
+  .bar-fill { height:100%; border-radius:10px; }
+  .bar-row .v { width:64px; text-align:right; font-size:15px; font-weight:700; }
+  .hi { margin-top:12px; display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+  .hi .item { background:rgba(255,255,255,.05); border-radius:14px; padding:14px; font-size:14px; line-height:1.55; color:#e6e6f5; }
+  .hi .item b { color:#ffd86b; }
+  .footer { position:relative; z-index:2; margin-top:30px; padding-top:18px; border-top:1px solid rgba(255,255,255,.14); font-size:13px; color:#a9a9d0; text-align:center; }
+</style>
+</head>
+<body>
+  <div class="poster">
+    <div class="head">
+      <span class="badge">CULTURE KB · WEEKLY</span>
+      <span class="date">{{PERIOD_START}} ～ {{PERIOD_END}}</span>
+    </div>
+
+    <div class="title">
+      <h1>文化活动知识库 · 周报</h1>
+      <div class="sub">第 {{WEEK}} 周 ｜ 本周自动化新增（净）<b>{{PAGES_NEW}} 个活动创意页面</b></div>
+    </div>
+
+    <div class="hero">
+      <div class="big">{{PAGES_NEW}}<small>个活动创意页面</small></div>
+      <div class="cap">知识采集自动化<br><b>6h</b> 轮询产出<br>覆盖 <b>6</b> 大主题</div>
+    </div>
+
+    <div class="grid">
+      <div class="cell"><div class="n">{{CARDS_NEW}}</div><div class="l">本周新增（净）卡片</div></div>
+      <div class="cell"><div class="n">{{DEDUP_WEEK}}</div><div class="l">本周去重删卡片数</div></div>
+      <div class="cell"><div class="n">6</div><div class="l">覆盖主题</div></div>
+    </div>
+
+    <div class="section">
+      <h2>主题分布（累计卡片）</h2>
+      <div class="topics">
+<!--POSTER_TOPICS-->
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>一手 / 二手来源</h2>
+      <div class="bars">
+        <div class="bar-row"><span class="lab">二手来源</span><div class="bar-track"><div class="bar-fill" style="width:{{SECOND_PCT}}%;background:linear-gradient(90deg,#6c5ce7,#a55eea);"></div></div><span class="v">{{SECOND_SRC}}</span></div>
+        <div class="bar-row"><span class="lab">一手来源</span><div class="bar-track"><div class="bar-fill" style="width:{{FIRST_PCT}}%;background:linear-gradient(90deg,#00b8d9,#2ed573);"></div></div><span class="v">{{FIRST_SRC}}</span></div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>本周重点新增（节选）</h2>
+      <div class="hi">
+<!--POSTER_HI-->
+      </div>
+    </div>
+
+    <div class="footer">📌 本页由 yitong 沉淀整理 · 文化活动知识库 ｜ 生成于 {{GEN_DATE}}</div>
+  </div>
+</body>
+</html>
