@@ -998,5 +998,93 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "活动成效评估KPI/ROI框架：每场设2-4个对准目的的可量化KPI；员工内部凝聚类指标=员工参与率(部门覆盖)、满意度调查、建议与回馈比率；ROI=(成果价值−总成本)/总成本×100%，无直接营收时可估社群触达/媒体PR值/名单价值等长"
+  },
+  {
+    "title": "华丰科技四期「情融华丰·家倍温暖」家属开放日",
+    "normKey": "华丰科技四期情融华丰家倍温暖家属开放日",
+    "url": "https://huafeng796.com/details.html?id=1955515597372121090",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "公司官网：连续四周周五家属开放日，153家庭/277家属；认知→共情→共建四期递进，指纹签到+产线探秘+手工互动，收官切蛋糕仪式"
+  },
+  {
+    "title": "景嘉微2025「同心同行·乐享嘉时光」家庭开放日",
+    "normKey": "景嘉微2025同心同行乐享嘉时光家庭开放日",
+    "url": "https://www.jingjiamicro.com/news/73.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "公司官网：60余组/近200家属；幸福照片墙+魔术+宣传片+领导致辞+游园会(发电竞速/红星竹编画)+员工食堂收尾"
+  },
+  {
+    "title": "安科生物「安科嘉年华·秋日奇遇记」家属开放日",
+    "normKey": "安科生物安科嘉年华秋日奇遇记家属开放日",
+    "url": "https://ankebio.com/display_2866.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "公司官网：200余名家属；董事长+执行总裁双层级出场，科学秀+游园会，特设公益义卖助白血病儿童"
+  },
+  {
+    "title": "中国电科二十七所「同心筑梦 一路有你」家属开放日",
+    "normKey": "中国电科二十七所同心筑梦一路有你家属开放日",
+    "url": "https://www.cetc.com.cn/27/335529/335505/2115556/index.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "央企官网：优秀党员/党务工作者直系亲属受邀；紫鼎广场+智慧农业+无人机联试场+初心宣传片，食堂共餐降层级"
+  },
+  {
+    "title": "东方电气「智造零距离·能源科普行」企业开放日",
+    "normKey": "东方电气智造零距离能源科普行企业开放日",
+    "url": "https://www.dec-ltd.cn/info/1515/12549.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "央企官网：170家庭/1000余家属环厂健身跑+智造零距离；劳模工匠家庭日+公众开放日(政府/学校/供方/家属)，大国重器+东汽精神"
+  },
+  {
+    "title": "江铃汽车「暑期家庭行」全民开放日（智造+研学）",
+    "normKey": "江铃汽车暑期家庭行全民开放日智造研学",
+    "url": "https://www.chinatruck.org/news/202507/11_129743.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "行业媒体：100+全国访客+员工家庭；观光车进车间(12秒车型切换/2分钟下线)，技术能手讲智造，少儿研学路线"
+  },
+  {
+    "title": "和元生物首届「投资者开放日」（CGT 临港基地）",
+    "normKey": "和元生物首届投资者开放日cgt临港基地",
+    "url": "https://www.obiosh.com/gongsixinwen/4511",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "公司官网：百余名机构/分析师/媒体/中小投资者；GMP车间+产品体验+创始人董事长战略+灼识/高校第三方专家背书"
+  },
+  {
+    "title": "上海电气「我是股东——走进沪市上市公司」",
+    "normKey": "上海电气我是股东走进沪市上市公司",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_279692eac6946252",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "上交所+申万宏源主办；30余投资者进汽轮机厂/锅炉厂，核电主泵/绿色甲醇；主动式沟通响应证监会IR指引"
+  },
+  {
+    "title": "格力高入华30周年首启工厂媒体开放日",
+    "normKey": "格力高入华30周年首启工厂媒体开放日",
+    "url": "https://www.cet.com.cn/wzsy/cyzx/10237166.shtml",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "财经媒体：首次向媒体开放奉贤工厂；智能制造(AI视觉/AGV)+本土研发+RSPO/FSC绿色生产，周年节点ESG叙事"
+  },
+  {
+    "title": "成都「蓉城国企开放日·智造未来转型共生」",
+    "normKey": "成都蓉城国企开放日智造未来转型共生",
+    "url": "https://cbgc.scol.com.cn/news/6553333",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "成都市国资委主办；近50名企业/市民/媒体进智改数转赋能平台；分诊台比喻+400余场公益活动打通监管-企业-公众"
+  },
+  {
+    "title": "中国中免2025年度投资者开放日（三亚免税城）",
+    "normKey": "中国中免2025年度投资者开放日三亚免税城",
+    "url": "https://www.irlianmeng.com/IR/index.php/Index/companyNewsListDetail?id=120024&type=4",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "IR联盟转载：300+投资者；大会交流(总经理/总会计师/董秘)+实地调研三期沙盘，专属优惠+代金券体验黏性"
   }
 ]
