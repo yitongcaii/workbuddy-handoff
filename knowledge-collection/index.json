@@ -768,14 +768,6 @@
     "summary": "81名机构/个人投资者；参观有机国药基地+未来工厂+文化馆；总经理致辞+董秘讲经营+管理层互动；9:40-17:00完整日程+具体问答"
   },
   {
-    "title": "员工大会组织SOP（内部优秀案例复盘）",
-    "normKey": "员工大会组织SOP内部优秀案例复盘",
-    "url": "https://lexiangla.com/p/a0e55e7f2c1d42d18ee9b1f5499fc617",
-    "sourceType": "primary",
-    "relation": "supervisor",
-    "summary": "适用范围：部门级/团队级员工大会（季度/半年度/年度）组织筹备。覆盖会前目标对齐、议程设计、分工、彩排、现场执行、会后复盘全流程，内部一手方法资产。"
-  },
-  {
     "title": "地图产品部2026年度员工大会（内部真实复盘）",
     "normKey": "地图产品部2026年度员工大会内部真实复盘",
     "url": "https://lexiangla.com/p/bb33afaca84848c3a6bb0b604d2aebe8",
@@ -838,5 +830,37 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "无限极茶饮会：核心管理团队轮值+员工自主报名，无PPT无议题，领导者末位发言破层级壁垒促坦诚"
+  },
+  {
+    "title": "How to create all-hands meetings that matter（Atlassian）",
+    "normKey": "how to create all hands meetings that matter atlassian",
+    "url": "https://www.atlassian.com/blog/blog/teamwork/how-to-create-better-all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "Atlassian 首席of staff：全员大会最大败因是变单向广播；把会议变双向对话——提前征集问题+upvote排序让全员看见彼此关心；非高管也上台讲项目/教训破silo；直面棘手话题(如关停产品)开专场Q&A；把员工当insider分享财务细节，信任生信任。"
+  },
+  {
+    "title": "All-hands 度量与提效（Sally.io）",
+    "normKey": "all hands 度量与提效 sally io",
+    "url": "https://www.sally.io/blog/all-hands-meeting-how-to-generate-real-impact",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "WorkBoard(2023)：72%员工参会后更认同公司；最佳实践：议程提前共享、45-60min防疲劳、Q&A+poll混搭、跨部门轮讲；互动工具(Slido/Teams poll/Zoom reaction)提参与；无障碍(实时字幕+转录)人人可参与；AI会议助手自动录制/转录/摘要/派发action item(GDPR合规)。"
+  },
+  {
+    "title": "虚拟/混合 All-Hands 10 招（Mural）",
+    "normKey": "虚拟混合 all hands 10招 mural",
+    "url": "https://mural.co/blog/virtual-all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "分布式/混合团队全员大会更关键；10招：固定时段+录制回放、warm-up热身、议程从简(更新/成就/指标/Q&A/认可/展望)、工具先行(Mural/Teams)、演练彩排、轮换发言人、匿名提问、跨时区兼顾、记录分享Slack、庆祝里程碑；强调最贵会议要物尽其用。"
+  },
+  {
+    "title": "Town Hall 格式与 Q&A 设计（HR 词典）",
+    "normKey": "town hall 格式与 qa 设计 hr 词典",
+    "url": "https://hyring.com/free-hr-toolkit/hr-glossary/town-hall-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "五格式对比(线下/全虚拟/混合/录播+直播Q&A/AMA)按规模分布选；硬指标45-60min、月/季频、≥30%时间给Q&A；Slido/Mentimeter/表单匿名征集问题(降恐惧+给领导备答)；信任数据：定期town hall领导信任高2.3x(Edelman)、74%员工会后更连接(Gallup 2024)。"
   }
 ]
