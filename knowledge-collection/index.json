@@ -934,5 +934,69 @@
     "relation": "supervisor,exec",
     "summary": "领导力工作坊3高价值破冰替代幼稚游戏：失败故事分享(降防御建心理安全)/价值观排序(暴露视角差)/领导力议题讨论(消除破冰与培训割裂)；按司龄混编破圈子",
     "normKey": "clevry领导力破冰用领导力议题替代游戏"
+  },
+  {
+    "title": "颁奖词与领导致辞撰写框架",
+    "normKey": "颁奖词与领导致辞撰写框架",
+    "url": "https://m.renrendoc.com/paper/494018902.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "表彰大领导致辞\"成果回顾(数据+案例)→感谢致敬(团队/伙伴/家属)→战略展望(行业趋势+企业行动)\"三段式结构；颁奖词用\"阐述奖项意义→细节化描述获奖者特质→邀请颁奖嘉宾\"话术，把表彰与战略闭环、让荣誉具象化而非念名单。"
+  },
+  {
+    "title": "长期服务奖(工龄荣誉)体系设计",
+    "normKey": "长期服务奖工龄荣誉体系设计",
+    "url": "https://www.gusto.com/resources/articles/hr/team-management/years-of-service-awards",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "长期服务奖(5/10/15/20年里程碑)是留任与忠诚的杠杆：提升 retention、engagement、loyalty、招聘吸引力与组织文化；可自动化执行；设计需清晰标准、可执行框架、部分环节平台化。"
+  },
+  {
+    "title": "长期主义功勋荣誉体系案例(平安人寿)",
+    "normKey": "长期主义功勋荣誉体系案例平安人寿",
+    "url": "https://m.chinanews.com/wap/detail/chs/zw/378987.shtml",
+    "sourceType": "secondary",
+    "relation": "exec,supervisor",
+    "summary": "平安人寿发布\"代理人功勋荣誉体系\"：4大类7奖25子奖，设入围业务品质/继续率门槛并兼顾业绩与服务年限；含\"长期忠诚\"(10/15/20/25/30年)、\"卓越贡献\"、\"责任担当\"、\"战略引领\"四类，不以业绩为唯一标准，呼应监管专业化职业化"
+  },
+  {
+    "title": "虚拟/混合颁奖典礼运营指南",
+    "normKey": "虚拟混合颁奖典礼运营指南",
+    "url": "https://www.hifives.in/a-guide-to-organizing-a-virtual-employee-awards-ceremony/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "远程/混合团队颁奖全运营：领导力参与(高管演讲/颁奖/致谢)建信任；数字荣誉墙+社交feed公开庆祝；直播+预录故事混剪保制作质感；内部 microsite 集中日程/提名；实时投票/Q&A/抽奖防掉线；技术彩排+专属支持；会后录像/亮点延"
+  },
+  {
+    "title": "颁奖典礼预算基准与ROI框架",
+    "normKey": "颁奖典礼预算基准与roi框架",
+    "url": "https://bwproductions.co.za/the-complete-guide-to-corporate-event-roi-how-9000-events-taught-us-what-works/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "颁奖典礼行业基准：人均成本(含场地/餐饮/AV/制作)约 R900-1800，ROI 乘数 3.0-3.5x；活动ROI=(营收−成本)/成本×100%，无形价值用 cost-per-impression/lead转化/品牌声量代理；向CF"
+  },
+  {
+    "title": "员工认可活动ROI与留存逻辑",
+    "normKey": "员工认可活动roi与留存逻辑",
+    "url": "https://the-happy-manager.com/the-roi-of-gratitude-why-employee-appreciation-events-matter/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "认可活动商业回报：敬业度 top quartile 企业离职率低65%(Gallup)；HBR 追踪 peer-recognition 项目3个月生产率+12%；单员工替换成本=年薪50-200%；即便仅算留存节省，保守 ROI 也常>20"
+  },
+  {
+    "title": "颁奖环节主持词话术设计",
+    "normKey": "颁奖环节主持词话术设计",
+    "url": "https://renrendoc.com/paper/503921332.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖环节主持词\"赋予荣誉仪式感与价值感\"话术框架：先阐述奖项意义(如\"攻坚先锋奖\"对应突破创新)→再用细节化语言描述获奖者特质→最后邀请颁奖嘉宾强化仪式感；让奖项\"含金量\"可视化而非念名单。"
+  },
+  {
+    "title": "活动成效KPI设计(含内部凝聚指标)",
+    "normKey": "活动成效kpi设计含内部凝聚指标",
+    "url": "http://www.mocs.com.tw/news-detail/how-evaluate-activity-effectiveness.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "活动成效评估KPI/ROI框架：每场设2-4个对准目的的可量化KPI；员工内部凝聚类指标=员工参与率(部门覆盖)、满意度调查、建议与回馈比率；ROI=(成果价值−总成本)/总成本×100%，无直接营收时可估社群触达/媒体PR值/名单价值等长"
   }
 ]
