@@ -878,5 +878,61 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "基于华为实践提炼、中小企业可直接照搬的通用务虚会四步法：①会前 60 天筹备（议题要虚不要实/每议题成立研究小组答趋势·影响·对策/配置引导员+核心参与者+决策者平等参与不提前定调/换环境开会）；②会中 2 天 1 晚先发散（允许吵架、领导只提问不拍板、红蓝军对抗）后收敛（锁 3-5 条核心、允许悬而未决）；③会后共识发酵（下发纪要约谈、几上几下成《战略指引》）；④闭环落地（战略指引→年度 SP/BP→专人跟踪复盘问责）。"
+  },
+  {
+    "title": "空降三周「破冰法」·听→帮→亮让团队主动靠拢",
+    "url": "https://maimai.cn/article/detail?efid=7cA-zsyC3bYkADGSTWDZyw&fid=1918398820",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "空降高管三周做三件小事：第一周听(约每人15min咖啡只问三问不评价)；第二周帮(解一个老麻烦不抢功)；第三周亮(用本地案例做分享)；从空降兵变自己人",
+    "normKey": "空降三周「破冰法」听→帮→亮让团队主动靠拢"
+  },
+  {
+    "title": "新主管接手低士气团队·前90天把信任救回来",
+    "url": "https://www.kvalley.biz/inherit-low-morale-team-90days",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "前30天只听：逐人1对1+观察不评论+第4周反馈痛点，承诺必兑现；31-60天修1-2个真痛点；61-90天用小胜利建节奏；贪多反失信任",
+    "normKey": "新主管接手低士气团队前90天把信任救回来"
+  },
+  {
+    "title": "First 90 Days as a New Leader·用1:1问题集建信任",
+    "url": "https://www.yeswriting.com/first-90-days-as-a-new-leader/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新领导90天：先诊断再改；1:1问题集按层级(下属/平级/上级)不同问法；信任信号=清晰+一致+公平+无意外，降低他人模糊感",
+    "normKey": "first90daysasanewleader用11问题集建信任"
+  },
+  {
+    "title": "接手「烂摊子团队」·3步把散兵游勇带成铁军",
+    "url": "https://www.toutiao.com/article/7582131826778522127/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "前30天稳人心(不谈工会+一对一咖啡+找自己人)；31-60天理清业务先做减法(砍无效报表/打小胜仗)；61-90天建规矩；不折腾换信任",
+    "normKey": "接手「烂摊子团队」3步把散兵游勇带成铁军"
+  },
+  {
+    "title": "团队融合工作坊·各层级干部「心智融合」（U型进程）",
+    "url": "http://www.keystonecn.com/hot/1905.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "组织整合后各层级干部融合；U型进程：自我复盘→共绘梦想(空椅子/互赠礼物)→深度链接；从物理整合走向心智融合，强调每个人被看见被欣赏",
+    "normKey": "团队融合工作坊各层级干部「心智融合」u型进程"
+  },
+  {
+    "title": "「裸心会」高管信任升级与协同突围（阿里基因·问题盲盒闭环）",
+    "url": "https://m.qg68.cn/neixun/detail/227077.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "阿里照镜子·揪头发·裸心会方法论；高光唤醒+乔哈里窗盲区+裸心对话(问题盲盒→责任共担→承诺生成)；不评判/不打断/不记录铁律，输出协同公约与战略对齐承诺书",
+    "normKey": "「裸心会」高管信任升级与协同突围阿里基因问题盲盒闭环"
+  },
+  {
+    "title": "Clevry 领导力破冰·用领导力议题替代游戏",
+    "url": "https://www.clevry.com/en/blog/leadership-icebreakers-6-quick-ways-to-break-the-ice/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "领导力工作坊3高价值破冰替代幼稚游戏：失败故事分享(降防御建心理安全)/价值观排序(暴露视角差)/领导力议题讨论(消除破冰与培训割裂)；按司龄混编破圈子",
+    "normKey": "clevry领导力破冰用领导力议题替代游戏"
   }
 ]
