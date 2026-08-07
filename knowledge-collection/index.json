@@ -694,5 +694,77 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "十步法：类别设计(含传承奖让人向往)、节目结构、视觉体验、餐饮、技术(直播/AI致敬视频)、前后造势(提前2周提名+会后LinkedIn数字徽章)；多城/混合团队适用"
+  },
+  {
+    "title": "山东公司「粽情端午 乐伴童心 家企共建」员工家庭日",
+    "normKey": "山东公司粽情端午乐伴童心家企共建员工家庭日",
+    "url": "http://www.csmcc.cn/qywh_3668/dqyd/202505/t20250531_243438.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "领导班子/职工代表与家属座谈，领导致辞强调「小家融入大家」+感谢家属包容奉献；端午文化纽带+亲子互动+颁发「小小传承人」证书"
+  },
+  {
+    "title": "中国化学七化建首届「员工家属开放日」",
+    "normKey": "中国化学七化建首届员工家属开放日双向奔赴",
+    "url": "https://gzw.sc.gov.cn/scsgzw/CU23020301/2025/7/31/57841c674fde4f03844a249823513df4.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "四川省国资委官网：党委副书记代董事长致辞；安全VR体验+化工科普+职业梦想实验室；「企业初体验」让家属读懂坚守，家企双向奔赴"
+  },
+  {
+    "title": "博众精工第五届家庭开放日（家企同心盛夏计划）",
+    "normKey": "博众精工第五届家庭开放日家企同心盛夏计划",
+    "url": "https://www.bozhon.com/news/info/20250707",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "公司官网：超200名家属参与；六大官方体验局(工牌DIY/彩绘/养生/补给/留影/公益)+家庭创意摊位双线；启动「博二代」暑期托管"
+  },
+  {
+    "title": "企业开放日客户参观流程方案（客户开放日）",
+    "normKey": "企业开放日客户参观流程方案客户开放日",
+    "url": "https://m.renrendoc.com/paper/438169155.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "客户签到接待+分组讲解员+路线(文化厅→车间→研发中心→体验区)+安全规范+实地操作体验+技术答疑+意见收集+合影纪念品"
+  },
+  {
+    "title": "企业开放日参观流程与讲解词（动线+分组设计）",
+    "normKey": "企业开放日参观流程与讲解词动线分组设计",
+    "url": "https://www.renrendoc.com/paper/529086615.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "动线=展厅→核心生产/研发→互动体验→交流沙龙；按媒体/客户/学生/政府分组配专属讲解员(15-20人)；高管面对面+二维码满意度闭环"
+  },
+  {
+    "title": "企业家庭日实战攻略·三阶段体验（ESG/Open House）",
+    "normKey": "企业家庭日实战攻略三阶段体验esg openhouse",
+    "url": "https://seeworldentertainment.com/%e6%89%93%e9%80%a0%e8%b6%85%e6%9a%96%e5%bf%83%e5%8f%88%e5%85%b7%e6%8c%87%e6%a8%99%e6%80%a7%e7%9a%84%e3%80%8c%e4%bc%81%e6%a5%ad%e5%ae%b6%e5%ba%ad%e6%97%a5%e3%80%8d%ef%bc%9a%e5%be%9e%e4%bc%81%e5%8a%83",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "方法论：①核心主题(ESG永續野餐/Open House職場大探險/運動會)②三阶段(前-电子邀请卡/中-分眾儿童放電区+亲子DIY+主持抽奖/后-伴手礼+问卷+精华影片)③严谨SOP离场管理"
+  },
+  {
+    "title": "四川局「公平在身边」投资者开放日系列活动",
+    "normKey": "四川局公平在身边投资者开放日系列活动",
+    "url": "https://www.csrc.gov.cn/sichuan/c105598/c1302229/content.shtml",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "监管范式第二例：约200投资者走进海特高新/兴蓉投资+华西证券营业部；高管讲战略+互动；7家媒体全程报道；搭建上市公司/券商/投资者沟通桥"
+  },
+  {
+    "title": "常山生化药业·媒体来访和投资者调研接待管理办法",
+    "normKey": "常山生化药业媒体来访和投资者调研接待管理办法",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-30/1224758288.PDF",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "制度层SOP：董秘为第一责任人；公平/诚信/保密/合规披露/互动原则；现场参观两人以上陪同避未公开信息；预约登记+承诺书+备查制度"
+  },
+  {
+    "title": "寿仙谷2024年投资者接待日活动召开情况",
+    "normKey": "寿仙谷2024年投资者接待日活动召开情况",
+    "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=10222857",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "81名机构/个人投资者；参观有机国药基地+未来工厂+文化馆；总经理致辞+董秘讲经营+管理层互动；9:40-17:00完整日程+具体问答"
   }
 ]
