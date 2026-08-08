@@ -1518,5 +1518,69 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "宁德时代贵州基地职工关爱计划：建立「老带新办 7 件事、班长 3 次谈心、主管 1 次面谈」关怀机制，从入职引导、岗位培"
+  },
+  {
+    "title": "Town Hall 作为变革沟通主阵地（Live Group）",
+    "normKey": "town hall作为变革沟通主阵地live group",
+    "url": "https://livegroup.co.uk/what-is-a-town-hall-meeting-how-town-hall-meetings-boost-engagement/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "town hall 四大目的：战略对齐/文化建设/变革沟通/认可激励；变革期是高频驱动——转型重组时员工信息需求远超正式渠道，town hall 让领导抢在谣言前诚实给上下文、愿谈难题；有效靠设计+意图+领导以参与者而非广播者到场，含未过滤不回避Q&A才显问责"
+  },
+  {
+    "title": "重组全员会 3 阶段时间表（结构化落地）",
+    "normKey": "重组全员会3阶段时间表结构化落地",
+    "url": "https://leadership-and-development.com/4-reorg-scripts-that-stop-team-resistance-with-templates",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "重组沟通14天3阶段：①上线前7天静默对齐关键影响者(15min闭门，问卡点非同意，成功率+30%)②上线日结构化Town Hall≤30min(市场5/模型10/时间线5/Q&A10)开门见山讲业务必然③上线后7天48h内逐人20min 1:1修复建心理安全+重锚30天目标"
+  },
+  {
+    "title": "字节全员会：双月会核心是「暴露问题」（晚点/雪球）",
+    "normKey": "字节全员会双月会核心是暴露问题晚点雪球",
+    "url": "https://k.sina.cn/article_7294209083_1b2c4cc3b00101jw3a.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "字节跳动全员会文化：集体会议核心主题是暴露问题(双月会重点就是暴露问题，说进展好不开影响也不大)；内部论坛保留匿名功能降低发言成本、允许吐槽负面反馈；蓝军从外部视角专帮暴露问题；暴露后动作是复盘沉淀而非惩罚(千万级bug仅象征性罚千元)"
+  },
+  {
+    "title": "字节「CEO 面对面」双月会·公开 OKR 对齐（阿里云开发者）",
+    "normKey": "字节ceo面对面双月会公开okr对齐阿里云开发者",
+    "url": "https://developer.aliyun.com/article/938254",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "字节每双月CEO面对面/部门双月会：张一鸣公开讲自己OKR进度逐项打分、没做好的直言不讳；重大决策战略危机梳理解释；鼓励直入主题提问、会议纪要原封不动发全员；倡导不包装结果不向上管理坦诚清晰，参考Google充分Context少量Control对抗大公司病"
+  },
+  {
+    "title": "阿里 Qwen 重组全员会·动荡期稳军心（腾讯新闻）",
+    "normKey": "阿里qwen重组全员会动荡期稳军心腾讯新闻",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_85069aace2648952",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "真实案例：Qwen团队重组引发负责人离职后13小时，阿里CEO吴泳铭/CPO蒋芳/CTO周靖人即开Qwen全员会(杭州线下+京沪视频)，吴泳铭坦言会本就要开只是稍提前；重大变动后最高层第一时间面对面澄清承接情绪给确定感，比层层传达更快止血"
+  },
+  {
+    "title": "鈦坦科技 Town Hall·公开透明降不确定性（DevOpsDays）",
+    "normKey": "鈦坦科技town hall公开透明降不确定性devopsdays",
+    "url": "https://devopsdays.tw/2023/news-page/458",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新加坡商鈦坦科技(300+人新台四地)远程视频全员Town Hall：总经理亲自讲年度目标/组织调整目的/产品改善方向/执行路径；核心公开透明全员参与制降低不确定性，践行敏捷价值观坦率透明；员工不确定感下降→确定状态→信任动机提升协作更顺"
+  },
+  {
+    "title": "七五煤业「三向发力」宣贯下沉（山东能源）",
+    "normKey": "七五煤业三向发力宣贯下沉山东能源",
+    "url": "https://www.shandong-energy.com/78593/81923/2025/07/39945136.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "山东能源七五煤业官网：上级会议精神学/宣/干三维度落地；学=会议解读+形势研判+任务分解三位一体分层；宣=直通车进车间班组面对面+五微(图文/影像/语音/座谈/情景)+三层宣讲(领导/专业/职工代表)；干=学习成效转重点工作引擎。官方一手会议精神从会议室走到岗位样板"
+  },
+  {
+    "title": "鲍店煤矿「订单式宣讲」接地气宣贯（山东能源）",
+    "normKey": "鲍店煤矿订单式宣讲接地气宣贯山东能源",
+    "url": "https://ykny.shandong-energy.com/77891/78937/2026/02/42557465.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "山东能源鲍店煤矿官网：打破念文件划重点传统，宣讲团订单式深入矿区队班组用职工家常话+岗位案例把大道理讲小故事(48场覆盖2000+人)；梳理4大类69项重点任务清单化项目化；班前会学精神谈打算让职工把精神转岗位目标。官方一手会议精神从纸上落到地上样板"
   }
 ]
