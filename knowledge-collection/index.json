@@ -1286,5 +1286,53 @@
     "relation": "exec",
     "summary": "新成员高管团队 offsite：Tuckman Forming/Storming，新配置重置团队阶段→信任先于战略、基础先于执行；诊断新人比例/关系/摩擦；重排议程(信任建设在前)、重构 pre-work 与 90 天跟进；McKinsey 对齐团队财务表现近 2x",
     "normKey": "新成员高管团队OffsiteForming信任先于战略"
+  },
+  {
+    "title": "新经理首场团队会·『说什么/不说的』脚本",
+    "normKey": "新经理首场团队会说什么不说的脚本",
+    "url": "https://firsttimemanagers.com/articles/first-90-days-as-manager/first-team-meeting-as-new-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理首会先安抚『暂不瞎改』化解变动焦虑；流程：不变更承诺→简短自我介绍(暴露我也要学)→问What's working/needs attention(让沉默坐满30秒)→visible note-taking→两周内排满1:1→open floor；先听后用不抢表现"
+  },
+  {
+    "title": "新经理首会·『学习模式』+深度提问框架",
+    "normKey": "新经理首会学习模式深度提问框架",
+    "url": "https://signalvnoise.com/svn3/how-to-run-your-first-meeting-as-a-new-manager/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "37signals经典：首会定位学习模式(承认没有所有答案反而建信任)；80%时间问2-4深思问题(想改/不想改/禁忌/最挫败/最好最差老板)；抓quick wins信号；结尾给具体下一步而非『随时找我』"
+  },
+  {
+    "title": "新经理首次 1:1·四段结构化（先做人再做事）",
+    "normKey": "新经理首次11四段结构化先做人再做事",
+    "url": "https://bobbypowers.com/first-one-on-one",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "首次1:1只做『互相认识+了解挑战』；四段：随意环境→非工作话题(爱好/完美一天)破冰→工作(团队优势/上主管欣赏什么/职业目标)→挑战(希望改什么/最大障碍/希望管理理解什么)；先聊生活再聊工作"
+  },
+  {
+    "title": "空降高管融合『三把钥匙』·文化前置+三线穿透",
+    "normKey": "空降高管融合三把钥匙文化前置三线穿透",
+    "url": "https://www.niuqiclub.com/news/315243.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "空降高管阵亡80%败在文化排异；三钥匙：①文化认同前置(7天沉浸+文化导游+价值观备忘录)②信任基建三线穿透(向上裸心会/平行KPI绑定/向下影子计划，支持率3月+47%)③90天爆破点(明靶速赢/明权/明界)；系统化组织适配替代宽容"
+  },
+  {
+    "title": "全远程 C-suite 入职·刻意关系经营建信任",
+    "normKey": "全远程csuite入职刻意关系经营建信任",
+    "url": "https://www.jrgpartners.com/case-study-how-successfully-onboard-fully-remote-c-suite-executive",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "远程C-suite靠刻意关系经营：CEO亲自主持虚拟破冰+video-first+首月in-person summit作信任催化剂；playbook含Pre-Boarding/Onboarding Manager/30-60-90闭环；规律虚拟互动感知信任+42%"
+  },
+  {
+    "title": "董事会/治理层破冰·战略级提问替代寒暄",
+    "normKey": "董事会治理层破冰战略级提问替代寒暄",
+    "url": "https://techwomen4boards.co.uk/leadership-development/effective-icebreaker-games-for-leadership-training",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "治理层破冰须有清晰why(加速信任/测沟通/曝专长)且必debrief；用Strategic『One Great Question』反思型提问替代寒暄，Barter Puzzle照见守silo vs 集体成功，映射房间专长；尊重高管时间用战略级破冰替代幼稚游戏"
   }
 ]
