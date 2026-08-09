@@ -2046,5 +2046,45 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "情绪智力领导建信任更快更持久，因同时照顾认知与情感双维。心理安全感(哈佛 Amy Edmondson 1999)是团队人际风险安全的共享信念——高心理安全团队敢"
+  },
+  {
+    "title": "数字化员工认可平台选型对比（Bonusly/Kudos/WorkTango 等）",
+    "normKey": "数字化员工认可平台选型对比BonuslyKudosWorkTango等",
+    "url": "http://bonusly.com/post/top-15-employee-recognition-software-platforms",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "主流认可SaaS选型维度与差异(Bonusly点对点积分/Kudos价值观映射/WorkTango认可+敬业度一体/Nectar性价比/Awardco全球奖励)；远程团队关注积分商城与多语言本地化"
+  },
+  {
+    "title": "gamification·积分商城即时激励体系",
+    "normKey": "gamification积分商城即时激励体系",
+    "url": "http://www.bote.com.cn/case/information_12372.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "积分+勋章+排行榜游戏化即时反馈；管理者手机端发积分、积分商城对接实物/虚拟/福利；数据看板识别高活跃/沉默群体；与绩效关联后主动性提升2-3倍、核心人才流失降15-25%"
+  },
+  {
+    "title": "颁奖奖金税务合规风险与个税处理",
+    "normKey": "颁奖奖金税务合规风险与个税处理",
+    "url": "http://www.cjtax.cn/a/202510/12rb4lvllw3b4.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "现金/实物/抽奖奖品并入工资薪金代扣个税；未扣缴则所得税不得扣除、面临补税+0.5-3倍罚款；省级以下一次性奖励按偶然所得20%计；现场抓钱式随机发奖风险最高"
+  },
+  {
+    "title": "制造业一线蓝领表彰·「金蓝领」激励范式",
+    "normKey": "制造业一线蓝领表彰「金蓝领」激励范式",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33216539",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中车戚墅堰所6层18级职业阶梯+双师型、一线工匠与高管同台领奖、平均工资增63%；湖南石化双数评劳模单数评工匠；金澳兰评优半年一评+荣誉墙张榜，让技能工人有名有利有奔头"
+  },
+  {
+    "title": "颁奖盛典·雇主品牌与招聘转化引擎",
+    "normKey": "颁奖盛典雇主品牌与招聘转化引擎",
+    "url": "https://effie-greaterchina.cn/news/show-7421.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "麦当劳McDiploma补办毕业礼引发全城热议：求职申请+77%、录用率+109%、媒体曝光超120万美元、员工净流失逆转+312%；表彰的情感体验+故事化传播转化为招聘漏斗与雇主评分"
   }
 ]
