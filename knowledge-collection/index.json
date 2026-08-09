@@ -1854,5 +1854,85 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "茶文化融入HRM：迎新品茗/老带新成长之杯/以茶表彰，绑定茶道精神(包容诚信敬业)提升归属感"
+  },
+  {
+    "title": "CEO 真实连接员工（McKinsey 沟通交换）",
+    "normKey": "ceo真实连接员工mckinsey沟通交换",
+    "url": "https://www.mckinsey.com/locations/mckinsey-client-capabilities-network/our-work/strategic-and-change-communications/the-communications-exchange/ceo-insights-creating-authentic-connections-with-employees",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "顶级CEO用对话替代说话：清晰信息具体化+提问与积极倾听建立真实；用AI作助手不作老板；读房间能量实时改议程"
+  },
+  {
+    "title": "CEO 全员会沟通困境·社媒时代（Korn Ferry）",
+    "normKey": "ceo全员会沟通困境社媒时代kornferry",
+    "url": "https://www.kornferry.com/insights/featured-topics/leadership/the-communication-conundrum",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "员工赋权时代CEO全员会每句在记录上(内部即外部)；提前征题主动挑难题答；CCO/CMO可代答；坦诚说还没定胜过沉默"
+  },
+  {
+    "title": "Town Hall 5 类议程模板库（Airmeet）",
+    "normKey": "townhall5类议程模板库airmeet",
+    "url": "https://www.airmeet.com/hub/blog/5-agenda-templates-for-efficient-and-effective-town-hall-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "5套模板：Classic Executive Update/Employee-Centric/Vision&Innovation/crisis/remote，覆盖高管广播到员工中心多种town hall"
+  },
+  {
+    "title": "All-Hands 三幕式结构（欢迎庆祝15%+战略60%）",
+    "normKey": "allhands三幕式结构欢迎庆祝15战略60",
+    "url": "https://www.sanmao.com/rz/14692230.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "三幕剧：欢迎庆祝15%(新人口播/周年/生日/表彰/价值观)+使命战略同步60%(Why→战略→提案)+收尾行动；先庆祝再谈战略"
+  },
+  {
+    "title": "办好全员大会·表彰+无障碍+福祉（Wellhub）",
+    "normKey": "办好全员大会表彰无障碍福祉wellhub",
+    "url": "https://wellhub.com/en-us/blog/organizational-development/all-hands-meeting/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "双向沟通Q&A/breakout/poll；表彰维度全(点名/月度之星/部门spotlight/peer/司龄)；无障碍清单(时区/字幕/翻译/录制/匿名)；福祉建心理安全"
+  },
+  {
+    "title": "全员大会 8 个参与度点子（Confetti）",
+    "normKey": "全员大会8个参与度点子confetti",
+    "url": "https://twilio.withconfetti.com/blog/post/all-hands-meeting-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "8招：icebreaker/recognition/Q&A/leader故事/workshop/polls/成功故事/fun close；把互动注入大群双向沟通"
+  },
+  {
+    "title": "员工沟通渠道设计·场景化打法+治理（HRloo）",
+    "normKey": "员工沟通渠道设计场景化打法治理hrloo",
+    "url": "https://m.hrloo.com/rz/14781556.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "场景-重点-渠道地图(扩张/转型/远程/高压)；治理三机制RACI+沟通工单池闭环+数据看板；town hall只是其中一环"
+  },
+  {
+    "title": "员工大会主持词及管理者发言范例汇编",
+    "normKey": "员工大会主持词及管理者发言范例汇编",
+    "url": "https://www.renrendoc.com/paper/494552614.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "跨场景主持词+管理者发言范例：开场/议程过渡/领导讲话引导/复盘战略动员文化建设话术；逻辑清晰+情感真挚"
+  },
+  {
+    "title": "中核集团 2025 年度工作会议（官方）",
+    "normKey": "中核集团2025年度工作会议官方",
+    "url": "https://nnsa.mee.gov.cn/ywdt/hyzx/202501/t20250120_1101001.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "央企年度工作会：卓越绩效模式年度报告；利润+5.8%/考核A级19年；23家上级单位出席；战略对齐+追求卓越真实案例"
+  },
+  {
+    "title": "鞍钢集团 2025 年度总结表彰大会（官方）",
+    "normKey": "鞍钢集团2025年度总结表彰大会官方",
+    "url": "https://www.newsansteel.cn/agxwcm/mepaper/content/202601/06/c172736.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "官方表彰大会：命名先进45/劳模145/先进生产者400；多讲职工身边事引领主人翁；劳模+十五五战略动员样板"
   }
 ]
