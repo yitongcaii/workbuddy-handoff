@@ -1974,5 +1974,77 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "团队 offsite 四策略：业务影响聚焦/心理安全/外部引导师/1-3-6月跟进维持"
+  },
+  {
+    "title": "Lencioni 五 dysfunction 模型·高管团队诊断与修复",
+    "normKey": "lencioni五dysfunction模型高管团队诊断与修复",
+    "url": "https://umbrex.com/resources/frameworks/organization-frameworks/lencioni-five-dysfunctions-of-a-team-model",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Patrick Lencioni《团队协作的五大障碍》(2002)金字塔模型，专为高管团队设计——①信任缺失(不愿暴露脆弱)→②惧怕冲突(表面和谐不敢争)→③欠"
+  },
+  {
+    "title": "Purpose & Values 工作坊·对齐领导团队使命与决策",
+    "normKey": "purposevalues工作坊对齐领导团队使命与决策",
+    "url": "https://verticaljournal.org/blog/purpose-and-values-workshop-to-align-your-leadership-team",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Purpose and Values Workshop 是结构化领导工作坊，帮高管团队(而非写官网口号)重新连接共同使命、定义真正重要的价值、把信念嵌进日常决策"
+  },
+  {
+    "title": "高管团队对齐工作坊·诊断+2天+团队章程+跟进",
+    "normKey": "高管团队对齐工作坊诊断2天团队章程跟进",
+    "url": "https://jakubgrzadzielski.com/coaching/high-performance-executive-team-alignment-workshop",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管团队对齐工作坊(教练交付框架)：即便最有经验的高管团队，优先级竞争/竖井/战略漂移也会让小缝隙在组织中放大成昂贵低效。结构：①前期诊断(个体领导力访谈+团队"
+  },
+  {
+    "title": "Atlassian·Working Agreements Play +「与我共事说明书」",
+    "normKey": "atlassianworkingagreementsplay与我共事说明书",
+    "url": "https://www.atlassian.com/team-playbook/plays/working-agreements",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Atlassian Team Playbook 官方玩法(一手)：团队工作协议(Working Agreements)是团队共创的「如何一起工作」共享规范——何"
+  },
+  {
+    "title": "情境化破冰框架·跨职能/重组/危机/层级四场景",
+    "normKey": "情境化破冰框架跨职能重组危机层级四场景",
+    "url": "https://firsthr.app/blog/performance/ice-breaker-questions-for-work",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "创始人无 HR 团队 onboarding 实战提炼：破冰不是通用套话，按场景定制才有效。①跨职能项目启动(工程+市场等多团队技术熟但语境陌生)——用「你最希望"
+  },
+  {
+    "title": "Skip-level 会议·破冰与 100+ 提问库",
+    "normKey": "skiplevel会议破冰与100提问库",
+    "url": "https://krisp.ai/blog/skip-level-meeting-questions",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Skip-level = 员工与其「经理的经理」一对一，目的是给管理者内部视角、给员工越级表达窗口，对齐公司目标。成功在提问。开场破冰建立 rapport 降紧"
+  },
+  {
+    "title": "管理者心理安全感实操指南·5 步建「敢说」文化",
+    "normKey": "管理者心理安全感实操指南5步建敢说文化",
+    "url": "https://iap.edu.au/psychological-safety-guide-managers-australia",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "澳洲管理指南(给经理的实操)：员工是否敢说，取决于领导对「上一个开口的人」如何反应——一次轻蔑回应可毁数月信任。5 步：①感恩式回应——有人提问题先说「感谢你提"
+  },
+  {
+    "title": "首次回顾会前建信任·团队契约+示弱建模",
+    "normKey": "首次回顾会前建信任团队契约示弱建模",
+    "url": "https://www.retroflow.org/blog/post/building-trust-retrospective",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "回顾会(retrospective)需要脆弱(认错/吐槽/批评流程/异议)，没信任人们就表演同意。信任要在「第一次回顾会前几周」就建，而非会上。四周法：W1-2"
+  },
+  {
+    "title": "脆弱信任+Edmondson 七问测评·团队信任加速器",
+    "normKey": "脆弱信任edmondson七问测评团队信任加速器",
+    "url": "https://winwithmotivation.com/build-trust-team-high-performing",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "情绪智力领导建信任更快更持久，因同时照顾认知与情感双维。心理安全感(哈佛 Amy Edmondson 1999)是团队人际风险安全的共享信念——高心理安全团队敢"
   }
 ]
