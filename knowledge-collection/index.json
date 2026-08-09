@@ -1750,5 +1750,61 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "工会/管理层把「表彰优秀员工」与「感恩家属」绑定：路达集团获评「年度最优秀」员工携家人参加开春大早会表彰大会，家属坐专属席位共见证荣耀；会后组织「最优秀员工家属厦门游」三天温情陪伴，生产主管与工会主席亲临晚宴向家属致谢「默默支持是奋斗最坚实"
+  },
+  {
+    "title": "中船集团家属开放日：邮轮登船+亲子互动",
+    "normKey": "中船集团家属开放日邮轮登船亲子互动",
+    "url": "http://cmie.csic.com.cn/n5/n18/c32500/content.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中船集团总部及多家单位集中办家属开放日：登上国产首艘大型邮轮爱达魔都号+参观船厂，工会负责人致辞感谢家属；广船国际/七〇一所/七二二所亲子科普拉近小家庭与大家庭距离（央企官网一手）"
+  },
+  {
+    "title": "中国一汽第六届红旗荟员工家属开放日",
+    "normKey": "中国一汽第六届红旗荟员工家属开放日",
+    "url": "https://www.faw.com.cn/fawcn/373694/373706/5914492/index.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "一汽2025第六届红旗荟家属开放日，NBD主场地+4分场地多元体验；与红旗学子托管营/集体婚礼同列十大暖镜头，嵌入企业以人为本关怀体系（一汽官网一手）"
+  },
+  {
+    "title": "中建四局家属开放日暨廉洁文化进家庭",
+    "normKey": "中建四局家属开放日廉洁文化进家庭",
+    "url": "https://iot.china.com.cn/content/2025-08/20/content_43207764.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中建四局以情系家园廉系未来为主题办家属开放日：建塔接力+VR安全体验+家庭助廉（金箔画/警示片/助廉倡议书）+集体生日会，叠加安全与廉洁双教育（中国网报道二手）"
+  },
+  {
+    "title": "江西证监局辖区投资者网上集体接待日",
+    "normKey": "江西证监局辖区投资者网上集体接待日",
+    "url": "https://www.csrc.gov.cn/jiangxi/c100771/c7560003/content.shtml",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "江西证监局指导、上市公司协会+全景网主办，87家上市公司近300名高管线上线下联动，收提问1596答复1260（答复率78.95%），推动常态化信息披露与互动交流体系（监管官方一手）"
+  },
+  {
+    "title": "中远海运第二届资本市场日",
+    "normKey": "中远海运第二届资本市场日",
+    "url": "https://www.toutiao.com/article/7519666868702020134",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "中远海运上海举办第二届资本市场日：9家控股上市公司管理层+近百位机构/分析师/战投股东，1场集体推介+45场小范围交流；董秘投关团队讲战略并答疑，落实市值管理要求（转载官方内容二手）"
+  },
+  {
+    "title": "Q4 虚拟投资者日终极指南",
+    "normKey": "Q4虚拟投资者日终极指南",
+    "url": "https://www.q4inc.com/resource-center/webinars-videos/webinar-recap-innovative-investor-events-the-ultimate-guide-to-virtual-investor-days",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "IR平台Q4联合Sharon Merrill的虚拟投资者日指南：多媒体沉浸（虚拟参观/客户证言/demo）替代slides、Q&A占30-40%、约4个月筹备、会后点播回放+定向跟进（IR权威二手）"
+  },
+  {
+    "title": "Euronext 虚拟资本市场日操作法",
+    "normKey": "Euronext虚拟资本市场日操作法",
+    "url": "https://www.corporatesolutions.euronext.com/blog/investor-relations/investor-relations-capital-markets-day",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "泛欧交易所官方博客虚拟CMD指南：简易注册降门槛、新闻稿前置造势、ESG/高管薪酬议题对齐投资者关切、presenter彩排保专业、品牌一致（统一背景+logo）显实力（交易所官方二手）"
   }
 ]
