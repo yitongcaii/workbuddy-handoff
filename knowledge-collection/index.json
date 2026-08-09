@@ -1934,5 +1934,45 @@
     "sourceType": "primary",
     "relation": "supervisor",
     "summary": "官方表彰大会：命名先进45/劳模145/先进生产者400；多讲职工身边事引领主人翁；劳模+十五五战略动员样板"
+  },
+  {
+    "title": "企业年度 Offsite 全流程最佳实践",
+    "normKey": "企业年度Offsite全流程最佳实践",
+    "url": "https://www.iceindia.biz/annual-corporate-offsite-planning",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "企业年度 offsite 全流程：目标对齐→选址→议程→后勤→48h ROI 度量，PMO 可拆用"
+  },
+  {
+    "title": "企业 Offsite 端到端规划指南（含预算基准）",
+    "normKey": "企业Offsite端到端规划指南含预算基准",
+    "url": "https://easyhotelrfp.com/blog/corporate-offsite-planning-guide",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "端到端规划：目的先于场地/人数分级/50-30-20议程/€1400-2600预算基准/成功度量"
+  },
+  {
+    "title": "500+ 人大型 Offsite 作战框架",
+    "normKey": "500人大型Offsite作战框架",
+    "url": "https://encoreeventsglobal.com/the-ultimate-guide-to-planning-a-corporate-offsite-for-500-delegates",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "500+人 offsite=临时城市：战略简报五问→类型定配置→90天框架→规模风险三防"
+  },
+  {
+    "title": "分布式/远程团队 Offsite 带领法",
+    "normKey": "分布式远程团队Offsite带领法",
+    "url": "https://blog.goteamassemble.com/posts/how-to-lead-an-offsite-for-distributed-teams-tips-tricks-and-a-touch-of-magic",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "分布式团队 offsite：跨时区排期/工具链/虚拟咖啡+伙伴制/复盘跟进保连接"
+  },
+  {
+    "title": "高影响力团队 Offsite 四策略",
+    "normKey": "高影响力团队Offsite四策略",
+    "url": "https://www.kathrynlandisconsulting.com/blog/4-strategies-for-an-impactful-team-offsite",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队 offsite 四策略：业务影响聚焦/心理安全/外部引导师/1-3-6月跟进维持"
   }
 ]
