@@ -1646,5 +1646,69 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "团建定制安全六策略（管理层组织视角）：①明确目标与参与者身体状况（年龄/健康/体能，心血管史者避高强度）——因人而异非一刀切；②选专业团建服务商（查案例/安全记录/应急预案，配保护绳救生衣等，购意外险）；③场地安全评估（室内消防通道/设备标"
+  },
+  {
+    "title": "Asana·120+ 破冰问题库（会议/线上/跨代际通用）",
+    "normKey": "Asana·120+ 破冰问题库（会议/线上/跨代际通用）",
+    "url": "https://asana.com/zh-TW/resources/icebreaker-questions-team-building",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Asana 官方破冰问题库（工具官方文档·一手）：120+ 问题按线上/回溯/有趣/工作/假设等场景分类；经理用于例会开场3-5min、启动会暖场、跨部门开场；按熟悉度由浅入深、避开敏感、不超会议10%。"
+  },
+  {
+    "title": "Miro·远程团队 4 个破冰游戏（白板协作）",
+    "normKey": "Miro·远程团队 4 个破冰游戏（白板协作）",
+    "url": "https://miro.com/blog/resources/guide-effective-remote-collaboration/dealing-with-biggest-remote-challenge-team-engagement",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Miro 官方远程参与指南（一手）：4个白板破冰游戏——Guess the artist / Birth map / Share a picture / Would you rather；降远程技术焦虑、建团队感；给准备时间+视频讲故事。"
+  },
+  {
+    "title": "跨代际团队·沟通破冰三把钥匙（80/90/00后）",
+    "normKey": "跨代际团队·沟通破冰三把钥匙（80/90/00后）",
+    "url": "https://m.qg68.cn/neixun/detail/230719.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "内训拆解80/90/00后沟通壁垒：黑话翻译术+反馈熔断机制+代际咖啡馆三钥匙破冰；配套3F跨代际沟通法、反馈三明治2.0、反向导师制。"
+  },
+  {
+    "title": "跨代际团队冲突·调解技术手册（差异可视化+反向导师）",
+    "normKey": "跨代际团队冲突·调解技术手册（差异可视化+反向导师）",
+    "url": "https://www.niuqiclub.com/news/333267.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "牛企老板俱乐部跨代际冲突调解四步：差异可视化工作坊+冲突温度计预警、三明治沟通+反向导师制、跨界共KPI、管理者从裁判转催化师。"
+  },
+  {
+    "title": "空降新团队·3个月站稳四步法（首月行动清单）",
+    "normKey": "空降新团队·3个月站稳四步法（首月行动清单）",
+    "url": "https://www.toutiao.com/article/7618050348397167144",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "空降管理者前3月四步法——诊断(倾听/旁听/考古)→试点(小痛点速胜)→整合(经验制度化)→发力；附首月行动清单，先信任再变革。"
+  },
+  {
+    "title": "并购后90天·文化动作设定基调（Charter+联合offsite）",
+    "normKey": "并购后90天·文化动作设定基调（Charter+联合offsite）",
+    "url": "https://www.rhizomehr.com/post/the-people-side-of-m-a-part-4-post-close-now-what-immediate-culture-moves-that-set-the-tone",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Rhizome HR 并购后人因：发 Culture Integration Charter 明确变与不变；联合领导 offsite+跨公司配对；live Q&A+匿名反馈处理情绪；早赢广宣强调共同转型；说到做到投资信任。"
+  },
+  {
+    "title": "并购整合·4次高管工作坊建信任对齐（Bain）",
+    "normKey": "并购整合·4次高管工作坊建信任对齐（Bain）",
+    "url": "https://www.bain.com/es-es/insights/change-management-in-merger-integration",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "Bain 并购整合变革管理（一手）：签约后4次多日高管工作坊(理解→对齐→计划→交割offsite)，把 it/we/I 三维带入；先对齐 top team 再 cascade 全员，用个人互动替代单向宣贯。"
+  },
+  {
+    "title": "穆拉利空降福特·谦和又坚决破冰赢人心",
+    "normKey": "穆拉利空降福特·谦和又坚决破冰赢人心",
+    "url": "https://m.thepaper.cn/baijiahao_12096778",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "福特前CEO穆拉利空降破冰真实案例：以「我的团队就在这里」结盟表态+一对一倾听+当场请教，对正确变革坚决执行；5年带福特扭亏为盈；空降高管靠谦和又坚决赢人心。"
   }
 ]
