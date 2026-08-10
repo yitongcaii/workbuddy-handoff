@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 文化活动知识库 · 小白讲解</title>
+<style>
+  :root{
+    --purple:#534AB7; --purple-l:#EEEDFE; --purple-m:#7F77DD;
+    --teal:#0F6E56; --teal-l:#E1F5EE; --teal-m:#1D9E75;
+    --red:#A32D2D; --red-l:#FCEBEB;
+    --amber:#854F0B; --amber-l:#FAEEDA;
+    --blue:#185FA5; --blue-l:#E6F1FB;
+    --ink:#26215C; --muted:#5F5E5A; --line:#E6E4F0;
+    --bg:#F7F8FC; --card:#FFFFFF;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.65; padding-bottom:40px;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  /* hero */
+  .hero{
+    background:linear-gradient(135deg,var(--purple-l),var(--teal-l));
+    border-radius:0 0 28px 28px; padding:54px 20px 46px; text-align:center; margin-bottom:34px;
+  }
+  .hero h1{font-size:30px;font-weight:800;letter-spacing:.5px;color:var(--ink)}
+  .hero p{margin-top:12px;font-size:15px;color:var(--muted);max-width:680px;margin-left:auto;margin-right:auto}
+  .pill{
+    display:inline-block;padding:4px 12px;border-radius:999px;font-size:12px;font-weight:600;
+    background:#fff;color:var(--purple);border:1px solid var(--purple-m);margin:8px 4px 0;
+  }
+  h2.sec{font-size:21px;font-weight:800;margin:38px 0 6px;display:flex;align-items:center;gap:10px}
+  h2.sec::before{content:"";width:6px;height:22px;border-radius:4px;background:linear-gradient(var(--purple),var(--teal))}
+  .sec-desc{color:var(--muted);font-size:14px;margin-bottom:16px}
+  /* bento grid */
+  .grid{display:grid;gap:16px}
+  .g2{grid-template-columns:repeat(2,1fr)}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px 22px;
+    box-shadow:0 6px 20px rgba(83,74,183,.06);transition:transform .2s ease,box-shadow .2s ease;
+  }
+  .card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(83,74,183,.12)}
+  .card h3{font-size:16px;font-weight:700;margin-bottom:8px}
+  .card p,.card li{font-size:14px;color:var(--muted)}
+  .card ul{list-style:none;margin-top:6px}
+  .card li{padding-left:16px;position:relative;margin:5px 0}
+  .card li::before{content:"";position:absolute;left:0;top:9px;width:6px;height:6px;border-radius:50%;background:var(--purple-m)}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:3px 10px;border-radius:999px;margin-bottom:10px}
+  .t-purple{background:var(--purple-l);color:var(--purple)}
+  .t-teal{background:var(--teal-l);color:var(--teal)}
+  .t-red{background:var(--red-l);color:var(--red)}
+  .t-amber{background:var(--amber-l);color:var(--amber)}
+  .t-blue{background:var(--blue-l);color:var(--blue)}
+  /* stepper */
+  .step{display:flex;gap:16px;align-items:flex-start}
+  .step .num{
+    flex:0 0 auto;width:38px;height:38px;border-radius:12px;background:linear-gradient(135deg,var(--purple),var(--teal-m));
+    color:#fff;font-weight:800;font-size:17px;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 12px rgba(83,74,183,.25)
+  }
+  .step .body{flex:1}
+  .step .body h3{margin-bottom:4px}
+  .flow-line{width:2px;height:14px;background:var(--line);margin-left:18px}
+  /* six-dimension highlight */
+  .rule{
+    background:linear-gradient(135deg,var(--purple-l),var(--teal-l));border:1px dashed var(--purple-m);
+    border-radius:16px;padding:16px 20px;font-size:14px;color:var(--ink);margin-top:16px
+  }
+  .rule b{color:var(--purple)}
+  .score{font-size:12px;font-weight:700;color:var(--teal);float:right}
+  footer{text-align:center;color:var(--muted);font-size:13px;margin-top:46px;padding-top:20px;border-top:1px solid var(--line)}
+  @media(max-width:720px){.g2,.g3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+  <div class="hero">
+    <h1>AI 文化活动知识库 · 小白讲解</h1>
+    <p>给完全没接触过的人，讲清楚我们为什么建、怎么建、过程中怎么想、后面怎么决策、怎么持续转、怎么保质量。</p>
+    <div>
+      <span class="pill">为什么建</span><span class="pill">怎么建</span><span class="pill">关键考虑</span>
+      <span class="pill">怎么决策</span><span class="pill">持续运营</span><span class="pill">六维评估</span>
+    </div>
+  </div>
+
+  <div class="wrap">
+
+    <!-- 1. 为什么建 -->
+    <h2 class="sec">一、为什么要建</h2>
+    <p class="sec-desc">一句话：这是给公司办文化活动的人（HRBP / 文化 BP）准备的"点子弹药库"。</p>
+    <div class="grid g2">
+      <div class="card" style="border-color:var(--red)">
+        <span class="tag t-red">以前办活动</span>
+        <ul>
+          <li>凭个人经验，临时上网搜</li>
+          <li>好点子散落公众号、官网、别人复盘里</li>
+          <li>每次都从零想，重复造轮子</li>
+          <li>适合"领导也在场"的点子尤其难找</li>
+          <li>人一走，经验就断档</li>
+        </ul>
+      </div>
+      <div class="card" style="border-color:var(--teal)">
+        <span class="tag t-teal">AI 知识库</span>
+        <ul>
+          <li>自动搜并筛选点子，不用人工攒</li>
+          <li>按"对谁用"分类（上下级 / 高管间）</li>
+          <li>卡片墙网页，点开链接即看</li>
+          <li>团队三端共享，谁都能用</li>
+          <li>持续累积，经验不流失</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 2. 怎么建 -->
+    <h2 class="sec">二、怎么建（采集流水线）</h2>
+    <p class="sec-desc">没雇人手工整理，而是搭了一个会自己跑的"采集机器人"，按固定流水线把点子变成卡片。</p>
+    <div class="card">
+      <div class="step"><div class="num">1</div><div class="body"><h3>定主题清单</h3><p>6 类活动：员工大会 / Offsite / 破冰 / 颁奖 / Open Day / 下午茶研讨。</p></div></div>
+      <div class="flow-line"></div>
+      <div class="step"><div class="num">2</div><div class="body"><h3>AI 自动上网搜 + 判来源</h3><p>区分一手（官方 / 主办方）与二手（媒体 / 经验贴）。</p></div></div>
+      <div class="flow-line"></div>
+      <div class="step"><div class="num">3</div><div class="body"><h3>六维评估 + 关系适配</h3><p>过滤平级 / 朋友向内容，只留上下级与高管间（详见第五节）。</p></div></div>
+      <div class="flow-line"></div>
+      <div class="step"><div class="num">4</div><div class="body"><h3>落成知识卡 → 卡片墙网页</h3><p>每张卡含摘要 / 来源 / 类型 / 关系 / 评分，铺成可翻的网页。</p></div></div>
+      <div class="flow-line"></div>
+      <div class="step"><div class="num">5</div><div class="body"><h3>三端同步</h3><p>网页（GitHub Pages）+ 个人笔记（Obsidian）+ 团队空间（乐享），三方一致。</p></div></div>
+    </div>
+
+    <!-- 3. 关键考虑 -->
+    <h2 class="sec">三、过程中的关键考虑</h2>
+    <p class="sec-desc">建的时候卡在最重要的一条判断：活动点子要看"对谁用"。</p>
+    <div class="grid g2">
+      <div class="card"><span class="tag t-purple">关系分层（最核心）</span>
+        <p>朋友间玩的破冰（两真一假、互画肖像）放到"领导和员工""领导和领导"场合就不合适。所以硬性分层：整个库只保留<b>上下级</b>和<b>高管间</b>两类，平级 / 朋友向一律不要。这是它和"普通灵感收集"最大的区别。</p></div>
+      <div class="card"><span class="tag t-teal">来源可信度</span>
+        <p>优先用官方 / 主办方的一手资料；二手（媒体报道、经验贴）会醒目标注"二手·供参考"，只在缺一手时保留。</p></div>
+      <div class="card"><span class="tag t-red">不碰敏感内部资料</span>
+        <p>某些安全 / HRBP 内部空间明确列为禁区，采集程序自动跳过，避免把不该外传的内容收进来。</p></div>
+      <div class="card"><span class="tag t-blue">点开即看</span>
+        <p>所有卡片做成单文件网页，不用装任何软件，发个链接就能打开，方便转发。</p></div>
+    </div>
+
+    <!-- 4. 怎么决策 -->
+    <h2 class="sec">四、后面是怎么决策的</h2>
+    <p class="sec-desc">建完不是一成不变，几个关键决策都是边跑边定的。</p>
+    <div class="grid g3">
+      <div class="card"><span class="tag t-purple">周报口径</span>
+        <p>按"卡片数"还是"页面数"算账？最后定主口径用页面（一个活动主题 = 一页），卡片数当辅助，避免数字虚高。</p></div>
+      <div class="card"><span class="tag t-teal">发群通道</span>
+        <p>原以为用普通"群机器人"网页钩子就能发，结果是"智能机器人"要走长连接；且主动发不支持 @ 所有人。决策：去掉 @，每周五自动化直接发文案 + 海报图。</p></div>
+      <div class="card"><span class="tag t-amber">连通误报</span>
+        <p>乐享后台显示"断开"，实测是显示滞后。改成"探活"机制确认真连通，不再被假红点骗。</p></div>
+    </div>
+
+    <!-- 5. 持续运营 + 质量 -->
+    <h2 class="sec">五、持续运营 与 质量把关</h2>
+    <p class="sec-desc">两件事绑在一起：左边让系统一直转，右边让它不出错。</p>
+    <div class="grid g2">
+      <div class="card" style="border-color:var(--blue)">
+        <span class="tag t-blue">持续运营</span>
+        <ul>
+          <li>采集机器人每 6 小时自动轮询更新</li>
+          <li>每周五 17:00 自动生成周报（新增几页 / 几卡 / 删几重复）</li>
+          <li>周报自动发到团队群</li>
+          <li>写好了交接文档，人走也能接手</li>
+          <li>凭证与配置存好复用</li>
+        </ul>
+      </div>
+      <div class="card" style="border-color:var(--amber)">
+        <span class="tag t-amber">质量把关</span>
+        <ul>
+          <li>进门关：六维评估 + 关系适配</li>
+          <li>源头关：一手 / 二手标注</li>
+          <li>去重关：重复 / 平级内容剔除（留日志可追溯）</li>
+          <li>沉淀关：只沉最终有效，不放草稿</li>
+          <li>治理关：不碰敏感内部资料</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 6. 六维评估 -->
+    <h2 class="sec">六、六维评估到底是什么</h2>
+    <p class="sec-desc">每一张候选卡片，都要过这 6 个维度的打分，全部达标才进库。维度来自知识采集自动化 skill 的硬性评估标准。</p>
+    <div class="grid g3">
+      <div class="card"><span class="score">1–5 分</span><span class="tag t-purple">维度 1 · 相关度</span>
+        <p>这条点子跟"我们要办的活动主题"贴不贴。跑题的直接低分，不进库。</p></div>
+      <div class="card"><span class="score">1–5 分</span><span class="tag t-teal">维度 2 · 权威性</span>
+        <p>来源可不可信。官方 / 主办方一手资料加权；二手必须标注"二手·供参考"，只在缺一手时保留。</p></div>
+      <div class="card"><span class="score">1–5 分</span><span class="tag t-blue">维度 3 · 时效性</span>
+        <p>内容是否过时。已停办的活动、失效的旧平台玩法等降分。</p></div>
+      <div class="card"><span class="score">1–5 分</span><span class="tag t-amber">维度 4 · 去重度</span>
+        <p>跟库里已有内容重合度低才保留。重复的一律不进，留更全更权威那版。</p></div>
+      <div class="card"><span class="score">1–5 分</span><span class="tag t-purple">维度 5 · 可落地质量</span>
+        <p>拿回去能不能直接用。有明确流程、成本可控、可执行，而不是空泛概念。</p></div>
+      <div class="card" style="border-color:var(--purple)"><span class="score">1–5 分</span><span class="tag t-purple">维度 6 · 关系适配度（新增硬维度）</span>
+        <p>跟"对谁用"匹不匹配。平级 / 朋友向内容拿去上下级或高管场景，直接判低分；跨档从严。</p></div>
+    </div>
+    <div class="rule">
+      <b>打分规则：</b>每个维度 1–5 分，<b>任一维度 &lt; 3 直接淘汰</b>。一手来源放宽阈值（权威性可松一点），但<b>关系适配度对跨档内容一律从严</b>——平级向内容用于上下级场景，直接判低分不进库。
+    </div>
+
+    <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+  </div>
+</body>
+</html>
