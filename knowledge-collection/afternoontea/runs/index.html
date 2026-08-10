@@ -54,11 +54,13 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
 .nav span.disabled{background:#f1f5f9;color:#cbd5e1;}
 .hl{transition:transform .15s ease, box-shadow .15s ease;}
 .hl:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(108,92,231,.18);}
-.idxlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:10px;}
-.idxcard{background:#fff;border-radius:16px;padding:16px 18px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);}
+.idxlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:22px 14px;margin-top:14px;}
+.idxcard{position:relative;background:#fff;border-radius:16px;padding:22px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);}
+.idxcard .seq{position:absolute;top:-14px;left:18px;width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);color:#fff;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(108,92,231,.35);}
 .idxcard h3{font-size:16px;margin-bottom:6px;}
 .idxcard .meta{font-size:12.5px;color:var(--sub);}
-.idxcard a{color:var(--accent2);text-decoration:none;font-weight:600;font-size:13px;}
+.idxcard .note{font-size:12px;color:#7b2cbf;margin-top:5px;font-weight:600;}
+.idxcard a{display:inline-block;margin-top:10px;color:var(--accent2);text-decoration:none;font-weight:600;font-size:13px;}
 </style>
 </head>
 <body>
@@ -66,30 +68,35 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
 <div class="nav"><a href="../afternoontea.html">🗂 累计总索引</a></div>
   <div class="hero">
     <h1>🍵 下午茶研讨 · 分页索引</h1>
-    <p>累计墙 <a href="../afternoontea.html" style="color:#fff;text-decoration:underline;">afternoontea.html</a> 已拆分为 5 个批次独立页（顺序均匀拆分，非原始轮次）｜ 拆分于 2026-08-10</p>
+    <p>累计墙 <a href="../afternoontea.html" style="color:#fff;text-decoration:underline;">afternoontea.html</a> 共拆为 5 个批次独立页｜ 按<b>采集 / 创建顺序从早到晚</b>排列（序号 1 → 5）｜ 拆分于 2026-08-10</p>
   </div>
   <div class="idxlist">
     <div class="idxcard">
+      <div class="seq">1</div>
       <h3>第 1 / 共 5 批</h3>
       <div class="meta">12 卡 ｜ ③高管间 5 / ②上下级 7</div>
       <a href="afternoontea-2026-08-10-b1.html">查看本批 →</a>
     </div>
     <div class="idxcard">
+      <div class="seq">2</div>
       <h3>第 2 / 共 5 批</h3>
       <div class="meta">12 卡 ｜ ③高管间 11 / ②上下级 1</div>
       <a href="afternoontea-2026-08-10-b2.html">查看本批 →</a>
     </div>
     <div class="idxcard">
+      <div class="seq">3</div>
       <h3>第 3 / 共 5 批</h3>
       <div class="meta">12 卡 ｜ ②上下级 12</div>
       <a href="afternoontea-2026-08-10-b3.html">查看本批 →</a>
     </div>
     <div class="idxcard">
+      <div class="seq">4</div>
       <h3>第 4 / 共 5 批</h3>
       <div class="meta">12 卡 ｜ ②上下级 12</div>
       <a href="afternoontea-2026-08-10-b4.html">查看本批 →</a>
     </div>
     <div class="idxcard">
+      <div class="seq">5</div>
       <h3>第 5 / 共 5 批</h3>
       <div class="meta">6 卡 ｜ ②上下级 6</div>
       <a href="afternoontea-2026-08-10-b5.html">查看本批 →</a>

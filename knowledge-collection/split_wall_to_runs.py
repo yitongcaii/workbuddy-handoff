@@ -28,11 +28,13 @@ EXTRA_CSS = """
 .nav span.disabled{background:#f1f5f9;color:#cbd5e1;}
 .hl{transition:transform .15s ease, box-shadow .15s ease;}
 .hl:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(108,92,231,.18);}
-.idxlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:10px;}
-.idxcard{background:#fff;border-radius:16px;padding:16px 18px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);}
+.idxlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:22px 14px;margin-top:14px;}
+.idxcard{position:relative;background:#fff;border-radius:16px;padding:22px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);}
+.idxcard .seq{position:absolute;top:-14px;left:18px;width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);color:#fff;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(108,92,231,.35);}
 .idxcard h3{font-size:16px;margin-bottom:6px;}
 .idxcard .meta{font-size:12.5px;color:var(--sub);}
-.idxcard a{color:var(--accent2);text-decoration:none;font-weight:600;font-size:13px;}
+.idxcard .note{font-size:12px;color:#7b2cbf;margin-top:5px;font-weight:600;}
+.idxcard a{display:inline-block;margin-top:10px;color:var(--accent2);text-decoration:none;font-weight:600;font-size:13px;}
 """
 
 
@@ -140,18 +142,22 @@ def build_batch_page(topic, topic_name, date, batch, total, cards, prev_file, ne
 
 def build_index_page(topic, topic_name, date, batches, master):
     emoji = EMOJI.get(topic, '📚')
+    batches = sorted(batches, key=lambda b: b['seq'])
+    n = len(batches)
     cards_html = ''
     for b in batches:
+        note = f'<div class="note">{b["note"]}</div>' if b.get('note') else ''
         cards_html += f'''    <div class="idxcard">
-      <h3>第 {b['batch']} / 共 {b['total']} 批</h3>
-      <div class="meta">{b['n']} 卡 ｜ {b['rel_str']}</div>
+      <div class="seq">{b['seq']}</div>
+      <h3>{b['label']}</h3>
+      <div class="meta">{b['n']} 卡 ｜ {b['rel_str']}</div>{note}
       <a href="{b['file']}">查看本批 →</a>
     </div>
 '''
     nav = f'<div class="nav"><a href="../{topic}.html">🗂 累计总索引</a></div>'
     hero = f'''  <div class="hero">
     <h1>{emoji} {topic_name} · 分页索引</h1>
-    <p>累计墙 <a href="../{topic}.html" style="color:#fff;text-decoration:underline;">{topic}.html</a> 已拆分为 {len(batches)} 个批次独立页（顺序均匀拆分，非原始轮次）｜ 拆分于 {date}</p>
+    <p>累计墙 <a href="../{topic}.html" style="color:#fff;text-decoration:underline;">{topic}.html</a> 共拆为 {n} 个批次独立页｜ 按<b>采集 / 创建顺序从早到晚</b>排列（序号 1 → {n}）｜ 拆分于 {date}</p>
   </div>'''
     return f'''<!DOCTYPE html>
 <html lang="zh-CN">
@@ -228,6 +234,7 @@ def main():
     ap.add_argument('--date', required=True)
     ap.add_argument('--size', type=int, default=12)
     ap.add_argument('--exclude-file', help='排除此 runs html 中的卡（已单独成页的真·轮次）')
+    ap.add_argument('--extra-runs', help='额外真·轮次页注入索引（排在最后=最晚采集），格式 file.html|label|note，多组用;分隔')
     ap.add_argument('--vault', help='Obsidian 知识采集库根，如 C:/.../知识采集库')
     ap.add_argument('--gh-pages-base', default='https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection')
     args = ap.parse_args()
@@ -277,9 +284,35 @@ def main():
             parts.append(f'②上下级 {rel["r2"]}')
         if rel['r1']:
             parts.append(f'①平级 {rel["r1"]}')
-        batches_meta.append({'batch': batch, 'total': total, 'n': len(chunk),
-                             'rel_str': ' / '.join(parts) if parts else '—', 'file': fname})
+        batches_meta.append({'seq': batch, 'label': f'第 {batch} / 共 {total} 批',
+                             'n': len(chunk),
+                             'rel_str': ' / '.join(parts) if parts else '—', 'file': fname,
+                             'note': ''})
         print(f'  ✅ {fname} | {len(chunk)} 卡 | {batches_meta[-1]["rel_str"]}')
+
+    # 额外真·轮次页（排在最后 = 最晚采集），如 offsite 的 r7
+    if args.extra_runs:
+        for i, part in enumerate([p for p in args.extra_runs.split(';') if p.strip()]):
+            f_html, label, note = [x.strip() for x in part.split('|')]
+            epath = os.path.join(outdir, f_html)
+            ex = open(epath, encoding='utf-8').read() if os.path.exists(epath) else ''
+            ex_cards = split_cards(ex)
+            rel = {'r1': 0, 'r2': 0, 'r3': 0}
+            for c in ex_cards:
+                for r in relation_of(c):
+                    rel[r] += 1
+            parts = []
+            if rel['r3']:
+                parts.append(f'③高管间 {rel["r3"]}')
+            if rel['r2']:
+                parts.append(f'②上下级 {rel["r2"]}')
+            if rel['r1']:
+                parts.append(f'①平级 {rel["r1"]}')
+            batches_meta.append({'seq': total + 1 + i, 'label': label,
+                                 'n': len(ex_cards),
+                                 'rel_str': ' / '.join(parts) if parts else '—',
+                                 'file': f_html, 'note': note})
+            print(f'  ➕ 索引附加（最晚）: {f_html} | {len(ex_cards)} 卡')
 
     # runs index
     idx_html = build_index_page(args.topic, args.topic_name, args.date, batches_meta,
