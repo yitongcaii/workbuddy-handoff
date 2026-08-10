@@ -319,7 +319,7 @@ def main():
                                 f'../{args.topic}.html')
     idx_path = os.path.join(outdir, 'index.html')
     open(idx_path, 'w', encoding='utf-8').write(idx_html)
-    print(f'  ✅ index.html | {total} 批')
+    print(f'  ✅ index.html | {len(batches_meta)} 批（含额外真·轮次）')
 
     # Obsidian notes
     if args.vault:

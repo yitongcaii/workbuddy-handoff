@@ -2509,5 +2509,68 @@
     "relation": "supervisor",
     "summary": "远程优先团队 morale：虚拟互动(随机咖啡/非工作 Slack 频道/认可系统)只能“维持”不能“转化”——研究一致表明一年一次线下聚首对归属感的作用 >12 个月虚拟 happy hour；高影响 retreat 四特征：非结构化时间 ≈ 议程重要(晚餐/徒步/会前 20 分钟)、共享物理体验造情感记忆(烹饪课/徒步/共创)、节目反映团队文化而非默认公司格式、跟进(half-life：连接须靠后续沟通与认可强化)。HBR：面对面建信任/连接显著优于数字。",
     "topic": "offsite"
+  },
+  {
+    "title": "企业文化共创工作坊·高管横向联结+纵向同频",
+    "normKey": "企业文化共创工作坊高管横向联结纵向同频",
+    "url": "https://www.qywin.cn/tjkt/tjkt4995.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "高管十几人/两天；双轴设计——横向联结(场域/人/事三维度提升沟通)+纵向同频(心智/能力/行为层面换位思考)；流程破冰(趣味游戏+个人故事+文化剧场)→吐槽小会→团队下潜→价值观行为准则手册"
+  },
+  {
+    "title": "新任高管前 90 天·听先于宣布+跨职能信任+运营节奏",
+    "normKey": "新任高管前90天听先于宣布跨职能信任运营节奏",
+    "url": "https://saiyo.io/insights/what-high-performing-saas-leaders-do-differently-in-the-first-90-days",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "Saiyō实证模型：听先于宣布+快速建跨职能信任(问怎么早期支持你)+清晰公开定义成功+运营节奏(周sync/QBR)+早赢不颠覆+强化中层；90天=学/对齐/执行三阶段，把权威变被信任"
+  },
+  {
+    "title": "团队会议破冰·非尴尬问题+互换介绍+5-things工作流",
+    "normKey": "团队会议破冰非尴尬问题互换介绍5things工作流",
+    "url": "https://www.atlassian.com/blog/teamwork/team-meeting-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Atlassian：会议是建心理安全感基地；非尴尬破冰问题(会前提交掌握主动权)+show-and-tell+互换介绍+分享照片；5-things workflow切噪音+celebrate wins提气；避信任摔/荒岛类幼稚破冰，不超会议10%"
+  },
+  {
+    "title": "团队融合与凝聚力·塔可曼阶段+乔哈里窗+鲜花拳头反馈",
+    "normKey": "团队融合与凝聚力塔可曼阶段乔哈里窗鲜花拳头反馈",
+    "url": "http://www.mingketang.com/nxk/43632.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "经理/高级经理+核心成员≤10人；塔可曼团队阶段+乔哈里窗理论打底；鲜花拳头活动在安全环境练给/收反馈、生命故事高峰低谷建深层理解；优势组合+价值观融合+行动计画落地"
+  },
+  {
+    "title": "远程入职 5C 框架·Connection→Culture→Clarity→Capability→Celebration",
+    "normKey": "远程入职5c框架connectioncultureclaritycapabilitycelebration",
+    "url": "https://blog.workhint.com/blog/the-5-cs-of-remote-onboarding",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "远程跨时区新人入职坑=把信息投递当checklist；5C框架：Connection(入职前私人信+经理15分钟视频+首周地图)→Culture(嵌文化触点)→Clarity(角色宪章+30天里程碑)→Capability(结构化学习+导师)→Celebration(里程碑公开认可)"
+  },
+  {
+    "title": "远程团队建信任·停陈词滥调破冰+Buddy+watercooler频道",
+    "normKey": "远程团队建信任停陈词滥调破冰buddywatercooler频道",
+    "url": "https://canopy.is/blog/2020/05/10/virtual-team-building-how-to-build-trust-in-a-remote-team/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "远程信任靠系统化机制：停「周末怎么过」套路改用揭示面问题；buddy system(官方mentor+随机配对视频聊)；设watercooler/宠物非工作频道；多给非工作视频聊建情感信任；首次1:1问最沮丧/不清/要更多教练"
+  },
+  {
+    "title": "跨部门团队 6 模板·Team Canvas+契约+个人用户手册",
+    "normKey": "跨部门团队6模板teamcanvas契约个人用户手册",
+    "url": "https://miro.com/blog/6-activities-templates-unite-cross-functional-team/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "跨部门协作难在沟通差/不信任/不对齐；Miro 6 模板(非游戏)：Team Canvas对齐基础+Team Contract定规则建心理安全+Personal User Manual共享工作偏好+Fika配对深聊；用理解彼此如何工作替代私生活暴露"
   }
 ]
