@@ -2714,5 +2714,65 @@
     "summary": "中国石化新闻发言人吕大鹏所著，系统梳理中国石化公众开放日品牌活动管理/实践/成效/传播，提炼责任沟通典型模式；核心「八个一」顶层设计：一套标准流程、一组统一视觉、一个代言人、一首主题曲、一份标准解说词、一个整合传播平台、一本可复制指导手册、一个固定活动日。",
     "topic": "openday",
     "source": "web"
+  },
+  {
+    "title": "愉悦资本/华兴「愉悦下午茶」·投资人×创始人 闭门路演平台",
+    "normKey": "愉悦资本/华兴「愉悦下午茶」·投资人×创始人 闭门路演平台",
+    "url": "https://www.sohu.com/a/162216254_735286",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "愉悦资本/华兴「愉悦下午茶」·投资人×创始人 闭门路演平台",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "Salesforce 新竹高科技领袖午宴·CXO 闭门午宴",
+    "normKey": "Salesforce 新竹高科技领袖午宴·CXO 闭门午宴",
+    "url": "https://invite.salesforce.com/ai06a466abfb16f5",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Salesforce 新竹高科技领袖午宴·CXO 闭门午宴",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "仪征供电「工会主席下午茶+总经理联络员」多通道诉求体系",
+    "normKey": "仪征供电「工会主席下午茶+总经理联络员」多通道诉求体系",
+    "url": "https://www.ceweekly.cn/area/jiangsu/2025/0327/470300.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "仪征供电「工会主席下午茶+总经理联络员」多通道诉求体系",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "维达纸业「深度社交茶话会」·高管↔一线职工直接对话桥",
+    "normKey": "维达纸业「深度社交茶话会」·高管↔一线职工直接对话桥",
+    "url": "https://www.zjgrrb.cn/html/2025-12/26/content_146741_19166712.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "维达纸业「深度社交茶话会」·高管↔一线职工直接对话桥",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "嘉新企业团「执行长下午茶+系统化员工反馈矩阵」",
+    "normKey": "嘉新企业团「执行长下午茶+系统化员工反馈矩阵」",
+    "url": "https://www.chcgroup.com.tw/%e5%93%a1%e5%b7%a5%e5%8f%8d%e9%a5%8b%e8%88%87%e5%8f%83%e8%88%87/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "嘉新企业团「执行长下午茶+系统化员工反馈矩阵」",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "新员工入职领导下午茶·迎新融入+答疑",
+    "normKey": "新员工入职领导下午茶·迎新融入+答疑",
+    "url": "https://www.jinguxun.com/article/6265650",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新员工入职领导下午茶·迎新融入+答疑",
+    "topic": "afternoontea",
+    "source": "web"
   }
 ]
