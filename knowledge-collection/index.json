@@ -2604,5 +2604,115 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "培训-考核-奖励-使用全线贯通，技能等级/荣誉与薪酬晋升硬绑定；月度五佳/季度优秀/年度精英；主动参训率72%-98%"
+  },
+  {
+    "title": "中国石油辽宁销售开放日「从油品到生活」转型展示",
+    "normKey": "中国石油辽宁销售开放日从油品到生活转型展示",
+    "url": "https://www.sohu.com/a/948017446_120578424",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "第八季「中国石油开放日」走进辽宁销售（沈阳/阜新/丹东三地），媒体+客户+文旅达人参观团实地观摩文化展演与互动体验，全景呈现能源保供/绿色发展/文化融合/服务创新；怀远门站打造「文旅长廊」建「人·车·生活」生态圈，丹东站员工化身「文旅推介官」；领导为首批「企地党员活动教育基地」揭牌，探索央地联动。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "中船集团国企开放日暨品牌宣传周（2025）",
+    "normKey": "中船集团国企开放日暨品牌宣传周2025",
+    "url": "https://new.qq.com/rain/a/20251027A06I5Q00",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "以「中船集团 智领深蓝」为主题，连续第五年举办国企开放日并首设品牌宣传周，邀 20 余家媒体 40 余名记者 5 天走进科研生产一线（沪东中华/武昌造船/七一七所等），与一线员工和科技成果零距离沉浸式互动；展示创新驱动/智能绿色转型/产业链韧性/企业文化/社会责任。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "国家能源集团广西电力「品牌开放日」（2025）",
+    "normKey": "国家能源集团广西电力品牌开放日2025",
+    "url": "https://gx.people.com.cn/BIG5/n2/2025/0929/c179464-41368513.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "以「能源可持续 世界更美好」为主题在南宁举办品牌开放日，发布《2024 社会责任报告》（能源保供/治理/绿色转型/创新/民生五大篇章）；现场主题研讨邀能源专家、行业主管部门、基层代表围绕「深化电力市场改革」深入交流，强化「国能电/国能热」品牌口碑。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "川维化工「公众开放日」十年开门之路",
+    "normKey": "川维化工公众开放日十年开门之路",
+    "url": "https://paper.people.com.cn/mszk/pc/content/202605/25/content_30163549.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "化工企业连续 10 年办「公众开放日」，累计接待超 5 万人次；组建「技术+讲解+服务」专业队伍；以「实地参观+互动体验+知识讲座」让公众在「看玩学」中读懂绿色化工；消防机器人/无人机/走航车亮相，每次活动后广泛收集反馈并全面复盘。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "大唐华银「企业开放日暨品牌日」（2026）",
+    "normKey": "大唐华银企业开放日暨品牌日2026",
+    "url": "https://hn.people.com.cn/BIG5/n2/2026/0529/c356884-41595389.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "以「能动世界 共享美好」为主题在大唐华银攸县能源公司举办，邀当地政府/合作单位/周边社区/地方媒体走进厂区；围绕红色传承/绿色转型/安全科普三主线，劳模与杰出青年组「金牌导览团」带公众深入生产一线；「唐小湘」志愿者手把手教心肺复苏+消防器材，集章打卡趣味科普。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "中国石化 2026 公众开放日（胜利油田启动）",
+    "normKey": "中国石化2026公众开放日胜利油田启动",
+    "url": "https://sd.people.com.cn/BIG5/n2/2026/0423/c166188-41560975.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "第 57 个世界地球日，中国石化在胜利油田启动 2026 公众开放日，所属 100 余家企业全国百余城同步开放，近万名公众入厂沉浸式体验石化产业链绿色魅力；主题「探秘智慧能源」；累计举办超 5500 场次、接待超 28 万人、云游览破 2 亿人次，成工业领域规模最大、央企首个品牌化公众开放活动。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "大汉电商「总部开放日」（员工跨区参访）",
+    "normKey": "大汉电商总部开放日员工跨区参访",
+    "url": "https://m.voc.com.cn/xhn/news/202505/29567497.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "大汉电商办「总部开放日」，广州/广西/九江三地 34 位员工来总部，签到领姓名牌、总裁办公室打卡；走进「走向伟大」主题馆重温誓词、探大汉国际工匠院体验景泰蓝非遗手工 DIY 香牌；人人都是「企业文化官」，强化归属感（非家属向）。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "南京欣网「总部开放日」（全国优秀员工参访）",
+    "normKey": "南京欣网总部开放日全国优秀员工参访",
+    "url": "http://www.xwtele.com/news/shownews.php?id=390",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "南京欣网首次以「总部开放日」形式组织全国优秀员工代表跨区域交流：圆桌恳谈+实地参访+户外拓展（老山森林公园定向寻宝）；员工代表分享经验建言献策，总部赠纪念品送寄语；以「零距离对话+沉浸式体验+互动式交流」架总部与一线情感桥。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "「上海国企开放日」第二批（科技科普专场）",
+    "normKey": "上海国企开放日第二批科技科普专场",
+    "url": "https://www.sohu.com/a/1060060701_121106832",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "上海国企开放日第二批集中开放：上海磁浮交通科技馆/上检计量/城投水务泰和污水厂/上海化工研究院重点实验室/横沙新洲现代农业产业园，面向青少年及社会公众，以科普讲座+互动体验+实地参观让国企技术成果与公众沟通。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "销售企业公众开放日实践路径探析（中国石油甘肃销售）",
+    "normKey": "销售企业公众开放日实践路径探析中国石油甘肃销售",
+    "url": "https://vod.xianfengdangjian.com.cn/content/theory_research/content_103.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "以中国石油甘肃销售公众开放日为样本的方法论：① 高规格纳入政府文化项目管理+集团统一视觉/指导手册；② 议题设置围绕消费者疑点现场讲解体验；③ 流程「浏览介绍-观摩体验-座谈交流」三环节；④ 解说培训；⑤ 立体传播（纸媒/电视/网媒/直播/大V）。",
+    "topic": "openday",
+    "source": "web"
+  },
+  {
+    "title": "《沟通创造价值》企业公众开放日品牌方法论（中国石化）",
+    "normKey": "沟通创造价值企业公众开放日品牌方法论中国石化",
+    "url": "https://m.bookschina.com/8077427.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "中国石化新闻发言人吕大鹏所著，系统梳理中国石化公众开放日品牌活动管理/实践/成效/传播，提炼责任沟通典型模式；核心「八个一」顶层设计：一套标准流程、一组统一视觉、一个代言人、一首主题曲、一份标准解说词、一个整合传播平台、一本可复制指导手册、一个固定活动日。",
+    "topic": "openday",
+    "source": "web"
   }
 ]
