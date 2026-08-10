@@ -2216,5 +2216,115 @@
     "summary": "【KM 内部一手】一起Debug！微信支付新鹅的必修课 【客服开放日-25年WXG微信支付毕业生专场精彩回顾】（腾讯客服 实践）。",
     "topic": "openday",
     "source": "km"
+  },
+  {
+    "title": "让 Townhall 更有参与感的 9 个方法（Sales Strategy 中心）",
+    "normKey": "让Townhall更有参与感的9个方法SalesStrategy中心",
+    "url": "https://uyc.thecenterforsalesstrategy.com/blog/how-to-make-your-townhall-meetings-more-engaging",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "把 Townhall 当 AMA 双向对话：提前匿名收问+开场 word cloud 破冰+state of the state 同步+10-18min 注意力窗口+固定 recognition 喊话+诚实回应建信任。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "混合式 Town Hall Q&A 实战手册（Airmeet）",
+    "normKey": "混合式TownHallQA实战手册Airmeet",
+    "url": "https://www.airmeet.com/hub/blog/hybrid-town-hall-meeting-questions-the-ultimate-qa-playbook/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "混合 Town Hall Q&A 防邻近偏见：多渠道收问+MC/Moderator/Tech Producer 三角色+run-of-show+Q&A 占 20-30%+未答书面跟进。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "Town Hall 现场 Q&A 的 7 大顽疾与解法（G2）",
+    "normKey": "TownHall现场QA的7大顽疾与解法G2",
+    "url": "https://learn.g2.com/live-q-and-a",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "现场 Q&A 七顽疾解法：pattern interrupt 拉回注意力、占 1/3 时间、匿名破防设底线、moderator 控时、会后 24h 发 FAQ（Edelman 82% 信任背书）。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "2026 全员大会指南·7 步更走心（Mentimeter）",
+    "normKey": "2026全员大会指南7步更走心Mentimeter",
+    "url": "https://www.mentimeter.com/blog/great-leadership/all-hands-meeting-complete-guide/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "2026 全员大会 7 步：先定情绪 why+讲故事视觉+早破冰+友好引导+会后续对话；Gallup 2026 敬业度仅 20%，透明沟通近 4 倍。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "办好全员大会·10 步清单（Miro）",
+    "normKey": "办好全员大会10步清单Miro",
+    "url": "https://miro.com/meetings-and-workshops/all-hands-meetings/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "全员大会 10 步清单：固定 cadence+时间盒议程+多 speaker+moderator+远程平等+共享白板+会后录像/FAQ；senior 主导但多 leader 出更新。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "别把全员会开成单向广播（Atlassian·tough subjects）",
+    "normKey": "别把全员会开成单向广播Atlassiantoughsubjects",
+    "url": "https://www.atlassian.com/blog/development/how-to-create-better-all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "Atlassian 全员会双向对话：提前 upvote 问政+直面棘手话题专开 Q&A+分享财务内幕建信任+非高管 presenter 拉平距离。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "中牧集团 2026 年度工作会暨职代会（官方）",
+    "normKey": "中牧集团2026年度工作会暨职代会官方",
+    "url": "https://www.cahg.com.cn/rdxw/20260313/38033.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中牧集团 2026 工作会暨职代会：战略报告+表彰先进+职代会审议+工会红歌会/海军博物馆红色教育，一体化领导↔全员大会（一手）。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "中国中煤 2026 年工作会暨职代会（官方）",
+    "normKey": "中国中煤2026年工作会暨职代会官方",
+    "url": "https://zhengchen.chinacoal.com/col/col9398/art/2026/art_c78cc6067786eef87337d3a8beddfdf4.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中国中煤 2026 工作会：传达上级精神+总结+十五五部署+表彰劳模；多领导分报告覆盖安全/党建/经营（一手）。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "国家电网 第五届职代会暨 2026 工作会（官方）",
+    "normKey": "国家电网第五届职代会暨2026工作会官方",
+    "url": "http://www.nw.sgcc.com.cn/info/1139/23479.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "国家电网第五届职代会暨 2026 工作会：报告审议+民主决议+表彰劳模/国网工匠+八方面部署；高质量党建贯穿（一手）。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "华能集团 2026 年工作会（官方）",
+    "normKey": "华能集团2026年工作会官方",
+    "url": "https://www.chng.com.cn/detail_jtyw/-/article/ccgb60va5Gwc/v/1297984/",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "华能 2026 工作会：十四字总要求定调+六方面部署+多层表彰（企业/集体/劳模/个人/创客/工匠）+四项决议（一手）。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "年会新范式·沉浸式创新体验（头条构思）",
+    "normKey": "年会新范式沉浸式创新体验头条构思",
+    "url": "https://www.toutiao.com/article/7589533394342576691/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "年会当组织干预：星际船隐喻+AR 沉浸入场+小程序任务解锁+管理层发蓝图各队认领+微光故事长尾激励+评估对齐个人-战略。",
+    "topic": "staff-meeting",
+    "source": "web"
   }
 ]
