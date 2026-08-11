@@ -3153,5 +3153,77 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "把团建当技能演练，每个活动绑 1-2 个 KPI：依赖映射工作坊/角色 mini-charter/决策规则；一词结果对齐(词云暴露分歧)/会议卫生重置；根因 drill(无指责+五 why)/模式命名。"
+  },
+  {
+    "title": "荣休仪式标准化流程·感恩传承",
+    "normKey": "荣休仪式标准化流程·感恩传承",
+    "url": "http://set.baidu.com/view/c4f2aac137d4b14e852458fb770bf78a65293adc.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "单位荣退仪式标准程序表：仪式开场→退休通知→领导致辞→同事寄语→退休发言→荣誉授予→仪式闭幕。领导致辞三维度（具体贡献数"
+  },
+  {
+    "title": "集体退休仪式·师徒结对薪火相传",
+    "normKey": "集体退休仪式·师徒结对薪火相传",
+    "url": "https://m.renrendoc.com/paper/467037250.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "集体退休仪式方案，在表彰环节后增设「传承环节」——退休员工与年轻员工师徒结对、签订师徒协议、年轻员工敬茶，把荣誉表彰延伸"
+  },
+  {
+    "title": "颁奖典礼传播全周期·预热-引爆-长尾",
+    "normKey": "颁奖典礼传播全周期·预热-引爆-长尾",
+    "url": "https://hn.zx.zbj.com/baike/43551.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖典礼「传播与发酵」四阶段——前期预热（社媒话题/提名故事/媒体专访）、现场报道（摄影摄像+实时短视频直播+专属话题）"
+  },
+  {
+    "title": "视频/直播颁奖·三级传播矩阵与数据监测",
+    "normKey": "视频/直播颁奖·三级传播矩阵与数据监测",
+    "url": "https://nx.zx.zbj.com/wenda/7919.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "视频形式颁奖三大优势（突破时空多平台分发/成本可控/可嵌弹幕投票互动）；预算分配建议（制作 40%/宣传 30%/应急 "
+  },
+  {
+    "title": "股权激励授予仪式·把股权做成荣誉时刻",
+    "normKey": "股权激励授予仪式·把股权做成荣誉时刻",
+    "url": "http://www.colortechnewmaterials.cn/news/20170701.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "多家公司将期权/股权授予做成正式仪式——董事长亲颁授予证书、受激励者现场分享、董事长即兴讲话。核心理念：「股权不是福利，"
+  },
+  {
+    "title": "大型集团特别表彰·全球视频直播见证",
+    "normKey": "大型集团特别表彰·全球视频直播见证",
+    "url": "https://finance.sina.com.cn/roll/20110903/112410428496.shtml",
+    "sourceType": "secondary",
+    "relation": "exec,supervisor",
+    "summary": "苏宁二十周年特别表彰——通过视频直播，全国 300 多城市及香港、日本 17 万员工共同见证；颁发 10/15 周年忠诚"
+  },
+  {
+    "title": "即时奖励「送到岗」·一线现场表彰蝴蝶效应",
+    "normKey": "即时奖励「送到岗」·一线现场表彰蝴蝶效应",
+    "url": "https://www.sohu.com/a/297560335_769675",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "炼钢事业部负责人亲自把「红包」即时奖励送到一线职工王军手上（其避免洒铁事故），现场掌声；工友产生「蝴蝶效应」——「向王军"
+  },
+  {
+    "title": "跨国混合式颁奖·全球直播+多语言本地化",
+    "normKey": "跨国混合式颁奖·全球直播+多语言本地化",
+    "url": "https://www.jwawards.com/zh-hans/author/queenie-tsanginforma-com/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "JNA 大奖「实体+Zoom 混合」典礼——香港现场+海外嘉宾 Zoom，抖音/微信/FB/Zoom 同步全球直播，覆盖"
+  },
+  {
+    "title": "获奖感言表达框架·价值升维+情感破框",
+    "normKey": "获奖感言表达框架·价值升维+情感破框",
+    "url": "https://www.toutiao.com/article/7613909203514343946/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "演讲教练拆解「封神」获奖感言三招——①向上捅破天花板·价值升维（把个人荣誉升到信仰/精神/对公司的价值）；②向下扎根·态"
   }
 ]
