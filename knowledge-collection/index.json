@@ -2884,5 +2884,125 @@
     "summary": "全员会效果用会后即时调研四维度(1-5 量表)——清晰度(『会后更懂公司优先项』)/参与度(『时间花得值』)/信任(『听更新后对领导更信』)/可行动性(『知道我/团队接下来要做什么』)；定量+开放题混用；持续跟踪趋势(清晰度跳升=简化 PPT 有效、信任涨=某次坦诚 Q&A 有效)证明价值并迭代。",
     "topic": "staff-meeting",
     "source": "web"
+  },
+  {
+    "title": "CEO Town Hall 45分钟执行脚本（Everywow·2026）",
+    "normKey": "CEO Town Hall 45分钟执行脚本（Everywow·2026）",
+    "url": "https://www.everywow.ch/en/2026/05/how-to-run-a-ceo-town-hall/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "2026 CEO Town Hall 实操脚本：0-5min 主持 framing(为什么开+提问规则)/5-15min CEO 用大白话讲 context(变了什么·为什么)/15-25min 业务或领导更新(至多1个辅助声音)/25-40min 主持 moderated Q&A/40-45min CEO 收尾(现在什么重要·下一步·未答问题去哪)。强调：简报 CEO(每人1个必落地信息+1个最难问题)；Q&A 用匿名书面提问防 cosmetic；规划 live/hybrid/replay/无障碍(审校字幕)与指标(到场/观看时长/回放/提问量/跟进动作/经理反馈)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "标杆公司 All-Hands 实操·嘉宾+分段AMA+多场（Tim's Playbook）",
+    "normKey": "标杆公司 All-Hands 实操·嘉宾+分段AMA+多场（Tim's Playbook）",
+    "url": "https://www.timsplaybook.com/p/how-to-run-a-great-all-hands-meeting",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "从做得好的公司提炼：①请外部/跨界嘉宾就业务焦点演讲并开放提问(Clearco 评价最高环节)②把 AMA 从主 presentation 拆出来单独成段(Humi 甚至会后一周再开两场 AMA：一场业务产品、一场人&文化)，避免赶场、让人有时间想问题③跨国远程开第二场同内容 All-Hands(国际员工本就缺 context，不给等同发信号『你不重要』)④文化『特殊酱汁』(Top Hat 每周员工策展歌单/Motley Fool 月度 Fool's Errand 抽奖)让大会有记忆点。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "反向 Town Hall·员工定议程+影子董事会（Review.jobs）",
+    "normKey": "反向 Town Hall·员工定议程+影子董事会（Review.jobs）",
+    "url": "https://review.jobs/blog/employee-engagement-ideas",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "把 engagement 做成持续练习而非运动：季度级仪式用 reverse town hall(员工定议程、问想问的)、shadow board(员工顾问组直接影响战略与运营)、创新大赛(真落地)、peer recognition、async Q&A。核心闭环：听到→分析→行动→回贴(分享『听到什么/学到什么/要改什么』)，让员工见『发声真有结果』才强化反馈文化。节奏：周微活动+月一有意义事件+季一高影响仪式，聚焦 1-2 优先项 30-60 天。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "倾听四级模型·反向导师制（Francesco Pecoraro）",
+    "normKey": "倾听四级模型·反向导师制（Francesco Pecoraro）",
+    "url": "https://francescopecoraro.com/the-silent-crisis-when-voices-go-unheard",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导倾听四阶段：①表演性(点头记笔记但心不变)②选择性(只听合己见/尊敬的)③开放性(真好奇、愿被影响)④变革性(把倾听建成流程/指标/文化)。反 mentor(年轻员工定期给高管分享视角)是让被淹没声音被听见的结构化机制；微软 Nadella 从 know-it-all→learn-it-all：脉冲调研+高管可见回应、任意员工向领导 pitch 的 hackathon、stay interview、把倾听效力纳入领导考核，七年间市值涨 500%+。小公司『倾听之旅』(领导无议程小范围听)半年离职降 68%。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "办一场杀手级 All-Hands·三阶段AMA+无名英雄（Slido）",
+    "normKey": "办一场杀手级 All-Hands·三阶段AMA+无名英雄（Slido）",
+    "url": "https://blog.sli.do/how-to-organize-all-hands-meetings/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Slido 自家 All-Hands 方法论：①新兵两真一假破冰猜谎②庆祝入职周年(凸显长期服务)③公开认可『无名英雄』(每人提名上月最帮自己的人，词云投屏)④透明开放 Q&A——CEO 主持 AMA 成信任工具。Q&A 三阶段：会前收集并投票(让领导备好难答、更民主)/会中 live AMA(最流行是 Ask Me Anything)/会后书面答剩余(M&S 写成文档发布或并入相关会)。收尾三件事：亮成绩对实数/公开认可能力者/留足问答。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "Ask Me Anything 会话怎么做·主持与跟进（Slido）",
+    "normKey": "Ask Me Anything 会话怎么做·主持与跟进（Slido）",
+    "url": "https://blog.slido.com/ask-me-anything",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "AMA 的本质是『承诺透明+赋权员工讲重要的事+给安全感』。准备是关键：会前 4 天开提问、监测并 dry run、写答案；难问题也有价值——不回避、走进提问者鞋里当学习机会。没全答案时就承诺会后查清(收购期数百问题大多无答案，但『人在场』本身保连接)。主持视角：提前开匿名提问最大化参与(全球分散不能 live 也不该被排除)；按 upvote 找热点、按主题分组(block of 3)问领导；尖锐问题『软化语气但保核心』。闭环：未答承诺跟进(邮件/Slack/内网)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "高效 All-Hands 筹备·议程/混合公平/新人（ClickUp）",
+    "normKey": "高效 All-Hands 筹备·议程/混合公平/新人（ClickUp）",
+    "url": "https://clickup.com/blog/all-hands-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "可消费信息规划：icebreaker/趣味问答定调→town hall 式公司更新→高管 AMA 开放提问→实时投票/Q&A。混合公平：远程与现场同体验(现场有 swag 则提前寄给远程，别让人掉队)。定时间照顾多时区(中国同事不愿半夜接电话→找多数可行窗口或轮换+录播)。沟通计划：先 survey 收集员工想要的(可能他们想要和 CEO 掏心而非 anniversary)而非邮件线程。议程结构：新面孔介绍→CEO 谈项目更新→各部门如何连使命→健康文化表彰→C-suite 开放 Q&A；每段标时长。技术：测视频/麦/投票工具。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "表彰做成体验而非仪式·公平提名+多渠道放大（S:US CHRO）",
+    "normKey": "表彰做成体验而非仪式·公平提名+多渠道放大（S:US CHRO）",
+    "url": "https://sus.org/instead-of-hosting-recognition-events-start-designing-experiences",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "S:US 首席人力官：好表彰共享一个特质——被设计成『体验』而非『仪式』。三实践：①有目的设计(先定强化什么行为/受众/想被怎么谈论/怎么衡量；前线排班需多场次或混合)②公平包容提名(清晰标准+翻译/字幕/灵活时段；小培训委员会轮值；提前公布标准/时间/评审；2024 扩到 peer/自荐+首轮匿名，前台与夜班提名显著涨，荣誉更均衡)③日常文化延伸(次月多渠道发荣誉画像、经理工具包含 1:1 提示)。核心：过程不公则落地稀碎，公平才全员共参与。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "表彰日流程模板·环节时长+谁颁奖（VantageCircle）",
+    "normKey": "表彰日流程模板·环节时长+谁颁奖（VantageCircle）",
+    "url": "https://www.vantagecircle.com/recognition-templates/recognition-day-program-template/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "表彰日节目模板：领导开场→宣读个人颁奖词→peer recognition 时刻→文化反思(视频/现场故事)→公司致谢→团队活动/聚餐收尾。时长：团队级 45-90min；公司级 2-3h；虚拟最佳<75min(在线 60min 后注意力骤降)。环节间留 10min buffer(掌声/拍照/过渡)。避免像 HR Exercise：用具体故事而非类别(『Priya 救了 Harrington 客户』>『客户服务奖给 Priya』)；获奖者讲 60-90s；含 peer shout-out。颁奖人：可用的最资深领导(CEO/业务负责人)，按奖项类别映射(CEO 颁顶尖、VP 颁部门)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "中交一航局年终职工大会·全员提名奖项自创（一手官方）",
+    "normKey": "中交一航局年终职工大会·全员提名奖项自创（一手官方）",
+    "url": "https://www.cinn.cn/wh/2025/12-29/gDanmBpk.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中交一航局一公司渤化码头项目部 2025 年终职工大会暨先进表彰会(一手官方复盘)：一改传统评优，首推『全员提名、奖项自创』民主评优——提前发多维度奖项参考库但鼓励职工突破框架、按身边真实贡献『量身定制』奖项并匿名提名(收 46 份，涌现『多面手/客户价值/最佳导师』等原创名)；为每位获奖者(尤其 7 位『品牌员工』)写个性化颁奖词(结合事迹勾勒立体画像)；设『优秀风尚→专项贡献→专业标兵→品牌员工』梯次荣誉进阶，覆盖基础奉献到顶尖标杆，激发『见贤思齐』内生动力；同时嘉奖先进集体强化『荣辱与共』。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "公司 Town Hall 直播三档配置·专业制作（Epiphan）",
+    "normKey": "公司 Town Hall 直播三档配置·专业制作（Epiphan）",
+    "url": "https://www.epiphan.com/blog/town-hall-meeting-live-stream/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "按公司规模与野心三档配直播：①简单连(webcam+会议软件，小团队/非正式)②看起来专业(硬件编码器+capture card+会议软件，中型企业多机位 polished)③承载大虚拟观众(硬件编码器+企业直播平台，支持数千观众，大型多办公室)。每档都须交互( Poll Everywhere/聊天/主持 Q&A，指派专人监 chat 喂问题)。关键警示：简陋制作会让远程员工感觉『被遗忘的 afterthought』，反伤参与——别用烂画质发错信号。硬件编码器可安全录制高清存内网回看，复用广(营销/销售赋能/培训)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "2026 公司 Townhall 直播 7 步·电视级制作（2Stream）",
+    "normKey": "2026 公司 Townhall 直播 7 步·电视级制作（2Stream）",
+    "url": "https://www.2stream.live/en/post/how-to-livestream-a-company-townhall-7-steps-for-2026",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2026 直播 7 步，把交互当『必做非可选』：预提交提问(会前 48-72h，不敢 live 讲的人会提前交，主持备答防冷场)/live 投票(每场≤2-3 个，多了稀释)/chat moderation(指定专人，CEO townhall 无 moderation 是风险)/按部门/地区 breakout(主会后续，协作+32%)/双语可及。制作像 live TV：show caller 同时管机位/字幕/讲者提示/流健康；远程讲者配 green room 防延迟混乱；townhall 超时伤信誉、show caller 管时长非 CEO；技术故障要有文档预案(65% 比利时企业用交互 webinar，内置 live 干预降掉线 40%)。掉线率是注意力真实指标。",
+    "topic": "staff-meeting",
+    "source": "web"
   }
 ]
