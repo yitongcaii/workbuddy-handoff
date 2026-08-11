@@ -126,18 +126,18 @@
         "entry_id": "08e7151a3bd145109c68bd7da8daef6e",
         "name": "offsite-R8_20260810.html",
         "note": "轮次页 R8 (+6)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "a5f8860d406c45aeab1e46d7f1b5e5f8",
+        "name": "offsite-20260812.html",
+        "note": "轮次页 R9 (+5)"
       }
     ]
   },
   "icebreaker": {
     "folder_id": "f51480b0cfac4857bc28495b151c624f",
     "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "93fd6bf9d0884ee48f62dfbce65166a1",
-        "name": "破冰-20260811",
-        "note": "初始全量页（改造前遗留，作为首轮）"
-      },
       {
         "date": "2026-08-07",
         "entry_id": "d6910256c1564ca19065240f2905eadd",
@@ -173,8 +173,19 @@
         "entry_id": "42c75851c1794da09ebb6ec84ccb19bb",
         "name": "icebreaker-R6_20260810.html",
         "note": "轮次页 R6 (+7)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
+        "name": "icebreaker-2026-08-12-r8.html",
+        "note": "轮次页 R8 (+11)"
       }
-    ]
+    ],
+    "wall": {
+      "entry_id": "f06a4c5394df4b458ffeb9dff42653ba",
+      "file_id": null,
+      "name": "icebreaker.html"
+    }
   },
   "award": {
     "folder_id": "f585d1b78510459db0ce807cc9688448",
