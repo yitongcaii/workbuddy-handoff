@@ -1,0 +1,842 @@
+[
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 1,
+    "date": "2026-08-07",
+    "commit": "e1e2260562",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R1_20260807.html",
+    "added": 12,
+    "titles": [
+      "CEO 沟通→有意义员工参与（福布斯教练委员会）",
+      "Town Hall That Inspires（CEO 议程模板）",
+      "CEOs Transform Town Hall（数据变故事）",
+      "All-Hands Best Practices（战略沟通支柱）",
+      "员工大会议程与执行方案",
+      "公司员工大会流程详解（闭环管理）",
+      "公司员工大会组织流程及注意事项",
+      "All-Hands Meeting Guide（Slack）",
+      "All-Hands Q&amp;A Best Practices（Lattice）",
+      "社員総会企画コンテンツ（vcube）",
+      "Company Townhall 脚本模板（ajobthing）",
+      "Ultimate Guide to All-Hands（议程解剖）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "1c999ac237",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R2_20260807.html",
+    "added": 1,
+    "titles": [
+      "地图产品部 2026 年度员工大会（内部真实复盘）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 3,
+    "date": "2026-08-07",
+    "commit": "20bc69e8d3",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R3_20260807.html",
+    "added": 4,
+    "titles": [
+      "How to create all-hands meetings that matter（Atlassian）",
+      "All-hands 度量与提效（Sally.io）",
+      "虚拟/混合 All-Hands 10 招（Mural）",
+      "Town Hall 格式与 Q&amp;A 设计（HR 词典）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 4,
+    "date": "2026-08-08",
+    "commit": "cc7a404925",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R4_20260808.html",
+    "added": 10,
+    "titles": [
+      "供销大集 2025 年度工作会议（官方复盘）",
+      "华神药业 2025 总结会暨 2026 全员大会（官方）",
+      "宝光集团 2025 年会总结表彰大会（官方）",
+      "恒丰 2025 总结表彰大会暨 2026 新春年会（官方）",
+      "新疆龙海达 2025 年度总结暨表彰大会（官方）",
+      "全员沟通大会(All-Hands)怎么开（商业新知）",
+      "强力 Town Hall 实操指南（AgileLAB·大厂仪式）",
+      "Asana 全员会议议程模板（60 分钟样例）",
+      "远程全员大会 60 分钟议程（TeamRally·只做现场三件事）",
+      "Gatheround 8 类全员会议模板（分类框架）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 5,
+    "date": "2026-08-09",
+    "commit": "e4d0cd105a",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R5_20260809.html",
+    "added": 8,
+    "titles": [
+      "Town Hall 作为变革沟通主阵地（Live Group）",
+      "重组全员会 3 阶段时间表（结构化落地）",
+      "字节全员会：双月会核心是「暴露问题」（晚点/雪球）",
+      "字节「CEO 面对面」双月会·公开 OKR 对齐（阿里云开发者）",
+      "阿里 Qwen 重组全员会·动荡期稳军心（腾讯新闻）",
+      "鈦坦科技 Town Hall·公开透明降不确定性（DevOpsDays）",
+      "七五煤业「三向发力」宣贯下沉（山东能源）",
+      "鲍店煤矿「订单式宣讲」接地气宣贯（山东能源）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 6,
+    "date": "2026-08-09",
+    "commit": "bb7961bdbb",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R6_20260809.html",
+    "added": 10,
+    "titles": [
+      "CEO 真实连接员工（McKinsey 沟通交换）",
+      "CEO 全员会沟通困境·社媒时代（Korn Ferry）",
+      "Town Hall 5 类议程模板库（Airmeet）",
+      "All-Hands 三幕式结构（欢迎庆祝15%+战略60%）",
+      "办好全员大会·表彰+无障碍+福祉（Wellhub）",
+      "全员大会 8 个参与度点子（Confetti）",
+      "员工沟通渠道设计·场景化打法+治理（HRloo）",
+      "员工大会主持词及管理者发言范例汇编",
+      "中核集团 2025 年度工作会议（官方）",
+      "鞍钢集团 2025 年度总结表彰大会（官方）"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 7,
+    "date": "2026-08-10",
+    "commit": "aceae657a1",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R7_20260810.html",
+    "added": 17,
+    "titles": [
+      "【2025 IEG员工大会】中奖名单",
+      "【会议总结】“专业服务伙伴，同心智构未来”——2026 TEG员工大会",
+      "【会议回顾】“专业服务伙伴，同心智构未来”——2026 TEG员工大会",
+      "【2026 SSV员工大会03】SSV 2025荣誉激励揭晓",
+      "【2026 SSV员工大会01 】 新程第一年，势能加速时",
+      "【2026 SSV员工大会02 】在对话中共同寻找答案",
+      "2026TEG员工大会视频——《薪火相传》",
+      "重要！员工大会、新年晚会门票报名通道开启",
+      "【一心一力 砥砺前行】——2023年网络平台部全员大会",
+      "【乘风破浪 坚韧成长】——2025年网络平台部全员大会",
+      "2026年司庆文化衫正式亮相，速来领取！",
+      "27th司庆奔跑鹅涂装——《骨灰级玩家》鹅的诞生",
+      "TEG司庆彩蛋：蛋糕的甜，与奔跑鹅的炫",
+      "【一起跑起来】财经线2025年司庆日精彩回顾~",
+      "【获奖名单】司庆跑北京站-腾讯地图互动活动",
+      "27 周年司庆照片哪里找？",
+      "速看！全球游戏人发来司庆贺电，解锁6大超酷庆生姿势"
+    ]
+  },
+  {
+    "topic": "staff-meeting",
+    "cn": "员工大会",
+    "round": 8,
+    "date": "2026-08-10",
+    "commit": "f7e25c3036",
+    "file": "knowledge-collection\\staff-meeting\\staff-meeting-R8_20260810.html",
+    "added": 11,
+    "titles": [
+      "让 Townhall 更有参与感的 9 个方法（Sales Strategy 中心）",
+      "混合式 Town Hall Q&amp;A 实战手册（Airmeet）",
+      "Town Hall 现场 Q&amp;A 的 7 大顽疾与解法（G2）",
+      "2026 全员大会指南·7 步更走心（Mentimeter）",
+      "办好全员大会·10 步清单（Miro）",
+      "别把全员会开成单向广播（Atlassian·tough subjects）",
+      "中牧集团 2026 年度工作会暨职代会（官方）",
+      "中国中煤 2026 年工作会暨职代会（官方）",
+      "国家电网 第五届职代会暨 2026 工作会（官方）",
+      "华能集团 2026 年工作会（官方）",
+      "年会新范式·沉浸式创新体验（头条构思）"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 1,
+    "date": "2026-08-07",
+    "commit": "002312f17e",
+    "file": "knowledge-collection\\offsite\\offsite-R1_20260807.html",
+    "added": 15,
+    "titles": [
+      "Leadership Team Offsite 议程模板库",
+      "战略领导力 Offsite 议程设计法",
+      "Off-sites That Work（HBR 经典）",
+      "6 招让 Offsite 不白开",
+      "高管团队 Offsite 21 条实操",
+      "设计「能落地」的领导力 Offsite",
+      "高效且安全闭门会议组织指南",
+      "高效团队 Offsite 白皮书",
+      "行动学习工作坊·问题共诊→方案落地",
+      "行动学习项目工作坊·方法菜单",
+      "群策群力团队催化能力提升",
+      "管理者的复盘思维工作坊",
+      "公司员工团建拓展策划方案",
+      "管理层参与团建项目选型",
+      "团队凝聚力魔鬼训练营（中高层）"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "530a5884a7",
+    "file": "knowledge-collection\\offsite\\offsite-R2_20260807.html",
+    "added": 2,
+    "titles": [
+      "华为 DSTE 战略务虚会体系",
+      "务虚会四步法（拿来即用）"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 3,
+    "date": "2026-08-08",
+    "commit": "a224fd8f09",
+    "file": "knowledge-collection\\offsite\\offsite-R3_20260808.html",
+    "added": 10,
+    "titles": [
+      "Strategy Offsite Facilitation 路线图（规划到执行）",
+      "Leadership Retreat 完整分步指南（70/30 法则）",
+      "Executive Retreat 规划框架（HBR 2.2x 数据）",
+      "Designing a Strategy Offsite That Leads to Action",
+      "Executive Offsite Follow-Through（48h 决策日志）",
+      "腾讯「科技向善」总办务虚会真实案例",
+      "阿里战略务虚会→规划会→沟通会（真实案例）",
+      "新成员高管团队 Offsite（Forming 信任先于战略）",
+      "尚普「战略决策赋能工作坊」模式",
+      "开好三会：务虚会+解码会+经营分析会"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 4,
+    "date": "2026-08-09",
+    "commit": "a14386c002",
+    "file": "knowledge-collection\\offsite\\offsite-R4_20260809.html",
+    "added": 8,
+    "titles": [
+      "高管 Retreat 规划时间轴（3-6 月提前量）",
+      "领导力 Offsite 选型与心理安全（Stabilisation/Reboot/Innovation）",
+      "为什么 Offsite 不改行为（结构缺陷）",
+      "虚拟/混合高管 Offsite（45+15 法则）",
+      "高管 Retreat ROI 测量框架（SAS/RQI/OFS）",
+      "新经理融入工作坊（New Manager Assimilation）",
+      "行动学习·跨部门沟通协作工作坊",
+      "团建定制安全管理六策略"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 5,
+    "date": "2026-08-09",
+    "commit": "15edf6f23c",
+    "file": "knowledge-collection\\offsite\\offsite-R5_20260809.html",
+    "added": 4,
+    "titles": [
+      "企业 Offsite 端到端规划指南（含预算基准）",
+      "500+ 人大型 Offsite 作战框架",
+      "分布式/远程团队 Offsite 带领法",
+      "高影响力团队 Offsite 四策略"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 6,
+    "date": "2026-08-10",
+    "commit": "aceae657a1",
+    "file": "knowledge-collection\\offsite\\offsite-R6_20260810.html",
+    "added": 3,
+    "titles": [
+      "TADHUB·2026乐行-实验平台西双版纳团建游记",
+      "暑假团建季，组团送福利！",
+      "TADHUB·2026乐行 · 同心同行，山海为证——新疆六日团建纪行"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 7,
+    "date": "2026-08-10",
+    "commit": "95f052511a",
+    "file": "knowledge-collection\\offsite\\offsite-R7_20260810.html",
+    "added": 10,
+    "titles": [
+      "2 天公司 Retreat 议程模板（按能量排程）",
+      "领导力 Offsite 五段式议程（锁定一个结果→30天强化）",
+      "8-16 人领导力 Offsite 实操格式（含引导师预算）",
+      "Offsite 引导技术：轮询 / 停车场 / 午后激活",
+      "美田集团·组织诊断工作坊（平台型组织·真实案例）",
+      "字节 2025 全员务虚会·CEO 反思创新跟进速度",
+      "中通服软件·战略解码工作坊（真实案例）",
+      "浙江鞋业集团·战略体系澄清工作坊（真实案例）",
+      "中国水务·团队学习法 + 战略务虚会（央企实践）",
+      "中集圣达因·半年度复盘工作坊（真实案例）"
+    ]
+  },
+  {
+    "topic": "offsite",
+    "cn": "Offsite",
+    "round": 8,
+    "date": "2026-08-10",
+    "commit": "3ec663f60c",
+    "file": "knowledge-collection\\offsite\\offsite-R8_20260810.html",
+    "added": 6,
+    "titles": [
+      "董事会/治理型 retreat（治理干预·五段强议程）",
+      "文化转型·价值观重置 offsite（Day1 消 silo + Day2 战略）",
+      "新整合领导团队 offsite·建立 operating norms（并购/新组）",
+      "远程/混合团队文化塑造 offsite（节奏框架）",
+      "团建/务虚 ROI 三层测量（HR 视角·防 vanity）",
+      "远程团队线下 reconnect·最高 ROI morale 投资"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 1,
+    "date": "2026-08-07",
+    "commit": "9d9a2a1830",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R1_20260807.html",
+    "added": 14,
+    "titles": [
+      "9 Leadership Team Building Exercises That Build Real Trust",
+      "公司高管团建·不聊PPT只聊信任（6个沉浸式活动）",
+      "北大汇丰CEO班户外领导力课程·破冰竞渡",
+      "走上管理岗·破冰对话「知彼解己」交换使用说明书",
+      "接手新团队·空降主管快速获团队信任（建功+立信）",
+      "新人店长没人服？先做「3天观察法」再决策",
+      "新晋经理人破局·信任破局「3步公式」",
+      "中高层团队赋能与战略共识工作坊·优势接龙破冰",
+      "管理者领导力共识工作坊·破冰启航构建安全场域",
+      "破冰·共生：代际领导力全景实战工作坊",
+      "如何破除「上下级的信任障碍」·4条建议",
+      "团队难带？处好与下级关系的4个高招",
+      "有话直说不会「得罪」领导·上下级坦诚沟通",
+      "Hays：缩小管理与员工的鸿沟·不做「我们vs他们」"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "e0699bf9fe",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R2_20260807.html",
+    "added": 7,
+    "titles": [
+      "「裸心会」高管信任升级与协同突围（阿里基因·问题盲盒闭环）",
+      "空降三周「破冰法」·听→帮→亮让团队主动靠拢",
+      "新主管接手低士气团队·前90天把信任救回来",
+      "First 90 Days as a New Leader·用1:1问题集建信任",
+      "接手「烂摊子团队」·3步把散兵游勇带成铁军",
+      "团队融合工作坊·各层级干部「心智融合」（U型进程）",
+      "Clevry 领导力破冰·用领导力议题替代游戏"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 3,
+    "date": "2026-08-08",
+    "commit": "8d43224d5f",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R3_20260808.html",
+    "added": 6,
+    "titles": [
+      "空降高管融合「三把钥匙」·文化前置+三线穿透",
+      "全远程 C-suite 入职·刻意关系经营建信任",
+      "董事会/治理层破冰·战略级提问替代寒暄",
+      "新经理首场团队会·「说什么/不说的」脚本",
+      "新经理首会·「学习模式」+深度提问框架",
+      "新经理首次 1:1·四段结构化（先做人再做事）"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 4,
+    "date": "2026-08-09",
+    "commit": "c6577289f9",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R4_20260809.html",
+    "added": 8,
+    "titles": [
+      "并购整合·4次高管工作坊建信任对齐（Bain）",
+      "穆拉利空降福特·「谦和又坚决」破冰赢人心",
+      "Asana·120+ 破冰问题库（会议/线上/跨代际通用）",
+      "Miro·远程团队 4 个破冰游戏（白板协作）",
+      "跨代际团队·沟通破冰「三把钥匙」（80/90/00后）",
+      "跨代际团队冲突·调解技术手册（差异可视化+反向导师）",
+      "空降新团队·3个月站稳「四步法」（首月行动清单）",
+      "并购后90天·文化动作设定基调（Charter+联合offsite）"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 5,
+    "date": "2026-08-10",
+    "commit": "e98e8d4e50",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R5_20260810.html",
+    "added": 9,
+    "titles": [
+      "Lencioni 五 dysfunction 模型·高管团队诊断与修复",
+      "Purpose & Values 工作坊·对齐领导团队使命与决策",
+      "高管团队对齐工作坊·诊断+2天+团队章程+跟进",
+      "Atlassian·Working Agreements Play +「与我共事说明书」",
+      "情境化破冰框架·跨职能/重组/危机/层级四场景",
+      "Skip-level 会议·破冰与 100+ 提问库",
+      "管理者心理安全感实操指南·5 步建「敢说」文化",
+      "首次回顾会前建信任·团队契约+示弱建模",
+      "脆弱信任+Edmondson 七问测评·团队信任加速器"
+    ]
+  },
+  {
+    "topic": "icebreaker",
+    "cn": "破冰",
+    "round": 6,
+    "date": "2026-08-10",
+    "commit": "52c801ad81",
+    "file": "knowledge-collection\\icebreaker\\icebreaker-R6_20260810.html",
+    "added": 7,
+    "titles": [
+      "企业文化共创工作坊·高管横向联结+纵向同频",
+      "新任高管前 90 天·听先于宣布+跨职能信任+运营节奏",
+      "团队会议破冰·非尴尬问题+互换介绍+5-things工作流",
+      "团队融合与凝聚力·塔可曼阶段+乔哈里窗+鲜花拳头反馈",
+      "远程入职 5C 框架·Connection→Culture→Clarity→Capability→Celebration",
+      "远程团队建信任·停陈词滥调破冰+Buddy+watercooler频道",
+      "跨部门团队 6 模板·Team Canvas+契约+个人用户手册"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 1,
+    "date": "2026-08-06",
+    "commit": "f872292489",
+    "file": "knowledge-collection\\award\\award-R1_20260806.html",
+    "added": 12,
+    "titles": [
+      "表彰大会策划书·奖项分层+高管共创",
+      "奖项分层+不同层级领导颁奖嘉宾",
+      "花50万发奖金,他们却更想要一张纸",
+      "Rethinking Recognition as a Strategic Capability",
+      "Professional Employee Awards",
+      "Create a Company Tradition with Annual Custom Awards",
+      "6 Best Practices When Recognising Careers",
+      "企业员工颁奖典礼流程模板",
+      "5个关键动作·让优秀员工被看见",
+      "年度员工表彰大会策划方案模板",
+      "企业期中总结表彰大会方案范本",
+      "Employee Recognition Best Practices: A Manager's Guide"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "f4fd24fbf2",
+    "file": "knowledge-collection\\award\\award-R2_20260807.html",
+    "added": 7,
+    "titles": [
+      "如何让公司奖项让人信服（反 cynicism 设计）",
+      "热立方颁奖盛典·十佳传承仪式+总裁特别奖",
+      "北汽新能源「卫蓝十杰」·战略标杆人物化",
+      "颁奖典礼策划完整指南（6-12类别/制作/流程）",
+      "企业颁奖典礼分步指南（红幕揭晓/时间线/清单）",
+      "颁奖典礼目的与流程 Tips（60-90min/私信/录制）",
+      "激励全公司的颁奖典礼（类别/节目/技术/造势）"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 3,
+    "date": "2026-08-07",
+    "commit": "434573cccc",
+    "file": "knowledge-collection\\award\\award-R3_20260807.html",
+    "added": 1,
+    "titles": [
+      "【花草团队】文化类事件SOP&SLA"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 4,
+    "date": "2026-08-07",
+    "commit": "bc879f1a0c",
+    "file": "knowledge-collection\\award\\award-R4_20260807.html",
+    "added": 8,
+    "titles": [
+      "颁奖词与领导致辞撰写框架",
+      "长期服务奖(工龄荣誉)体系设计",
+      "长期主义功勋荣誉体系案例(平安人寿)",
+      "虚拟/混合颁奖典礼运营指南",
+      "颁奖典礼预算基准与ROI框架",
+      "员工认可活动ROI与留存逻辑",
+      "颁奖环节主持词话术设计",
+      "活动成效KPI设计(含内部凝聚指标)"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 5,
+    "date": "2026-08-08",
+    "commit": "a5f968901f",
+    "file": "knowledge-collection\\award\\award-R5_20260808.html",
+    "added": 6,
+    "titles": [
+      "高管级颁奖舞美视觉设计范式",
+      "即时认可(spot recognition)项目设计",
+      "员工认可项目搭建七步法",
+      "经理即时认可 SBI+T 框架与覆盖看板",
+      "颁奖典礼舞台视听生产与AV同步指南",
+      "企业年度表彰大会沉浸式仪式搭建案例"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 6,
+    "date": "2026-08-09",
+    "commit": "d273ff1ddf",
+    "file": "knowledge-collection\\award\\award-R6_20260809.html",
+    "added": 3,
+    "titles": [
+      "多元包容(D&I)奖项设计框架",
+      "颁奖典礼危机预案与控场话术SOP",
+      "表彰大会内部传播与复盘闭环SOP"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 7,
+    "date": "2026-08-10",
+    "commit": "4482ea8db8",
+    "file": "knowledge-collection\\award\\award-R7_20260810.html",
+    "added": 5,
+    "titles": [
+      "数字化员工认可平台选型对比（Bonusly/Kudos/WorkTango 等）",
+      "颁奖奖金税务合规风险与个税处理",
+      "颁奖盛典·雇主品牌与招聘转化引擎",
+      "gamification·积分商城即时激励体系",
+      "制造业一线蓝领表彰·「金蓝领」激励范式"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 8,
+    "date": "2026-08-10",
+    "commit": "aceae657a1",
+    "file": "knowledge-collection\\award\\award-R8_20260810.html",
+    "added": 9,
+    "titles": [
+      "2025 FiT技术委员会年度表彰大会",
+      "【美好内容报 · 第二届表彰大会】腾讯内容通道知识库S2赛季征稿擂台赛优秀表彰",
+      "【美好内容报 · 表彰大会】腾讯内容通道知识库S1赛季征稿擂台赛&H1征稿优秀表彰",
+      "公司级·2026优秀个人荣誉表彰",
+      "【荣誉表彰】2025年度CDG优秀导师",
+      "【2025下半年云架平部门即时激励】荣誉表彰",
+      "【荣誉表彰】iWork 认证通过表彰通告(2025年第1期)",
+      "【美好内容报 · 第三届表彰大会】腾讯内容通道知识库S3赛季征稿擂台赛优秀表彰",
+      "【模力ShowTime】2025H2 部门SEVP荣誉表彰"
+    ]
+  },
+  {
+    "topic": "award",
+    "cn": "颁奖",
+    "round": 9,
+    "date": "2026-08-10",
+    "commit": "360be37ebf",
+    "file": "knowledge-collection\\award\\award-R9_20260810.html",
+    "added": 4,
+    "titles": [
+      "无障碍与多元能力包容的里程碑庆祝",
+      "把认可接成继任梯队（recognition→succession）",
+      "认可接学习动能（recognition→career growth）",
+      "制造业「训考奖用」贯通·技能荣誉激励范式"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 1,
+    "date": "2026-08-06",
+    "commit": "f872292489",
+    "file": "knowledge-collection\\openday\\openday-R1_20260806.html",
+    "added": 3,
+    "titles": [
+      "公司开放日流程（致辞+参观+部门体验）",
+      "工厂/企业开放日标准流程",
+      "企业开放日全流程SOP（观摩会/开放活动）"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "a42e57fcfc",
+    "file": "knowledge-collection\\openday\\openday-R2_20260807.html",
+    "added": 2,
+    "titles": [
+      "企业开放日客户参观流程方案（客户开放日）",
+      "企业开放日参观流程与讲解词（动线+分组设计）"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 3,
+    "date": "2026-08-08",
+    "commit": "cefd639a3a",
+    "file": "knowledge-collection\\openday\\openday-R3_20260808.html",
+    "added": 1,
+    "titles": [
+      "格力高入华30周年首启工厂媒体开放日"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 4,
+    "date": "2026-08-08",
+    "commit": "62de2a2d52",
+    "file": "knowledge-collection\\openday\\openday-R4_20260808.html",
+    "added": 1,
+    "titles": [
+      "帝王洁具成都智能制造基地媒体开放日"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 5,
+    "date": "2026-08-10",
+    "commit": "97f2b608c9",
+    "file": "knowledge-collection\\openday\\openday-R5_20260810.html",
+    "added": 3,
+    "titles": [
+      "科环集团2026品牌开放日·龙源技术专场（客户+对标企业+媒体）",
+      "中国铁塔「走进新国企·探秘数智铁塔」企业开放日",
+      "中国联通内蒙古2026国企开放日主场（公众+媒体+政企）"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 6,
+    "date": "2026-08-10",
+    "commit": "aceae657a1",
+    "file": "knowledge-collection\\openday\\openday-R6_20260810.html",
+    "added": 5,
+    "titles": [
+      "信安・客户开放日：策略与人工的双向奔赴，共筑视频号业务质效新生态",
+      "客服开放日丨英雄联盟手游客户服务部岗位体验",
+      "展厅员工开放日｜诚挚邀请",
+      "初心向用户，成长不设限丨新鹅“用户为本”第一课【客服开放日-PCG新鹅专场精彩回顾】",
+      "一起Debug！微信支付新鹅的必修课 【客服开放日-25年WXG微信支付毕业生专场精彩回顾】"
+    ]
+  },
+  {
+    "topic": "openday",
+    "cn": "Open Day",
+    "round": 7,
+    "date": "2026-08-11",
+    "commit": "4428eea590",
+    "file": "knowledge-collection\\openday\\openday-R7_20260811.html",
+    "added": 11,
+    "titles": [
+      "中国石油辽宁销售开放日「从油品到生活」转型展示",
+      "中船集团国企开放日暨品牌宣传周（2025）",
+      "国家能源集团广西电力「品牌开放日」（2025）",
+      "川维化工「公众开放日」十年开门之路",
+      "大唐华银「企业开放日暨品牌日」（2026）",
+      "中国石化 2026 公众开放日（胜利油田启动）",
+      "大汉电商「总部开放日」（员工跨区参访）",
+      "南京欣网「总部开放日」（全国优秀员工参访）",
+      "「上海国企开放日」第二批（科技科普专场）",
+      "销售企业公众开放日实践路径探析（中国石油甘肃销售）",
+      "《沟通创造价值》企业公众开放日品牌方法论（中国石化）"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 1,
+    "date": "2026-08-06",
+    "commit": "e72c49192d",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R1_20260806.html",
+    "added": 14,
+    "titles": [
+      "CEO下午茶·大湾区定向邀约私密圆桌",
+      "伯乐私董会·高管闭门圆桌案主制",
+      "道成珠江经营下午茶·1V1问诊框架",
+      "天马汇总裁下午茶·董事长圆桌+案主制",
+      "金茶花总经理下午茶·行业跨界对话",
+      "浙商董事长圆桌闭门恳谈·政产学研金",
+      "工会主席下午茶·一对一茶叙民主管理",
+      "总经理茶话会·抽非经理级+闭环回访",
+      "职工茶话会闭环机制·即听即记事事有回音",
+      "Skip-level 跳级倾听会·完整指南+频率表",
+      "SHRM：Skip-level 怎么做·权威口径",
+      "Skip-level 先 brief 中层+问题集",
+      "世界咖啡馆圆桌恳谈·无主席台观点流动",
+      "管理者咖啡聊天15分钟信任框架"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 2,
+    "date": "2026-08-07",
+    "commit": "434573cccc",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R2_20260807.html",
+    "added": 1,
+    "titles": [
+      "下午茶研讨 互动设计（内部）"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 3,
+    "date": "2026-08-07",
+    "commit": "011f786870",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R3_20260807.html",
+    "added": 5,
+    "titles": [
+      "泰普洛跨文化领导力闭门会·鸡尾酒会破冰",
+      "Executive Mastermind·Hot-seat 施压测试决策",
+      "逆向导师·高管坐学生席(OG请接招)",
+      "走动式管理 MBWA·随机走访一线",
+      "无限极月度茶饮会·核心团队轮值"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 4,
+    "date": "2026-08-08",
+    "commit": "475c3c8d88",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R4_20260808.html",
+    "added": 5,
+    "titles": [
+      "千万级企业家私密董事会·封闭式会议运营密码",
+      "企业私董会组织流程与议程范本（可复用模板）",
+      "唯品会总裁午餐会·对话高管机制",
+      "MD Lunch 跨职能午餐会·结构化倾听",
+      "微软「午餐会」沟通法·每周10人倾听+会后闭环"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 5,
+    "date": "2026-08-08",
+    "commit": "26dc544fc2",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R5_20260808.html",
+    "added": 11,
+    "titles": [
+      "奉贤「订单下午茶」·政府搭台企业跨界对接",
+      "新华三「生态大咖下午茶」·厂商×伙伴副总裁对话",
+      "珠海「产业论·总裁下午茶」·园区企业家圆桌供需对接",
+      "徐家汇「商圈高管」下午茶·营商服务中心主题专场",
+      "海底捞「喝咖啡」复盘·管理者与下属咖啡 SOP",
+      "惠普「喝咖啡的时间」·高管每月 6-8 名员工面谈",
+      "冯国华一对一锦囊·会议归下属、地点在工位",
+      "华为预警谈心四步·管理者一对一留人闭环",
+      "山东章鼓协同启航茶话会·总经理与新部门圆桌",
+      "耿村煤矿三日七日谈心·新职工全周期关怀",
+      "宁德时代主管面谈·班长3次谈心关怀机制"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 6,
+    "date": "2026-08-09",
+    "commit": "47a0220436",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R6_20260809.html",
+    "added": 6,
+    "titles": [
+      "红颜会「红颜下午茶」·女性领导者圈层私享社交",
+      "女性投资人闭门沙龙·VC/PE 女合伙人同侪对话",
+      "微管理茶歇·主管日常茶水间情绪温度计",
+      "开放式茶歇区设计·空间促跨部门日常沟通",
+      "台湾二代接班·每周下午茶倾听+员工信箱闭环",
+      "茶文化融入HRM·入职品茗/以老带新/以茶表彰"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 7,
+    "date": "2026-08-10",
+    "commit": "fee97f202e",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R7_20260810.html",
+    "added": 5,
+    "titles": [
+      "班组下午茶沟通会·一线情绪疏导与相互支招",
+      "妈妈员工母亲节茶话会·吐槽大会+育儿分享",
+      "Z世代非正式倾听三通道·15分钟咖啡谈话",
+      "虚拟咖啡轮盘·混合/远程团队主管咖啡",
+      "妈咪小屋定时下午茶·孕乳期女职工互助茶歇"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 8,
+    "date": "2026-08-10",
+    "commit": "aceae657a1",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R8_20260810.html",
+    "added": 7,
+    "titles": [
+      "【技术听音｜灯塔-社交下午茶】90s现场速览",
+      "【IEG通道下午茶】项目管理通道沙龙回顾",
+      "【创意+AI如何给用户带来惊喜】· 分享会纪要",
+      "Wiztalk·ACL 2025 论文分享会 | 技术学堂",
+      "AI辅助编码分享会",
+      "【Hello AI，Hello World】 CDG技术团队AI提效实践分享会",
+      "第八届腾讯技术周｜腾讯党委技术有温度专场分享会总结"
+    ]
+  },
+  {
+    "topic": "afternoontea",
+    "cn": "下午茶研讨",
+    "round": 9,
+    "date": "2026-08-11",
+    "commit": "100ebbc9d2",
+    "file": "knowledge-collection\\afternoontea\\afternoontea-R9_20260811.html",
+    "added": 6,
+    "titles": [
+      "愉悦资本/华兴「愉悦下午茶」·投资人×创始人 闭门路演平台",
+      "Salesforce 新竹高科技领袖午宴·CXO 闭门午宴",
+      "仪征供电「工会主席下午茶+总经理联络员」多通道诉求体系",
+      "维达纸业「深度社交茶话会」·高管↔一线职工直接对话桥",
+      "嘉新企业团「执行长下午茶+系统化员工反馈矩阵」",
+      "新员工入职领导下午茶·迎新融入+答疑"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文化活动知识库 · 使用须知</title>
+<style>
+  :root{
+    --purple:#7c5cff; --cyan:#22d3ee; --orange:#ff8a3d; --ink:#1f2440; --muted:#6b7299;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    background:linear-gradient(135deg,#f3f0ff 0%,#e8fbff 100%);
+    color:var(--ink); line-height:1.75; padding:32px 16px;
+  }
+  .wrap{max-width:940px;margin:0 auto;}
+  header.hero{
+    background:linear-gradient(120deg,var(--purple),var(--cyan));
+    color:#fff;border-radius:24px;padding:42px 38px;
+    box-shadow:0 22px 55px -22px rgba(124,92,255,.55); margin-bottom:28px;
+  }
+  header.hero h1{font-size:30px;letter-spacing:.5px;margin-bottom:12px;}
+  header.hero p{opacity:.96;font-size:15px;max-width:680px;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(380px,1fr));gap:18px;}
+  .card{
+    background:#fff;border-radius:18px;padding:24px 24px 20px;position:relative;
+    box-shadow:0 12px 32px -18px rgba(31,36,64,.28);overflow:hidden;
+  }
+  .card::before{content:"";position:absolute;top:0;left:0;right:0;height:4px;
+    background:linear-gradient(90deg,var(--purple),var(--cyan));}
+  .card h2{font-size:18.5px;margin:6px 0 12px;display:flex;align-items:center;gap:8px;}
+  .card p{font-size:14.5px;color:#3a3f63;}
+  .card ul{margin:10px 0 0 20px;font-size:14px;color:#3a3f63;}
+  .card li{margin:6px 0;}
+  .legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px;}
+  .badge{display:inline-flex;align-items:center;font-size:12.5px;font-weight:600;
+    padding:5px 13px;border-radius:999px;color:#fff;white-space:nowrap;}
+  .r2{background:var(--orange);}
+  .r3{background:var(--purple);}
+  .b1{background:#16a34a;}
+  .b2{background:#0ea5e9;}
+  .note{font-size:13px;color:var(--muted);background:#f6f7ff;border-left:3px solid var(--purple);
+    padding:11px 15px;border-radius:8px;margin-top:14px;}
+  .full{grid-column:1/-1;}
+  footer{text-align:center;color:var(--muted);font-size:13px;margin-top:32px;}
+  b{color:var(--ink);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="hero">
+    <h1>📖 文化活动知识库 · 使用须知</h1>
+    <p>欢迎使用文化活动知识库🎉🎉🎉<br>这里沉淀了 6 类文化活动（员工大会、Offsite、破冰、颁奖、Open Day、下午茶研讨）的可复用打法——每张卡片是一个经过筛选、可直接参考的玩法 / 方法 / SOP。<br>读这份须知，能帮你更快挑到对的玩法、看懂标签、避开误用。</p>
+  </header>
+
+  <div class="grid">
+    <section class="card">
+      <h2>👀 先看懂卡片上的标签</h2>
+      <p>每张卡右上角有几个彩色标签，<b>决定这张卡适不适合你的场景</b>：</p>
+      <div class="legend">
+        <span class="badge r2">上下级</span>
+        <span class="badge r3">高管间</span>
+        <span class="badge b1">一手</span>
+        <span class="badge b2">二手</span>
+      </div>
+      <ul>
+        <li>🟠 <b>上下级</b>：领导 ↔ 员工场景。尊重、不踩隐私、建信任不越界。</li>
+        <li>🟣 <b>高管间</b>：领导 ↔ 领导场景。商务化、以专业/共同目标切入、避免幼稚游戏。</li>
+        <li>⚪ <b>一手 / 二手</b>：一手＝公司内部官方、主办方原文、工具官方文档（优先采信）；二手＝媒体解读、服务商软文、经验帖（参考即可）。</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>🚫 为什么看不到"同事互玩"类内容</h2>
+      <p>本库<b>只收上下级和高管间</b>两档。<br>平级/朋友向（轻松、搞笑）内容<b>不收录</b>——那类适合同事之间玩，不适合领导和员工、领导和领导之间。</p>
+      <div class="note">挑玩法前，先看关系档 chip 是否匹配你的场景。<br>用错档位（比如把朋友向破冰搬到领导面前）会尴尬甚至越界。</div>
+    </section>
+
+    <section class="card">
+      <h2>🛠 卡片怎么用</h2>
+      <ul>
+        <li><b>标题 + 价值描述</b>：快速判断是不是你要的。</li>
+        <li><b>「怎么做」折叠</b>：点开看落地步骤 / 操作要点。</li>
+        <li><b>来源链接</b>：点去原文核对（重要玩法建议自行溯源）。</li>
+        <li><b>适用备注</b>：标注适用边界、坑点、已做的调整。</li>
+      </ul>
+      <div class="note">建议把卡片当"灵感清单 + 溯源入口"，而非直接照搬。<br>结合你团队的实际规模、预算、场地再落地。</div>
+    </section>
+
+    <section class="card">
+      <h2>🗂 总览页 vs 轮次页（同一张卡为什么出现两次）</h2>
+      <p>每个活动类型下有两层页面：</p>
+      <ul>
+        <li><b>总览页</b>：该类型<b>全量汇总</b>，一眼看全。</li>
+        <li><b>轮次页</b>：某一次采集<b>新增</b>的卡片。</li>
+      </ul>
+      <div class="note">同一张卡会同时出现在「总览页」和「它所属的轮次页」——这是<b>有意设计，不是重复</b>。<br>想看最新全量看总览；想看某一批新增看轮次页。</div>
+    </section>
+
+    <section class="card">
+      <h2>📋 采集边界（这些本库没有）</h2>
+      <ul>
+        <li>不含平级/朋友向内容（见上文）。</li>
+        <li>Open Day 只收<b>企业文化活动向</b>（客户/媒体/品牌/公众/员工/政府开放日）；投资者关系、证券监管、财报路演类开放日<b>不收</b>。</li>
+      </ul>
+      <div class="note">边界是为了保证内容"拿去就能用、不踩雷"。<br>如果你手上有符合边界的好素材，欢迎补充。</div>
+    </section>
+
+    <section class="card full">
+      <h2>💬 反馈与纠错</h2>
+      <p>卡片均附来源链接，重要玩法建议自行溯源核对。<br>如发现错漏，或手上有符合边界的好素材想补充，<b>请联系 yitong</b>。</p>
+      <div class="note">知识库持续滚动采集更新，轮次页会随新一批内容不断增加；总览页保持全量。<br>需要某类玩法 but 库里还缺，也欢迎提需求。</div>
+    </section>
+  </div>
+
+  <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body>
+</html>

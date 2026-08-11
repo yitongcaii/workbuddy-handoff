@@ -2774,5 +2774,115 @@
     "summary": "新员工入职领导下午茶·迎新融入+答疑",
     "topic": "afternoontea",
     "source": "web"
+  },
+  {
+    "title": "裁员后全员会信任修复剧本（Unicorn Labs）",
+    "normKey": "裁员后全员会信任修复剧本（Unicorn Labs）",
+    "url": "https://unicornlabs.ca/blog/town-hall-script-after-layoffs",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Unicorn Labs 裁员后全员会剧本：把『信任测试』当核心——承认(Acknowledge)先于解释；讲真实版本(why)不含糊；直接回答『我是不是下一个』(讲稳定项)；90 天 3 优先；不过滤 Q&A；收尾一句真话。三失败模式：有毒正能量/空洞乐观/过度解释。信任双引擎=胜任力(真实计划)+善意(承认人的代价)，两者裁员后都受损，需同时修复。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "CEO 向员工传达坏消息最佳实践（Glenn Gow）",
+    "normKey": "CEO 向员工传达坏消息最佳实践（Glenn Gow）",
+    "url": "https://www.glenngow.com/communication-tips-for-ceos-delivering-bad-news-to-your-company-and-employees",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Glenn Gow：CEO 传坏消息(裁员/冻薪/项目失败)保信任的框架——充分准备(数据+预判问题+简练信息)、透明诚实不粉饰、担责不甩锅、给上下文与原因、列应对步骤、亲自当面讲、留问答时间、会后书面摘要。真实案例：关亏损产品线『探索所有方案后艰难决定，理解影响，提供过渡支持』。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "全员会五大进阶衡量指标（Success-Communications）",
+    "normKey": "全员会五大进阶衡量指标（Success-Communications）",
+    "url": "https://www.success-communications.com/orchestrating-all-hands-meetings-that-transform-strategy-into-collective-action",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "把全员会从『出席率』虚荣指标升级为『认同度』——5 进阶指标：①信息共鸣分(会后让员工用自己话重述战略要点)②情绪位移(会前/后 48h Slack/Teams 关键词情绪)③经理级联指数(一周后中层对向下解释战略的信心 1-10+是否开跟进会)④问题主题分析(从战术提问→战略提问=对齐成熟)⑤战略举措关联(会后 PM 工具新增任务明确引用该战略)。证明沟通 ROI 给 C-suite。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "全球跨时区全员会·黄金窗口+异步（EarthTimezones）",
+    "normKey": "全球跨时区全员会·黄金窗口+异步（EarthTimezones）",
+    "url": "https://earthtimezones.com/blog-post-global-meetings",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "全球全员会的时区解法——①找『黄金窗口』(美/欧/亚通常仅 2-3h 重叠，留给 all-hands)②异步优先(学 GitLab/Basecamp，录 Loom/写简报让东京时区睡醒再回应)③『共担痛苦』轮换(APAC 本周深夜→下周 US 清晨，别让一区恒牺牲)④deadline 统一用 UTC。核心：避免让某人凌晨 3 点开会。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "叙事弧框架·全员会讲公司故事（OpsLab）",
+    "normKey": "叙事弧框架·全员会讲公司故事（OpsLab）",
+    "url": "https://www.opslab.ca/blog/why-do-town-halls-matter",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "全员会的本质是『共创共享清晰度』——回答三问『我们从哪来/现在在哪/去哪』。框架：①Where we've been(赢面+价值观故事)②Where we are(诚实业务快照+适度财务+坦承挑战)③Where we are going(愿景+季度 Rocks+大赌注)④Reinforce values(表彰践行者)⑤Open Q&A。文化靠这种『把人连回大故事』的时刻防侵蚀。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "领导力故事五步模板（TAC Results）",
+    "normKey": "领导力故事五步模板（TAC Results）",
+    "url": "https://www.tacresults.com/blog/power-of-storytelling/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "故事比数据更能驱动认同——五步框架 Hook(10-15s 好奇/张力)→Challenge(30-45s 障碍)→Turning Point(30-45s 决策/心态转折)→Resolution(20-30s 正果)→Takeaway(10-15s 拉回团队现状)。用法：讲起源故事/员工影响故事/变革故事；真实含挣扎、可互动、连价值观。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "Open Book Meeting·CFO 财务透明全员会（Girdley）",
+    "normKey": "Open Book Meeting·CFO 财务透明全员会（Girdley）",
+    "url": "https://newsletter.girdley.com/p/killing-the-narrative-void-free-template",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Girdley 『Open Book Meeting』(又名 All-Hands/Town Hall)：CEO 四季末向全员极透明更新——赢面→长/短/即期目标(诚实是否达标)→CFO 讲财务(多数人首次看到关乎生计的数字)→小团建(Kahoot)→新动向聚光→颁高绩效奖→CEO Q&A(主持+邀难题+『我不知，回头答』)→准时收尾。消除『叙事真空』(Narrative Void)提对齐/敬业/文化。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "员工大会主持词结构与串场范本（renrendoc）",
+    "normKey": "员工大会主持词结构与串场范本（renrendoc）",
+    "url": "https://www.renrendoc.com/paper/525850400.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "员工大会主持词标准结构：开场白(欢迎+定调)→介绍主要领导→宣布大会开始→领导致辞/工作报告(主持串『高屋建瓴+指明方向』)→宣读表彰决定/通知→先进代表发言→互动答疑(可选)→其他仪式(签责任书/启动)→总结讲话→结束语。串场要简洁、突出仪式感、承上启下，避免卡壳。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "主管宣布坏消息6大要领·当机立断（中国新闻网）",
+    "normKey": "主管宣布坏消息6大要领·当机立断（中国新闻网）",
+    "url": "https://www.chinanews.com/hb/2011/10-12/3384295.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "主管扮好『乌鸦』传坏消息 6 要领——①当机立断尽早宣布(拖延助长谣言；上午开会让员工有空消化；邮件最糟媒介，全体会议上宣布)②老实说(不知全貌就直说)③清楚直接(简洁、不复述绕圈、不模棱两可、不故作幽默)④表现体谅(不显得不痛不痒)⑤复述讯息助记忆⑥安排问答。把冲击减到最小且赢得敬重。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "员工大会效果评估体系·定量+定性闭环（renrendoc）",
+    "normKey": "员工大会效果评估体系·定量+定性闭环（renrendoc）",
+    "url": "https://m.renrendoc.com/paper/525832825.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "员工大会工作方案评估体系：定量(出勤率/现场互动频/直播观看+完播/问卷回收/舆情热度)+定性(战略理解度/情感认同/归属感/行动意愿量表+行为观察+关键岗深访)；闭环改进(实时弹幕/投票箱/即时通讯捕反馈→会后立即析问卷高频词→建『改进委员会』定措施→建大会档案库)；长期把仪式感转生产力。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "会后即时调研四维度（myculture.ai）",
+    "normKey": "会后即时调研四维度（myculture.ai）",
+    "url": "https://www.myculture.ai/blog/all-employee-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "全员会效果用会后即时调研四维度(1-5 量表)——清晰度(『会后更懂公司优先项』)/参与度(『时间花得值』)/信任(『听更新后对领导更信』)/可行动性(『知道我/团队接下来要做什么』)；定量+开放题混用；持续跟踪趋势(清晰度跳升=简化 PPT 有效、信任涨=某次坦诚 Q&A 有效)证明价值并迭代。",
+    "topic": "staff-meeting",
+    "source": "web"
   }
 ]
