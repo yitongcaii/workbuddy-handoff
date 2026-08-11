@@ -3004,5 +3004,55 @@
     "summary": "2026 直播 7 步，把交互当『必做非可选』：预提交提问(会前 48-72h，不敢 live 讲的人会提前交，主持备答防冷场)/live 投票(每场≤2-3 个，多了稀释)/chat moderation(指定专人，CEO townhall 无 moderation 是风险)/按部门/地区 breakout(主会后续，协作+32%)/双语可及。制作像 live TV：show caller 同时管机位/字幕/讲者提示/流健康；远程讲者配 green room 防延迟混乱；townhall 超时伤信誉、show caller 管时长非 CEO；技术故障要有文档预案(65% 比利时企业用交互 webinar，内置 live 干预降掉线 40%)。掉线率是注意力真实指标。",
     "topic": "staff-meeting",
     "source": "web"
+  },
+  {
+    "title": "Offsite 立项商业论证·一页 business case 拿 CFO 签字",
+    "normKey": "Offsite 立项商业论证·一页 business case 拿 CFO 签字",
+    "url": "https://www.affinitytravel.co/blog/how-to-build-the-business-case-for-a-company-offsite",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "向 CFO/董事会 要 offsite 预算，别用 deck 用一页 business case（5 要素）：① 一句话首要业务目标（如「降低资深 IC 主动离职」而非「团队凝聚力」）② 全成本（差旅+场地+餐饮+策划费+保守估算的产出工时损失）③ 成功指标+怎么测 ④ 不做的成本（SHRM 基准：留 1 人=年薪 50-200%，100 人 offsite 留 2 个 10 万者即避免 10-40 万替换成本）⑤ 先例（2019 后 59% 公司加了 offsite 预算）。把目标翻成财务语言——「战略对齐」=「把 Top3 倡议决策延迟砍半」，再贴美元值对比活动成本；董事会/CFO 看风险调整回报。指标会前定，别会后补。",
+    "topic": "offsite",
+    "source": "web"
+  },
+  {
+    "title": "领导力 Retreat 选址完全指南（隐私·目的地·踩点·合同陷阱）",
+    "normKey": "领导力 Retreat 选址完全指南（隐私·目的地·踩点·合同陷阱）",
+    "url": "https://www.offsite.com/blog/leadership-retreat-venue",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "领导力 retreat 选址与议程/引导同等重要——私密住宅式物业（6-14 人，多套卫浴卧室+主厨厨房+大起居+泳池/温泉）给高管团队完全隐私与客厅式非正式讨论，代价是 Wi-Fi 不稳须提前测、餐饮自理；目的地匹配目标（山=专注战略/海=反思焕新/城=创新工坊），优先机场 90 分钟内直达、2-3 天门到门<6-7h；肩季（4-5/9-10 月）常省 10-25%；踩点必做（听真实噪声/走房间动线/测多点 Wi-Fi/看真实客房）；合同盯缩水房/取消条款/AV 加价/F&B 最低消费/30-40% 高管有特殊饮食；红绿灯：销售不回/报价模糊/Wi-Fi 差/不愿给参考=拒；隐私与舒适不达标=高管预期落空。",
+    "topic": "offsite",
+    "source": "web"
+  },
+  {
+    "title": "Offsite 战略推演·商业战争游戏（war-gaming）与去政治化",
+    "normKey": "Offsite 战略推演·商业战争游戏（war-gaming）与去政治化",
+    "url": "https://blog.strategicoffsites.com/insights-blog/offsites-that-work",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 offsite 做战略，用「商业战争游戏」推演竞争者反击：分组扮演对手（「若你跳去竞对会怎么打我们」），给 3 轮反应-反制循环，把最极端场景逼出来反而能高质量讨论中间态；Monster 案例用 142 页 fact book 上墙+红绿黄 Post-it 标记共识/分歧/待数据，快速聚焦高分歧高重要议题。倡议过多时用「射箭练习」去政治化：把 42 个倡议写成贴纸贴到 5 个战略目标的靶上（靶心/外环/脱靶），自然 cull 掉对目标无直接影响的十几个，逼团队补留人等缺口倡议——比让 CEO 亲手砍「心头好」倡议更少政治阻力。⚠️ 时间框架须先对齐（「长期」对 A 是 10 年、对 B 是 10 季度）。",
+    "topic": "offsite",
+    "source": "web"
+  },
+  {
+    "title": "Offsite 难题对话引导·CEO 不该主持自己 offsite",
+    "normKey": "Offsite 难题对话引导·CEO 不该主持自己 offsite",
+    "url": "https://georgedupontleadership.com/leadership-team-offsite-planning-guide-and-agenda-ideas/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "offsite 真正考验是房间变紧张时——沉默在领导层通常=不同意而非同意，当成默许是引导失败。三步框架化解张力：① 显式点名张力（「这里对 X 有明显分歧，摊开而非跳过」）② 把人与立场分开（让各方讲驱动立场的底层顾虑）③ 共创解题路径（定「什么信息/标准能让 group 做决定」+设 deadline）。关键红线：CEO 不该自己主持自己的 offsite——CEO 主持时其他高管会自我审查（研究证实），外部引导师才能创造无职业风险的开诚异议；高 stake offsite 里 CEO 应作为团队成员参与、不当 session 主持。四类常见张力处理：继任模糊（移离线+另设流程）/资源分配冲突（用数据标准+引导师把框）/战略分歧（先发散后收敛+pre-mortem 去人格化）/团队内低绩效者（移离线，绝不在 group 解）。",
+    "topic": "offsite",
+    "source": "web"
+  },
+  {
+    "title": "AAR 任务后复盘·把 offsite 变团队学习节奏",
+    "normKey": "AAR 任务后复盘·把 offsite 变团队学习节奏",
+    "url": "https://beperpetual.com/insights/articles/military-precision-to-boardroom-performancepart-3",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "美军 AAR（任务后复盘）可迁移到高管 offsite 收尾：四问——目标是什么/实际发生什么/哪里好/下次哪不同；核心是无责难（blame-free）、只谈绩效不评人。高管团队 embedding AAR 能建心理安全+无责问责+暴露真障碍（非 KPI 表面）。落地：顶部脆弱感示范（「不为谁做错，为团队更锐」）；小但恒（15 分钟 huddle 也够，节奏 Plan→Execute→Debrief→Adjust→Repeat）；捕获并级联（洞察若被捕获可跨团队/区域放大，问「刚学到什么别人该知道」）。大多数企业只交付不学习——AAR 把经验转洞察、洞察转行动，是敏捷执行的关键机制。",
+    "topic": "offsite",
+    "source": "web"
   }
 ]
