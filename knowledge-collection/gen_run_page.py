@@ -74,7 +74,7 @@ def split_cards(html):
                 j += 4
             elif html[j:j + 5] == '</div':
                 d -= 1
-                j += 5
+                j += 6  # 跳过完整闭合标签 '</div>'（含结尾的 '>'），否则切出的卡块缺 '>' 会互相嵌套
             else:
                 j += 1
             if d == 0:
