@@ -190,12 +190,19 @@
         "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
         "name": "icebreaker-2026-08-12-r8.html",
         "note": "轮次页 R8 (+11)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "a3a01f81f16a432086057ba75883836a",
+        "name": "icebreaker-2026-08-13-r9.html",
+        "note": "轮次页 R9 (+7)"
       }
     ],
     "wall": {
-      "entry_id": "f06a4c5394df4b458ffeb9dff42653ba",
-      "file_id": null,
-      "name": "icebreaker.html"
+      "entry_id": "4b02057492854cc096b5c08832a76a8b",
+      "file_id": "efb12352a1014231b65fc4487b5280b3",
+      "name": "icebreaker.html",
+      "note": "R9 重建墙（69卡）；旧墙 f06a4c5394df4b458ffeb9dff42653ba 已 403 失效（reorg 移归档），本条目取代之"
     }
   },
   "award": {
