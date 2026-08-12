@@ -3395,5 +3395,115 @@
     "title": "狮峰会·高端圈层茶会（西湖龙井核心产区）",
     "topic": "afternoontea",
     "url": "https://baike.baidu.com/item/%E7%8B%AE%E5%B3%B0%E4%BC%9A/66793935"
+  },
+  {
+    "title": "Carta CEO 全员会 humane 裁员·亲讲担责（Inc·案例）",
+    "normKey": "Carta CEO 全员会 humane 裁员·亲讲担责（Inc·案例）",
+    "url": "https://www.inc.com/betsy-mikel/how-you-can-conduct-layoffs-humanely.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Carta CEO Henry Ward 在全员会(Zoom)直播宣布裁 161 人(16%)，全程担责(『若今天是你最后一天，唯一要怪的就是我』)、给足信息(人数/比例/部门/后续通知时点)、最大遣散包+COBRA+校友 Slack、把公告发 Medium 获全网赞誉。信任修复剧本：CEO 亲讲+透明+担责+资源。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "15 个 C-Suite Town Hall 逐字脚本库（leadership-and-development）",
+    "normKey": "15 个 C-Suite Town Hall 逐字脚本库（leadership-and-development）",
+    "url": "https://leadership-and-development.com/15-c-suite-town-hall-scripts-for-leaders-word-for-word",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "15 套可直接套用的 C-suite town hall 逐字脚本，覆盖无名下英雄表彰/价值观落地/90天目标收尾等；每套含『把后台 quiet win 连到护盘与降本』『用真实一线行为命名核心价值观』『离场前给清 90 天三优先非模糊动员』三板斧。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "公司 Town Hall 活动策划·建信任增参与（Great Place 视角）",
+    "normKey": "公司 Town Hall 活动策划·建信任增参与（Great Place 视角）",
+    "url": "https://coalesceeventz.com/blog/corporate-town-hall-event-planning",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "专业活动策划视角：Town Hall 是领导↔员工真实对话平台，价值在透明/信任/连接；议程须平衡业务更新+员工聚焦(客户故事/员工认可/创新亮点)+互动；领导沟通定调——真实故事/坦诚讲挑战胜过长篇 PPT；技术(直播/投票/互动平台)让现场与远程平等。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "内部沟通叙事 7 招·领导先讲人（Blink）",
+    "normKey": "内部沟通叙事 7 招·领导先讲人（Blink）",
+    "url": "https://www.joinblink.com/intelligence/internal-communication-storytelling",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "内部沟通叙事 7 招：领导先讲个人故事(哪怕无关主题)更易共鸣；真实胜过光鲜(连高管失败也讲)；按受众分群避免信息过载；重要故事反复讲(舒尔茨米兰轶事成星巴克 legend)；用多媒体(视频/直播)让一线也能消费；鼓励员工自己产内容。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "微软全员会×Pulse 调研·持续双向对话（Resolution）",
+    "normKey": "微软全员会×Pulse 调研·持续双向对话（Resolution）",
+    "url": "https://www.resolution.de/post/internal-communication-plan-examples",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "微软(22万+全球)内部沟通范式：季度全员会(Nadella 亲讲)为支柱+高频 Pulse 短调研形成持续倾听节奏；Pulse 洞察直接塑下场全员会议程与领导话术；渠道分层(Teams 项目级/Yammer 社区/高管博客)；数据驱动决策——员工见反馈真塑领导动作才持续参与。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "温情裁员·留任者 guilt 修复+持续沟通（GPTW）",
+    "normKey": "温情裁员·留任者 guilt 修复+持续沟通（GPTW）",
+    "url": "https://www.greatplacetowork.me/how-to-lay-off-employees-with-care-and-compassion/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Great Place To Work 研究：艰难期靠信任快恢复；6 实践——①倾听文化(真懂员工才能温柔谈难事)②支持经理(grief/resilience 培训+论坛)③透明常沟通(CEO 全员会+GM 小场+经理团队会，周更视频)④支持受影响者(遣散/COBRA/简历/内推/推荐信)⑤engage 留任者(谈如何帮离场者、创空间谈感受、EAP)⑥跟进离场者(再雇优先)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "混合全员会·远程现场平权议程（Daily Pick）",
+    "normKey": "混合全员会·远程现场平权议程（Daily Pick）",
+    "url": "https://dailypick.dev/blog/hybrid-all-hands-playbook-fair-fun-agendas-that-keep-teams-engaged/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "混合全员会 playbook：会前 engineering equity(匿名征题用 Decision Wheel 定议程、双 MC 现场+远程、预读/Loom);45-50min 核心(欢迎/业务+字幕/客户故事轮换/职能 spotlight/互动休息/书面 Q&A);降低发言门槛(reaction bingo/side-channel 拉拉队/白板协同);Q&A 远程现场双队列轮替+匿名提交+24h 书面答;会后 highlight reel+thread steward 续能量。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "混合全员会三要点·主持/技术/互动（Catchbox）",
+    "normKey": "混合全员会三要点·主持/技术/互动（Catchbox）",
+    "url": "https://catchbox.com/blog/how-to-run-a-hybrid-all-hands-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "混合全员会三要件：①指定主持(moderator)串场控时防冷场②专职技术支援(80人卡 5min=近 7h 工时损失，专人快修)③互动切段(live Q&A+可抛麦克风/Slido 投票/5min 拉伸)。远程易走神，互动参与才记得住。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "远程全员会·让人期待的设计（RIEMOTE）",
+    "normKey": "远程全员会·让人期待的设计（RIEMOTE）",
+    "url": "http://riemote.com/blog/running-remote-all-hands-meetings-people-love",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "远程全员会设计：清晰目的+提前发议程(Notion 征题);短聚焦更新(高管 5-7min/部门 2-3min/公告≤5min+视觉);庆祝人与赢(轮值 peer kudos/客户 win/里程碑);互动 Q&A(Slido/Mentimeter 匿名+Zoom 投票+breakout);时区包容(轮换时段+录播+纪要);指定 MC 控场添轻松;技术测试+备份+必录;surprise guest/虚拟 swag/feedback。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "裁员沟通最佳实践·步骤序列（Success Knocks）",
+    "normKey": "裁员沟通最佳实践·步骤序列（Success Knocks）",
+    "url": "https://successknocks.com/handling-layoff-communication-best-practices",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "裁员沟通步骤序列：①准备信息与传递者(写脚本讲 why+不 blame、经理 role-play 含情绪应对、备 severance/福利/推荐信 FAQ)②选时机渠道(先私下 1:1 通知、24-48h 内广而告之止谣言、避开周五/节前)③共情清晰直说(直给人数与原因+承认影响+立即给下一步+支持资源)④速对留任者(24-48h 内全员会+Q&A+书面复盘+重述价值与愿景)⑤ relentless 跟进(书面总结+1:1+监测情绪+90 天节奏更新)。",
+    "topic": "staff-meeting",
+    "source": "web"
+  },
+  {
+    "title": "把 Town Hall 开成真连接·故事/可达/跟进（Zoho）",
+    "normKey": "把 Town Hall 开成真连接·故事/可达/跟进（Zoho）",
+    "url": "https://www.zoho.com/connect/the-collective/how-to-run-town-hall-meetings-that-truly-connect.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "把 Town Hall 开成真连接：①清晰单目的(别塞太多主题)②互动非单向(live Q&A+实时投票+小场 breakout)③讲故事故事非数字(客户成功/团队克难/个人反思，数字给意义)④庆祝里程碑与人(达标/发新/周年，peer 前被认可持续)⑤人人可达(直播+录制+会后分享，混合/时区不落人)⑥会后跟进(纪要/要点/决策/持续问答渠道)⑦短聚焦(45min 胜 2h)⑧形式多变(轮换发言人/视频/客座)。",
+    "topic": "staff-meeting",
+    "source": "web"
   }
 ]
