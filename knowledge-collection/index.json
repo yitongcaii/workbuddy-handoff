@@ -3345,5 +3345,55 @@
     "summary": "北玻股份2026「六零绿色建材日」公众开放日（官网）：由《中国建材》杂志协调20余家中央及地方媒体记者，与中国建材联合会/国检集团/洛阳玻璃行业协会专家齐聚北玻高端装备产业园；参观510亩花园式园区（绿化12万㎡，颠覆装备制造工厂印象）、三元流风机检测中心（CNAS国家认可实验室）、玻璃深加工自动化连线；董事长率团队接待，各业务负责人系统介绍核心产品与「双碳」战略契合点，围绕创新与绿色战略与媒体深度交流。",
     "topic": "openday",
     "source": "northglass.com"
+  },
+  {
+    "normKey": "skip-level跨级信任茶话会·高管与一线直接对话",
+    "relation": "supervisor,exec",
+    "source": "hrsimple",
+    "sourceType": "secondary",
+    "summary": "跨级会议（senior leader 跳过直属经理，直接对话一线 individual contributors）是建信任、收集未过滤反馈、提升敬业度的关键场域。核心要点：会前先 brief 直属经理消除焦虑、明确「非评审·安全空间」；开场讲目的与保密承诺，员工说话占 70%；用 what/how/tell me about 开放式提问，绝不诱导或绕开经理；收尾给 1-2 个清晰下一步 + 跟进时间线；以咖啡/茶叙式轻松氛围替代正式会谈，季度/半年常态化才真诚（出问题才做会被视为作秀）。",
+    "title": "Skip-level 跨级信任茶话会·高管与一线直接对话",
+    "topic": "afternoontea",
+    "url": "https://hrsimple.com/skip-level-meeting"
+  },
+  {
+    "normKey": "深圳湾「湾里下午茶」·ceo早茶会圈层私享",
+    "relation": "exec",
+    "source": "shenzhenware",
+    "sourceType": "secondary",
+    "summary": "深圳湾「湾享会」为科技/互联网/硬件产业链高管与创业精英的高端会员制私享会；其中「湾里下午茶·CEO 早茶会」每月 1 期，形式 = 闭门会 + 圆桌对话 + 私享小饭桌，围绕时下热点话题深度交流；核心圈层覆盖广深一线 C-level/VP/创始人，以「友直友谅友多闻」为价值主张，借茶叙场景完成认知共创与人脉链接。",
+    "title": "深圳湾「湾里下午茶」·CEO 早茶会圈层私享",
+    "topic": "afternoontea",
+    "url": "https://shenzhenware.com/member_plan"
+  },
+  {
+    "normKey": "退休欢送茶话会·中银公司20年「暖心茶」传统",
+    "relation": "supervisor",
+    "source": "epaper",
+    "sourceType": "secondary",
+    "summary": "中银公司近 20 年坚持为每位退休职工办「欢送茶话会」：工会领导 + 所在部门经理与退休职工欢聚，喝暖心茶、吃甜心糖、嗑瓜子话家常；单位送「光荣退休」蛋糕 + 刻有本人姓名/入职时间的退休纪念金币；退休职工回部门给同事分喜糖。单 2004 年起已欢送 260+ 人、129+ 场，多为车间一线工人；后续还以「敲锣打鼓送职工」仪式送到家，家属共享荣誉感。",
+    "title": "退休欢送茶话会·中银公司 20 年「暖心茶」传统",
+    "topic": "afternoontea",
+    "url": "https://epaper.zjgrrb.com/images/2015-09/29/z2015092900001.pdf"
+  },
+  {
+    "normKey": "投资者关系闭门午餐会·非正式ir社交",
+    "relation": "exec",
+    "source": "roadshowchina",
+    "sourceType": "secondary",
+    "summary": "卓越 IR（Roadshow China 路演中）分享的买方视角 IR 实践：除路演电话会外，每年不定期举办「闭门晚宴或午餐会」，通常由卖方分析师联席主持并邀请投资者参加；在更轻松环境中提供独特洞察，并让投资者一窥管理团队合作方式。核心 = 制度化高管曝光（不只让 CFO/CEO 路演，展示多元管理视角）+ 可扩展的非正式交流机制。",
+    "title": "投资者关系闭门午餐会·非正式 IR 社交",
+    "topic": "afternoontea",
+    "url": "https://applet.10100.com/article/92164606"
+  },
+  {
+    "normKey": "狮峰会·高端圈层茶会西湖龙井核心产区",
+    "relation": "exec",
+    "source": "baidu",
+    "sourceType": "secondary",
+    "summary": "狮峰会是由杭州西湖龙井茶叶有限公司发起管理的高端会员制组织，以稀缺狮峰龙井茶为核心纽带：定期举办「高端茶会、闭门会议、文化论坛及主题沙龙」，为重视传统文化与生活美学的企业经营管理/文化艺术/学术研究/公共服务等领域精英，搭建以茶会友、思想交流、价值共创的圈层平台；强调专业、细节、开放、审美。",
+    "title": "狮峰会·高端圈层茶会（西湖龙井核心产区）",
+    "topic": "afternoontea",
+    "url": "https://baike.baidu.com/item/%E7%8B%AE%E5%B3%B0%E4%BC%9A/66793935"
   }
 ]

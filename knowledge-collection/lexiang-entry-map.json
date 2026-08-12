@@ -260,12 +260,17 @@
   },
   "openday": {
     "folder_id": "22eea86cd58a46729ed69380092c2c13",
+    "wall": {
+      "entry_id": "a6ba9c18bfdd47c1ae845dd0bdc579e9",
+      "file_id": "1026ac8c23ff4e949c27d37a67747c3a",
+      "name": "openday.html"
+    },
     "rounds": [
       {
         "date": "2026-08-11",
         "entry_id": "460133b55d6542bda6e00fa7ec0fc6bc",
         "name": "OpenDay-20260811",
-        "note": "初始全量页（改造前遗留，作为首轮）"
+        "note": "初始全量页（改造前遗留，已失效-403，被新墙 a6ba9c... 取代）"
       },
       {
         "date": "2026-08-06",
@@ -308,6 +313,18 @@
         "entry_id": "d99449b7c4ff482090d712345efd245b",
         "name": "openday-R7_20260811.html",
         "note": "轮次页 R7 (+11)"
+      },
+      {
+        "date": "2026-08-11",
+        "entry_id": "7567bc49a5c64e35ae7c2c426f0e50e3",
+        "name": "openday-2026-08-11-r10.html",
+        "note": "轮次页 R10 (+11，根目录 5106d5b2 或归档，待复核)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "a112b54c1ff7493e88d8b04d64da254a",
+        "name": "openday-2026-08-12-r11.html",
+        "note": "轮次页 R11 (+12)"
       }
     ]
   },
