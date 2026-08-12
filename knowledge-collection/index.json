@@ -3649,5 +3649,45 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "领导力发展指南给经理的 6 个建信任练习(角色互换+感恩链+Shared Vulnerability 等)，日常化(每月≥1次)而非一次性活动，authenticity 不能装。"
+  },
+  {
+    "title": "复星国际·外部治理奖项与ESG绩效纳入高管考核",
+    "normKey": "复星国际外部治理奖项与ESG绩效纳入高管考核",
+    "url": "",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "复星国际获亚洲卓越奖（双CEO获Asia's Best CEO），关键机制将ESG绩效纳入执行董事考核；外部治理奖项成高管荣誉信号。"
+  },
+  {
+    "title": "日-周-月-季四级认可机制（日常点赞→奥斯卡式年会颁奖）",
+    "normKey": "日-周-月-季四级认可机制（日常点赞→奥斯卡式年会颁奖）",
+    "url": "",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "把认可拆成日点赞/周闪电奖/月擂台/季奥斯卡式颁奖的日常节奏，配合总裁午餐等荣誉性奖励，避免一年一次认可断层。"
+  },
+  {
+    "title": "荣誉与职业发展强挂钩（晋升通道+荣誉档案持续闭环）",
+    "normKey": "荣誉与职业发展强挂钩（晋升通道+荣誉档案持续闭环）",
+    "url": "",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "核心荣誉自动获晋升资格/答辩优先；荣誉积分兑商城；实体+线上荣誉墙；荣誉档案形成持续激励闭环而非一次性事件。"
+  },
+  {
+    "title": "评先评优公平机制（申报→公示→异议处理+申诉通道+第三方存证）",
+    "normKey": "评先评优公平机制（申报→公示→异议处理+申诉通道+第三方存证）",
+    "url": "",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "流程全程公示+工会/员工代表监督+申诉复议+数字化平台留痕防暗箱；跨部门联合提名权重计入防归属不清。"
+  },
+  {
+    "title": "把颁奖融入日常：高管午餐会轻量表彰（Leadership Excellence Award）",
+    "normKey": "把颁奖融入日常：高管午餐会轻量表彰（LeadershipExcellenceAward）",
+    "url": "",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Take 5 由EVP创年度奖，CEO在午餐会亲手表彰企业级员工；认可从盛典下沉到日常轻量场景维持热度。"
   }
 ]
