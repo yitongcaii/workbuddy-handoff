@@ -2,9 +2,10 @@
   "staff-meeting": {
     "folder_id": "a753a4ebc526495c9e9b2e2fb3cac314",
     "wall": {
-      "entry_id": "346568b9ae1c41ab84ca752067a151cc",
-      "file_id": "1d0ff89356994fb19ecb1f9a774ddfdf",
-      "name": "staff-meeting.html"
+      "entry_id": "89b9a62070cc4268a65697957d9686e8",
+      "file_id": "8e79e91f0af644c29758decf1d637ee9",
+      "name": "staff-meeting.html",
+      "note": "R12 重建墙（120卡）；旧墙 346568b9ae1c41ab84ca752067a151cc 已 50021001 失效（reorg 移归档），本条目取代之"
     },
     "rounds": [
       {
@@ -72,6 +73,12 @@
         "entry_id": "2e2d134ea2944145a42a45690a426ece",
         "name": "staff-meeting-2026-08-12-r11.html",
         "note": "轮次页 R11 (+11)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "edad6feafea14369bc0d4b0196f58aad",
+        "name": "staff-meeting-2026-08-13-r12.html",
+        "note": "轮次页 R12 (+13)"
       }
     ]
   },
