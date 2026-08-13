@@ -4140,5 +4140,59 @@
   "relation": "supervisor",
   "summary": "Skillshare把全员会分层：季度QBR(半日复盘+团建)、月度all-hands(指标+自由问)、周部门会；OKR串个人→公司；远程成员定期飞聚。",
   "topic": "staff-meeting"
+ },
+ {
+  "title": "Strategy Offsite 议程全指南（决策框架版）",
+  "normKey": "strategyoffsite议程全指南决策框架版",
+  "url": "https://www.unicornlabs.ca/blog/strategy-offsite-agenda-guide",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "面向 CEO/创始人/CoS 的增长期战略 offsite 全指南。核心论点：没有决策框架的 offsite 只是昂贵的聊天。提供两天议程（D1 对齐现状、D2 锁优先级与归属），强调 pre-work 是最大单一决定因素；每个 session 必须以「决策/归属/截止」收尾；用 disagree-and-commit 显性化分歧；对前三大决策跑 pre-mortem；用 QBR/月度复盘承接，否则 6 周内承诺蒸发。",
+  "topic": "offsite"
+ },
+ {
+  "title": "高管 Offsite 议程：真正推动改变的 1.5 天模板",
+  "normKey": "高管offsite议程真正推动改变的15天模板",
+  "url": "https://www.buildingteams.com/resources/executive-offsite-agenda",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "基于 25 年数百场高管 offsite 观察：失败几乎同因——议程塞满 30 分钟状态汇报，真正的战略张力从未说出口。给出 1.5 天 run-of-show：开场只问「本次必须回答的单一问题」；设容器（直率、无职级、手机离场、欢迎分歧）先建心理安全；用引导体验/诊断暴露团队在压力下的真实决策方式；收尾写清归属与 30/60/90 天跟进。少议题、深挖掘胜过载满日程。",
+  "topic": "offsite"
+ },
+ {
+  "title": "新Leader×管理团队 Offsite 融入议程",
+  "normKey": "新leader管理团队offsite融入议程",
+  "url": "https://www.davidbanger.com/post/the-offsite-agenda-that-builds-your-team",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "面向新上任领导者与其管理团队的 offsite 融入议程：开场轻量视频→议程走查（预留 car park 收纳离题议题）→破冰（分享一件不为人知的小事/重要物件建立连接）→「关于你」（用时间线讲为何而非简历）→把董事会/高管层期待拆成开放问题征集输入而非给答案→部门发现（先讲成就再讲挑战、对事不对人）→管理团队反思→收尾三问（好/可更好/没说出口的）。",
+  "topic": "offsite"
+ },
+ {
+  "title": "团队 Offsite 议程设计器（避坑+能量管理）",
+  "normKey": "团队offsite议程设计器避坑能量管理",
+  "url": "https://findskill.ai/skills/productivity/team-offsite-agenda-designer",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "团队 offsite 议程设计器：给出半天/一天/两天模板与「每区块=OPENING/EXPLORATION/SYNTHESIS/TRANSITION」结构；明确列出该避开的团建——强迫身体暴露、单点羞辱、制造输家的竞争、以酒为中心、信任背摔等陈词滥调；推荐真实连接活动（个人地图/价值观卡/欣赏圈/协作挑战）；附能量管理（每 90 分钟动 break、换空间、大小组交替）与前后 offsite checklist。",
+  "topic": "offsite"
+ },
+ {
+  "title": "公司级 Offsite 完全规划指南（包容无障碍）",
+  "normKey": "公司级offsite完全规划指南包容无障碍",
+  "url": "https://www.perk.com/guides/planning-company-offsite",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "公司级 offsite 完全规划指南：D1 抵达对齐（低压力破冰如 Kahoot 团队 quiz→部门 spotlight 跨职能理解→工作坊混编分组解决问题）；D2 团队建设+反思+从容离场。强调「offsite 应强化归属而非让人被排除」——征集饮食/行动/神经多样性/宗教/育儿等无障碍需求，社交活动可选且不以酒精为中心，提供替代方案；晚餐是领导者致谢、表彰、强化目的的自然场合。",
+  "topic": "offsite"
+ },
+ {
+  "title": "分布式团队 Offsite 加速信任（餐叙+共做）",
+  "normKey": "分布式团队offsite加速信任餐叙共做",
+  "url": "https://experience.dropbox.com/virtual-first-toolkit/teamwork/accelerate-trust-with-offsites",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "Dropbox 虚拟优先团队的 offsite 信任加速做法：远程/混合团队更需要 intentional 实践重建连接。三步——①破冰用「你在家在哪/This or That 快速二选一/多数人不知道的你」找共鸣点；②混合用餐与 Workshop（预置问题与时序，让员工午餐/晚餐也能流出创意，内向者尤其受用）；③一起动起来（志愿服务/艺术课/运动课），共同支持公益或学习技能比虚拟更易建立连接。",
+  "topic": "offsite"
  }
 ]
