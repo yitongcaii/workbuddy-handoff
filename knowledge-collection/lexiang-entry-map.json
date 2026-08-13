@@ -188,8 +188,9 @@
       {
         "date": "2026-08-12",
         "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
+        "file_id": "dd8b8a98d361450d8685c693e1527b6a",
         "name": "icebreaker-2026-08-12-r8.html",
-        "note": "轮次页 R8 (+11)"
+        "note": "轮次页 R8 (+11)｜更新模式重传 file_id 已回填"
       },
       {
         "date": "2026-08-13",
