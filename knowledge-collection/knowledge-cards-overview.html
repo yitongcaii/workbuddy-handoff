@@ -8,7 +8,7 @@
   :root{
     --p:#7c5cff; --c:#22d3ee; --p2:#a78bfa; --c2:#67e8f9;
     --ink:#1e1b3a; --mut:#6b6890; --bg:#f6f5ff; --card:#ffffff;
-    --r3:#7c5cff; --r2:#fb923c; --b1:#22c55e; --b2:#f59e0b;
+    --r3:#7c5cff; --r2:#fb923c; --b1:#22c55e; --b2:#f59e0b; --red:#e23a3a;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   body{
@@ -66,10 +66,10 @@
   </header>
 
   <div class="grid kpis">
-    <div class="kpi"><div class="num">452</div><div class="lab">全库累计卡</div><div class="sub">6 主题合计</div></div>
-    <div class="kpi"><div class="num">6</div><div class="lab">采集主题</div><div class="sub">员工大会 / Offsite / 破冰 / 颁奖 / Open Day / 下午茶</div></div>
-    <div class="kpi"><div class="num" style="color:var(--r3)">176</div><div class="lab">③ 高管间</div><div class="sub">含 39 双档</div></div>
-    <div class="kpi"><div class="num" style="color:var(--r2)">315</div><div class="lab">② 上下级</div><div class="sub">含 39 双档</div></div>
+    <div class="kpi"><div class="num" style="color:var(--red)">452</div><div class="lab">全库累计卡</div><div class="sub">6 主题合计</div></div>
+    <div class="kpi"><div class="num" style="color:var(--red)">6</div><div class="lab">采集主题</div><div class="sub">员工大会 / Offsite / 破冰 / 颁奖 / Open Day / 下午茶</div></div>
+    <div class="kpi"><div class="num" style="color:var(--r3)">176</div><div class="lab">高管间</div><div class="sub">含 39 双档</div></div>
+    <div class="kpi"><div class="num" style="color:var(--r2)">315</div><div class="lab">上下级</div><div class="sub">含 39 双档</div></div>
     <div class="kpi"><div class="num" style="color:var(--b1)">82</div><div class="lab">一手源</div><div class="sub">占比 18%</div></div>
     <div class="kpi"><div class="num" style="color:var(--b2)">370</div><div class="lab">二手源</div><div class="sub">占比 82%</div></div>
   </div>
@@ -78,7 +78,7 @@
     <div class="card">
       <h2><span class="dot"></span>主题采集量排行</h2>
       <div id="rank"></div>
-      <div class="legend">注：① 平级/朋友向（peer）已按治理规则全部剔除，不计入任何主题。</div>
+      <div class="legend">注：平级/朋友向（peer）已按治理规则全部剔除，不计入任何主题。</div>
     </div>
 
     <div class="card">
@@ -86,11 +86,11 @@
       <div class="donut-wrap">
         <div class="donut">
           <div class="big" style="color:var(--r3)">176</div>
-          <div class="t">③ 高管间（exec）</div>
+          <div class="t">高管间（exec）</div>
         </div>
         <div class="donut">
           <div class="big" style="color:var(--r2)">315</div>
-          <div class="t">② 上下级（supervisor）</div>
+          <div class="t">上下级（supervisor）</div>
         </div>
       </div>
       <div class="legend">
