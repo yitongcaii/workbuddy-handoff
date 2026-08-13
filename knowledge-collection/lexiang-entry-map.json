@@ -220,15 +220,15 @@
       {
         "date": "2026-08-14",
         "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
-        "name": "icebreaker-2026-08-14-r10.html",
-        "note": "轮次页 R10 (+12)"
+        "name": "icebreaker-20260814.html",
+        "note": "轮次页 R10 (+7｜修正：替换误产12重复卡)"
       }
     ],
     "wall": {
       "entry_id": "637b3b31280140349221fbe6fa4e08ed",
       "file_id": "3c5c841631e54e1bb56474afc95af1b6",
       "name": "icebreaker.html",
-      "note": "R10 累计墙（79卡）；由 R9 墙 4b020574 reorg 失效后于 R10 新建 637b3b31 并持续更新"
+      "note": "R10 累计墙（86卡）"
     }
   },
   "award": {
