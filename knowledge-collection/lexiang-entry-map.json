@@ -216,13 +216,19 @@
         "entry_id": "a3a01f81f16a432086057ba75883836a",
         "name": "icebreaker-2026-08-13-r9.html",
         "note": "轮次页 R9 (+7)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
+        "name": "icebreaker-2026-08-14-r10.html",
+        "note": "轮次页 R10 (+12)"
       }
     ],
     "wall": {
-      "entry_id": "4b02057492854cc096b5c08832a76a8b",
-      "file_id": "efb12352a1014231b65fc4487b5280b3",
+      "entry_id": "637b3b31280140349221fbe6fa4e08ed",
+      "file_id": "3c5c841631e54e1bb56474afc95af1b6",
       "name": "icebreaker.html",
-      "note": "R9 重建墙（69卡）；旧墙 f06a4c5394df4b458ffeb9dff42653ba 已 403 失效（reorg 移归档），本条目取代之"
+      "note": "R10 累计墙（79卡）；由 R9 墙 4b020574 reorg 失效后于 R10 新建 637b3b31 并持续更新"
     }
   },
   "award": {
