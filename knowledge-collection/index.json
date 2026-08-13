@@ -4009,5 +4009,35 @@
     "summary": "企业 moderator 聚焦讨论质量/提问/辩论/节奏管理，把演讲变互动；适用员工Town Hall/高管论坛/公司会议。准备：研究组织与受众、建问题框架、规划过渡句。最佳实践：准备而非背稿、多听少说、问具体不泛、以takeaway收尾。",
     "topic": "staff-meeting",
     "source": "futuristsspeakers"
+  },
+  {
+    "title": "政企「早餐会/下午茶」沟通机制·闭环纾困模式",
+    "normKey": "政企「早餐会/下午茶」沟通机制·闭环纾困模式",
+    "url": "https://www.tianshui.gov.cn/jkq/info/2272/168092.htm",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "多地经开区/县区以「早餐会」「下午茶」创新政企沟通：天水经开区办6次邀62家企业，无主次座+茶水营造轻松氛围，会后一企一策+台账销号闭环；哈尔滨/南昌/黑山同模式，茶清商亲。",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "离职面谈·茶水破冰营造放松氛围",
+    "normKey": "离职面谈·茶水破冰营造放松氛围",
+    "url": "https://finance.sina.com.cn/jygl/20030508/1417338267.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "HR/管理者与离职员工关键对话：先倒茶水卸对立立场，私密空间畅所欲言+多听少说，4F提问法配套，获取组织诊断真信号。",
+    "topic": "afternoontea",
+    "source": "web"
+  },
+  {
+    "title": "共创下午茶·进公司创新工作坊",
+    "normKey": "共创下午茶·进公司创新工作坊",
+    "url": "https://www.sohu.com/a/239119386_650048",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "把design thinking轻培训搬进公司：跨层级/部门成员围真实问题茶聚共创(逆向发散→视角转换→强制类比)，京东JDC/娇兰佳人已落地。",
+    "topic": "afternoontea",
+    "source": "web"
   }
 ]
