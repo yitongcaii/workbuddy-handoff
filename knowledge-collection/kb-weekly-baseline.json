@@ -1,11 +1,11 @@
 {
-  "week": "2026-W32",
+  "week": "2026-W33",
   "cards": {
-    "staff-meeting": 14,
-    "offsite": 15,
-    "icebreaker": 14,
-    "award": 23,
-    "openday": 22,
-    "afternoontea": 15
+    "staff-meeting": 144,
+    "offsite": 88,
+    "icebreaker": 86,
+    "award": 74,
+    "openday": 64,
+    "afternoontea": 88
   }
 }
