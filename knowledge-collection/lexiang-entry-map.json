@@ -1,476 +1,483 @@
 {
-  "staff-meeting": {
-    "folder_id": "a753a4ebc526495c9e9b2e2fb3cac314",
-    "wall": {
-      "entry_id": "f3b5ea59395e49ca859f8726142742c2",
-      "file_id": "a1415122f8034d8d988fb06e41be44ac",
-      "name": "staff-meeting.html",
-      "note": "R13 重建墙（133卡）；旧墙 89b9a620 已 50021001 失效（reorg 移归档），本条目取代之"
-    },
-    "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "af3113ee47b14b74a76d9b057bfe244c",
-        "name": "员工大会-20260811",
-        "note": "初始全量页（改造前遗留，作为首轮）"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "f6d9b60cc79a4963aecc54bc0f036392",
-        "name": "staff-meeting-R1_20260807.html",
-        "note": "轮次页 R1 (+12) 测试上传"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "d305438f0d8b45859b22272dbe225fb6",
-        "name": "staff-meeting-R2_20260807.html",
-        "note": "轮次页 R2 (+1)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "03950bb7c7ed4a359a920f38023ae618",
-        "name": "staff-meeting-R3_20260807.html",
-        "note": "轮次页 R3 (+4)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "11054942799c4fffb920fa5915e3e155",
-        "name": "staff-meeting-R4_20260808.html",
-        "note": "轮次页 R4 (+10)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "d515c1a167f04a74826d9b9b37a234d6",
-        "name": "staff-meeting-R5_20260809.html",
-        "note": "轮次页 R5 (+8)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "c14e35d73b4d4ed180a63607e9140a98",
-        "name": "staff-meeting-R6_20260809.html",
-        "note": "轮次页 R6 (+10)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "da26d854bd044edba0b7f3ac07cea657",
-        "name": "staff-meeting-R7_20260810.html",
-        "note": "轮次页 R7 (+17)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "41d326c712254aacbd52f008cd402d27",
-        "name": "staff-meeting-R8_20260810.html",
-        "note": "轮次页 R8 (+11)"
-      },
-      {
-        "date": "2026-08-11",
-        "entry_id": "744b27a960df48418ccfbaa898be024c",
-        "name": "staff-meeting-2026-08-11-r10.html",
-        "note": "轮次页 R10 (+12)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "2e2d134ea2944145a42a45690a426ece",
-        "name": "staff-meeting-2026-08-12-r11.html",
-        "note": "轮次页 R11 (+11)"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "edad6feafea14369bc0d4b0196f58aad",
-        "name": "staff-meeting-2026-08-13-r12.html",
-        "note": "轮次页 R12 (+13)"
-      },
-      {
-        "round": "r13",
-        "date": "2026-08-13",
-        "entry_id": "da9db485497d4866b7e93f312f829ee5",
-        "name": "staff-meeting-2026-08-13-r13.html"
-      }
-    ]
+ "staff-meeting": {
+  "folder_id": "a753a4ebc526495c9e9b2e2fb3cac314",
+  "wall": {
+   "entry_id": "f3b5ea59395e49ca859f8726142742c2",
+   "file_id": "a1415122f8034d8d988fb06e41be44ac",
+   "name": "staff-meeting.html",
+   "note": "R13 重建墙（133卡）；旧墙 89b9a620 已 50021001 失效（reorg 移归档），本条目取代之"
   },
-  "offsite": {
-    "folder_id": "463f5f5387de4a9bb87b773aef79767b",
-    "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "21975983edbb44208260c10cc89f5925",
-        "name": "Offsite-20260811",
-        "note": "初始全量页（改造前遗留，作为首轮）"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "22645c8c0ecf49acba475ab3793a76e4",
-        "name": "offsite-R1_20260807.html",
-        "note": "轮次页 R1 (+15)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "c4ebf8a49fbd44c488927c812fd1707a",
-        "name": "offsite-R2_20260807.html",
-        "note": "轮次页 R2 (+2)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "ee477aa31623406cae5ffc7a24e68784",
-        "name": "offsite-R3_20260808.html",
-        "note": "轮次页 R3 (+10)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "3be10612d52a4ef2b5b4007288fd1e40",
-        "name": "offsite-R4_20260809.html",
-        "note": "轮次页 R4 (+8)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "d584877389a1475a97700fbe13db9387",
-        "name": "offsite-R5_20260809.html",
-        "note": "轮次页 R5 (+4)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "f73e94d099374182bd5c8090918c0e9e",
-        "name": "offsite-R6_20260810.html",
-        "note": "轮次页 R6 (+3)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "f11956e54e1e436789947a5e18490fbc",
-        "name": "offsite-R7_20260810.html",
-        "note": "轮次页 R7 (+10)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "08e7151a3bd145109c68bd7da8daef6e",
-        "name": "offsite-R8_20260810.html",
-        "note": "轮次页 R8 (+6)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "a5f8860d406c45aeab1e46d7f1b5e5f8",
-        "name": "offsite-20260812.html",
-        "note": "轮次页 R9 (+5)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "4c2a7b5716fa4172a9344aedfeef5ea6",
-        "name": "offsite-20260812b.html",
-        "note": "轮次页 R10 (+9)"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "cc8a22a5f32b42dcb47a30d1fc203e10",
-        "name": "offsite-20260813.html",
-        "note": "轮次页·十一轮 enrich (+6)"
-      }
-    ]
-  },
-  "icebreaker": {
-    "folder_id": "f51480b0cfac4857bc28495b151c624f",
-    "rounds": [
-      {
-        "date": "2026-08-07",
-        "entry_id": "d6910256c1564ca19065240f2905eadd",
-        "name": "icebreaker-R1_20260807.html",
-        "note": "轮次页 R1 (+14)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "eb23efa800cb424381a2ad22fa47f339",
-        "name": "icebreaker-R2_20260807.html",
-        "note": "轮次页 R2 (+7)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "82561f4e69424ec2b0ff37e3b0d9ab48",
-        "name": "icebreaker-R3_20260808.html",
-        "note": "轮次页 R3 (+6)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "3bf180c97dd44bbc84d42067c3eeafac",
-        "name": "icebreaker-R4_20260809.html",
-        "note": "轮次页 R4 (+8)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "d19b4ed4cf5a4799894d6c3319cba251",
-        "name": "icebreaker-R5_20260810.html",
-        "note": "轮次页 R5 (+9)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "42c75851c1794da09ebb6ec84ccb19bb",
-        "name": "icebreaker-R6_20260810.html",
-        "note": "轮次页 R6 (+7)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
-        "file_id": "dd8b8a98d361450d8685c693e1527b6a",
-        "name": "icebreaker-2026-08-12-r8.html",
-        "note": "轮次页 R8 (+11)｜更新模式重传 file_id 已回填"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "a3a01f81f16a432086057ba75883836a",
-        "name": "icebreaker-2026-08-13-r9.html",
-        "note": "轮次页 R9 (+7)"
-      },
-      {
-        "date": "2026-08-14",
-        "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
-        "name": "icebreaker-20260814.html",
-        "note": "轮次页 R10 (+7｜修正：替换误产12重复卡)"
-      }
-    ],
-    "wall": {
-      "entry_id": "637b3b31280140349221fbe6fa4e08ed",
-      "file_id": "3c5c841631e54e1bb56474afc95af1b6",
-      "name": "icebreaker.html",
-      "note": "R10 累计墙（86卡）"
-    }
-  },
-  "award": {
-    "folder_id": "f585d1b78510459db0ce807cc9688448",
-    "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "bafb696e49254f779476a1f167850904",
-        "name": "颁奖-20260811",
-        "note": "初始全量页（改造前遗留，作为首轮）"
-      },
-      {
-        "date": "2026-08-06",
-        "entry_id": "9ab2bf97b0bd4b5ea82ab909d34e5970",
-        "name": "award-R1_20260806.html",
-        "note": "轮次页 R1 (+12)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "614885677f694c87babe98746c6de4e4",
-        "name": "award-R2_20260807.html",
-        "note": "轮次页 R2 (+7)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "b73051f3b9934654a0c043dce8f3d7c2",
-        "name": "award-R3_20260807.html",
-        "note": "轮次页 R3 (+1)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "32929f8d46f248b080c4b1aebbba8a72",
-        "name": "award-R4_20260807.html",
-        "note": "轮次页 R4 (+8)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "c78a8db1e6ed40778916997a8cef1deb",
-        "name": "award-R5_20260808.html",
-        "note": "轮次页 R5 (+6)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "d04f4bb22f4e4fad86810a38c6026e30",
-        "name": "award-R6_20260809.html",
-        "note": "轮次页 R6 (+3)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "1837103fef71430cb8aca88e1e0df988",
-        "name": "award-R7_20260810.html",
-        "note": "轮次页 R7 (+5)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "364dbe6affaa432a976c906c1588fad0",
-        "name": "award-R8_20260810.html",
-        "note": "轮次页 R8 (+9)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "724405b66a7949849e3b11a02b9d810d",
-        "name": "award-R9_20260810.html",
-        "note": "轮次页 R9 (+4)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "69fee095bf5140c081121b28089eb8e8",
-        "name": "award-20260812.html",
-        "note": "轮次页·十轮 enrich (+9)"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "270b8b3b817c48398bf4de8b5f949269",
-        "name": "award-20260813.html",
-        "note": "轮次页·十一轮 enrich (+5)"
-      },
-      {
-        "date": "2026-08-14",
-        "entry_id": "73a57f0c636347e69af9af0a4cb2fd6d",
-        "name": "award-20260814.html",
-        "note": "轮次页 R12 (+5)"
-      }
-    ]
-  },
-  "openday": {
-    "folder_id": "22eea86cd58a46729ed69380092c2c13",
-    "wall": {
-      "entry_id": "a6ba9c18bfdd47c1ae845dd0bdc579e9",
-      "file_id": "1026ac8c23ff4e949c27d37a67747c3a",
-      "name": "openday.html"
-    },
-    "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "460133b55d6542bda6e00fa7ec0fc6bc",
-        "name": "OpenDay-20260811",
-        "note": "初始全量页（改造前遗留，已失效-403，被新墙 a6ba9c... 取代）"
-      },
-      {
-        "date": "2026-08-06",
-        "entry_id": "b436d44a706f46188f8d8347447cce45",
-        "name": "openday-R1_20260806.html",
-        "note": "轮次页 R1 (+3)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "8d97df1de5df460c95ff2a5c76d4abb9",
-        "name": "openday-R2_20260807.html",
-        "note": "轮次页 R2 (+2)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "72ec66ba29c94e2b89b9ffbd1d241a6c",
-        "name": "openday-R3_20260808.html",
-        "note": "轮次页 R3 (+1)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "885265a544bf4533b5626e34c6425a13",
-        "name": "openday-R4_20260808.html",
-        "note": "轮次页 R4 (+1)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "a70413001c2a447a835a3e0c5b7a748a",
-        "name": "openday-R5_20260810.html",
-        "note": "轮次页 R5 (+3)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "fab4d7e440044dbeb370258b1e9b6e30",
-        "name": "openday-R6_20260810.html",
-        "note": "轮次页 R6 (+5)"
-      },
-      {
-        "date": "2026-08-11",
-        "entry_id": "d99449b7c4ff482090d712345efd245b",
-        "name": "openday-R7_20260811.html",
-        "note": "轮次页 R7 (+11)"
-      },
-      {
-        "date": "2026-08-11",
-        "entry_id": "7567bc49a5c64e35ae7c2c426f0e50e3",
-        "name": "openday-2026-08-11-r10.html",
-        "note": "轮次页 R10 (+11，根目录 5106d5b2 或归档，待复核)"
-      },
-      {
-        "date": "2026-08-12",
-        "entry_id": "a112b54c1ff7493e88d8b04d64da254a",
-        "name": "openday-2026-08-12-r11.html",
-        "note": "轮次页 R11 (+12)"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "4ecc2b1ba5ef4a6b9eb6ef47eac2204e",
-        "name": "openday-2026-08-13-r12.html",
-        "note": "轮次页 R12 (+13)"
-      }
-    ]
-  },
-  "afternoontea": {
-    "folder_id": "96e0ca6a548e4202a12d43dc91b48938",
-    "rounds": [
-      {
-        "date": "2026-08-11",
-        "entry_id": "5839c020a9fd45d1ac44646d902573a2",
-        "name": "下午茶研讨-20260811",
-        "note": "初始全量页（含60卡，作为首轮）"
-      },
-      {
-        "date": "2026-08-06",
-        "entry_id": "59487a8426cc4c7c9d99c410e3db8585",
-        "name": "afternoontea-R1_20260806.html",
-        "note": "轮次页 R1 (+14)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "d1571dfc2e7549e49d3a71d3ae639da8",
-        "name": "afternoontea-R2_20260807.html",
-        "note": "轮次页 R2 (+1)"
-      },
-      {
-        "date": "2026-08-07",
-        "entry_id": "4fb79534e65b45249bae0c2325ce2d6d",
-        "name": "afternoontea-R3_20260807.html",
-        "note": "轮次页 R3 (+5)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "bbedd063c09d428e8908b689f2fc66d2",
-        "name": "afternoontea-R4_20260808.html",
-        "note": "轮次页 R4 (+5)"
-      },
-      {
-        "date": "2026-08-08",
-        "entry_id": "796de72d8d9b4445a8d3c0b3f2786d96",
-        "name": "afternoontea-R5_20260808.html",
-        "note": "轮次页 R5 (+11)"
-      },
-      {
-        "date": "2026-08-09",
-        "entry_id": "c7a6d93b82c34bb7afa0b8494dc6be35",
-        "name": "afternoontea-R6_20260809.html",
-        "note": "轮次页 R6 (+6)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "62536ec164f3427ba479bd4c4e5c4a6f",
-        "name": "afternoontea-R7_20260810.html",
-        "note": "轮次页 R7 (+5)"
-      },
-      {
-        "date": "2026-08-10",
-        "entry_id": "6b2262f9178642b38ca7e94e779752b4",
-        "name": "afternoontea-R8_20260810.html",
-        "note": "轮次页 R8 (+7)"
-      },
-      {
-        "date": "2026-08-11",
-        "entry_id": "a087db0d6c124a15a1ba6f959e179e29",
-        "name": "afternoontea-R9_20260811.html",
-        "note": "轮次页 R9 (+6)"
-      },
-      {
-        "date": "20260812",
-        "entry_id": "5cb99ba583894b23bd05fe1e63c8b588",
-        "name": "afternoontea-20260812.html",
-        "note": "轮次页·九轮 enrich (+5)"
-      },
-      {
-        "date": "2026-08-13",
-        "entry_id": "cd5d9b5c9b774c35817eb8d7d83485be",
-        "name": "afternoontea-20260813.html",
-        "note": "轮次页·十轮 enrich (+6)"
-      },
-      {
-        "date": "20260813",
-        "entry_id": "5831a5a0a0dc428a9a25cd110fe66f62",
-        "name": "afternoontea-20260813b.html",
-        "note": "轮次页·十一轮 enrich (+3)"
-      }
-    ]
+  "rounds": [
+   {
+    "date": "2026-08-11",
+    "entry_id": "af3113ee47b14b74a76d9b057bfe244c",
+    "name": "员工大会-20260811",
+    "note": "初始全量页（改造前遗留，作为首轮）"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "f6d9b60cc79a4963aecc54bc0f036392",
+    "name": "staff-meeting-R1_20260807.html",
+    "note": "轮次页 R1 (+12) 测试上传"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "d305438f0d8b45859b22272dbe225fb6",
+    "name": "staff-meeting-R2_20260807.html",
+    "note": "轮次页 R2 (+1)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "03950bb7c7ed4a359a920f38023ae618",
+    "name": "staff-meeting-R3_20260807.html",
+    "note": "轮次页 R3 (+4)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "11054942799c4fffb920fa5915e3e155",
+    "name": "staff-meeting-R4_20260808.html",
+    "note": "轮次页 R4 (+10)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "d515c1a167f04a74826d9b9b37a234d6",
+    "name": "staff-meeting-R5_20260809.html",
+    "note": "轮次页 R5 (+8)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "c14e35d73b4d4ed180a63607e9140a98",
+    "name": "staff-meeting-R6_20260809.html",
+    "note": "轮次页 R6 (+10)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "da26d854bd044edba0b7f3ac07cea657",
+    "name": "staff-meeting-R7_20260810.html",
+    "note": "轮次页 R7 (+17)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "41d326c712254aacbd52f008cd402d27",
+    "name": "staff-meeting-R8_20260810.html",
+    "note": "轮次页 R8 (+11)"
+   },
+   {
+    "date": "2026-08-11",
+    "entry_id": "744b27a960df48418ccfbaa898be024c",
+    "name": "staff-meeting-2026-08-11-r10.html",
+    "note": "轮次页 R10 (+12)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "2e2d134ea2944145a42a45690a426ece",
+    "name": "staff-meeting-2026-08-12-r11.html",
+    "note": "轮次页 R11 (+11)"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "edad6feafea14369bc0d4b0196f58aad",
+    "name": "staff-meeting-2026-08-13-r12.html",
+    "note": "轮次页 R12 (+13)"
+   },
+   {
+    "round": "r13",
+    "date": "2026-08-13",
+    "entry_id": "da9db485497d4866b7e93f312f829ee5",
+    "name": "staff-meeting-2026-08-13-r13.html"
+   }
+  ]
+ },
+ "offsite": {
+  "folder_id": "463f5f5387de4a9bb87b773aef79767b",
+  "rounds": [
+   {
+    "date": "2026-08-11",
+    "entry_id": "21975983edbb44208260c10cc89f5925",
+    "name": "Offsite-20260811",
+    "note": "初始全量页（改造前遗留，作为首轮）"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "22645c8c0ecf49acba475ab3793a76e4",
+    "name": "offsite-R1_20260807.html",
+    "note": "轮次页 R1 (+15)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "c4ebf8a49fbd44c488927c812fd1707a",
+    "name": "offsite-R2_20260807.html",
+    "note": "轮次页 R2 (+2)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "ee477aa31623406cae5ffc7a24e68784",
+    "name": "offsite-R3_20260808.html",
+    "note": "轮次页 R3 (+10)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "3be10612d52a4ef2b5b4007288fd1e40",
+    "name": "offsite-R4_20260809.html",
+    "note": "轮次页 R4 (+8)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "d584877389a1475a97700fbe13db9387",
+    "name": "offsite-R5_20260809.html",
+    "note": "轮次页 R5 (+4)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "f73e94d099374182bd5c8090918c0e9e",
+    "name": "offsite-R6_20260810.html",
+    "note": "轮次页 R6 (+3)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "f11956e54e1e436789947a5e18490fbc",
+    "name": "offsite-R7_20260810.html",
+    "note": "轮次页 R7 (+10)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "08e7151a3bd145109c68bd7da8daef6e",
+    "name": "offsite-R8_20260810.html",
+    "note": "轮次页 R8 (+6)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "a5f8860d406c45aeab1e46d7f1b5e5f8",
+    "name": "offsite-20260812.html",
+    "note": "轮次页 R9 (+5)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "4c2a7b5716fa4172a9344aedfeef5ea6",
+    "name": "offsite-20260812b.html",
+    "note": "轮次页 R10 (+9)"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "cc8a22a5f32b42dcb47a30d1fc203e10",
+    "name": "offsite-20260813.html",
+    "note": "轮次页·十一轮 enrich (+6)"
+   }
+  ]
+ },
+ "icebreaker": {
+  "folder_id": "f51480b0cfac4857bc28495b151c624f",
+  "rounds": [
+   {
+    "date": "2026-08-07",
+    "entry_id": "d6910256c1564ca19065240f2905eadd",
+    "name": "icebreaker-R1_20260807.html",
+    "note": "轮次页 R1 (+14)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "eb23efa800cb424381a2ad22fa47f339",
+    "name": "icebreaker-R2_20260807.html",
+    "note": "轮次页 R2 (+7)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "82561f4e69424ec2b0ff37e3b0d9ab48",
+    "name": "icebreaker-R3_20260808.html",
+    "note": "轮次页 R3 (+6)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "3bf180c97dd44bbc84d42067c3eeafac",
+    "name": "icebreaker-R4_20260809.html",
+    "note": "轮次页 R4 (+8)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "d19b4ed4cf5a4799894d6c3319cba251",
+    "name": "icebreaker-R5_20260810.html",
+    "note": "轮次页 R5 (+9)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "42c75851c1794da09ebb6ec84ccb19bb",
+    "name": "icebreaker-R6_20260810.html",
+    "note": "轮次页 R6 (+7)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
+    "file_id": "dd8b8a98d361450d8685c693e1527b6a",
+    "name": "icebreaker-2026-08-12-r8.html",
+    "note": "轮次页 R8 (+11)｜更新模式重传 file_id 已回填"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "a3a01f81f16a432086057ba75883836a",
+    "name": "icebreaker-2026-08-13-r9.html",
+    "note": "轮次页 R9 (+7)"
+   },
+   {
+    "date": "2026-08-14",
+    "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
+    "name": "icebreaker-20260814.html",
+    "note": "轮次页 R10 (+7｜修正：替换误产12重复卡)"
+   }
+  ],
+  "wall": {
+   "entry_id": "637b3b31280140349221fbe6fa4e08ed",
+   "file_id": "3c5c841631e54e1bb56474afc95af1b6",
+   "name": "icebreaker.html",
+   "note": "R10 累计墙（86卡）"
   }
+ },
+ "award": {
+  "folder_id": "f585d1b78510459db0ce807cc9688448",
+  "rounds": [
+   {
+    "date": "2026-08-11",
+    "entry_id": "bafb696e49254f779476a1f167850904",
+    "name": "颁奖-20260811",
+    "note": "初始全量页（改造前遗留，作为首轮）"
+   },
+   {
+    "date": "2026-08-06",
+    "entry_id": "9ab2bf97b0bd4b5ea82ab909d34e5970",
+    "name": "award-R1_20260806.html",
+    "note": "轮次页 R1 (+12)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "614885677f694c87babe98746c6de4e4",
+    "name": "award-R2_20260807.html",
+    "note": "轮次页 R2 (+7)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "b73051f3b9934654a0c043dce8f3d7c2",
+    "name": "award-R3_20260807.html",
+    "note": "轮次页 R3 (+1)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "32929f8d46f248b080c4b1aebbba8a72",
+    "name": "award-R4_20260807.html",
+    "note": "轮次页 R4 (+8)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "c78a8db1e6ed40778916997a8cef1deb",
+    "name": "award-R5_20260808.html",
+    "note": "轮次页 R5 (+6)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "d04f4bb22f4e4fad86810a38c6026e30",
+    "name": "award-R6_20260809.html",
+    "note": "轮次页 R6 (+3)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "1837103fef71430cb8aca88e1e0df988",
+    "name": "award-R7_20260810.html",
+    "note": "轮次页 R7 (+5)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "364dbe6affaa432a976c906c1588fad0",
+    "name": "award-R8_20260810.html",
+    "note": "轮次页 R8 (+9)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "724405b66a7949849e3b11a02b9d810d",
+    "name": "award-R9_20260810.html",
+    "note": "轮次页 R9 (+4)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "69fee095bf5140c081121b28089eb8e8",
+    "name": "award-20260812.html",
+    "note": "轮次页·十轮 enrich (+9)"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "270b8b3b817c48398bf4de8b5f949269",
+    "name": "award-20260813.html",
+    "note": "轮次页·十一轮 enrich (+5)"
+   },
+   {
+    "date": "2026-08-14",
+    "entry_id": "73a57f0c636347e69af9af0a4cb2fd6d",
+    "name": "award-20260814.html",
+    "note": "轮次页 R12 (+5)"
+   }
+  ]
+ },
+ "openday": {
+  "folder_id": "22eea86cd58a46729ed69380092c2c13",
+  "wall": {
+   "entry_id": "a6ba9c18bfdd47c1ae845dd0bdc579e9",
+   "file_id": "1026ac8c23ff4e949c27d37a67747c3a",
+   "name": "openday.html",
+   "note": "R13 累计墙（64卡）；更新模式持续刷新"
+  },
+  "rounds": [
+   {
+    "date": "2026-08-11",
+    "entry_id": "460133b55d6542bda6e00fa7ec0fc6bc",
+    "name": "OpenDay-20260811",
+    "note": "初始全量页（改造前遗留，已失效-403，被新墙 a6ba9c... 取代）"
+   },
+   {
+    "date": "2026-08-06",
+    "entry_id": "b436d44a706f46188f8d8347447cce45",
+    "name": "openday-R1_20260806.html",
+    "note": "轮次页 R1 (+3)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "8d97df1de5df460c95ff2a5c76d4abb9",
+    "name": "openday-R2_20260807.html",
+    "note": "轮次页 R2 (+2)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "72ec66ba29c94e2b89b9ffbd1d241a6c",
+    "name": "openday-R3_20260808.html",
+    "note": "轮次页 R3 (+1)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "885265a544bf4533b5626e34c6425a13",
+    "name": "openday-R4_20260808.html",
+    "note": "轮次页 R4 (+1)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "a70413001c2a447a835a3e0c5b7a748a",
+    "name": "openday-R5_20260810.html",
+    "note": "轮次页 R5 (+3)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "fab4d7e440044dbeb370258b1e9b6e30",
+    "name": "openday-R6_20260810.html",
+    "note": "轮次页 R6 (+5)"
+   },
+   {
+    "date": "2026-08-11",
+    "entry_id": "d99449b7c4ff482090d712345efd245b",
+    "name": "openday-R7_20260811.html",
+    "note": "轮次页 R7 (+11)"
+   },
+   {
+    "date": "2026-08-11",
+    "entry_id": "7567bc49a5c64e35ae7c2c426f0e50e3",
+    "name": "openday-2026-08-11-r10.html",
+    "note": "轮次页 R10 (+11，根目录 5106d5b2 或归档，待复核)"
+   },
+   {
+    "date": "2026-08-12",
+    "entry_id": "a112b54c1ff7493e88d8b04d64da254a",
+    "name": "openday-2026-08-12-r11.html",
+    "note": "轮次页 R11 (+12)"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "4ecc2b1ba5ef4a6b9eb6ef47eac2204e",
+    "name": "openday-2026-08-13-r12.html",
+    "note": "轮次页 R12 (+13)"
+   },
+   {
+    "date": "2026-08-14",
+    "entry_id": "981d40fafb77464ba303771e7082ef4f",
+    "name": "openday-2026-08-14-r13.html",
+    "note": "轮次页 R13 (+13)"
+   }
+  ]
+ },
+ "afternoontea": {
+  "folder_id": "96e0ca6a548e4202a12d43dc91b48938",
+  "rounds": [
+   {
+    "date": "2026-08-11",
+    "entry_id": "5839c020a9fd45d1ac44646d902573a2",
+    "name": "下午茶研讨-20260811",
+    "note": "初始全量页（含60卡，作为首轮）"
+   },
+   {
+    "date": "2026-08-06",
+    "entry_id": "59487a8426cc4c7c9d99c410e3db8585",
+    "name": "afternoontea-R1_20260806.html",
+    "note": "轮次页 R1 (+14)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "d1571dfc2e7549e49d3a71d3ae639da8",
+    "name": "afternoontea-R2_20260807.html",
+    "note": "轮次页 R2 (+1)"
+   },
+   {
+    "date": "2026-08-07",
+    "entry_id": "4fb79534e65b45249bae0c2325ce2d6d",
+    "name": "afternoontea-R3_20260807.html",
+    "note": "轮次页 R3 (+5)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "bbedd063c09d428e8908b689f2fc66d2",
+    "name": "afternoontea-R4_20260808.html",
+    "note": "轮次页 R4 (+5)"
+   },
+   {
+    "date": "2026-08-08",
+    "entry_id": "796de72d8d9b4445a8d3c0b3f2786d96",
+    "name": "afternoontea-R5_20260808.html",
+    "note": "轮次页 R5 (+11)"
+   },
+   {
+    "date": "2026-08-09",
+    "entry_id": "c7a6d93b82c34bb7afa0b8494dc6be35",
+    "name": "afternoontea-R6_20260809.html",
+    "note": "轮次页 R6 (+6)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "62536ec164f3427ba479bd4c4e5c4a6f",
+    "name": "afternoontea-R7_20260810.html",
+    "note": "轮次页 R7 (+5)"
+   },
+   {
+    "date": "2026-08-10",
+    "entry_id": "6b2262f9178642b38ca7e94e779752b4",
+    "name": "afternoontea-R8_20260810.html",
+    "note": "轮次页 R8 (+7)"
+   },
+   {
+    "date": "2026-08-11",
+    "entry_id": "a087db0d6c124a15a1ba6f959e179e29",
+    "name": "afternoontea-R9_20260811.html",
+    "note": "轮次页 R9 (+6)"
+   },
+   {
+    "date": "20260812",
+    "entry_id": "5cb99ba583894b23bd05fe1e63c8b588",
+    "name": "afternoontea-20260812.html",
+    "note": "轮次页·九轮 enrich (+5)"
+   },
+   {
+    "date": "2026-08-13",
+    "entry_id": "cd5d9b5c9b774c35817eb8d7d83485be",
+    "name": "afternoontea-20260813.html",
+    "note": "轮次页·十轮 enrich (+6)"
+   },
+   {
+    "date": "20260813",
+    "entry_id": "5831a5a0a0dc428a9a25cd110fe66f62",
+    "name": "afternoontea-20260813b.html",
+    "note": "轮次页·十一轮 enrich (+3)"
+   }
+  ]
+ }
 }
