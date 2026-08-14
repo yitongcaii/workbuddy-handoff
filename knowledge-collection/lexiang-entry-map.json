@@ -4,8 +4,7 @@
     "wall": {
       "entry_id": "f3b5ea59395e49ca859f8726142742c2",
       "file_id": "a1415122f8034d8d988fb06e41be44ac",
-      "name": "staff-meeting.html",
-      "note": "R13 重建墙（133卡）；旧墙 89b9a620 已 50021001 失效（reorg 移归档），本条目取代之"
+      "name": "staff-meeting.html"
     },
     "rounds": [
       {
@@ -85,6 +84,13 @@
         "date": "2026-08-13",
         "entry_id": "da9db485497d4866b7e93f312f829ee5",
         "name": "staff-meeting-2026-08-13-r13.html"
+      },
+      {
+        "round": "r14",
+        "date": "2026-08-14",
+        "entry_id": "2d44b9e880664a15a151e441799c6df1",
+        "name": "staff-meeting-2026-08-14-r14.html",
+        "note": "轮次页 R14 (+11)"
       }
     ]
   },
