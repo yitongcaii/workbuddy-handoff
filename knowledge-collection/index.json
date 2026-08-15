@@ -5714,5 +5714,86 @@
     "relation": "supervisor",
     "summary": "适用：② 公司内部上下级场景（按目的地主题设计 offsite + 用仪表盘度量 ROI），\"主题化选址+30/60/90 KPI 仪表盘\"是可迁移设计杠杆。🔍",
     "topic": "offsite"
+  },
+  {
+    "title": "资深领导团队建设·20 个高浓度活动（桥接构建/脆弱循环/逆向头脑风暴/5 分钟 CEO/高管鲨鱼 Tank）",
+    "normKey": "资深领导团队建设20个高浓度活动桥接构建脆弱循环逆向头脑风暴5分钟ceo高管鲨鱼tank",
+    "url": "https://kapable.club/blog/senior-leadership/20-best-senior-leadership-team-building-activities",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "资深领导团队建设目标在信任/坦诚/对齐而非技能：Bridge Build(非语言搭桥照出对齐差距)、Vulnerability Loop(结构化脆弱建信任)、Reverse Brainstorming(逆向激异想)、5-Minute CEO(练表达决策)、Executive Shark Tank(内部路演练谈判)；Start/Stop/Continue 收尾保建设性。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管信任加速器·同侪教练圈/即兴剧场/作战室模拟/工作风格工作坊",
+    "normKey": "高管信任加速器同侪教练圈即兴剧场作战室模拟工作风格工作坊",
+    "url": "https://www.fusion-events.ca/resources/corporate-team-building-activities",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管团队高浓度信任设计：Peer Coaching Circle(hot seat 轮换结构化教练)、Leadership Improv(剥盔甲练倾听)、War-Room Simulation(压力决策彩排)、Working-Style Workshop(给摩擦通用语言)、Pre/Post Pulse 三问量化；高管活动结构>练习须引导师。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新任 CEO 前 90 天·先听后定（1-30 听 / 31-60 诊断对齐 / 61-90 建节奏）",
+    "normKey": "新任ceo前90天先听后定130听3160诊断对齐6190建节奏",
+    "url": "https://www.majhigroup.com/first-90-days-ceo.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "新 CEO 前 90 天三阶段：1-30 倾听(董事会/领导团队/客户/财务)不急于宣布变革、31-60 诊断对齐(评估高管+必要人事+运营节奏)、61-90 承诺执行(周同步/月复盘/季 OKR)；董事会须陪跑引荐保护，过早宣布变革摧毁可信度。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新团队 credibility 30 天框架·倾听冲刺/知识致谢/早赢/透明锚/履约证",
+    "normKey": "新团队credibility30天框架倾听冲刺知识致谢早赢透明锚履约证",
+    "url": "https://www.confidenceplaybook.org/blog/how-to-establish-credibility-with-a-new-team-fast",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理 30 天五阶段建可信度(关系性非职位性)：倾听冲刺(80/20+三问+记笔记)、知识致谢(公开肯定团队已有认知)、早赢(解他们的痛点≠秀议程)、透明锚(坦诚未知/约束，79%员工视透明为最重要特质)、履约证(每条承诺跟进)。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理首 30 天·四步建信任 + 每日五习惯",
+    "normKey": "新经理首30天四步建信任每日五习惯",
+    "url": "https://www.linkedin.com/pulse/how-build-trust-leader-your-first-30-days-silvia-toth-qqj3e",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理首 30 天四步：建关系(明确标准+问所需)、懂工作(shadow+问卡点)、强 1:1(周度结构化)、造小赢(稳定观察+微目标)；每日五习惯：主动倾听/早给反馈/造小赢/言行一致/坦诚。领导是特权非头衔，信任靠逐步建。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新组队首 30 天·建立信任五法（透明/识人/履约/开放沟通/共庆小赢）",
+    "normKey": "新组队首30天建立信任五法透明识人履约开放沟通共庆小赢",
+    "url": "https://www.linkedin.com/pulse/leadershipdevelopment-teambuilding-peoplemanagement-activity-7477416369198620674-Cm14",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新团队首 30 天五法建信任：透明清晰开局、把人当个体了解、说到做到兑现承诺、尽早鼓励开放沟通(心理安全)、共庆小赢；信任不靠团建游戏，靠一致行动与日常互动。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "带领新/演进中团队·五步（意向倾听/澄清期望/心理安全/适配个体/促联结）",
+    "normKey": "带领新演进中团队五步意向倾听澄清期望心理安全适配个体促联结",
+    "url": "https://liveoakleadership.com/blog/leading-a-new-or-evolving-team",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "接手新/扩编团队五步：意向倾听(1:1+观察+记主题)、澄清期望(共定成功+透明决策风格)、建心理安全(承认变化+示范示弱)、适配个体(问偏好+认可优势)、促成员联结(午餐/咖啡/peer 反馈)。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理前 90 天·清晰+节奏+系统（听先于改 / 一页 how-we-work / 运营节奏 / GROW 教练）",
+    "normKey": "新经理前90天清晰节奏系统听先于改一页howwework运营节奏grow教练",
+    "url": "https://learn-leadership-net.kit.com/posts/the-first-90-days-as-a-new-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理 90 天建三地基(清晰/信任/操作系统)：听先于改(三问+系统地图)、一页 how-we-work 定清晰、周 1:1/站会/复盘建节奏、挑痛点造早赢、GROW 教练+护心理安全；团队要可预测的非完美的 leader。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "团队章程 / 协作契约模板·使命/价值观/工作协议/决策权/反馈规范（工程师实例）",
+    "normKey": "团队章程协作契约模板使命价值观工作协议决策权反馈规范工程师实例",
+    "url": "https://leadshift.dev/engineering-team-charter-template-and-examples",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队章程(Team Charter/Ways of Working)是『团队怎么一起工作』的契约：使命+价值观+工作协议+沟通规范+决策权分层(低/中/高影响)+反馈规范+角色；专会共创、人人署名、retro 演化，补 Atlassian Working Agreements。",
+    "topic": "icebreaker"
   }
 ]
