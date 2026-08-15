@@ -5660,5 +5660,59 @@
     "source": "iMasons",
     "normKey": "全球 Town Hall 多时区同步策略行业协会样本",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "团建旅行风险管理专属透镜（Duty of Care·ISO 31030）",
+    "normKey": "团建旅行风险管理专属透镜（DutyofCare·ISO31030）",
+    "url": "https://www.theoffsiteco.com/news/getting-corporate-travel-risk-management-right",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 公司内部上下级场景（HR/行政 owner 团建差旅风险），\"群体性风险四挑战+唯一 owner+ISO 31030\" 是可抄硬框架。🔍 差异化：区别",
+    "topic": "offsite"
+  },
+  {
+    "title": "务虚会后不回落：深挖+向下传导+主题目标记分牌（Lencioni）",
+    "normKey": "务虚会后不回落：深挖+向下传导+主题目标记分牌（Lencioni）",
+    "url": "https://www.tablegroup.com/thoughts-from-the-field_-issue-1-beyond-the-offsite",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管/领导团队务虚会，\"务虚后三动作（深挖/向下传导/主题目标记分牌）\"是权威闭环框架，Lencioni 背书。🔍 差异化：区别于卡片（unicorn",
+    "topic": "offsite"
+  },
+  {
+    "title": "迪拜 Offsite 实操：40% 留白法则 + 餐饮多元 + 活动避坑",
+    "normKey": "迪拜Offsite实操：40%留白法则+餐饮多元+活动避坑",
+    "url": "https://www.secretgardenivy.com/how-to-plan-a-corporate-offsite-in-dubai/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 公司内部上下级场景（团队 lead/行政操盘多日 offsite），\"40% 留白法则 + 餐饮多元计数 + 活动避坑清单\"是可直接套的运营经验。🔍 ",
+    "topic": "offsite"
+  },
+  {
+    "title": "探险型团建安全协议（健康筛查·装备·撤离·应急通讯）",
+    "normKey": "探险型团建安全协议（健康筛查·装备·撤离·应急通讯）",
+    "url": "https://dmc-go.com/blog/what-are-the-most-important-safety-protocols-for-adventure-based-corporate-retreats/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 公司内部上下级场景（含户外/探险环节的团建），\"五层安全协议\"是可直接套的硬框架。🔍 差异化：区别于卡片（theoffsiteco 差旅风险/团建定制",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队外出活动应急与风险管理清单（中文·决策权限矩阵）",
+    "normKey": "团队外出活动应急与风险管理清单（中文·决策权限矩阵）",
+    "url": "https://beefed.ai/zh/offsite-contingency-risk-management-checklist",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 公司内部上下级场景（中文团队外出活动应急），\"决策权限矩阵+三档演练+48h 清单+AED/旅行中断 SOP\"是本土可直接套模板。🔍 差异化：区别于卡",
+    "topic": "offsite"
+  },
+  {
+    "title": "目的地主题式 Offsite + ROI 仪表盘（30/60/90 度量）",
+    "normKey": "目的地主题式Offsite+ROI仪表盘（30/60/90度量）",
+    "url": "https://effective.club/from-vacations-to-retreats-designing-a-company-offsite-using",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 公司内部上下级场景（按目的地主题设计 offsite + 用仪表盘度量 ROI），\"主题化选址+30/60/90 KPI 仪表盘\"是可迁移设计杠杆。🔍",
+    "topic": "offsite"
   }
 ]
