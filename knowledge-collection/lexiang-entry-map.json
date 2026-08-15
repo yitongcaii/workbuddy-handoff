@@ -368,8 +368,7 @@
     "wall": {
       "entry_id": "a6ba9c18bfdd47c1ae845dd0bdc579e9",
       "file_id": "1026ac8c23ff4e949c27d37a67747c3a",
-      "name": "openday.html",
-      "note": "R14 累计墙（78卡）；更新模式持续刷新"
+      "name": "openday.html"
     },
     "rounds": [
       {
@@ -450,6 +449,13 @@
         "entry_id": "0aee1e1d2cf047eabd427d56ee3c559c",
         "name": "openday-2026-08-15-r14.html",
         "note": "轮次页 R14 (+14)"
+      },
+      {
+        "round": "r15",
+        "date": "2026-08-15",
+        "entry_id": "72d39204c6194d61b79e238d6fb4b9d1",
+        "name": "openday-2026-08-15-r15.html",
+        "note": "轮次页 R15 (+15)"
       }
     ]
   },
