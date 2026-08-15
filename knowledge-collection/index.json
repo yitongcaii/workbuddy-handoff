@@ -5795,5 +5795,65 @@
     "relation": "supervisor",
     "summary": "团队章程(Team Charter/Ways of Working)是『团队怎么一起工作』的契约：使命+价值观+工作协议+沟通规范+决策权分层(低/中/高影响)+反馈规范+角色；专会共创、人人署名、retro 演化，补 Atlassian Working Agreements。",
     "topic": "icebreaker"
+  },
+  {
+    "title": "最佳失败奖·容错文化表彰（创新葬礼仪式·CEO 亲自颁奖）",
+    "normKey": "最佳失败奖·容错文化表彰（创新葬礼仪式·CEO 亲自颁奖）",
+    "url": "https://www.niuqiclub.com/news/316947.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "牛企老板俱乐部高管闭门会核心观点——成熟期企业创新悖论破局：把「试错成本」列入年度预算，设「创新葬礼」仪式，每个失败项目团队获定制奖杯、CEO 亲自颁奖并提炼经验；研发主动提案量 +300%，两个「葬礼项目」迭代成新增长点。行动要点：建立容",
+    "topic": "award",
+    "source": "websearch"
+  },
+  {
+    "title": "SAP 全球合作伙伴表彰大会（Appreciation for Partner Excellence）",
+    "normKey": "SAP 全球合作伙伴表彰大会（Appreciation for Partner Excellence）",
+    "url": "https://news.sap.com/japan/2026/03/0310_sap-appreciation-for-partner-excellence-2026/",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "【SAP 官方一手】SAP Japan Partner Kick-off 2026 发布第 29 届「Appreciation for Partner Excellence」——综合评估伙伴对 SAP 业务的贡献度、客户满意度、各解决方案领",
+    "topic": "award",
+    "source": "websearch"
+  },
+  {
+    "title": "丰达科获 GE 航太「卓越供应商伙伴奖」",
+    "normKey": "丰达科获 GE 航太「卓越供应商伙伴奖」",
+    "url": "https://www.nafco.com.tw?p=12319/",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "【丰达科官方一手】国际航太扣件厂丰达科获 GE 航太「Excellence in Supplier Partnership Award」，表彰其在全球航太供应链中的优异品质、准时交期、成本竞争力与合作伙伴精神；GE 高管公开称赞其「主动、可",
+    "topic": "award",
+    "source": "websearch"
+  },
+  {
+    "title": "客户提名员工表彰（Customer Nomination Recognition）",
+    "normKey": "客户提名员工表彰（Customer Nomination Recognition）",
+    "url": "https://www.advantageclub.ai/blog/customer-nomination-employee-recognition",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "把客户 / 外部利益相关方的「点赞」变成正式员工表彰——客户提名员工奖（Customer Nomination Recognition）运营框架：奖项类目对齐品牌承诺与服务卓越行为；建立对外沟通 playbook（提名后标准回复、内部庆祝脚",
+    "topic": "award",
+    "source": "websearch"
+  },
+  {
+    "title": "联合航空 Outperform·客户在 App 上提名最佳员工",
+    "normKey": "联合航空 Outperform·客户在 App 上提名最佳员工",
+    "url": "https://financial.tmcnet.com/topics/corporate-performance-management/articles/293024-united-airlines-customers-nominate-best-employee-via-united.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "联合航空 Outperform Recognition Program 真实案例——邀请 MileagePlus 会员通过 App 提名机场 / 电话 / 航班上服务出色的员工，3 个月收到 5200+ 提名，随机抽出 16 名获奖者（最高",
+    "topic": "award",
+    "source": "websearch"
+  },
+  {
+    "title": "颁奖典礼危机公关·奥斯卡级乌龙救场",
+    "normKey": "颁奖典礼危机公关·奥斯卡级乌龙救场",
+    "url": "https://www.digitaling.com/articles/35313.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "从奥斯卡「最佳影片」颁错、关心妍误领奖、孙楠直播退赛、Kanye 抢麦等颁奖礼经典乌龙，提炼主办方危机公关三阶段：事前防范（全面预测潜在危机 + 预案）、事中控制（第一时间把偏离轨道的事件推回正轨，降低二次发酵）、事后恢复（黄金 6 小时内",
+    "topic": "award",
+    "source": "websearch"
   }
 ]
