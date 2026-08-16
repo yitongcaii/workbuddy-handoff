@@ -6705,5 +6705,122 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "manager 季度团队 offsite 一日模板：经营复盘+战略+连接+承诺收尾，含真实填例与 start-stop-continue retro。"
+  },
+  {
+    "title": "高管 Retreat 对齐领导力（决策纪律 + RACI/DACI）",
+    "normKey": "高管retreat对齐领导力决策纪律racidaci",
+    "url": "https://www.scavify.com/blog/executive-team-building-retreats-that-align-leaders",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "高管 offsite 的核心是「对齐方向 + 决策纪律」而非团建。两日议程模板：Day1 决策块（沉默阅读→澄清→结构化辩论→首投→收敛→决议→记录 owners/日期/验收标准）+ 操作系统工作坊（决策权 RACI/DACI、升级路径、规划节奏）+ 连接爆发（红队攻防、沉默头脑风暴、pre-mortem、working-with-me 交换）；Day2 风险预演、资源排序、关系澄清（「与我共事」交换）、沟通计划、决策日志复盘。关键：房间必须产出决策而非氛围；请外部引导师（即使最强 CEO 也难引导自己所在的房间）；把行为链接到离场后保留的团队仪式。"
+  },
+  {
+    "title": "组织变革后重建信任：领导者实操手册（2026）",
+    "normKey": "组织变革后重建信任领导者实操手册2026",
+    "url": "https://www.michaelburchell.com/blogs/2026/1/22/rebuilding-trust-after-organizational-change-a-playbook-for-leaders",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "变革（并购/重组/裁员/战略重置）后信任断裂但绩效先恢复——领导者常误以为宣布新战略就完事，但团队在悄悄问「还能信这里吗」。手册五步：①非防御性承认影响（命名失去的同侪/角色/确定性，尊重现实）；②先恢复可预测性再推绩效（重设优先级、决策权、角色、沟通节奏，降低焦虑）；③ relentless 闭合 say-do gap（员工紧盯谁被晋升、哪些行为被奖励、价值观是否在压力下消失）；④本地而非中央重建信任（信任在经理-员工日常互动中修复，装备中层经理做诚实对话）；⑤要承诺前先邀请参与（让员工参与塑造新规范，而非只给成品方案）。引用 MIT Sloan/HBR/Gallup 研究。"
+  },
+  {
+    "title": "重组/裁员后领导而不失信任（2026 高管教练视角）",
+    "normKey": "重组裁员后领导而不失信任2026高管教练视角",
+    "url": "https://strategicleadercoaching.ca/2026/02/24/how-to-lead-restructuring",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "重组后信任骤降，绩效与留任随之下滑。修复不靠乐观表态而靠言行一致：①诚实胜于粉饰——用直白语言解释商业背景、变与不变、仍不确定的部分，不知道就直说（比强行自信更建信任）；②可预测的沟通节奏——定期、规律地出现，团队才停止扫描危险；③在场而非表演——真实对话、倾听不纠正、跟进不空洞；④让行动说话——承诺澄清角色就快做、说优先级变就移除冲突要求；⑤双向重建——实用信任（清晰/可靠/跟进）+ 情感信任（倾听/共情/尊重）；⑥不急于推进——先稳定再重置方向，共创短期焦点恢复掌控感；⑦公开认错——承认沟通断裂或决定突兀，展示成熟度与担当。"
+  },
+  {
+    "title": "高管团队冲突管理工作坊（TKI 测评 + 冲突公约）",
+    "normKey": "高管团队冲突管理工作坊tki测评冲突公约",
+    "url": "https://jingpaiconsulting.com/product-8.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "把冲突从「内耗」转为「创新动力」。痛点：高管团队表面和谐暗地各做各的（CTO/COO 积怨致决策质量低）、或一冲突就人身攻击。交付：TKI 冲突模式测评（全员，科学评估每位高管冲突倾向）→ 冲突风格诊断报告（团队整体画像、盲区与风险）→ 1 天定制化沉浸式工作坊（建设性冲突规则共创、冲突管理工具包）→ 团队共同制定「冲突公约」建立长效机制。成效：冲突发生率↓60%、解决率 30%→70%、内耗转动力。适用：冲突频发的高管团队、表面和谐回避冲突的团队、新合并/重组的管理团队。安踏/赛默飞等标杆验证。"
+  },
+  {
+    "title": "收购后新团队整合：Vinted M&A 整合经理实操（一线访谈）",
+    "normKey": "收购后新团队整合vintedma整合经理实操一线访谈",
+    "url": "https://sifted.eu/articles/how-to-integrate-a-new-team-during-an-acquisition",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "70-90% 并购失败常因双方团队合不来。Vinted 收购 United Wardrobe 的整合经理 Kinda Dalla 给的实操：①尽早做文化尽职调查——问对方「公司目标/5 年愿景/在大公司中如何运作/收购后想保住什么」，识别摩擦点；②让双方创始人在无旁人时先认识、共创未来愿景、全程参与新使命与工作坊；③双方 leader 共同到被收购方办公室当面宣布；④尽快让团队互相介绍（线上+线下入职、每位新同事配 buddy 可吐槽/提问、邀请参加原公司庆典）；⑤办全员庆祝派对 + 各团队 offsite（教育/战略/知识分享+社交）。核心：别忽视团队焦虑，从一开始建信任。"
+  },
+  {
+    "title": "心理安全感工作坊（Fear→Trust 框架 + 团队公约）",
+    "normKey": "心理安全感工作坊feartrust框架团队公约",
+    "url": "https://resiliencebuilders.com.au/program/psychological-safety-workshops",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "高绩效团队建于信任、开放沟通。工作坊两块各 60 分钟：块1 理解心理安全（何为一体、为何重要、沉默的代价、四大基石：包容/尊重/许可/归属）；块2 建立心理安全（强化行为、从恐惧到信任的历程、「红旗绿旗」活动、共创团队心理安全宪章）。含实用活动：「我曾沉默的时刻」（Moments I Stayed Silent）、Red Flags and Green Flags、个人行动承诺。适用：领导团队、项目/跨职能团队、经历变革或压力的组织、想提升信任的团队。强调心理安全不降低标准，而是让高绩效成为可能。"
+  },
+  {
+    "title": "构建心理安全感 2026 实操手册（Edmondson 四问 + 体验式）",
+    "normKey": "构建心理安全感2026实操手册edmondson四问体验式",
+    "url": "https://www.thethoughtbulb.com/blog/building-psychological-safety-indian-teams",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "心理安全感=团队对「人际风险安全」的共享信念（Amy Edmondson 提出）。四个诊断问：敢承认错误吗？敢提问吗？敢不同意吗？敢做自己吗？体验胜于说教：用 The Lost Dutchman's Gold Mine 协作模拟暴露「囤积信息悄悄摧毁集体价值」；远程团队用 Storytelling Workshop（Once Upon A Time）在线共建故事、轻柔降低开口门槛。管理层习惯：早感谢报坏消息（惩罚一次团队就学会藏问题数月）、多问少说（「我们漏了什么」后真的等答案）、保护最安静的声音（层级场合先请 junior 再请 senior）、把想法与人分开（批工作不批人）。测量用轻量匿名脉冲（每季度 Edmondson 式陈述），看领先行为而非排名团队。"
+  },
+  {
+    "title": "新经理（Amazon 范式）首次团队会议：45 分钟诊断议程",
+    "normKey": "新经理amazon范式首次团队会议45分钟诊断议程",
+    "url": "https://sirjohnnymai.com/blog/new-manager-at-amazon-first-team-meeting-agenda-template",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "首次团队会不是介绍而是「可信度测试」。45 分钟结构：0-5 为何在此/会议目的；5-10 我如何工作与看重什么；10-20 团队现状、目标、当前压力点；20-30 什么在拖慢团队；30-40 期望、决策权、升级路径；40-45 收尾、下一步、跟进节奏。核心：你的议程是诊断仪器——每分钟要么降低模糊要么暴露模糊。读房间靠问「工作卡在哪/什么不清楚/什么被容忍太久」，而非「介绍你自己」。群会暴露共识、私会暴露真相。目标不是被喜欢而是「变得可读」（legible）：团队离开时记住你的标准而非你的背景。"
+  },
+  {
+    "title": "打破部门墙：重建筒仓团队信任的 14 法（Forbes Coaches Council）",
+    "normKey": "打破部门墙重建筒仓团队信任的14法forbescoachescouncil",
+    "url": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/26/14-ways-leaders-can-rebuild-trust-with-siloed-team-members/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "筒仓团队互不信任拖累全组织。14 条可执行法（摘录高相关）：①跨职能 interlock 团队定期同步、提挑战、建同理；②给小问题一周内共解（不 dictate 解法）；③交叉项目——不同部门的人共担一个项目+group-process coach；④工作轮岗/短期互派（「get dirty together」）；⑤岗位影子计划（job shadowing 跨岗观察建立关系）；⑥把高管请进半天 session 重建心理契约再围绕目标共创；⑦志愿/服务共创；⑧采用 latticed/matrix 框架替代职能筒仓；⑨用「我们的工作如何影响你」互看连通性。关键：打破筒仓靠「共同拥有项目」而非团建活动。"
+  },
+  {
+    "title": "通过「共享挑战」建信任的 7 个协作工作坊活动",
+    "normKey": "通过共享挑战建信任的7个协作工作坊活动",
+    "url": "https://boomforbusiness.nl/blog/7-collaborative-team-workshop-activities-that-build-trust-through-shared-challenges",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "信任不在会议室也不在全员邮件，而在「一起面对不确定、闯过去、留下共同故事」的时刻。7 个去层级化活动：①即兴练习（Improv「Yes, And」重写通信习惯，debrief 映射会议行为）；②密室逃脱（escape room 压力下显真我——谁主导/谁沉默/谁看到被忽略的线索）；③故事工作坊（同事分享失败/转折/改变主意，变完整的人）；④真实约束下创意解题（design sprint/hackathon/有限材料搭最高塔，逼优先级与协商）；⑤角色互换模拟（产品经理用客服视角思考，用直接经验替假设）；⑥喜剧写作挑战（低自我协作）；⑦反思。核：共享挑战剥离职级与头衔，建立「可接受犯错/求助/冒险」的社会记忆。"
+  },
+  {
+    "title": "远程/混合团队：用「日常仪式」而非「一次性活动」建信任",
+    "normKey": "远程混合团队用日常仪式而非一次性活动建信任",
+    "url": "https://companyculturehub.com/team-building-for-remote-and-hybrid-teams-rituals-activities-and-metrics-to-build-trust-and-boost-performance",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "分布式团队缺走廊闲聊，必须有意为之。核心原则：心理安全（领导示弱+邀输入）、共享目标（目标可见且连到个人贡献）、角色清晰+自主、重质沟通（同步+异步）。可落地的「仪式化」实践（非一次性活动）：微学习对子（互相教 20 分钟技能建尊重）、问题冲刺（跨职能就真实问题限时共创、交付速赢）、同伴认可仪式（会前 2 分钟 shout-out 或公共认可频道）、角色互换日（shadow 几小时建同理）、目标导向志愿日、异步社交线程（非工作话题+结构化提示）、短 retreat/checkpoint。度量：参与度脉冲、留存、交付周期、复盘质性反馈。避坑：不强制参与、不塞满日历、不一刀切。"
+  },
+  {
+    "title": "并购后人才与文化整合：融合工作实践 + 文化大使",
+    "normKey": "并购后人才与文化整合融合工作实践文化大使",
+    "url": "https://4leafperformance.com/the-art-of-talent-integration-strategies-for-aligning-team-culture-post-acquisition",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "统一团队文化让双方感到连到公司目标。三步：①融合工作实践与传统——找两公司文化的共同点作新基础、尊重差异（不消灭）、共创新的仪式/传统；②用团队活动建关系（社交聚会/户外/趣味竞赛/共同庆祝，让双方在非工作场景建立私人连接）；③设文化大使（cultural ambassadors）——从各层级选热情者作新文化的旗手，赋予资源与权威去推活动、领讨论、反馈顾虑，平滑过渡。配套：领导力发展（训 leaders 管文化差异/包容性/变革管理）、导师计划（跨背景 strategic 配对）、用指标持续监测调整。"
+  },
+  {
+    "title": "12 个真正有效的心理安全感工作坊活动（引导师视角）",
+    "normKey": "12个真正有效的心理安全感工作坊活动引导师视角",
+    "url": "https://points-of-you.com/psychological-safety-workshop-activities",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "心理安全是时刻体验不是墙上海报。12 个面向引导师/教练的活动强调「降人际威胁+提对话质量+产出协议而非感觉」：①安全感光谱签到（1-10 或「我自我审查 often→能说难的话」，再问「什么让它不是更低」避免指责陷阱）；②Right to Pass 轮（「本次你需要什么」可答 pass，感谢并跳过，改变房间神经系统）；③两真一摩擦（two truths and a friction，摩擦须可观察具体非人格评判）；④沉默书写再结构化分享（层级在场时先静写再对子再四人再全场，保护安静声音）；⑤「假设善意」不够（重写规范：直接反馈时善意听起来像什么）；⑥…（含边界设定、平等 airtime、产出 30 天团队协议）。三设计特征：清晰边界、平等 airtime、产出可承诺的协议。"
   }
 ]
