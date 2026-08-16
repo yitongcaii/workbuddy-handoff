@@ -6577,5 +6577,85 @@
     "relation": "supervisor",
     "summary": "湖北科伦2026届新入职大学生座谈会（总经理高登银主持，与11名新大学生面对面深度交流）：零距离谈心谈话，了解培训感受、岗位适应与思想动态，围绕行业前景、职业规划、文化融入、能力提升分享经验答疑；组织「手指接棒」趣味破冰拉近新人距离；强调「知其然更知其所以然」「空中加油」实干作风；后续按英才培养方案做实导师带教、轮岗历练。",
     "topic": "afternoontea"
+  },
+  {
+    "title": "中国建材集团2026年中工作会（官方·董事长讲话+深化改革动员）",
+    "normKey": "中国建材集团2026年中工作会官方董事长讲话深化改革动员",
+    "url": "https://www.cbma.com.cn/cn/report/2608/0002-1.htm",
+    "sourceType": "firsthand",
+    "relation": "supervisor,exec",
+    "summary": "中国建材年中工作会：董事长讲话定调+总经理报告拆解，五方面部署（战略引领/价值创造/创新/改革/党建）+拼闯干动员"
+  },
+  {
+    "title": "华能集团2026年年中工作会（董事长讲话·雄安新区·权威媒体报道）",
+    "normKey": "华能集团2026年年中工作会董事长讲话雄安新区权威媒体报道",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33655240",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "华能年中工作会：雄安新区召开，董事长讲话+六个进一步部署，双过半+A级考核提振信心"
+  },
+  {
+    "title": "中远海运集团2026年工作会议（官方·二届五次职代会·十五五蓝图）",
+    "normKey": "中远海运集团2026年工作会议官方二届五次职代会十五五蓝图",
+    "url": "https://seafarer.coscoshipping.com/col/col10978/art/2026/art_6ca31739197d4719b765ee72da02c6e6.html",
+    "sourceType": "firsthand",
+    "relation": "supervisor,exec",
+    "summary": "中远海运2026工作会+二届五次职代会：十五五五方面部署（产业体系/AI+/全球通道/改革/安全）+三个作用排头兵"
+  },
+  {
+    "title": "中汽中心党委扩大会暨2026中期工作会（官方·视频分会场+工作回顾片）",
+    "normKey": "中汽中心党委扩大会暨2026中期工作会官方视频分会场工作回顾片",
+    "url": "https://www.catarc.ac.cn/detail/25110f53f38446e4a4c503b180dbb7f7",
+    "sourceType": "firsthand",
+    "relation": "supervisor,exec",
+    "summary": "中汽中心中期工作会：现场+视频分会场近500人+回顾片暖场，对标七个深刻学习领会+实字当头干字为先"
+  },
+  {
+    "title": "企业Town Hall最佳实践（climbtheladder·议程/主持/坦诚/跟进）",
+    "normKey": "企业townhall最佳实践climbtheladder议程主持坦诚跟进",
+    "url": "https://climbtheladder.com/what-is-a-town-hall-meeting-in-business-best-practices",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "全员会最佳实践：会前限时议程+技术彩排、moderator控场、share the stage、会后摘要含未答问题；避四类失灵"
+  },
+  {
+    "title": "Town Hall会议全指南（议题库+Q&A主持+最佳实践·thedetroitbureau）",
+    "normKey": "townhall会议全指南议题库qa主持最佳实践thedetroitbureau",
+    "url": "https://www.thedetroitbureau.com/today-report/town-hall-meetings-a-comprehensive-guide-and-examples-1764798024",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "全员会全指南：议题五类+Q&A成败关键（moderator控流/共情诚实/问答摘要）+互动含字幕+会后反馈"
+  },
+  {
+    "title": "如何办好全员会（granola·异步纪要+限时+远程激活+问责）",
+    "normKey": "如何办好全员会granola异步纪要限时远程激活问责",
+    "url": "https://www.granola.ai/blog/how-to-run-a-great-all-hands-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "全员会运营：会后24h recap(决策+行动项owner/deadline+未答Q&A)、死保Q&A时间块、开场问责、远程激活"
+  },
+  {
+    "title": "全员会最佳实践2026（teamflect·混合包容+议程+认可）",
+    "normKey": "全员会最佳实践2026teamflect混合包容议程认可",
+    "url": "https://teamflect.com/blog/employee-engagement/all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "混合全员会Remote-First三招（齐眼平线/先答远程/同步投票）+议程菜单+月度季度节奏"
+  },
+  {
+    "title": "混合团队全员会2026指南（gable·5大失误+5种原型+议程模板）",
+    "normKey": "混合团队全员会2026指南gable5大失误5种原型议程模板",
+    "url": "https://www.gable.to/blog/post/all-hands-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "混合全员会5大失误+5种原型（对齐/表彰/透明Q&A/战略转型/复盘）+60/30min模板"
+  },
+  {
+    "title": "高管炉边谈话（Fireside Chat）怎么跑（haystack·信任连接范式）",
+    "normKey": "高管炉边谈话firesidechat怎么跑haystack信任连接范式",
+    "url": "https://www.haystackteam.com/blog/how-to-run-an-executive-fireside-chat",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管炉边谈话：moderator一对一引导替代宣讲，town hall做对齐透明+fireside做信任连接双轨"
   }
 ]
