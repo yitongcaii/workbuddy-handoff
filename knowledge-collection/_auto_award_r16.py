@@ -1,0 +1,218 @@
+# -*- coding: utf-8 -*-
+"""颁奖 十六轮 enrich (2026-08-17) — 渲染增量页 + 追加进累计墙 + 更新 index.json"""
+import json, re, os
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+AWARD_DIR = os.path.join(BASE, "award")
+CUM = os.path.join(AWARD_DIR, "award.html")
+IDX = os.path.join(BASE, "index.json")
+DATE = "20260817"
+ROUND = "十六轮 enrich 2026-08-17(+4)"
+
+def esc(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+# ---- 本轮新增卡（仅 ②上下级 / ③高管间，0 peer）----
+CARDS = [
+    {
+        "emoji": "⚖️",
+        "title": "表彰防偏袒·用「确定性指标」替代主观提名（5步机制）",
+        "cat": "公平机制",
+        "rel": "r2", "rel_text": "上下级",
+        "src": "b2", "src_text": "二手",
+        "val": "Zaffre 5步法——①删掉提名表，改用量化输入（出勤/OKR/KPI/匿名360/合规）自动计分，从源头消除「离领导近的人总赢」；②公司在周期开始前锁定各指标权重，禁止数据出来后朝偏好候选人倾斜；③匿名360+离群值阻尼（偏离均值2σ的极端评分自动降权，防止一人恶意或谄媚拉偏）；④公布完整排行榜而非只宣布 winner，让员工看到自己排哪、差在哪；⑤冻结已宣布周期的权重与数据，保留不可篡改审计轨迹，歧视争议时可自证「对所有人同一规则」。把「月度之星」从人气投票变成公平仪器，也让程序在合规上可辩护。",
+        "how": "办普惠/月度评选时，先定 measurable inputs + 锁定权重，再让系统自动汇总出确定性榜单；360 反馈必须匿名且带离群阻尼；公布完整排名而非只发奖；每个周期冻结数据留审计。经理/HR 用这套替代「我提名谁」的主观路径。",
+        "url": "https://zaffreaxon.com/blog/how-to-eliminate-favoritism-in-employee-recognition",
+        "note": "适用：② 经理/HR 主导的评选，把「防偏袒」从口头承诺做成可审计的系统机制（③ 高管关注合规可辩护性）。",
+    },
+    {
+        "emoji": "🚫",
+        "title": "表彰项目 8大反模式·「表彰做错比不做更伤人」避坑清单",
+        "cat": "避坑反模式",
+        "rel": "r2", "rel_text": "上下级",
+        "src": "b2", "src_text": "二手",
+        "val": "Bob Nelson 总结表彰计划里 8 个隐蔽的「去动机因素」——①期望不清（员工不知规则）②规则冗余（像多一层官僚）③无闭环（承诺不兑现）④频繁改规则（朝利于组织方向改门槛）⑤不公平（不同部门标准不一，员工会互相比较）⑥言行不一（领导说一套做一套）⑦奖励差绩效（程序失信）⑧高管隐身（启动时露面、之后消失，员工觉得不重要）。核心警示：表彰一旦做错，造成的伤害比根本没有表彰更大。",
+        "how": "上线/迭代表彰项目前，逐条对照这张清单自查：规则要简单透明、承诺必兑现、改规则须咨询员工并说明、各团队标准统一防比较、领导须言行一致、绝不表彰差绩效、高管要持续可见（有具体颁奖角色而非只启动露脸）。",
+        "url": "https://www.bizjournals.com/orlando/stories/2004/08/16/smallb3.html",
+        "note": "适用：② 经理/HR 操盘表彰项目，把「常见失败模式」前置为设计检查项（③ 高管须持续可见是硬指标）。",
+    },
+    {
+        "emoji": "⚡",
+        "title": "一线即时认可(On-the-Spot)·经理「当天闭环」工具箱",
+        "cat": "即时认可",
+        "rel": "r2", "rel_text": "上下级",
+        "src": "b2", "src_text": "二手",
+        "val": "即时认可（spot recognition）是高频认可里杠杆最高、成本最低的一种：Gallup 把认可频率提到「至少每周」可带来 4× 敬业度提升；SHRM 2023 显示 68% HR 认为认可项目直接改善留存。4 步工作流当天闭环、无需审批：①当场识别具体可观察行为（覆盖他人工作/实时解题/救火），超 24h 效用骤降；②按情境选格式（站会公开 shout-out / Slack 私信 / 手写卡 / 模板 appreciation card）；③30 秒写具体话术「[名字]，我注意到[具体行为]在[何时]，你[具体影响]，这正是[公司价值观]的样子」；④在下个站会/1:1 二次提及锚定（单次提及会淡，双触点才粘）。六大要素：即时/具体/绑价值观/格式匹配/免审批/跟进。",
+        "how": "给经理配一套现成模板（appreciation card + Slack 话术 + 手写卡），去除「不知说什么、没格式」两大阻碍；强调当天闭环、具体行为、绑定公司价值观、免审批自主发；在下次团队触点二次提及。把表彰从「季度盛典」下沉为日常高频。",
+        "url": "https://www.vantagecircle.com/recognition-templates/on-the-spot-recognition-template",
+        "note": "适用：② 一线经理日常认可，最高频次、最低成本的留存杠杆（③ 与年度盛典互补成节奏体系）。",
+    },
+    {
+        "emoji": "🌐",
+        "title": "元宇宙沉浸式颁奖·虚拟分身线上线下同步（打破虚实界限）",
+        "cat": "沉浸创新",
+        "rel": "r3", "rel_text": "高管间",
+        "src": "b2", "src_text": "二手",
+        "val": "网易瑶台为「汉语桥」全球故事会颁奖礼打造元宇宙会场：把线下颁奖现场「复刻」进虚拟空间，线上线下联合互动；参赛者凭门票一键登入，上传个性化照片生成专属虚拟形象，自由探索空间、与其他获奖者/嘉宾互动；用虚拟主持人和虚拟颁奖嘉宾为不能到场的获奖者线上颁奖，结合虚拟数字人技术与节目创意带来超想象感官体验。启示：把颁奖从「物理场地约束」解放为「全球同频的沉浸仪式」，远程/跨国获奖者不再只是侧屏缩略图，而是以虚拟分身平等参与。",
+        "how": "办跨国/分布式团队颁奖时，可用元宇宙/虚拟空间承载：①线下场景 1:1 复刻进虚拟会场 ②给每位获奖者个性化虚拟形象 ③虚拟主持/颁奖嘉宾为远程者线上授奖 ④设置可配置展板/横幅等品牌展示区。把「到场才有仪式感」升级为「线上线下同频沉浸」。",
+        "url": "https://tech.ifeng.com/c/8Ov7amVSPMf",
+        "note": "适用：③ 高管/创新视角，把颁奖做成可规模化、跨地域的沉浸式体验（与混合颁奖远程公平互补，解决「远程者被忽略」）。",
+    },
+]
+
+def card_html(c, indent=4):
+    sp = " " * indent
+    sp2 = " " * (indent + 2)
+    rel_badge = f'<span class="badge {c["rel"]}">{c["rel_text"]}</span>'
+    src_badge = f'<span class="badge {c["src"]}">{c["src_text"]}</span>'
+    return (
+        f'{sp}<div class="hl">\n'
+        f'{sp2}<div class="top"><span class="emoji">{esc(c["emoji"])}</span>'
+        f'<h3>{esc(c["title"])}</h3><span class="cat">{esc(c["cat"])}</span>'
+        f'{rel_badge}{src_badge}</div>\n'
+        f'{sp2}<p class="val">{esc(c["val"])}</p>\n'
+        f'{sp2}<details class="exec"><summary>怎么做</summary><div class="inner">{esc(c["how"])}</div></details>\n'
+        f'{sp2}<div class="src">🔗 <a href="{esc(c["url"])}" target="_blank">{esc(c["url"])}</a></div>\n'
+        f'{sp2}<div class="note">{esc(c["note"])}</div>\n'
+        f'{sp}</div>\n'
+    )
+
+# ---- 增量页 ----
+cards_sec3 = [c for c in CARDS if c["rel"] == "r3"]
+cards_sec2 = [c for c in CARDS if c["rel"] == "r2"]
+grid_html = "".join(card_html(c) for c in CARDS)
+rel_summary = f"③高管间 {len(cards_sec3)} 张 + ②上下级 {len(cards_sec2)} 张"
+
+inc_title = f"颁奖典礼 · 十六轮增量卡片（2026-08-17）"
+wall_url = "https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html"
+portal_url = "https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/index.html"
+
+INC = f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{inc_title}</title>
+<style>
+:root{{--bg:#f4f6fb;--card:#ffffff;--ink:#1f2430;--sub:#5b6478;--accent:#6c5ce7;--accent2:#00b8d9;--chip:#eef0ff;}}
+*{{box-sizing:border-box;margin:0;padding:0;}}
+body{{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}}
+.wrap{{max-width:1080px;margin:0 auto;}}
+.hero{{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:26px 30px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}}
+.hero h1{{font-size:24px;font-weight:800;letter-spacing:1px;margin-bottom:6px;}}
+.hero p{{font-size:13px;opacity:.95;}}
+.relbar{{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;}}
+.relbar span{{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}}
+.grid{{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}}
+.hl{{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}}
+.top{{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}}
+.emoji{{font-size:22px;}}
+.hl h3{{font-size:16px;font-weight:700;flex:1;min-width:120px;}}
+.cat{{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}}
+.badge{{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}}
+.b2{{background:#fff1e6;color:#c0651a;}}
+.r2{{background:#fff3e0;color:#c0651a;}}
+.r3{{background:#f3e8ff;color:#7b2cbf;}}
+.val{{font-size:13.5px;color:var(--sub);}}
+.exec{{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}}
+.exec summary{{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}}
+.exec .inner{{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}}
+.src{{font-size:12px;word-break:break-all;}}
+.src a{{color:var(--accent2);text-decoration:none;}}
+.note{{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}}
+footer{{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}}
+</style>
+</head><body>
+<div class="wrap">
+<p style="margin:0 0 16px"><a href="{wall_url}" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">🏆 返回颁奖累计卡片墙 →</a> &nbsp; <a href="{portal_url}" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📚 返回知识库门户 →</a></p>
+  <div class="hero">
+    <h1>🏆 {inc_title}</h1>
+    <p>本轮新增 {len(CARDS)} 张（通过六维评估，剔除平级/朋友向①，仅 ②上下级 / ③高管间）；关系档：{rel_summary}。</p>
+    <div class="relbar">
+      <span>② 领导↔员工（上下级，supervisor）</span>
+      <span>③ 领导↔领导（高管间，exec）</span>
+    </div>
+  </div>
+  <div class="grid">
+{grid_html}  </div>
+<footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body></html>
+"""
+
+inc_path = os.path.join(AWARD_DIR, f"award-{DATE}.html")
+with open(inc_path, "w", encoding="utf-8") as f:
+    f.write(INC)
+inc_size = os.path.getsize(inc_path)
+print("增量页:", inc_path, inc_size, "字节")
+
+# ---- 追加进累计墙 ----
+html = open(CUM, encoding="utf-8").read()
+
+# ③ 卡插入 grid1（sec3 的 grid）闭合前 —— grid1 的 </div> 紧邻 <div class="sec sec2">
+sec2_marker = '  <div class="sec sec2">'
+grid1_close = "</div>\n" + sec2_marker
+card3_html = "".join(card_html(c) for c in cards_sec3)
+assert grid1_close in html, "grid1 close marker not found"
+html = html.replace(grid1_close, card3_html + grid1_close, 1)
+
+# ② 卡插入 grid2（sec2 的 grid）闭合前 —— grid2 的 </div> 紧邻 <footer>
+grid2_close = "</div>\n<footer>"
+card2_html = "".join(card_html(c) for c in cards_sec2)
+assert grid2_close in html, "grid2 close marker not found"
+html = html.replace(grid2_close, card2_html + grid2_close, 1)
+
+# 更新 hero 时间线
+hero_old = "十五轮 enrich 2026-08-16(+6)</p>"
+hero_new = "十五轮 enrich 2026-08-16(+6)｜ 十六轮 enrich 2026-08-17(+4)</p>"
+assert hero_old in html, "hero timeline marker not found"
+html = html.replace(hero_old, hero_new, 1)
+
+with open(CUM, "w", encoding="utf-8") as f:
+    f.write(html)
+
+# 校验
+new_cards = html.count('class="hl"')
+r2 = html.count('badge r2')
+r3 = html.count('badge r3')
+footer_ok = "📌 本页由 yitong" in html
+print("累计墙卡片数:", new_cards, "| r2:", r2, "r3:", r3, "| footer:", footer_ok)
+
+# ---- 更新 index.json ----
+def normkey(t):
+    out = []
+    for ch in t.lower():
+        if ch.isalnum() or "一" <= ch <= "鿿":
+            out.append(ch)
+    return "".join(out)
+
+data = json.load(open(IDX, encoding="utf-8"))
+existing_urls = {e.get("url", "").lower().rstrip("/") for e in data}
+added = 0
+for c in CARDS:
+    u = c["url"].lower().rstrip("/")
+    if u in existing_urls:
+        print("SKIP dup url:", u)
+        continue
+    rel_map = {"r2": "supervisor", "r3": "exec"}
+    entry = {
+        "title": c["title"],
+        "normKey": normkey(c["title"]),
+        "url": c["url"],
+        "sourceType": "secondary" if c["src"] == "b2" else "primary",
+        "relation": rel_map[c["rel"]],
+        "summary": c["cat"] + "：" + c["val"][:60],
+    }
+    data.append(entry)
+    added += 1
+print("index.json 新增:", added, "-> 现", len(data), "条")
+json.dump(data, open(IDX, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+
+# 写出卡片数据供后续 Obsidian / 乐享步骤复用
+meta = {
+    "date": DATE, "round": ROUND, "inc_path": inc_path, "inc_size": inc_size,
+    "added": added, "cards": CARDS,
+    "wall_url": wall_url,
+}
+json.dump(meta, open(os.path.join(BASE, "_award_r16_meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+print("meta 已写出")
