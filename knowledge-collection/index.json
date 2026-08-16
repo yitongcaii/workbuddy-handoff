@@ -6657,5 +6657,53 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "高管炉边谈话：moderator一对一引导替代宣讲，town hall做对齐透明+fireside做信任连接双轨"
+  },
+  {
+    "title": "高管 Offsite 议程模板 + 90 天落地（3 优先级 + 首检<14天 + 沟通计划）",
+    "normKey": "高管 offsite 议程模板 + 90 天落地（3 优先级 + 首检<14天 + 沟通计划）",
+    "url": "https://consultclarity.org/post/executive-offsite-agenda-templates",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 offsite 议程五块+90天落地节奏+3优先级纪律+沟通计划+后果约定，离场前锁首检<14天。"
+  },
+  {
+    "title": "高管 Offsite 外部引导师选聘（何时外部/预访谈/敢挑战CEO/费用区间）",
+    "normKey": "高管 offsite 外部引导师选聘（何时外部/预访谈/敢挑战ceo/费用区间）",
+    "url": "https://www.consultclarity.org/post/executive-team-offsite-facilitators-asia",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 offsite 外部引导师选聘：何时外请+六问筛选+费用全景($5k–150k+)+以敢挑战CEO为终判据。"
+  },
+  {
+    "title": "高管 Offsite 落地四件套（责任分配表 + 问责看板 + 监控调整 + 评分卡评估）",
+    "normKey": "高管 offsite 落地四件套（责任分配表 + 问责看板 + 监控调整 + 评分卡评估）",
+    "url": "https://www.sorenkaplan.com/leading-executive-team-offsites-for-business-strategy",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管战略 offsite 会后四步落地：责任分配表+问责看板+监控调整+评分卡评估让 ROI 可证。"
+  },
+  {
+    "title": "管理层 Offsite 定公司级 OKR 再下钻团队 cascade（领导力变更期透明对齐）",
+    "normKey": "管理层 offsite 定公司级 okr 再下钻团队 cascade（领导力变更期透明对齐）",
+    "url": "https://perdoo.com/resources/blog/creating-transparency-in-times-of-leadership-change-using-okrs-to-align-new-management-vision",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导力变更期 cascade OKR：公司级先定→部门认领→显式连接→分层视图，用支撑团队数识别红旗。"
+  },
+  {
+    "title": "远程团队季度 Offsite 定 OKR + 双周 1:1 追踪（信任自主不 micromanage）",
+    "normKey": "远程团队季度 offsite 定 okr + 双周 1:1 追踪（信任自主不 micromanage）",
+    "url": "https://distantjob.com/blog/podcasts/keys-to-successful-remote-work-strategy-mike-soldan",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "远程团队季度 offsite 定 OKR（便利贴收敛）+双周 1:1 追踪+决策权分层，用节奏透明替代 micromanage。"
+  },
+  {
+    "title": "季度团队 Offsite 议程模板（经营复盘 + 战略 + 连接 + 承诺收尾）",
+    "normKey": "季度团队 offsite 议程模板（经营复盘 + 战略 + 连接 + 承诺收尾）",
+    "url": "https://hogonext.com/templates/quarterly-team-offsite-agenda",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "manager 季度团队 offsite 一日模板：经营复盘+战略+连接+承诺收尾，含真实填例与 start-stop-continue retro。"
   }
 ]
