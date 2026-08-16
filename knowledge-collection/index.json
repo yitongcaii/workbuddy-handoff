@@ -6294,5 +6294,65 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "远程、混合团队信任四原则：心理安全（领导带头邀输入、建设性回应）、清晰目标与角色、可靠沟通习惯、思想多样性。实操：从团队宪章起步（共创使命、工作规范、决策规则、会议节奏，优先级偏移时回看）；把入职设计成文化传导（新人不仅学任务，还学团队如何沟通、取舍、给反馈，配导师）；用小而频的仪式（周 check-in、日站会、短复盘）对齐庆祝纠偏；教并示范反馈技能（平衡反馈、积极倾听、澄清提问）；定义可预测沟通规则（哪些同步、哪些文档、哪些异步）。附 5 步启动：对齐一个结果→起草宪章→试点两个仪式→测几周期信号→按反馈迭代并轮值引导。"
+  },
+  {
+    "title": "华为「明日之星」民主评选四步法（自下而上提名+管理层把关+高层加冕）",
+    "normKey": "华为「明日之星」民主评选四步法（自下而上提名+管理层把关+高层加冕）",
+    "url": "http://hwtup.com/news/info-188.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "【WebSearch 二手】华为 2014 年推出「明日之星」特色荣誉，打破少数精英激励，以普惠性精神激励覆盖基层与年轻员工。核心四步法：①民主提名",
+    "topic": "award",
+    "source": "web"
+  },
+  {
+    "title": "混合/虚拟颁奖·远程获奖者的公平设计（别让居家员工觉得被忽略）",
+    "normKey": "混合/虚拟颁奖·远程获奖者的公平设计（别让居家员工觉得被忽略）",
+    "url": "https://djwillgill.com/hybrid-awards-show-fair-remote-winners-dj-will-gill",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "【WebSearch 二手】多数混合颁奖礼「纸上公平、居家不公平」——现场获奖者走红毯、从领导手中接奖杯、合影；远程获奖者只是侧屏一个 3 秒缩略图",
+    "topic": "award",
+    "source": "web"
+  },
+  {
+    "title": "认可数据仪表盘与 ROI 模型（给 CFO/CHRO 的决策面板）",
+    "normKey": "认可数据仪表盘与 ROI 模型（给 CFO/CHRO 的决策面板）",
+    "url": "https://beefed.ai/zh/recognition-roi-metrics-dashboards",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "【WebSearch 二手】发放大量积分但参与度窄、价值对齐不足的计划会在文化测试里失败。设计认可仪表盘要「为决策和受众而设计」：高管（CFO/CH",
+    "topic": "award",
+    "source": "web"
+  },
+  {
+    "title": "荣誉与双通道晋升/人才发展挂钩（劲牌：让创造价值的人分享价值）",
+    "normKey": "荣誉与双通道晋升/人才发展挂钩（劲牌：让创造价值的人分享价值）",
+    "url": "https://www.entrepreneurdaily.cn/2025-06-11/5/2439168.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "【WebSearch 二手】劲牌以「员工友好」打破高管与一线巨大薪酬福利差距（高管无小灶、与员工同食堂），荣誉激励在精神层发挥关键作用：每年办各类表",
+    "topic": "award",
+    "source": "web"
+  },
+  {
+    "title": "D&I 多元包容 奖项设计框架（从政策到「被看见」）",
+    "normKey": "D&I 多元包容 奖项设计框架（从政策到「被看见」）",
+    "url": "https://inclusiveawards.co.uk/prestigious-inclusive-awards-celebrate-10-years-as-2024-entries-open",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "【WebSearch 二手】国际 Inclusive Awards 十年实践：八类奖项覆盖个人与组织——D&I 顾问奖、杰出多元网络奖、包容文化倡议",
+    "topic": "award",
+    "source": "web"
+  },
+  {
+    "title": "认可节奏 cadence·月度提名+年度盛典双轨（让表彰成习惯）",
+    "normKey": "认可节奏 cadence·月度提名+年度盛典双轨（让表彰成习惯）",
+    "url": "https://joinassembly.com/blog/employee-nominations-are-now-easier-than-ever",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "【WebSearch 二手】月度员工提名是「回报高、易落地」的认可入口：让同事互相看见贡献、经理发现团队价值、领导注意到组织潜力。成功五法：①从小处",
+    "topic": "award",
+    "source": "web"
   }
 ]
