@@ -7006,5 +7006,93 @@
     "sourceType": "primary",
     "relation": "exec",
     "summary": "治理层圈层：《董事会》杂志「独立董事南京会客厅」：18 位上市公司独董（代表近 60 家）闭门沙龙，围绕新规下独董履职与风险应对热烈"
+  },
+  {
+    "title": "季度业务回顾（QBR）嵌入全员会（customerexperience·诚实暴露未达标+根因+下一步共创）",
+    "normKey": "季度业务回顾qbr嵌入全员会customerexperience诚实暴露未达标根因下一步共创",
+    "url": "https://customerexperience.io/blog/quarterly-business-review-qbr-agenda-template-examples",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "③ 高管季度业务复盘+硬核对齐；② 全员会嵌入QBR、诚实暴露缺口建信任。"
+  },
+  {
+    "title": "QBR执行摘要一页纸模板（toolkitcafe·Headline/财务快照/Top3 wins/risks/decisions）",
+    "normKey": "qbr执行摘要一页纸模板toolkitcafeheadline财务快照top3winsrisksdecisions",
+    "url": "https://toolkitcafe.com/blog/quarterly-business-review-template",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "③ 高管季度战略定调页（一页纸模板），会议开场钩子。"
+  },
+  {
+    "title": "追觅俞浩「高调战略」：全员信息透明·信息直达末梢（m.x-techcon·每层级损耗20%）",
+    "normKey": "追觅俞浩高调战略全员信息透明信息直达末梢mxtechcon每层级损耗20",
+    "url": "https://m.x-techcon.com/article/106221.html",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "③ 科技CEO战略透明治理范式；② 全员信息直达、破层级壁垒。"
+  },
+  {
+    "title": "iM金融黄秉宇董事长CEO Town Hall（digitaltoday·与百名员工面对面+互动公益+不限题QA）",
+    "normKey": "im金融黄秉宇董事长ceotownhalldigitaltoday与百名员工面对面互动公益不限题qa",
+    "url": "https://www.digitaltoday.co.kr/cn/view/27532/hwang-byeong-woo-im-financial-chairman-holds-townhall-meeting-with-employees",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "③ 金融集团CEO Town Hall常态沟通+文化建设范式。"
+  },
+  {
+    "title": "员工倾听策略：Town Hall + Skip-level（vantagecircle·跨越直属上级的倾听）",
+    "normKey": "员工倾听策略townhallskiplevelvantagecircle跨越直属上级的倾听",
+    "url": "https://blog.vantagecircle.com/en/blog/employee-listening-strategy/",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "③ 高管越级倾听（Skip-level）；② 全员Town Hall倾听+反馈闭环。"
+  },
+  {
+    "title": "全员会参与度度量与ROI（Airmeet·KPI/情绪/sentiment·会前会中会后三段）",
+    "normKey": "全员会参与度度量与roiairmeetkpi情绪sentiment会前会中会后三段",
+    "url": "https://www.airmeet.com/hub/blog/measuring-employee-engagement-in-townhalls-and-internal-events",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会参与度度量体系+ROI，向高管汇报用。"
+  },
+  {
+    "title": "Slido for Microsoft Teams 一站式互动（blog.slido·投票/匿名QA/词云·远程与现场同权）",
+    "normKey": "slidoformicrosoftteams一站式互动blogslido投票匿名qa词云远程与现场同权",
+    "url": "https://www.slido.com/microsoft-teams-powerpoint",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会 Teams 原生互动（投票/匿名QA/词云），远程现场同权。"
+  },
+  {
+    "title": "Vevox × Microsoft Teams 匿名投票问答（vevox·侧边栏集成·免切换屏幕）",
+    "normKey": "vevoxmicrosoftteams匿名投票问答vevox侧边栏集成免切换屏幕",
+    "url": "https://vevox.zendesk.com/hc/en-us/articles/360009153397-Using-Vevox-with-Microsoft-Teams",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会匿名投票/Q&A（Vevox×Teams），零切换。"
+  },
+  {
+    "title": "全员会互动技巧2026（AhaSlides·匿名QA 74%、24h纪要、200人拆分组）",
+    "normKey": "全员会互动技巧2026ahaslides匿名qa7424h纪要200人拆分组",
+    "url": "https://ahaslides.com/blog/town-hall-meeting-guide/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会全程结构化互动+匿名Q&A+24h纪要。"
+  },
+  {
+    "title": "全员会 production 制胜（event.com.sg·音频/直播制作/混合平权/技术彩排）",
+    "normKey": "全员会production制胜eventcomsg音频直播制作混合平权技术彩排",
+    "url": "https://event.com.sg/blog/how-to-plan-a-town-hall-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会现场制作+混合平权，避免「体验翻车」。"
+  },
+  {
+    "title": "互动目标→形式匹配（event.com.sg·先定目标再选互动·避为花样而花样）",
+    "normKey": "互动目标形式匹配eventcomsg先定目标再选互动避为花样而花样",
+    "url": "https://event.com.sg/blog/town-hall-event-ideas-for-employee-engagement",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "② 全员会互动「目标→形式」匹配设计，拒为花样而花样。"
   }
 ]
