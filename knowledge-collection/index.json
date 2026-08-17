@@ -7254,5 +7254,113 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "认可 ROI 不是一次性 PPT，而是「活文档」运营模型（Laud.cloud）——示例：内部替换成本 $12k/人，避免 2 次离职省 $24k，年成本（软件 $6k+管理 $2.5k+奖励 $3k=$11.5k），ROI 109%；若不"
+  },
+  {
+    "title": "马自达博物馆 Saturday Open Day",
+    "normKey": "马自达博物馆 Saturday Open Day",
+    "url": "https://www.mazda.com/en/experience/museum/event-info/saturdayopenday202506/",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "马自达博物馆每月设「Saturday Open Day」特别开放（2025年6月场预约350人×上下午两场）；60分钟博物馆导览穿越品牌百年（从创立到转子发动机技术哲学）；首席设计师+主规划工程师面对面讲CX-3十周年幕后；迷你车风速对决/",
+    "topic": "openday"
+  },
+  {
+    "title": "郑州考古工地开放日+文博盛宴",
+    "normKey": "郑州考古工地开放日+文博盛宴",
+    "url": "https://zynews-html.oss-cn-qingdao.aliyuncs.com/zwspecial/2025/09/30/178324.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "郑州市文物局「郑是金秋 月满商都」双节文博盛宴，全市文博单位推10类191项活动；考古工地开放日升级——开放商都书院街/巩义双槐树/荥阳青台3处考古工地，新设「专家带探」「模拟发掘」体验；郑州考古移动博物馆进商场；6家重点国有博物馆延时开放",
+    "topic": "openday"
+  },
+  {
+    "title": "上海国际博物馆日文博主题巴士",
+    "normKey": "上海国际博物馆日文博主题巴士",
+    "url": "http://www.why.com.cn/wx/article/2025/05/18/17475623571245741406.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2025国际博物馆日黄浦区「黄浦巡礼，时光印迹」文博主题巴士，涂装巴士串联区内十余处文博场馆、配金牌讲师随车讲解，几小时预约一抢而空；现场发布文化遗产季主题纪念章+20余家场馆数字印章；外滩历史纪念馆/国际乒联博物馆等场馆代表推介；普陀区所",
+    "topic": "openday"
+  },
+  {
+    "title": "扬州文旅博物馆日百余场",
+    "normKey": "扬州文旅博物馆日百余场",
+    "url": "https://m.chinanews.com/wap/detail/cht/zw/375793.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2025国际博物馆日「牵手」中国旅游日，扬州发百余场活动，副市长出席发布；「文博雅集/活力缤纷/乐游研学/文旅惠民」四大板块：八大山人与扬州八怪艺术对话等16重点展、东关街沉浸式数字艺术展、「我要上村晚」文艺展演+周末市集、大运河文化溯源千",
+    "topic": "openday"
+  },
+  {
+    "title": "国网湖北四美塘变电站“电力方舟”",
+    "normKey": "国网湖北四美塘变电站“电力方舟”",
+    "url": "https://www.toutiao.com/article/7493533085259121203/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "全民国家安全教育日，国网湖北电力携手省生态环境厅在武汉四美塘220kV变电站（华中首座地下220kV）举办公众开放日，20余名大学生走进数字孪生展厅/机器人智能巡检区/输变电设备；专家讲环保设计与运行原理，第三方监测机构现场展示变电站场界电",
+    "topic": "openday"
+  },
+  {
+    "title": "佛山供电局2025国企开放日",
+    "normKey": "佛山供电局2025国企开放日",
+    "url": "https://www.fsonline.com.cn/p/347583.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "8月30日「国之大者铭于心 万家灯火践于行」佛山供电局2025国企开放日，20组市民家庭在主持人带领下探秘220kV汾江变电站（禅城重要电源点，年供电约60亿千瓦时）与带电作业中心；工作人员讲GIS设备/就近建站科学性，现场实测辐射小于手机",
+    "topic": "openday"
+  },
+  {
+    "title": "济南“打开大门干交通”地铁NOCC",
+    "normKey": "济南“打开大门干交通”地铁NOCC",
+    "url": "https://www.163.com/dy/article/KEGP6M3C0530WJIN.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "齐鲁晚报·齐鲁壹点联合济南市城乡交通运输局办「打开大门干交通」首场：市民/自媒体/情报员走进轨道交通「最强大脑」NOCC综合运营协调指挥中心（首次对公众开放），看实时线网图/列车位置/客流数据；在奥体中心站控制室了解系统功能、协助安检引导候",
+    "topic": "openday"
+  },
+  {
+    "title": "中科院合肥物质院公众科学日(EAST)",
+    "normKey": "中科院合肥物质院公众科学日(EAST)",
+    "url": "https://new.qq.com/rain/a/20250518A02F1K00",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "5月17日中科院合肥物质科学研究院2025公众科学日（合肥科学岛），预计6万余人参与；开放全超导托卡马克核聚变装置EAST（人造太阳）、稳态强磁场、聚变堆园区等大科学装置+20余科普展厅/重点实验室；强磁场中心讲液氮磁悬浮原理；升级改造后的",
+    "topic": "openday"
+  },
+  {
+    "title": "南宁科技馆双节科普5.6万人次",
+    "normKey": "南宁科技馆双节科普5.6万人次",
+    "url": "https://gx.people.com.cn/BIG5/n2/2025/1009/c179462-41374621.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "国庆中秋双节，南宁科技馆延时开放至18:00，围绕「科创筑梦 强国有我」办119场科普活动、惠及5.6万人次；科学实验秀（液氮/气球叠罗汉）、「科学N次方」前沿体验（超能加速/隐形高手）、华夏科技学堂四大古代科技动手做（独辕马车/诸葛连弩/",
+    "topic": "openday"
+  },
+  {
+    "title": "上海普陀消防站开放日",
+    "normKey": "上海普陀消防站开放日",
+    "url": "https://www.shanghai.gov.cn/nw17239/20250227/8bd1ff2d4360411b997e44bed52b252f.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "上海普陀区3月消防站开放计划开放预约；市民可零距离体验消防生活——看灭火救援设备、了解蓝朋友日常；全部实名预约（含儿童）、额满即止；参观须出示身份证登记、接受身份核验与安全检査、不得携带危险品宠物、按指引参观不触碰器材、营区内不得随意拍照摄",
+    "topic": "openday"
+  },
+  {
+    "title": "广元大一污水处理环保开放日",
+    "normKey": "广元大一污水处理环保开放日",
+    "url": "https://hbj.cngy.gov.cn/news/show/763fe2684aff49b78d7a11d9c87cae21.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "第三个全国生态日（「两山」理念20周年），广元市利州生态环境局办「环保设施向公众开放」活动，邀南河街道接官亭社区居民进广元大一污水处理有限公司，见证「污水变清水」全过程；生产负责人讲工艺流程/设施概况/处理意义，带队参观进水口/生化池/消毒",
+    "topic": "openday"
+  },
+  {
+    "title": "重庆水务彭水污水厂环保开放日",
+    "normKey": "重庆水务彭水污水厂环保开放日",
+    "url": "https://www.163.com/dy/article/K15HI8RE053469M5.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "世界环境日临近，重庆水务集团豪洋公司彭水污水处理厂办环保开放日，联合彭水森林希望小学以「美丽中国我先行」为主题，为20余名小学生上生动环保实践课；工作人员带学生深入粗细格栅/生化池/沉淀池等核心工艺单元，水质对比实验直观看污水变清；技术员通",
+    "topic": "openday"
   }
 ]
