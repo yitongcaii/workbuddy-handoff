@@ -7206,5 +7206,53 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "Workhuman skip-level 指南：会谈=员工与经理的经理，目标对齐公司目标愿景、双向受益。建 rapport 破冰(最爱引用/一年内非工作成就/推荐的书影/当前目标/有趣事实/理想假期/充电方式)→团队反馈(沟通协作如何/贡献被认可吗/什么在顺什么不在/工作量合适吗/路障/该 stop 的一件事/要什么资源)→对直属经理反馈(经理如何建正向文化/如何确保有效沟通/如何促创新/是否担责/有无偏袒/工作生活平衡/打分给支持度/是否敢提 concerns/如何处理冲突)。强调 rapport 建信任才敢说真话(组织行为研究：rapport 对话促信任、透明交流、共创解题)。"
+  },
+  {
+    "title": "颁奖典礼危机预案·技术故障/人员缺席/信息错漏应急响应",
+    "normKey": "颁奖典礼危机预案·技术故障/人员缺席/信息错漏应急响应",
+    "url": "https://m.renrendoc.com/paper/492662828.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖/晚会现场的高频风险与标准应对——①设备故障（音响/灯光/投影/提词器）：技术组「双路热备」（主控+备用电脑同时连投影一键切换），核心功能故障后 5 分钟内恢复，备用无线麦≥2 充好电+讲台有线麦作「最后防线」；②人员缺席（获奖者/嘉宾"
+  },
+  {
+    "title": "OKR与表彰闭环·「Recognition Rumble」游戏化跨部门认可+高管参与",
+    "normKey": "OKR与表彰闭环·「Recognition Rumble」游戏化跨部门认可+高管参与",
+    "url": "https://www.betterworks.com/magazine/2025-performance-innovation-award-winners",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Betterworks 2025「Make Work Better」奖案例——Sinclair Broadcast Group 把认可与 OKR 框架深度绑定：设计类似「NCAA 疯狂三月」的「Recognition Rumble」对决赛，"
+  },
+  {
+    "title": "全球/跨国颁奖包容性体验·时区/多语言/文化敏感/多元评审",
+    "normKey": "全球/跨国颁奖包容性体验·时区/多语言/文化敏感/多元评审",
+    "url": "https://awardforce.com/blog/articles/how-to-create-an-inclusive-awards-experience-for-a-global-audience",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Award Force（全球评奖平台）给跨国颁奖的包容性清单——①多语言体验：数字材料多语种、用多语言评奖系统让参赛者/评委用母语导航，破除语言壁垒；②无障碍：键盘导航/读屏兼容/WCAG 2.2/移动友好，收费分层（免/低/阶梯）防经济排"
+  },
+  {
+    "title": "员工荣誉视频SOP·标准化模板与制作流程",
+    "normKey": "员工荣誉视频SOP·标准化模板与制作流程",
+    "url": "https://wap.jiandaoyun.com/nblog/63369/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "员工荣誉视频的标准化制作：①明确用途与受众（内部激励月度表彰 / 外部招聘推介）；②脚本大纲（开场→介绍→事迹→领导讲话→结尾祝福），列出所需素材（照片/短视频/文字）；③收集素材（获奖者工作影像+团队祝福语音/文字+公司 VI）；④初稿（"
+  },
+  {
+    "title": "认可项目ROI·给CFO的财务商业论证结构",
+    "normKey": "认可项目ROI·给CFO的财务商业论证结构",
+    "url": "https://ribirewards.com/blog/the-roi-of-employee-recognition-what-finance-actually-needs-to-see",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "向财务/CFO 证明认可预算的商业论证框架（RibiRewards）——Finance 不要「文化/士气」空话，要硬数据。结构化提案：①用财务语言定义问题（「去年走了 18 人 × $30k 替换成本=$540k 离职成本；离职访谈 60%"
+  },
+  {
+    "title": "认可ROI运营模型·季度复算与可defending假设",
+    "normKey": "认可ROI运营模型·季度复算与可defending假设",
+    "url": "https://laud.cloud/employee-recognition-program-roi-metrics-formulas-and-benchmarks",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "认可 ROI 不是一次性 PPT，而是「活文档」运营模型（Laud.cloud）——示例：内部替换成本 $12k/人，避免 2 次离职省 $24k，年成本（软件 $6k+管理 $2.5k+奖励 $3k=$11.5k），ROI 109%；若不"
   }
 ]
