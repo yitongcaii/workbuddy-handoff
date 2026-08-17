@@ -7094,5 +7094,45 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "② 全员会互动「目标→形式」匹配设计，拒为花样而花样。"
+  },
+  {
+    "title": "跳过一级的 Skip-level 倾听 Offsite（leader 跨级听一线、建信任不越界）",
+    "normKey": "跳过一级的skiplevel倾听offsiteleader跨级听一线建信任不越界",
+    "url": "https://www.lenareinhard.com/articles/effective-skip-level-meetings-guide-templates-managers-of-managers",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Skip-level（领导见下属的下属）是打破信息茧房、提前发现系统性问题的结构化机制，不是绩效审查也不是打小报告。三要素：① 会前明确「为什么」（这不是评估你经理，是听你的视角，…",
+    "topic": "offsite",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "高管 AI 战略 Offsite（教育→五部门执行对齐→试点→治理委员会→KPI）",
+    "normKey": "高管ai战略offsite教育五部门执行对齐试点治理委员会kpi",
+    "url": "https://peripety.com/insights/executive-ai-strategy-offsite",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 AI offsite 的价值不在「听讲座」而在把五个部门各写一套的 AI 执行计划拉到同一张桌上对齐。核心四步：① 教育层——先补齐 agent 自主性边界/治理/失败模式/…",
+    "topic": "offsite",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "团队 Offsite 嵌入职业发展对谈（manager 与下属谈成长/晋升，向前看非审判）",
+    "normKey": "团队offsite嵌入职业发展对谈manager与下属谈成长晋升向前看非审判",
+    "url": "https://teamspective.com/blog/career-development-conversations",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队 offsite 不只是业务对齐，也是 manager 与直属下属做职业发展对谈的低压力窗口——把「谈成长」从一年一次绩效审判，变成 offsite 里的定期模块。五步：① 季…",
+    "topic": "offsite",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "波动期高管 Offsite：Decision Covenant + 能力热力图 + 情景冲刺（抗脆弱）",
+    "normKey": "波动期高管offsitedecisioncovenant能力热力图情景冲刺抗脆弱",
+    "url": "https://www.linkedin.com/pulse/your-strategy-offsite-wont-save-you-unless-change-kate-morris-6mvuc",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "市场波动期的高管 offsite 目标不是「达成共识」而是「制造韧性」——若所有人满意离场，说明回避了该做的艰难决策。一天紧凑流：外部信号（30min）→ 情景冲刺（90min，三…",
+    "topic": "offsite",
+    "date": "2026-08-17"
   }
 ]
