@@ -7619,5 +7619,131 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "高管外部获奖（CEO Excellence Awards、European CEO of the Year、Global CEO Excellence、Cybersecurity Excellence「CEO of the Year」等）是"
+  },
+  {
+    "title": "紫金山天文台 2026 公众科学日",
+    "normKey": "紫金山天文台 2026 公众科学日",
+    "url": "https://www.pmo.ac.cn/xwdt2019/kpdt2019/202605/t20260528_8210826.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中国科学院紫金山天文台办 2026 公众科学日，面向社会公众与青少年开放天文观测与科研科普资源，设科普报告、望远镜观测体验、陨石与星图展陈等环节，天文学家以「科学伙伴」姿态带公众仰望星空，破除天文高冷印象。",
+    "topic": "openday"
+  },
+  {
+    "title": "云南天文台「寻找超级地球」主题日",
+    "normKey": "云南天文台「寻找超级地球」主题日",
+    "url": "https://ynao.cas.cn/kxcb/kphd/202507/t20250724_7895644.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中国科学院云南天文台以「寻找超级地球」为主题办公众科学日，结合系外行星探测前沿，开放科普展厅与观测设备，天文学家讲宜居带与行星搜寻，公众通过模拟体验理解天文研究，把高深课题变成可参与的科学探险。",
+    "topic": "openday"
+  },
+  {
+    "title": "中广核第十四届 8·7 公众开放体验日",
+    "normKey": "中广核第十四届 8·7 公众开放体验日",
+    "url": "https://www.cgnpc.com.cn/cgn/c100944/2026-08/11/content_5db4956311ad4d72a991ac3ee0c9f565.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中广核办第十四届「8·7 公众开放体验日」，全国多基地联动向公众开放核电站，设安全科普展厅、VR 体验、专家答疑与透明沟通环节，以「公开透明、邻避变邻利」为主题，化解「谈核色变」，邀社区代表与媒体实地看核电安全。",
+    "topic": "openday"
+  },
+  {
+    "title": "大亚湾核电 8·7 公众开放体验日",
+    "normKey": "大亚湾核电 8·7 公众开放体验日",
+    "url": "http://www.dnmc.com.cn/dnmccn/c101678/2026-08/10/content_11f5c3facb354782b70577be708084b1.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "大亚湾核电基地办 8·7 公众开放体验日，作为中广核品牌活动地方落点，开放核电科普走廊与海滨基地，公众代表沿参观路线看机组运行与生态保护，工作人员以「安全管家」姿态讲核电与海洋共生，强化周边社区信任。",
+    "topic": "openday"
+  },
+  {
+    "title": "中科院海洋所第22届公众科学日",
+    "normKey": "中科院海洋所第22届公众科学日",
+    "url": "https://qdio.cas.cn/2019Ver/Science/kpdt/202605/t20260516_8202711.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中国科学院海洋研究所办第22届公众科学日，开放海洋标本馆、科考船与实验室，设海洋生物认知、深海探测科普与科学家面对面，把「深海奥秘」变成可看可触的科普盛宴，青少年近距离接触海洋科研。",
+    "topic": "openday"
+  },
+  {
+    "title": "北江水厂开放日",
+    "normKey": "北江水厂开放日",
+    "url": "https://www.ss.gov.cn/gzjg/ssqswj/xwdt/zwdt/content/post_7121343.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "北江水厂举办公众开放日，由水务主管部门组织，开放制水工艺全流程（取水泵房→沉淀→过滤→消毒→送水），市民代表沿路线看「自来水从哪来」，破解供水黑箱，以透明沟通提升公共服务信任。",
+    "topic": "openday"
+  },
+  {
+    "title": "潮州水厂开放日",
+    "normKey": "潮州水厂开放日",
+    "url": "https://www.nfnews.com/content/ky9vaOgA3G.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "据南方Plus报道，潮州市供水企业举办公众开放日，市民走进水厂看从源头到龙头的供水保障，媒体以「自来水诞生记」视角呈现，将市政设施开放与民生科普结合，增强市民对供水安全的信心。",
+    "topic": "openday"
+  },
+  {
+    "title": "鹰潭水厂政府开放日",
+    "normKey": "鹰潭水厂政府开放日",
+    "url": "https://stzg.china.com.cn/2025-08/22/content_43210763.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "鹰潭市以「政府开放日」形式组织市民走进供水企业，开放制水与水质监测环节，政府部门与供水企业负责人现场回应公众关切，把政务公开延伸到民生设施一线，用「开门纳谏」提升治理透明度。",
+    "topic": "openday"
+  },
+  {
+    "title": "潍坊人防工程政府开放日",
+    "normKey": "潍坊人防工程政府开放日",
+    "url": "https://www.weifang.gov.cn/162/55364/1992791239665258496.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "潍坊市国防动员（人防）部门举办公众开放日，开放人防工程与宣教场馆，市民体验应急疏散、防护设备与国防教育，把「地下长城」从神秘走向透明，以科普+体验增强公众国防观念与应急能力。",
+    "topic": "openday"
+  },
+  {
+    "title": "滁州人防工作开放日",
+    "normKey": "滁州人防工作开放日",
+    "url": "https://gdb.chuzhou.gov.cn/public/2681539/1112717142.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "滁州市国防动员办公室以「政府开放日」形式展示人防工作成效，开放宣教阵地与指挥通信设施，邀人大代表、市民代表参观并座谈，把人防建设成效与公众监督结合，提升政务透明度与国防动员社会认知。",
+    "topic": "openday"
+  },
+  {
+    "title": "松江国动政府开放月",
+    "normKey": "松江国动政府开放月",
+    "url": "https://gfdy.sh.gov.cn/zhxx/gqcz/20240826/459bd14fdba540f8b9c0b4d81a975e53.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "上海市松江区国防动员办公室开展「政府开放月」活动，以系列开放形式展示国动与防空防灾工作，面向社区居民开放宣教点、组织互动体验与政策宣讲，把国防动员融入社区生活，以「月」为周期持续拉近政民距离。",
+    "topic": "openday"
+  },
+  {
+    "title": "中科院植物所公众科学日",
+    "normKey": "中科院植物所公众科学日",
+    "url": "https://ib.cas.cn/2019gb/News2019/202605/t20260518_8204440.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中国科学院植物研究所举办公众科学日，开放植物园、标本馆与重点实验室，设植物认知、生态科普与科学家讲解，把「植物王国」变成可探索的自然课堂，公众尤其青少年在绿意中建立生物多样性保护意识。",
+    "topic": "openday"
+  },
+  {
+    "title": "静安非遗会客厅/老字号品牌馆",
+    "normKey": "静安非遗会客厅/老字号品牌馆",
+    "url": "https://www.toutiao.com/article/7666348668185821748",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "据头条报道，上海静安区打造「非遗会客厅」与老字号品牌馆并对外开放，市民可近距离体验非遗技艺与老字号匠心，把文化传承做成可参与的城市文化开放空间，以「活态传承」连接市民与城市记忆。",
+    "topic": "openday"
+  },
+  {
+    "title": "丰台非遗展示体验中心",
+    "normKey": "丰台非遗展示体验中心",
+    "url": "https://www.toutiao.com/article/7650840805954929162",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "据头条报道，北京丰台区非遗展示体验中心对外开放，集非遗展陈、活态展示与互动体验于一体，公众可看可学可上手，把非遗从「馆里看」升级为「手里做」，以沉浸式体验推动传统文化走近市民。",
+    "topic": "openday"
   }
 ]
