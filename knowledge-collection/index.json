@@ -7526,5 +7526,50 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "团队陷入危机，多半是信任破裂而非技能丢失。manager 用 offsite 救场的 5 步：① 共同面对现实——承认我"
+  },
+  {
+    "title": "留任访谈(Stay Interview)·11 问建信任留人（经理↔员工）",
+    "normKey": "留任访谈stayinterview11问建信任留人经理员工",
+    "url": "https://skillhubs.io/employee-retention-stay-interviews",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Stay Interview=经理与直属员工的定期一对一，主动问『什么让你想留下 / 什么可能让你走』，在人才 emotionally check out 前干预（区别于事后 exit interview）。11 问按序：①你最期待工作的哪部分 ②最不喜欢哪部分 ③工作生活平衡如何改善 ④为何留下来 ⑤对公司认可策略怎么看 ⑥近月有无焦虑/是否缓解 ⑦学习成长机会如何 ⑧在此学到了什么/还想学什么 ⑨我能做什么改善你的体验 ⑩理想工作长什么样 ⑪是否曾考虑离职、因何。成功关键：高管背书+经理↔下属配对最稳+新人满 60 天再做+持续而非一次。落点：把『我们关心你、想让你留下』变成行动，员工在被听见前主动谈隐患。"
+  },
+  {
+    "title": "留任访谈模板·量表+选择题+关系诊断（轻量可落地）",
+    "normKey": "留任访谈模板量表选择题关系诊断轻量可落地",
+    "url": "http://www.stribehq.com/resources/stay-interviews/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Stribe 留任访谈模板=把敏感对话变轻量结构化工具：9 道混合题型（多选/1-10 量表/开放），覆盖『最舍不得放弃的工作部分(多选+追问)』『想改善的一块(多选+改动)』『近半年是否想过跳槽(多选+诱因)』『能否不带后果地说真话(1-10)』『哪种认可最有意义(多选)』『优势是否充分发挥(1-10)』『归属感(1-10)』『与经理关系如何(多选)』『若别的公司明天 offer 接受度(1-10)』。避坑：勿当绩效面谈、问了不行动最伤信任、别太正式、别做一次就停。落点：用量表把『感受』变可追踪信号，经理用咖啡式闲聊而非审讯。"
+  },
+  {
+    "title": "冲突后团队信任修复工作坊·90 分钟剧本（SBI+Lencioni）",
+    "normKey": "冲突后团队信任修复工作坊90分钟剧本sbilencioni",
+    "url": "https://www.unicornlabs.ca/blog/team-trust-workshop",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "90 分钟冲突后修复剧本：先用 Lencioni 五 dysfunction 举手/点投定位最痛 2-3 项（不贪全），映射到心理安全感/赋能/沟通三层；50-70min『清场对话』用 SBI(情境-行为-影响)结构——引导师先低风险示范，每人讲一个具体有日期的瞬间，接收者只说『谢谢，让我想想』不辩解，资深者先接（CEO 接不住则工作坊失效），20min 内 3-5 个足够；70-85min 写承诺卡（『我将开始/停止的具体行为』+『我需要团队什么』），轮流读 2min/人；85-90min 收尾一句话。铁律：散会前就把 3 周后的 30min 复盘+再承诺排上日历，否则行为改变一个月内蒸发。"
+  },
+  {
+    "title": "重建团队凝聚力·经理实操 7 步（目标/倾听/规则/认可）",
+    "normKey": "重建团队凝聚力经理实操7步目标倾听规则认可",
+    "url": "https://www.archetype-eu.com/en/how-to-rebuild-team-cohesion",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "冲突后/低动能团队重建凝聚力的实操 7 步：①定共享目标——把个人责任转向集体项目，每人看到贡献如何服务总目标；②鼓励沟通与积极倾听——建立『说该说的哪怕不舒服』的透明文化，设自由表达空间；③团建活动——密室/烹饪/徒步/角色扮演/头脑风暴，在非工作语境里认识彼此；④定清晰行为准则——角色分工/冲突处理流程/内部沟通政策/职业操守；⑤推公司文化——庆祝里程碑、认可个人贡献、包容多元；⑥快速有效解决冲突——冷静中立、听全各方、寻妥协、跟踪调整；⑦认可个人贡献——正式+非正式认可 booster 士气。落点：凝聚力不是一次活动，是日常透明沟通+持续认可的小行动累积。"
+  },
+  {
+    "title": "领导团队凝聚力工作坊·2-3h 结构+避坑（culturevitale）",
+    "normKey": "领导团队凝聚力工作坊23h结构避坑culturevitale",
+    "url": "https://culturevitale.com/journal/team-cohesion-activities-workshops-exercises",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "领导力团队凝聚力工作坊设计：价值与领导身份工作坊(每人讲个人领导价值观及在角色中如何/未体现，成对先分享再全组)→团队效能评估(评『我们作为团队』如何运作，引导师优先诚实非舒适)→同侪教练圈(每人抛一个战略/领导挑战，他人只问教练问题不给建议不安慰，建模倾听)→建设性分歧工作坊(教结构化实质性分歧：挑战观点不挑战身份、压力下守立场、改立场不失面子)。2-3h 样例结构：0-10 定规则→10-30 个人反思(我珍视/我希望不同)→30-55 成对分享→55-1:20 全组综合(引导师映射主题不归因个人)→1:20 休息→1:30-2:00 凝聚活动→2:00-2:30 工作规范(承诺 3 具体行为)→2:30-2:45 问责结构→2:45-3:00 收尾一词。避坑：先诊断再活动(别在信任裂痕上盖表演性正能量)、裂痕团队用外部引导师(内部 HRBP 也难中立)、安全建好再要脆弱、承诺要在随后 2-3 次会回看、高管须以真 peer 参与非观察员、警惕 groupthink(高凝聚+低挑战=错)。"
   }
 ]
