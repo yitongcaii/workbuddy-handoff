@@ -7502,5 +7502,29 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "② HRBP/组织者把认可做进会议常驻议程+同侪提名机制。"
+  },
+  {
+    "title": "高管务虚会「战略摩擦映射」+ 决策速度框架（对齐引擎）",
+    "normKey": "高管务虚会「战略摩擦映射」+决策速度框架对齐引擎",
+    "url": "https://www.planretreat.com/blog/the-strategic-retreat-blueprint-how-a-few-days-away-can-realign-a-years-worth-of-work",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管务虚会的核心产出不是士气而是对齐。Strategic Friction Mapping——用对齐矩阵把跨部门/产品线"
+  },
+  {
+    "title": "Leadership Retreat 四阶框架（Clarify·Decide·Assign·Follow Through）",
+    "normKey": "LeadershipRetreat四阶框架ClarifyDecideAssignFollowThrough",
+    "url": "https://www.masterlygroup.com/leadership-retreat-turning-time-away-from-the-office-into-decisions-and-follow-through",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导务虚会应解决真实业务问题而非复刻周会。四阶实操框架：① Clarify——把沟通差/缺问责等宽泛症状逼成具体可诊断的"
+  },
+  {
+    "title": "困境团队 5 步回血 Offsite（面对现实→信任先于业绩→一个目标→重建连接→小胜）",
+    "normKey": "困境团队5步回血Offsite面对现实→信任先于业绩→一个目标→重建连接→小胜",
+    "url": "https://www.teambuilding.co.za/our-blog/top-blogs/team-in-trouble-5-steps-to-bring-it-back-before-its-too-late",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队陷入危机，多半是信任破裂而非技能丢失。manager 用 offsite 救场的 5 步：① 共同面对现实——承认我"
   }
 ]
