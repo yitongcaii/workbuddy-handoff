@@ -481,9 +481,10 @@
   "openday": {
     "folder_id": "22eea86cd58a46729ed69380092c2c13",
     "wall": {
-      "entry_id": "a6ba9c18bfdd47c1ae845dd0bdc579e9",
-      "file_id": "1026ac8c23ff4e949c27d37a67747c3a",
-      "name": "openday.html"
+      "entry_id": "443dbafc774f451792c0687d08815422",
+      "file_id": "87d500e4b9764db9bd2595b01fd86b64",
+      "name": "openday.html",
+      "note": "R20 重建（原 a6ba9c18 已失效删除）：累计墙 157 卡"
     },
     "rounds": [
       {
