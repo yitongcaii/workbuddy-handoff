@@ -8078,5 +8078,104 @@
   "relation": "supervisor",
   "summary": "团队不是建好就不变——人进进出出、优先级移、外部条件变。每次成员变动，manager 别只当招聘/离职流程管，而要当成重置+加固团队文化的机会，办一次\"再契约\"会话：把团队聚起来公开讨论新一章怎么一起工作，专门更新团队宪章/基本规则，鼓励每",
   "topic": "offsite"
+ },
+ {
+  "title": "团队章程工作坊（Team Charter Workshop）·新经理首月定规矩",
+  "normKey": "团队章程工作坊teamcharterworkshop新经理首月定规矩",
+  "url": "https://stephensinsightgroup.com/team-charter-workshop/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "新任/接手经理在团队成型期主持的「章程工作坊」——把团队目的、成功标准、角色与决策权、协作约定、复盘机制一次性对齐成一份「活文件」。六步：开场定背景→共写一句目的+2-3个成功指标→走一遍角色与决策权（谁定/谁须被咨询）→定协作约定（会议节奏/响应时效/如何提分歧/什么算完成）→当场读回确认→定复盘日。反模式：领导代写章程（失去ownership）、目的写太泛、跳过决策权（正是冲突根源）、写完当死文件。价值：新经理首月最高杠杆动作之一，把隐性冲突变显性约定。"
+ },
+ {
+  "title": "团队章程「虚→实」三栏翻译法（Fluff→Concrete）",
+  "normKey": "团队章程虚实三栏翻译法fluffconcrete",
+  "url": "https://andiroberts.com/teamwork/team-charter-workshop-agendas-templates-exercises/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "针对章程工作坊最易翻车的「停在虚词」问题——团队写「信任/创新」然后散会，这些词开放解释=开放失望。解法：白板画三栏「aspiration(价值)→action(行为)→recovery(违约处理)」，每张便利贴必须填满三栏才能进终稿。例：「尊重时间」→行为「60分钟会55分结束留生物钟」→违约「主持56分还在讲，任何人可静默离会」；「公开质疑」→行为「有反馈当面说不当面不说给我领导」→违约「若我从第三方听到对我反馈，有权问对方为何不直说」。价值：把抽象价值观翻译成可观察行为与违约协议，是经理带团队定规矩的硬方法。"
+ },
+ {
+  "title": "心理安全感7个练习（经理引导者工具箱）",
+  "normKey": "心理安全感7个练习经理引导者工具箱",
+  "url": "https://empathable.com/blog/psychological-safety-exercises-workplace-toolkit",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "给经理/中立引导师一套「不靠游戏」的心理安全感练习，按团队状态选：①红队挑自己的计划（Red Team Your Own Plan）——把已共识方案拆两组专找失败理由，让挑错成正式动作（尤其利于 junior 不敢当面挑战 senior）；②匿名提问板（Silent Question Board）——常驻匿名通道，经理每周复盘并在下会公开回应（闭环是关键，不回应的板教人「没用」）；③修复式对话结构（不指责不归罪总结共性）。核心误区：把单次练习当解药——真实改变来自每月一次、持续6个月以上的结构化练习，而非一次性工作坊。"
+ },
+ {
+  "title": "团队心理安全感7题量表（Edmondson·经理自查）",
+  "normKey": "团队心理安全感7题量表edmondson经理自查",
+  "url": "https://psy.fenxapp.com/archives/70546",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "哈佛 Amy Edmondson 心理安全感量表的中文实操版——7个情境题（犯错会被当不专业？能轻松提问？因不同被排挤？鼓励不同意见？愿互助？为不惹麻烦藏问题？能坦率表达不怕后果？），五级评分，安全题正向、不安全题反向求均分。经理可把题投进会议匿名打分，立刻获得「敢不敢说真话」的信号。低分常伴：会上点头会下群聊、问题拖到爆发、新人久不开口、怕质疑领导。三件小事起手：开场明确欢迎质疑并用追问替代立即否定；主动承认错误/不懂（学习型领导示范）；让反馈成日常而非秋后算账。"
+ },
+ {
+  "title": "新晋管理者管理前同事·从朋友到专业伙伴（Amazon 范式）",
+  "normKey": "新晋管理者管理前同事从朋友到专业伙伴amazon范式",
+  "url": "http://sirjohnnymai.com/zh/blog/%E6%96%B0%E6%99%8B%E7%AE%A1%E7%90%86%E8%80%85%E5%9C%A8%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%AE%A1%E7%90%86%E5%89%8D%E5%90%8C%E4%BA%8B%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "新晋管理者最大的坑：拿到offer就开大会宣布「我是你们经理」然后分活，靠权威声明建领导力往往失败。正确路径（亚马逊一线范式）：第1步入职首周主动约每人15-20分钟一对一咖啡聊（不谈进度，只听职业目标/对流程的不满/自认能发挥的优势），倾听不急着给方案；第2步基于画像在首次正式会提一个「共识目标」（如六周把发布周期从2周压到1.5周），让每人按优势认领任务块——既结果导向又显你在倾听上做计划；第3步建透明反馈机制（每周五三问问卷：本周最大阻力/需要什么支持/对下周信心，结果全团队共享）。把旧同事关系转成「基于共同目标的专业伙伴」，不破坏旧情也能拿到管理权。附首月清单：画像文档/团队期望文档（周交付物+反馈频率+冲突升级路径，第三周会上共改签字）/横向跨功能坐谈。"
+ },
+ {
+  "title": "跨部门项目启动会四步闭环（项目宪章+RACI+升级机制）",
+  "normKey": "跨部门项目启动会四步闭环项目宪章raci升级机制",
+  "url": "https://www.szbring.com/IndustryConsulting/info_itemid_16855.html",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "跨部门启动会最易在第二个议题后失控（议程缺节奏）。薄云咨询「四步闭环法」90分钟锁定共识：①会前逐部门三轮确认（理解目标→接受任务边界→隐性资源障碍），避免现场无休止争论；②用「项目宪章」替代口头共识——白纸黑字记目标（一句话成功标准）/范围边界/里程碑交付物/各部门职责，当场宣读确认，后续扯皮以此为准；③责任到人——RACI矩阵（负责人/审批/咨询/知情）投影逐条过，空白或重叠立刻调；④建沟通节奏与升级机制（防延期烂尾头号杀手）。每个模块硬时限+专人计时，超2小时大型会中间必休10分钟（涣散时承诺易反悔）。"
+ },
+ {
+  "title": "启动会·跨部门协同第一步（IPD 范式）",
+  "normKey": "启动会跨部门协同第一步ipd范式",
+  "url": "https://www.toutiao.com/article/7618411091063833140",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "汉捷咨询基于 IPD（集成产品开发）的跨部门启动会范式——启动会是打破部门墙、构建高效协同的关键第一步，围绕「统一认识/明确任务/落实责任/建立机制」展开。完整议程：①项目目标介绍（PDT经理讲背景/市场机会/客户/定位/核心目标战略价值，帮团队从整体利益思考）；②项目任务书颁布（IPMT代表宣读经审批的 Charter，赋合法性与高层背书）；③PDT经理及核心组任命（组织授权增责任感荣誉感）；④PDT经理履职承诺（建信任凝士气）；⑤研发/市场/采购/制造/质量核心组代表依次表态（从「被动支持」转「主动承诺」）；⑥PQA介绍流程活动与标准交付件。价值：用高层背书+正式任命+公开承诺，把职能代表从「被动」逼成「主动」，是跨部门团队从0到1的信任锚点。"
+ },
+ {
+  "title": "项目启动会（Kickoff）议程模板（任意部门·异步友好）",
+  "normKey": "项目启动会kickoff议程模板任意部门异步友好",
+  "url": "https://agendalink.com/blog/project-kickoff-meeting-agenda-template-for-any-department",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "topic": "icebreaker",
+  "summary": "通用项目启动会（Kickoff）议程模板，跨市场/产品/工程/销售等部门可套：欢迎介绍（5-10m，跨职能/外部在场更要介绍）→项目背景与目标（10m，为什么要做/达成什么）→范围与交付物（10-15m，什么在内什么不在）→时间线与里程碑（10m）→角色与职责（10m，谁拥有什么/谁决策）→沟通计划与工具（5-10m，更新在哪/决策怎么记/异步or现场）→风险假设与开放问题（10-15m）→下一步与收尾（5m）。实操要点：会前48h发议程+简报；用异步视频先讲背景省现场时间；鼓励Q&A尤当跨职能角色不清时；会后24h内发决策/行动项/开放问题摘要（团队后续扯皮的参照）。目标：在执行前对齐 why/what/who/how，避免 mid-project 才发现各做各的。"
+ },
+ {
+  "title": "领导力务虚会（Retreat）议程模板·2天/3天/1.5天",
+  "normKey": "领导力务虚会retreat议程模板2天3天15天",
+  "url": "https://www.offsite.com/blog/leadership-retreat-agenda",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "topic": "icebreaker",
+  "summary": "offsite.com 给出的高管 retreat 标准议程骨架，按长度分三档（最常用2天/重大举措3天/季度复盘1.5天）。通用要素顺序：开场背景→定规矩（ground rules）→决策时间（decision time）→战略优先级工作坊→资源分配与权衡→按职能/举措的分组汇报→领导团队规范与承诺讨论→带责任人的行动规划（owner/时间线/里程碑）→收尾复盘决策与下一步+感恩。2天样例：D1 抵达+CEO开场晚宴→D2 业务背景（90m）+战略优先级工作坊（120m）+资源分配权衡（90m）+分组汇报（90m）+规范承诺（90m）+行动规划问责（105m）+个人承诺收尾。核心：每个高效务虚议程都含「开场context→规矩→决策→复盘→收尾承诺」五要素，且决策与承诺必须落到可见 owner。"
+ },
+ {
+  "title": "高管务虚会设计·World Café 跨层级混编+收尾仪式",
+  "normKey": "高管务虚会设计worldcaf跨层级混编收尾仪式",
+  "url": "https://ideaguides.com/feeds/blog/team-building-retreat",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "topic": "icebreaker",
+  "summary": "IdeaGuides 高管 retreat 设计要点：①会前做多利益方 confidential 一对一访谈（尤其团队动力有隐忧时），让议程贴合真实需求而非策划者假设，参与者「贡献了议程」才有ownership；②一天弧线：低 stakes 开场破形式→90m 战略/目标工作坊→绑主题的体验活动（必 debrief）→跨职能混坐午餐（故意不自选）→下午分组→反思收尾圈（承诺+下一步）；③World Café 让参与者轮换桌与对话，自然切穿层级与部门线（俄亥俄州立大学报告显著跨域对齐成果）；④收尾仪式必须有结构化收尾（非结束语）——说出「什么变了/同意改什么/每项下一步 owner 离场前定」，研究46样本显示好好 debrief 提升团队效能约20-25%。关键：无 debrief 再好的工作坊也丢长效。"
+ },
+ {
+  "title": "20人领导力 Offsite 5天日程·决策块+中场休整",
+  "normKey": "20人领导力offsite5天日程决策块中场休整",
+  "url": "https://visatile.com/retreats/building-a-5-day-program-for-a-20-person-leadership-offsite",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "topic": "icebreaker",
+  "summary": "visatile 给 20 人高管 offsite（VP/总监/创始人+直系，非混编）的逐小时 5 天框架，解决「20人易礼貌坐等决策不出」的隐性崩坏。五个会前锁定：要带走的2-4个决策/房间（≥80㎡可拆3-4角）/4-5人分组（提前定不自选）/引导师（内/外/混合）/2周前预读。逐日：D0 只欢迎晚宴（每人一句话「这周期待什么」）；D1 设桌（CEO/引导师框定决策+预读发现，先不解题）→下午强制自由（让上午沉淀）→海滩 pair 对话（预分配跨职能3问无手机）；D2 最难的活（决策1：分组4-5→汇报5m→可视化记录不存脑→决策2同构）；D3 休整日（设计选择：不填日程，共享活动如 dhow/酒庄，回来室温不同）；D4 承诺与问责。价值：中场休整日+pair 对话是「让房间出决策」的关键设计选择，而非浪费。"
  }
 ]
