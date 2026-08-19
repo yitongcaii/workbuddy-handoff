@@ -1,2 +1,5 @@
 # 乐享上传辅助脚本含预签名 URL（含 AKID 临时凭证），严禁入库
 _lexiang_put*.py
+
+# 构建临时碎片（gen_run_page 消费后即弃，勿入库）
+.run_newcards.tmp.html
