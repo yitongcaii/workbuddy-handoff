@@ -7925,5 +7925,104 @@
     "relation": "supervisor,exec",
     "summary": "锦联沈阳新经济产业园妇联举办「女企业家下午茶」，10位女企业家围坐一堂，既有年度工作总结、新年计划畅想，也有新会员加入的欣喜；「以前办企业是单打独斗，现在有了妇联『娘家』心里踏实」，园区妇联从最初几位代表相聚，到覆盖园区55%女性群体，以「联」字优势让巾帼力量在产业高地绽放，把茶叙转为女企业家互助与园区女性成长平台。",
     "date_added": "20260819"
+  },
+  {
+    "title": "裁员/重组期全员会危机沟通指南",
+    "normKey": "裁员重组期全员会危机沟通指南slido",
+    "url": "https://blog.slido.com/layoffs/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Slido 基于自身重组经验：动荡期季度/月度全员会太稀疏，须①提高沟通频次（重大变动后立刻开专场+书面/视频/小组会补位，峰值期双周/周更，宁可知道一半也先说）②赋能一线经理跑小范围 check-in（员工在信任的人身边才敢说真问题）③会前收集问题并备诚实答案（匿名防报复）④打破「全员会焦虑循环」（信息稀缺→谣言→Q&A 变情绪宣泄→限匿名缩时间→信任崩）。",
+    "topic": "staff-meeting",
+    "source": "slido-layoffs",
+    "date_added": "20260819"
+  },
+  {
+    "title": "变革沟通·CEO 倾听 vs 走过场 Town Hall（反面教材）",
+    "normKey": "变革沟通ceo倾听vs走过场townhall反面教材",
+    "url": "https://www.managertoday.com.tw/columns/view/62553",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Manager Today 对比：A 公司 CEO 每天午餐倾听一位同事、亲笔记录并闭环，变革第三年仍强向心力；B 公司总经理办 town hall 却秘书预先筛题、只回容易的，敏感问题全杀，三年无起色。正面标杆 Airbnb 裁员被誉「硅谷最动人裁员」，CEO 讲细讲暖难题与后续。结论：变革期高管亲自高频非正式倾听，绝不用被过滤的大会替代。",
+    "topic": "staff-meeting",
+    "source": "managertoday",
+    "date_added": "20260819"
+  },
+  {
+    "title": "中国石油 2026 年中工作会（董事长科技创新主题讲话）",
+    "normKey": "中国石油2026年中工作会董事长科技创新主题讲话",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33680087",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "7/27 中国石油 2026 年中工作会，董事长戴厚良作《探索无尽前沿，矢志创新攻坚》主题讲话：以建成国家战略科技力量为战略目标，部署七项（国家科技重大专项/原创技术策源地/关键核心技术改造传统产业/原创颠覆性科技培育新兴产业/加强基础研究/产投研融合/深化改革+数智赋能人工智能+）。董事长定题战略讲话+总经理作半年报告双文本范式，可作一把手战略宣讲样板。",
+    "topic": "staff-meeting",
+    "source": "thepaper",
+    "date_added": "20260819"
+  },
+  {
+    "title": "中国稀土 2026 年中工作会（改革主线+六大新篇章）",
+    "normKey": "中国稀土2026年中工作会改革主线六大新篇章",
+    "url": "https://m.10jqka.com.cn/20260727/c678466084.shtml",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "7/27 中国稀土集团 2026 年中工作会，董事长刘雷云作《强化政治淬炼 深化改革创新》讲话、总经理李志辉作报告：上半年经营指标好于预期、快于时序；把新一轮国资国企改革立为「十五五」高质量发展主线，部署七个方面（增强核心功能/科技创新机制改革/产业布局优化/现代国企制度/分类考核评价/内部监管穿透/高质量党建）。一虚一实双文本承上启下。",
+    "topic": "staff-meeting",
+    "source": "10jqka",
+    "date_added": "20260819"
+  },
+  {
+    "title": "中国电建 2026 年中工作会（五大攻坚战+五个价值）",
+    "normKey": "中国电建2026年中工作会五大攻坚战五个价值",
+    "url": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniixspz1548885.shtml",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "7/24 中国电建 2026 年中工作会，董事长丁焰章讲话、总经理王小军通报上半年并部署下半年：主营业务稳中有进、战新业务加速培育；要求聚焦主责主业攻坚重大项目、以「五个价值」抓精益管理、产业链协同出海、深化国企改革与科技创新、防风险守底线、加强党的领导。强调「只争朝夕冲刺三季度、决胜全年度」，单列安全稳定（汛期九个必须）。",
+    "topic": "staff-meeting",
+    "source": "sina",
+    "date_added": "20260819"
+  },
+  {
+    "title": "虚拟全员会三阶段执行清单（前后+AI 字幕）",
+    "normKey": "虚拟全员会三阶段执行清单前后ai字幕",
+    "url": "https://maestra.ai/blogs/how-to-hold-virtual-all-hands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "maestra 把虚拟全员会拆为会前/会中/会后三阶段 checklist：会前定时段+结构化议程+指定主持人/计时员+提前测试并彩排；会中真诚谢谢开场→走议程→轻量破冰→表彰→Q&A；会后 24-48h 发录制+逐字稿、跟踪行动项、发反馈表、补答未答。固定月度节奏建共享节拍；用 AI 实时字幕（125+ 语言）做无障碍；采纳 AI 生成议程/摘要/参与度分析。",
+    "topic": "staff-meeting",
+    "source": "maestra",
+    "date_added": "20260819"
+  },
+  {
+    "title": "全员会效果三层衡量模型",
+    "normKey": "全员会效果三层衡量模型",
+    "url": "https://www.baklib.com/hub/ex/employee-engagement-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Baklib 三层模型直接套全员会：①参与度（实时出席+录播观看，目标 60%+ 员工参与）②与沟通互动（提交问题数、聊天活跃度，目标每次 20+ 互动问题）③情绪与结果（会后「这值得我花时间」调查 7.5+/10，结合脉搏调查、保留率趋势）。核心：ROI 不必精确美元，只问「值得继续投入吗」，为每项倡议选一个主指标追踪。",
+    "topic": "staff-meeting",
+    "source": "baklib",
+    "date_added": "20260819"
+  },
+  {
+    "title": "参会率=满意度·用脚投票衡量全员会",
+    "normKey": "参会率满意度用脚投票衡量全员会",
+    "url": "https://maimai.cn/article/detail?fid=1639267647",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "脉脉实战：公司级 All-Hands 最好的满意度指标是「参会率」——员工用脚投票，宁可留工位/回家不来就是内容有问题；团队级月度/季度才适合匿名打分（且不能行动就别让人填）。细节：周五 All-Hands 是进周末前最后一站，务必备足食物饮料「把员工喂饱」提升幸福感与到场意愿。",
+    "topic": "staff-meeting",
+    "source": "maimai",
+    "date_added": "20260819"
+  },
+  {
+    "title": "全员会参与度心法（20% Q&A 铁律+匿名心理安全）",
+    "normKey": "全员会参与度心法20qa铁律匿名心理安全",
+    "url": "https://engineering.zooz.com/@jamesbordane57/all-hands-meeting-the-complete-guide-to-running-meetings-that-actually-engage-your-team-2026-f48656c8e8ac",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2026 参与指南：员工感到是参与者还是旁观者决定成败。频次多数公司月度甜点区；议程「20% 规则」至少 20% 给 Q&A（Google TGIF 50%）；匿名提问 Submission 建心理安全（HBR 2025 建议领导先点名困难再谈业务）；多主讲人轮换部门/层级破 broadcast 疲劳；每 5-10 分钟插互动（投票/词云/聊天）；会后必闭环补答未答问题。",
+    "topic": "staff-meeting",
+    "source": "zooz",
+    "date_added": "20260819"
   }
 ]
