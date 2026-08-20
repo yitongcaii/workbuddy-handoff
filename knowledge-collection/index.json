@@ -8185,5 +8185,53 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "全员会最佳实践：月度固定节奏、轮换 MC+嘉宾、守时、高层讲重点非倒数据、开放尖锐问题、公开表彰。"
+  },
+  {
+    "title": "高管 offsite「决策架构」模板：单一决策 + 结构化异议 + 30天复查（基于 23,624 份真实议程）",
+    "normKey": "高管 offsite「决策架构」模板：单一决策 + 结构化异议 + 30天复查（基于 23,624 份真实议程）",
+    "url": "https://unitedwetransform.com/leadership-offsite-agenda-template",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "基于 23,624 份真实 offsite 议程评分，最强 5% 的共同点：99.4% 含参与者前置作业，垫底一半仅 9"
+  },
+  {
+    "title": "并购后 top-100 领导力务虚会：3 天理解-对齐-行动 + 全员 cascade（贝恩）",
+    "normKey": "并购后 top-100 领导力务虚会：3 天理解-对齐-行动 + 全员 cascade（贝恩）",
+    "url": "https://www.bain.com/insights/change-management-in-merger-integration",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "贝恩并购整合方法：先建强高管团队地基，再把 top-100 两边 leaders 拉去 3 天务虚会做「理解-对齐-行动"
+  },
+  {
+    "title": "「别让团队飞过来只看 PPT」：从终点倒推 + 砍幻灯片 + 情境演练 + 留喜悦时刻",
+    "normKey": "「别让团队飞过来只看 PPT」：从终点倒推 + 砍幻灯片 + 情境演练 + 留喜悦时刻",
+    "url": "https://www.inc.com/naomi-carmen/leadership-retreat-off-site-slide-deck-team-building/91331359",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "多数领导 offsite 败在格式而非内容——成员落地就刷手机。铁律：从终点倒推而非议程倒推，先写清「希望每人带走、感受"
+  },
+  {
+    "title": "跨级面谈（skip-level）指南：明确目标 + 营造轻松 + 主动倾听 + 跟进承诺 + 定期化",
+    "normKey": "跨级面谈（skip-level）指南：明确目标 + 营造轻松 + 主动倾听 + 跟进承诺 + 定期化",
+    "url": "https://reclaim.ai/blog/skip-level-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "跨级面谈是高阶 manager 打开沟通、建 rapport、摸组织动态的关键动作。要点：①明确目标（收集反馈/懂团队怎"
+  },
+  {
+    "title": "把务实体变战略胜仗的 8 条做法：前置作业 + 聚餐破冰 + 设定期望 + 午餐游戏 + 卷起袖子做计划 + 强收尾 + 跟进",
+    "normKey": "把务实体变战略胜仗的 8 条做法：前置作业 + 聚餐破冰 + 设定期望 + 午餐游戏 + 卷起袖子做计划 + 强收尾 + 跟进",
+    "url": "https://www.inc.com/entrepreneurs-organization/offsite-practices-that-turn-team-retreats-into-strategic-wins/91371363",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "EO 成员 20 年务实体复盘出的 8 条高回报做法：①别浪费团队建设时间——部门/财务更新等会前共享，现场只做需聚在一"
+  },
+  {
+    "title": "2026 员工务虚活动指南：跨层级结对 + 混合/远程设计 + 内向者留白 + 48h 复盘 + 30 天复查",
+    "normKey": "2026 员工务虚活动指南：跨层级结对 + 混合/远程设计 + 内向者留白 + 48h 复盘 + 30 天复查",
+    "url": "https://www.retreat-vacation.com/blog/staff-retreat-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "2026 务虚活动指南，覆盖多形态。跨层级：1-2 天结构化「跨资历结对」带引导提问+从一开始就埋 90 天复查，是少数"
   }
 ]
