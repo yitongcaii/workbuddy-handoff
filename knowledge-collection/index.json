@@ -8105,5 +8105,85 @@
     "relation": "supervisor",
     "summary": "总经理接待：卓尔科技长期开展「总经理接待日」：公司领导分别与各部门员工代表诚挚对话，重点从「疫情期间员工状态 / 个人与公司发展方向",
     "topic": "afternoontea"
+  },
+  {
+    "title": "全员会高管发言要点模板（CERC：先说事实·说对·可信）",
+    "normKey": "全员会高管发言要点模板 cerc 先说事实 说对 可信",
+    "url": "https://www.mangoapps.com/templates/broadcast/all-hands-executive-talking-points",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "CERC 式敏感议题高管发言模板：首句抛事实、给原因与唯一行动，多人统一口径，过合规评审。"
+  },
+  {
+    "title": "Town Hall 作为信任建设机会（Northern Range 五法）",
+    "normKey": "town hall 作为信任建设机会 northern range 五法",
+    "url": "https://northernrangestrategies.com/northern-insights/f/town-hall-guide-setting-your-leaders-up-for-success",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "把 town hall 当信任建设时刻：从员工真问题开场、用清晰换精致、互动真实、辅导 leader 像人、会后跟进闭环。"
+  },
+  {
+    "title": "高管 Q&A 辅导：别给「好问题」贴标签（Ragan）",
+    "normKey": "高管 q&a 辅导 别给 好问题 贴标签 ragan",
+    "url": "https://www.ragan.com/refining-your-approach-to-town-hall-qas",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 Q&A 辅导：逼大白话、不贴「好问题」标签、立匿名规则、tee up 暖场、收尾 own 叙事。"
+  },
+  {
+    "title": "Town Hall Playbook：领导沟通议程+演讲人配置（Chartwell）",
+    "normKey": "town hall playbook 领导沟通议程+演讲人配置 chartwell",
+    "url": "https://www.chartwellspeakers.com/town-hall-playbook-agenda-speaker-recommendations-for-leadership-communication/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "把 town hall 当战略沟通载体：先语境再聚焦 3-4 重点，用真实故事承载，五段议程留足 Q&A。"
+  },
+  {
+    "title": "高管 Q&A 六忌 + 桥接话术（PR News）",
+    "normKey": "高管 q&a 六忌 + 桥接话术 pr news",
+    "url": "https://www.prnewsonline.com/employee-engagement-how-to-master-the-art-of-executive-qas",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 Q&A 六忌（低估准备/急答/过度答/种问题/评级/以Q&A收尾）+ 桥接话术拉回核心优先项。"
+  },
+  {
+    "title": "全员会 Q&A 九法：留 1/3 时间+匿名安全区（Slido）",
+    "normKey": "全员会 q&a 九法 留 1 3 时间+匿名安全区 slido",
+    "url": "https://blog.slido.com/how-to-host-better-qa-sessions-at-allhands-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Q&A 九法：占 1/3 时间、匿名平台+upvote、会前收问题让高管备答、直面尖锐、会后摘要闭环。"
+  },
+  {
+    "title": "7 法打通员工沟通（含月度 Town Hall+CEO 咖啡+巡场）",
+    "normKey": "7 法打通员工沟通 含月度 town hall+ceo 咖啡+巡场",
+    "url": "https://greatplacetowork.com/resources/blog/7-ways-to-effectively-communicate-with-employees",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "7 法打通员工沟通：1:1/站会/发展对话/月度 town hall/CEO 咖啡/使命时刻/员工巡场，town hall 为固定节奏之一。"
+  },
+  {
+    "title": "Town Hall 通知写作器：3-3-3 信息结构+提醒序列（FindSkill）",
+    "normKey": "town hall 通知写作器 3-3-3 信息结构+提醒序列 findskill",
+    "url": "https://findskill.ai/skills/productivity/town-hall-announcement-writer",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Town Hall 通知写作器：3-3-3 信息结构、前一日/会前 1h 提醒序列、四类 Q&A 口径与桥接句、会后 recap 模板。"
+  },
+  {
+    "title": "办好全员会：定目标+七要素内容+双向沟通（Gympass）",
+    "normKey": "办好全员会 定目标+七要素内容+双向沟通 gympass",
+    "url": "https://gympass.com/en-us/blog/organizational-development/all-hands-meeting/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "办好全员会：先定目标、七要素混搭内容（故事/可视化/互动/认可/嘉宾/证言/进展）、促双向沟通、拉远程参与。"
+  },
+  {
+    "title": "全员会最佳实践：每月轮换 MC+邀请嘉宾+直面难题（monday.com）",
+    "normKey": "全员会最佳实践 每月轮换 mc+邀请嘉宾+直面难题 monday.com",
+    "url": "https://monday.com/blog/teamwork/conducting-an-all-hands-meeting-the-right-way",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "全员会最佳实践：月度固定节奏、轮换 MC+嘉宾、守时、高层讲重点非倒数据、开放尖锐问题、公开表彰。"
   }
 ]
