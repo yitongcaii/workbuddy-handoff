@@ -8329,5 +8329,45 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "60分钟Kickoff十段；真实填例把out-of-scope/依赖/owner钉死；决策可视化记录+每段确认，防周三月翻案；远程共屏实时记录"
+  },
+  {
+    "title": "分布式/混合团队经理认可框架·把认可织进日常流（异步feed/嵌Slack Teams/本地化奖励/跨模式度量）",
+    "normKey": "分布式/混合团队经理认可框架·把认可织进日常流（异步feed/嵌Slack Teams/本地化奖励/跨模式度量）",
+    "url": "https://www.awardco.com/blog/remote-employee-recognition-making-sure-great-work-gets-seen-in-a-hybrid-world",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "混合与分布式团队里，认可不能靠「刚好在同一个会议室」。Awardco 四点实践：①把认可织进日常——建公开认可 feed，让好工作异步被看见；里程碑（司龄/入职完成/项目节点）自动化，不靠人记；②嵌进工作流——接 Slack/Teams/O",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "管理者认可话术与公开/私下边界·「做了什么/为何重要/帮了谁」3 问法",
+    "normKey": "管理者认可话术与公开/私下边界·「做了什么/为何重要/帮了谁」3 问法",
+    "url": "https://firacard.com/blog/remote-employee-recognition",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "远程/混合团队里认可最易「模板化翻车」。firacard 给出可落地的经理话术框架：①说什么——弱认可（「项目做得好」「谢谢付出」）几乎无重量；强认可描述行为而非结果：「你把混乱的交接理顺了、早早厘清责任、全程同步客户没过度承诺，帮团队避免",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "M&A 并购期认可连续性·认可桥接计划（cross-org 互认）+ 流失预警信号",
+    "normKey": "M&A 并购期认可连续性·认可桥接计划（cross-org 互认）+ 流失预警信号",
+    "url": "https://blog.rewardian.com/employee-engagement-during-ma-how-to-maintain-recognition-through-a-merger",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "并购期认可不能替代诚实沟通（角色决定/经理关系/整合决策），但能在组织注意力转移时维持「贡献被看见」。rewardian 给出三套整合路径：①即时平台合并（收购方平台直接延展，风险=被吸收感）；②双轨并行 6-12 月（两组织各留程序，风险",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "组织变革期认可=转型基础设施·量化收益（参与率 2.3x 投入、1.7x 留任）",
+    "normKey": "组织变革期认可=转型基础设施·量化收益（参与率 2.3x 投入、1.7x 留任）",
+    "url": "https://www.awardco.com/blog/recognition-during-organizational-change",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "Awardco 研究：AI 采用/人力重构/持续变革挤掉了认可的优先级，但认可本就是转型的机制而非竞争者。数据：变革期靠认可的组织，员工投入意愿高 2.3 倍、想留下高 1.7 倍。案例——Alera Group（24 次并购/280 of",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
   }
 ]
