@@ -8233,5 +8233,101 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "2026 务虚活动指南，覆盖多形态。跨层级：1-2 天结构化「跨资历结对」带引导提问+从一开始就埋 90 天复查，是少数"
+  },
+  {
+    "title": "新领导同化 NLA 流程·HR/OD 引导的团队对齐",
+    "normKey": "新领导同化nla流程hrod引导的团队对齐",
+    "url": "https://instituteod.com/the-importance-of-new-leader-assimilation-and-how-it-works/3/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "NLA 四步：HR/OD 引导→无领导团队单独会议收真实顾虑→教练式反馈给领导→联合会对齐+共享协议；降低新领导早期失败率"
+  },
+  {
+    "title": "领导力入职 30-60-90 框架·听先于领导",
+    "normKey": "领导力入职306090框架听先于领导",
+    "url": "https://galleryhr.com/blogs/hr-best-practices-blog/successfully-onboarding-new-leaders-best-practices-leadership-transition",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导入职四阶段：会前备30-60-90计划→D1-30听先于领导→D30-60定向与速赢→D60-90战略贡献；前30天只听不急着改"
+  },
+  {
+    "title": "高管入职 90 天·三阶段建信任不破势",
+    "normKey": "高管入职90天三阶段建信任不破势",
+    "url": "https://www.nextonestaffing.com/blogs/executive-onboarding-strategy/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管入职三阶段：听学(D1-30,建心理安全)→对齐沟通(D31-60,可见速赢印证)→领导加速(D61-90)；避第一周大改/低估非正式权力等坑"
+  },
+  {
+    "title": "高管退修会 2.0·五步法+团队宪章（新 CEO 百天）",
+    "normKey": "高管退修会2.0五步法+团队宪章新ceo百天",
+    "url": "https://www.odgersberndtson.com/en-us/insights/executive-retreats-20-how-ceos-can-achieve-more-when-uniting-teams/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高影响力高管退修会五步：组织目的→团队目的(宪章)→角色问责→干系人对齐→学习绩效；新CEO前100天借退修会定调，会前诊断定议程"
+  },
+  {
+    "title": "高管 Offsite 规划·季度节奏+决策导向",
+    "normKey": "高管offsite规划季度节奏+决策导向",
+    "url": "https://www.metavent.io/blog/executive-offsite-planning-that-actually-drives-decisions-in-changing-times",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 offsite 议程锚定「必做决策」而非汇报；季度节奏(Q1定方向/Q2评估/Q3重校/Q4复盘)防对齐漂移；领导归属感/信任为隐性产出"
+  },
+  {
+    "title": "高管 Offsite·四类挑战+3天结构",
+    "normKey": "高管offsite四类挑战+3天结构",
+    "url": "https://www.elliottrector.com/offsites",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管 offsite 面向四类拐点挑战(对齐/高压领导/转型/凝聚力)；3天递进：重对齐→凝聚力与判断→整合承诺；会前诊断+离场后整合成效"
+  },
+  {
+    "title": "团队宪章 Team Charter·共创北极星（目的/角色/决策/冲突）",
+    "normKey": "团队宪章teamcharter共创北极星目的角色决策冲突",
+    "url": "https://www.miro.com/organizational-chart/what-is-a-team-charter/",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Miro官方：团队宪章五要素(目标/角色/沟通/决策/冲突)；共创五步且全员签署；远程/分布式团队必做，定期回顾成活文档(一手)"
+  },
+  {
+    "title": "团队宪章分步指南·中立引导+绿卡/红卡行为",
+    "normKey": "团队宪章分步指南中立引导+绿卡红卡行为",
+    "url": "https://growth-space.co.uk/blog/tag/Team+Charter+Template",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队宪章七步：全员参与(中立引导师平衡声音)→定调→走模板(绿卡鼓励/红卡零容忍行为)→提示卡深化→清晰记录→让宪章活→约定回顾"
+  },
+  {
+    "title": "团队宪章 Wiki 模板·可复制的协作协议骨架",
+    "normKey": "团队宪章wiki模板可复制的协作协议骨架",
+    "url": "https://github.com/annepetersen/teams/wiki/Team-charter-template",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "GitHub开源宪章wiki模板：成员/工作协议/分歧处理/沟通仪式/角色/反馈；把assume good intent翻转为防权力失衡写进协议，新经理拿来即用"
+  },
+  {
+    "title": "跨职能团队会议·破筒仓+三 Amigos（心理安全）",
+    "normKey": "跨职能团队会议破筒仓+三amigos心理安全",
+    "url": "https://app.studyraid.com/en/read/50689/2411551/implement-cross-functional-team-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "跨职能启动用三Amigos(开发+测试+产品)早协作破筒仓；验收标准/风险写码前定；retro含质量视角；结构化会议使生产bug降约40%"
+  },
+  {
+    "title": "项目 Kickoff 议程·RACI+决策日志（虚拟差异）",
+    "normKey": "项目kickoff议程raci+决策日志虚拟差异",
+    "url": "https://alexberman.com/project-kickoff-agenda",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Kickoff议程含RACI；必产决策日志式文档(范围/RACI/决策/行动项)24h内发防争议；虚拟场加ground rules+co-host+实时共享+录像"
+  },
+  {
+    "title": "项目 Kickoff 议程·填例+可视化决策（60 分钟）",
+    "normKey": "项目kickoff议程填例+可视化决策60分钟",
+    "url": "https://www.laxis.com/blog/project-kickoff-meeting-agenda",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "60分钟Kickoff十段；真实填例把out-of-scope/依赖/owner钉死；决策可视化记录+每段确认，防周三月翻案；远程共屏实时记录"
   }
 ]
