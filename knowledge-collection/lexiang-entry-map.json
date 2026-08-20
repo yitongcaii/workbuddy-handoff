@@ -611,6 +611,12 @@
   },
   "afternoontea": {
     "folder_id": "96e0ca6a548e4202a12d43dc91b48938",
+    "wall": {
+      "entry_id": "b1d65629b354485cb3ed69068f070ab0",
+      "file_id": "3c18972eef5641d28750fc9b21465dec",
+      "name": "afternoontea.html",
+      "note": "R21 累计墙（138卡）；新建模式首推（此前 map 未记录 wall 条目）"
+    },
     "rounds": [
       {
         "date": "2026-08-11",
@@ -742,6 +748,12 @@
         "entry_id": "03ed1c27bad34278939a75001a211f2a",
         "name": "afternoontea-20260820.html",
         "note": "轮次页 R20 (+6：清风茶室廉政谈心/中鸿永信倾诉茶吧/Credera新人午餐会/EXL Coffee with CEO/国金证券董事长闭门会/2026 CGF董事CEO闭门会)"
+      },
+      {
+        "date": "2026-08-20",
+        "entry_id": "09337c737dfe4250b0c7cb30ef56dbcb",
+        "name": "afternoontea-2026-08-20-r21.html",
+        "note": "轮次页 R21 (+9：RRA非执行董事闭门午餐会/硅谷咖啡文化/Range skip-level议程模板/Skip-level深度指南2026/SpareFoot创始人炉边谈话/龙珠达总经理见面会/红府超市茶话会式座谈/中国邮政工会品茗+座谈/卓尔科技总经理接待日)"
       }
     ]
   }
