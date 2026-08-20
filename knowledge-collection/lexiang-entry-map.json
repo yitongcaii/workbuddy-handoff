@@ -509,7 +509,7 @@
       "entry_id": "443dbafc774f451792c0687d08815422",
       "file_id": "87d500e4b9764db9bd2595b01fd86b64",
       "name": "openday.html",
-      "note": "R20 重建（原 a6ba9c18 已失效删除）：累计墙 157 卡"
+      "note": "R21 更新（entry 443dbafc）：累计墙 162 卡"
     },
     "rounds": [
       {
@@ -631,6 +631,13 @@
         "entry_id": "68bb5ba906934e69a96dce2ad51664cb",
         "name": "openday-20260820.html",
         "note": "轮次页 R20 (+7)｜新建模式"
+      },
+      {
+        "round": "r21",
+        "date": "2026-08-21",
+        "entry_id": "84c30f478478443096d0525d6ae840bf",
+        "name": "openday-2026-08-21-r21.html",
+        "note": "轮次页 R21 (+5：航天观礼/5G体验/新能源电站/三峡工程/戒毒所禁毒警示教育·全②上下级)"
       }
     ]
   },
