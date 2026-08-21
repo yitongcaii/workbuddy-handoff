@@ -143,6 +143,13 @@
         "entry_id": "37a78ca83f6e434290b90c187f93bf58",
         "name": "staff-meeting-2026-08-21-r22.html",
         "note": "轮次页 R22 (+16)｜新建模式，落员工大会子文件夹 a753a4eb"
+      },
+      {
+        "round": "r23",
+        "date": "2026-08-22",
+        "entry_id": "23a0fe6752c949168c653cf615bafdb3",
+        "name": "staff-meeting-2026-08-22-r23.html",
+        "note": "轮次页 R23 (+10)｜新建模式，落员工大会子文件夹 a753a4eb"
       }
     ]
   },
@@ -822,6 +829,12 @@
         "date": "20260821",
         "entry_id": "cc62a5e0e81e4a839a8e2ce2c049b3ca",
         "name": "afternoontea-20260821.html"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "3bb2ffaffc5c4ff7b70d7e4d46c5fa1b",
+        "name": "afternoontea-20260822.html",
+        "note": "轮次页 R23 (+6)｜新建模式，落 afternoontea 子文件夹 96e0ca6a"
       }
     ]
   }
