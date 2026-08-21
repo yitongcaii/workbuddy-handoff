@@ -8725,5 +8725,68 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "远程时代（70% 员工感到与同事脱节）让团队 retreat 讨论更关键。规划 8 周时间线：W8 定目标→W7 选场地"
+  },
+  {
+    "title": "领导力训练转化团队·CSI模拟/领导力披萨/即兴剧/战略商战",
+    "normKey": "领导力训练转化团队·csi模拟/领导力披萨/即兴剧/战略商战",
+    "url": "https://quarterdeck.co.uk/articles/leadership-training-exercises",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 高管团队训练——用CSI模拟/领导力披萨/即兴剧/战略商战在隐喻下暴露决策风格，每活动必 debrief（员工敬业度+39%关联）。"
+  },
+  {
+    "title": "C-Suite 冒险式领导力·帆船/战略挑战/海岸远征",
+    "normKey": "c-suite冒险式领导力·帆船/战略挑战/海岸远征",
+    "url": "https://adventour.com.sg/leadership-team-building-for-c-suite-executives-why-adventure-based-experiences-build-stronger-leadership-teams/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ C-Suite 领导力务虚——帆船/战略挑战/海岸远征等冒险体验在真实压力练协同，自然环境中做战略对齐（新加坡案例，外部引导）。"
+  },
+  {
+    "title": "高管团队建设·Lego Serious Play/武士之道/生存课/品酒",
+    "normKey": "高管团队建设·legoseriousplay/武士之道/生存课/品酒",
+    "url": "https://kaizenteambuilding.com/en/gestion-del-liderazgo/team-building-para-directivos-y-comites-de-direccion",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 高管委员会/管理团队建设——Lego Serious Play/武士之道/生存课/品酒，小群体高权重须目的明确+外部引导师，时点选新CEO到任/重组/新财年。"
+  },
+  {
+    "title": "高管战略团队建设·工作坊/沉浸培训/反思务虚/公益/KPI度量",
+    "normKey": "高管战略团队建设·工作坊/沉浸培训/反思务虚/公益/kpi度量",
+    "url": "https://www.nickwarnerconsulting.com?p=2116/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 高管战略团队建设——工作坊/沉浸培训/反思务虚/公益四类的真实专业发展，共享体验促联结，前置KPI度量ROI（避幼稚游戏）。"
+  },
+  {
+    "title": "跨部门项目启动会·会前白皮书+思维导图整合+责任到人（实战案例）",
+    "normKey": "跨部门项目启动会·会前白皮书+思维导图整合+责任到人（实战案例）",
+    "url": "https://www.coze.cn/gallery/detail/69a91dfcf077f301f9ec2fd8.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 跨部门项目启动会——会前白皮书同步+思维导图整合+责任到人，破「各说各话」僵局（实战案例，上线提前15天）。"
+  },
+  {
+    "title": "项目启动会（Kickoff）怎么开·7步法（含跨部门）",
+    "normKey": "项目启动会（kickoff）怎么开·7步法（含跨部门）",
+    "url": "https://otter.ai/blog/kickoff-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 项目/跨部门 Kickoff 启动会——七步法（议程前置/目标/依赖/角色/风险/Q&A/复盘），远程与新团队加破冰开场。"
+  },
+  {
+    "title": "跨部门融合·部门工作坊+跨职能规划议程（破筒仓）",
+    "normKey": "跨部门融合·部门工作坊+跨职能规划议程（破筒仓）",
+    "url": "https://twilio.withconfetti.com/blog/post/cross-team-integration-how-to-break-down-silos-and-improve-collaboration-between-departments",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 跨部门融合/破筒仓——部门工作坊(handoff映射+摩擦四问)+跨职能规划(角色图+依赖+运营节奏)，把指责转对齐。"
   }
 ]
