@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文化活动知识库 · 周报模板</title>
+<style>
+  :root{
+    --accent:#6c5ce7; --accent2:#00b8d9; --bg1:#eef1ff; --bg2:#e6f7ff;
+    --r1:#3b82f6; --r2:#f59e0b; --r3:#8b5cf6;
+    --b1:#10b981; --b2:#f97316; --ink:#1f2937; --muted:#6b7280;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    background:linear-gradient(135deg,var(--bg1),var(--bg2));color:var(--ink);
+    padding:32px 20px;line-height:1.6}
+  .wrap{max-width:960px;margin:0 auto}
+  .hero{background:linear-gradient(135deg,var(--accent),var(--accent2));
+    color:#fff;border-radius:22px;padding:28px 32px;margin-bottom:22px;
+    box-shadow:0 12px 30px rgba(108,92,231,.25)}
+  .hero h1{font-size:26px;margin-bottom:8px}
+  .hero .sub{opacity:.92;font-size:14px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:18px 0 26px}
+  .kpi{background:#fff;border-radius:16px;padding:16px 12px;text-align:center;
+    box-shadow:0 6px 18px rgba(31,41,55,.08)}
+  .kpi .n{font-size:26px;font-weight:800;color:var(--accent)}
+  .kpi .l{font-size:12px;color:var(--muted);margin-top:4px}
+  .sec{background:#fff;border-radius:18px;padding:20px 22px;margin-bottom:18px;
+    border-top:4px solid var(--accent);box-shadow:0 6px 18px rgba(31,41,55,.07)}
+  .sec h2{font-size:18px;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+  .sec h2 .tag{font-size:12px;background:var(--bg1);color:var(--accent);
+    padding:2px 10px;border-radius:20px}
+  table{width:100%;border-collapse:collapse;font-size:13.5px}
+  th,td{padding:9px 10px;text-align:left;border-bottom:1px solid #eef0f5}
+  th{color:var(--muted);font-weight:600;background:#fafbff}
+  .chip{display:inline-block;font-size:11px;padding:2px 9px;border-radius:20px;
+    color:#fff;font-weight:600}
+  .b1{background:var(--b1)} .b2{background:var(--b2)}
+  .bar{height:10px;border-radius:6px;background:linear-gradient(90deg,var(--accent),var(--accent2));display:inline-block;vertical-align:middle}
+  .note{font-size:12px;color:var(--muted);background:#fafbff;border-left:3px solid var(--accent2);
+    padding:8px 12px;border-radius:0 10px 10px 0;margin-top:10px}
+  td a{color:var(--accent);text-decoration:none;font-weight:600}
+  td a:hover{text-decoration:underline}
+  footer{text-align:center;color:var(--muted);font-size:13px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ===== HERO ===== -->
+  <div class="hero">
+    <h1>📚 文化活动知识库 · 周报</h1>
+    <div class="sub">2026-08-17 ～ 2026-08-21｜ 本周自动化新增（净）0 个活动创意页面</div>
+  </div>
+
+  <!-- ===== 数据看板 ===== -->
+  <div class="kpis">
+    <div class="kpi"><div class="n">6</div><div class="l">累计新增活动页面</div></div>
+    <div class="kpi"><div class="n">414</div><div class="l">本周新增（净）卡片</div></div>
+    <div class="kpi"><div class="n">0</div><div class="l">本周去重删卡片数</div></div>
+    <div class="kpi"><div class="n">6</div><div class="l">覆盖主题</div></div>
+  </div>
+
+  <!-- ===== ① 待办 & 下周计划（前置） ===== -->
+  <div class="sec">
+    <h2>① 待办 & 下周计划 <span class="tag">运营</span></h2>
+    <p style="font-size:13.5px"><b>开放问题：</b>① 一手源占比偏低（2/967 ≈ 0.2%），需深耕一手（公司内部官方/主办方原文/高管公开信）；② index.json 缺 topic / collectedAt 字段，周报「本周增量」现为近似，待批量回填后自动化；③ 各主题二手源质量参差，需持续六维精选。</p>
+    <p style="font-size:13.5px;margin-top:8px"><b>下周计划：</b>继续按 last-topic.txt 轮询（当前指针 破冰）；补采重点：提升全库一手占比；推进 index.json 字段回填与周报生成自动化。</p>
+  </div>
+
+  <!-- ===== ② 本周采集概览 ===== -->
+  <div class="sec">
+    <h2>② 本周采集概览 <span class="tag">按主题</span></h2>
+    <table>
+      <thead><tr><th>主题</th><th>本周最终新增</th><th>过程中去重数</th><th>累计</th></tr></thead>
+      <tbody>
+        <tr><td>员工大会 staff-meeting</td><td>84</td><td>0</td><td>228</td></tr>
+        <tr><td>Offsite offsite</td><td>48</td><td>0</td><td>136</td></tr>
+        <tr><td>破冰 icebreaker</td><td>82</td><td>0</td><td>168</td></tr>
+        <tr><td>颁奖 award</td><td>45</td><td>0</td><td>119</td></tr>
+        <tr><td>Open Day openday</td><td>98</td><td>0</td><td>162</td></tr>
+        <tr><td>下午茶研讨 afternoontea</td><td>57</td><td>0</td><td>145</td></tr>
+
+      </tbody>
+    </table>
+    <div class="note">口径：统计周期 2026-08-17～2026-08-21（第 2026-W34 周）。本周无新增主题页面，仅存量维护与补采。</div>
+  </div>
+
+  <!-- ===== ③ 本周重点新增卡片（附页面链接） ===== -->
+  <div class="sec">
+    <h2>③ 本周重点新增卡片 <span class="tag">节选 · 真实标题</span></h2>
+    <table>
+      <thead><tr><th>标题</th><th>一手/二手</th><th>一句话价值</th></tr></thead>
+      <tbody>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/afternoontea/afternoontea.html" target="_blank">海博物流党总支下午茶·改革攻坚连心桥</a></td><td><span class="chip b1">一手</span></td><td>光明食品旗下海博物流党总支「下午茶」纪实：自群众路线教育起开展一对一下午茶，党总支书记/副书记每月下基层与一线码头/仓库</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/afternoontea/afternoontea.html" target="_blank">王校长的下午茶·董事长直连基层</a></td><td><span class="chip b1">一手</span></td><td>通鼎集团「王校长的下午茶」：每月单休周六，董事长王家新（兼通鼎大学校长）与基层员工面对面，围绕成长/企业/见闻真诚分享；</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">企业员工颁奖典礼流程模板</a></td><td><span class="chip b2">二手</span></td><td>分场景套用：100人企业颁奖(CEO致辞→分4组颁奖→感言→茶歇)+客户颁奖；附5大配套准备</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">5个关键动作·让优秀员工被看见</a></td><td><span class="chip b2">二手</span></td><td>事迹视频/90秒控制/追光灯，破念名单大会</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">表彰大会策划书·奖项分层+高管共创</a></td><td><span class="chip b2">二手</span></td><td>300人盛典：奖项分层+高管共创仪式+董事长寄语</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">企业颁奖典礼活动策划方案范本</a></td><td><span class="chip b2">二手</span></td><td>奖项分层与颁奖嘉宾层级挂钩(HR总监→副总→总经理→董事长)，含人物短片+三句话感言+高管战略解码</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">年度员工表彰大会策划方案模板</a></td><td><span class="chip b2">二手</span></td><td>含可量化评选机制(业绩60%+互评20%+领导20%)+公示+宣传</td></tr>
+        <tr><td><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" target="_blank">企业期中总结表彰大会方案范本</a></td><td><span class="chip b2">二手</span></td><td>战略复盘+表彰+先锋经验分享闭环</td></tr>
+
+      </tbody>
+    </table>
+    <div class="note">说明：卡片级「本周新增」依赖 index.json 每条带 collectedAt 字段；当前为节选代表卡，链接指向对应主题页面。回填字段 + 生成脚本后可全自动按周筛选。</div>
+  </div>
+
+  <!-- ===== ④ 一手/二手分布 ===== -->
+  <div class="sec">
+    <h2>④ 一手/二手分布 <span class="tag">累计快照</span></h2>
+    <p style="font-size:13.5px;margin-bottom:6px">一手 / 二手来源（累计 958 卡）</p>
+    <div>二手 <span class="bar" style="width:100%"></span> 5</div><br>
+    <div>一手 <span class="bar" style="width:0%"></span> 2</div>
+    <div class="note">一手率仅 0.2%（2/967），为当前最大短板；颁奖/Offsite/员工大会/下午茶一手源为 0，待深耕公司内部官方与主办方原文。</div>
+  </div>
+
+  <!-- ===== ⑤ 质量 & 淘汰 ===== -->
+  <div class="sec">
+    <h2>⑤ 质量 & 淘汰 <span class="tag">本周</span></h2>
+    <table>
+      <thead><tr><th>指标</th><th>本周</th><th>说明</th></tr></thead>
+      <tbody>
+        <tr><td>peer（平级向）剔除</td><td>0</td><td>硬约束，全库 0 入库；计入过程中去重数</td></tr>
+        <tr><td>历史去重删</td><td>0</td><td>重复源只留更全更权威版（即上述 peer 过滤）</td></tr>
+        <tr><td>六维评估淘汰（非 peer）</td><td>≈0+</td><td>低权威/低时效二手源任一维 &lt;3 未入库（估算）</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body>
+</html>
