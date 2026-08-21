@@ -8788,5 +8788,65 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "② 跨部门融合/破筒仓——部门工作坊(handoff映射+摩擦四问)+跨职能规划(角色图+依赖+运营节奏)，把指责转对齐。"
+  },
+  {
+    "title": "长期服务/里程碑奖·分层认可（早期经理主导→重大里程碑高管亲签）",
+    "normKey": "长期服务/里程碑奖·分层认可（早期经理主导→重大里程碑高管亲签）",
+    "url": "https://walloffame.cloud/years-of-service-awards-guide-milestones-ideas-and-recognition-timing",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "服务奖应随司龄递增强度：早期里程碑（1/2/3年）由经理主导轻量及时认可（数字徽章+内部墙 profile+团队提及）；中期（5/10/15年）更强可见度+个性化信息+适度礼品；重大里程碑（20/25年）高管亲签 note+公开表彰+更长 ",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "安全奖/零事故班组表彰·「表彰卡+星级+隐患上报」闭环（一线工地）",
+    "normKey": "安全奖/零事故班组表彰·「表彰卡+星级+隐患上报」闭环（一线工地）",
+    "url": "https://www.hbqj.gov.cn/szfhcxjsj/xwzx/gzdt/202604/t20260402_5906030.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "潜江市建筑工地「安全啄木鸟+行为安全之星」：每月发表彰卡≥一线人数50%，小程序上报隐患数持续提升；月底大红榜公示「行为安全之星」（约1%分一二三等奖金+宣传栏亮身份）；季度「平安班组」对隐患上报多、整改好的班组授称号+集体奖；「安全啄木鸟",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "创意提案/Kaizen 改善奖·主管现地现物审奖+小额高频（丰田 70 年体系）",
+    "normKey": "创意提案/Kaizen 改善奖·主管现地现物审奖+小额高频（丰田 70 年体系）",
+    "url": "https://toyotatimes.jp/en/series/Imaginative_and_creative/001_1.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "丰田「创意提案奖励制度」70余年：员工在日常发现麻烦→想改善→与主管商量→主管给支持→实施并量化结果→填提案表→主管现地现物(genchi-genbutsu)审奖→发奖。2019修订按「结果分（改善效果5维）+过程分（立意/独创/努力）」定",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "评优评先公平治理·评审委+全员监督+公示+申诉（打破「轮流坐庄/论资排辈」）",
+    "normKey": "评优评先公平治理·评审委+全员监督+公示+申诉（打破「轮流坐庄/论资排辈」）",
+    "url": "http://sxyh.com.cn/wap_news_detail/typeid/14/id/4119.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "榆社化工新选举办法破传统弊端：评选标准多维（业绩+团队协作+创新+品行，避免片面）；流程四阶段（初选含班组联名+员工自荐→五进二随机抽取员工代表评议→3天公示接受匿名检举→终评委员会投票）；公示期员工可匿名异议、评委会调查回应，全员监督增公",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "总裁奖/President's Award·组织级认可（CEO 颁 top 1%、董事会选、50 年传统）",
+    "normKey": "总裁奖/President's Award·组织级认可（CEO 颁 top 1%、董事会选、50 年传统）",
+    "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/2022-global-award-winners.html",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "麦当劳 President's Award 代表全球公司员工 top 1%（2022 为 37 市场 121 人），由 EVP Global Chief People Officer 在全球员工 appreciation day 署名表彰，",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
+  },
+  {
+    "title": "高管站台式认可·把表彰写进组织战略文化议程（最高层亲自颁奖+叙事）",
+    "normKey": "高管站台式认可·把表彰写进组织战略文化议程（最高层亲自颁奖+叙事）",
+    "url": "https://recruit-talent.com/the-strategic-imperative-transforming-employee-service-awards-for-modern-workforce-engagement-and-retention",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "认可 tone 由顶层定——当 senior leadership visibly champion 服务奖/认可计划，向全员发强信号。做法：高管亲自参与颁奖（分享 recipient 个人轶事）、持续沟通员工忠诚与贡献价值、把认可织进 b",
+    "topic": "award",
+    "dateCollected": "2026-08-21"
   }
 ]
