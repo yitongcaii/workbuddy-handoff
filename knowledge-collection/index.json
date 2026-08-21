@@ -8893,5 +8893,53 @@
     "relation": "supervisor",
     "summary": "中央广播电视总台：① 电视文化中心(TVCC，央视大楼配套)集文创展示/艺术展览/专业剧场/艺术影院于一体，2026.4.29启用后正式向公众开放，市民可参观艺术大师作品展、文创商店、咖啡厅；② 2026CMG暑期视听嘉年华(6.10)首次",
     "topic": "openday"
+  },
+  {
+    "title": "企业荣休茶话会·纪念短片与感恩杯",
+    "normKey": "企业荣休茶话会纪念短片与感恩杯",
+    "url": "https://www.smsupermalls.cn/culturedisp.aspx?aid=15060",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "SM晋江「岁月留声，感恩同行」荣休茶话会：纪念短片重温31年同行记忆，领导颁纪念奖杯与感谢信，茶话共话点滴，温情告别。"
+  },
+  {
+    "title": "退休领导茶话会·薪火相传",
+    "normKey": "退休领导茶话会薪火相传",
+    "url": "https://www.zhongzaizihuan.com/news/235.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中再资环「岁月鉴初心，荣休敬韶华」荣退领导茶话会：集团董事长出席讲话，工作剪影+感言+赠言，把个人职业生涯转化为组织记忆、寄语文化传承。"
+  },
+  {
+    "title": "工会「心理关爱下午茶」心韵下午茶",
+    "normKey": "工会心理关爱下午茶心韵下午茶",
+    "url": "https://rsc.hqu.edu.cn/info/1511/23971.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "华侨大学建筑学院工会「心韵下午茶」：轻压力/慢交流/暖身心理念，压力树洞便签+美好小事分享，自愿参与+隐私保护，EAP 轻量化心理关爱茶叙。"
+  },
+  {
+    "title": "高潜人才一对一咖啡·HiPo 发展对话",
+    "normKey": "高潜人才一对一咖啡HiPo发展对话",
+    "url": "https://icoach.tw?p=263782/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "右脑教练 HiPo 发展对话框架：高潜需被解锁非被训练，5 阶段（身份探索→能力盘点→Stretch→反思→网络），高管×高潜 1-on-1 咖啡聚焦身份层，频率 2 周 1 次。"
+  },
+  {
+    "title": "WBCSD 两湖对话·双碳高管闭门圆桌",
+    "normKey": "WBCSD两湖对话双碳高管闭门圆桌",
+    "url": "https://www.wbcsd.org/events/wbcsd-two-lakes-dialogue-2026-edition",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "WBCSD 两湖对话 2026：企业领袖/政策/投资人围绕低碳转型、碳市场、ESG 闭门对话，含高管圆桌+私享讨论+晚宴，面向 CEO/CSO/公共事务负责人。"
+  },
+  {
+    "title": "上海气候周「可持续之夜」闭门晚宴",
+    "normKey": "上海气候周可持续之夜闭门晚宴",
+    "url": "https://m.jiemian.com/article/14370827.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "上海气候周2026「东方既白·可持续之夜」闭门晚宴：百余位全球政商学社领袖，主题演讲+包容之声+创新奖致敬+全球倡议，凝聚共识的高端社交晚宴。"
   }
 ]
