@@ -558,7 +558,7 @@
       "entry_id": "443dbafc774f451792c0687d08815422",
       "file_id": "87d500e4b9764db9bd2595b01fd86b64",
       "name": "openday.html",
-      "note": "R22 更新（entry 443dbafc）：累计墙 167 卡"
+      "note": "R23 更新（entry 443dbafc）：累计墙 174 卡"
     },
     "rounds": [
       {
@@ -694,6 +694,12 @@
         "entry_id": "0494f04ec12f47228c21aac042792aa6",
         "name": "openday-2026-08-22-r22.html",
         "note": "轮次页 R22 (+5：档案馆方志馆/美术馆艺术馆/疾控中心实验室/政务服务中心市民中心/融媒体中心广电总台开放日向·全②上下级，全一手)"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "4cfc338fb76d4bd5a4453f4c7d6b449a",
+        "name": "openday-2026-08-22-r23.html",
+        "note": "轮次页 R23 (+7)"
       }
     ]
   },
