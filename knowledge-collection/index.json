@@ -9510,5 +9510,95 @@
     "relation": "supervisor",
     "summary": "议程设计：Campfire 给企业静修议程全指南：①定目的与期望成果并提前广而告之；②欢迎定调（到达缓冲/后勤/开场提醒目标与「可",
     "topic": "offsite"
+  },
+  {
+    "title": "Top 10 高管团队破冰练习（资深领导专属·非游戏）",
+    "normKey": "top10高管团队破冰练习资深领导专属非游戏",
+    "url": "http://www.theoffsiteco.com/news/executive-team-building-exercises",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管对齐练习：The Offsite Co. 给 C-suite/资深领导设计的 10 个「对齐/信任/澄清」练习，明确拒绝信任摔与逃",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "麦肯锡：破解顶层团队绩效密码（CEO 必修课·真实案例）",
+    "normKey": "麦肯锡破解顶层团队绩效密码ceo必修课真实案例",
+    "url": "https://www.mckinsey.com.cn/破解顶层团队绩效密码：ceo必修课",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "顶层团队治理：麦肯锡中国梳理「顶层团队」从各自为战到合力破局的四大真实案例。案例三·破除心理壁垒：某区域银行原「中心辐射式」管理、高管",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "汇辽集团务虚座谈会（批评与自我批评·真实案例）",
+    "normKey": "汇辽集团务虚座谈会批评与自我批评真实案例",
+    "url": "http://suotuo88.com/gsxw/551.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "务虚座谈会：安徽汇辽新型装饰材料 2026-01-27 召开「向内求索·破局生长」务虚座谈会，总经理主持，核心管理层+各部门负责人齐",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "FY26 蔡司光学中国区管理团队清远团建（真实案例）",
+    "normKey": "fy26蔡司光学中国区管理团队清远团建真实案例",
+    "url": "http://gzrsr.cn/c8537.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "管理团队团建：蔡司光学中国区管理团队清远两天内部战略会+1.5天「FY26 团建」，立意「不止于团建」，为跨部门管理者打造深度连接/高",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "长财融担 2026 年度务虚工作会议（政府官网一手）",
+    "normKey": "长财融担2026年度务虚工作会议政府官网一手",
+    "url": "https://dfjrjgj.hunan.gov.cn/dfjrjgj/jgfc/202601/t20260121_33898992.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "年度务虚会：湖南长财融担 2026 年度务虚工作会议，班子成员聚焦核心业务提质/创新能力提升/管理效能优化，董事长以《以作风之变聚力",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理首场团队会·把焦点从「我」转到「他们」",
+    "normKey": "新经理首场团队会把焦点从我转到他们",
+    "url": "https://www.gregorprah.com/blog/how-to-lead-your-first-team-meeting-as-a-new-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理首会：Gregor Prah：新经理首场团队会定基调，焦点从「我」转到「他们」。团队在想「这影响我工作吗/会有大变化吗/新老板",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理上任第一天·先建信任再谈改变",
+    "normKey": "新经理上任第一天先建信任再谈改变",
+    "url": "https://kdrecruitment.co.uk/how-to-get-through-the-first-day-as-a-new-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理首天：KD Recruitment：新经理第一天核心是「先建信任再谈改变」。团队对你天然存疑，只有信任了，你的自信与方向感才被",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "Meta 新经理前 30 天 1:1 模板（25 分钟控制环）",
+    "normKey": "meta新经理前30天11模板25分钟控制环",
+    "url": "https://sirjohnnymai.com/blog/1on1-meeting-template-for-new-manager-at-meta",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理1:1：sirjohnnymai 基于 Meta 新经理实践：前 30 天不靠魅力解团队疑，靠可重复行为——「准确胜赞美，可预测",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理首场员工会·定基调+建信任+跟进行动",
+    "normKey": "新经理首场员工会定基调建信任跟进行动",
+    "url": "https://ceciliagorman.com/resources/how-to-run-your-first-meeting-as-a-new-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新经理首会：Cecilia Gorman：新经理首场员工会四步——① 轻松开场（共同 improv，让个性闪光，问 deeper 问",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新汉科技「同心·致远」C Leader 对话沙龙（中层×高管）",
+    "normKey": "新汉科技同心致远cleader对话沙龙中层高管",
+    "url": "https://www.flykingtech.com/372mppu9afnebcbr.html",
+    "sourceType": "secondary",
+    "relation": "exec,supervisor",
+    "summary": "中层×高管对话：新汉科技组织「同心·致远」C Leader 对话沙龙：中层管理人员与高管同场，围绕「如何更好沟通」的开放场域——不设标准",
+    "topic": "icebreaker"
   }
 ]
