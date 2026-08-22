@@ -9051,5 +9051,53 @@
     "topic": "staff-meeting",
     "round": 23,
     "date": "2026-08-22"
+  },
+  {
+    "title": "并购后领导层整合对齐敏捷：mini reset + skip-level 探测 drift",
+    "normKey": "并购后领导层整合对齐敏捷：mini reset + skip-level 探测 drift",
+    "url": "https://masteryourmerger.com/post/leadership-alignment-mna-integration-agility",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "并购后「对齐」不是一次性 kickoff/retreat，而是一串决策+关系的持续纪律。核心三实践：① 重申 what&"
+  },
+  {
+    "title": "转型/交接期「过渡架构」Retreat：先命名失去，再谈未来",
+    "normKey": "转型/交接期「过渡架构」Retreat：先命名失去，再谈未来",
+    "url": "https://www.hightrenhouse.com/blog/leading-through-transition-retreats-for-mergers-change-and-renewal",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "变革/并购/领导层交接期，retreat 不是「事件」而是「过渡架构」——帮人在重组中重建意义。三原则：① Acknow"
+  },
+  {
+    "title": "跨部门中性场域扁平化破筒仓：Flattened Hierarchy + 中性心智",
+    "normKey": "跨部门中性场域扁平化破筒仓：Flattened Hierarchy + 中性心智",
+    "url": "https://www.hightrenhouse.com/blog/retreats-for-cross-functional-alignment-breaking-down-silos-in-a-neutral-space",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "跨部门领导团队用「中性 retreat 场 (neutral ground)」破筒仓，核心不是议程而是「地点心理学」：①"
+  },
+  {
+    "title": "全球分布式/跨国高管团队多时区对齐：Overlap Windows + 3-2-1 节奏",
+    "normKey": "全球分布式/跨国高管团队多时区对齐：Overlap Windows + 3-2-1 节奏",
+    "url": "https://www.aspirations-group.com/post/series-blog-17-leading-distributed-executive-teams-in-the-remote-era",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "跨国/多时区/ fractional 高管团队（C-suite 分布各地、含 fractional 高管）的对齐，靠「结"
+  },
+  {
+    "title": "合并/重组后团队整合 5 步（中层 manager）：心理安全先行 → 共享问责",
+    "normKey": "合并/重组后团队整合 5 步（中层 manager）：心理安全先行 → 共享问责",
+    "url": "https://sheppardmoscow.com/insights/leaders-leading-integration",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新整合/重组团队（合并、新组、汇报线变动）的 manager，用 5 步把「两套人」变「一个团队」：① Scoping "
+  },
+  {
+    "title": "中层跨部门任务型对齐 Lab：依赖映射 + handoff 协议 + 共享问责",
+    "normKey": "中层跨部门任务型对齐 Lab：依赖映射 + handoff 协议 + 共享问责",
+    "url": "http://elmgmtgroup.com/programs/cross-functional-alignment-lab",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "跨部门/跨职能任务型团队（新品发布、重大倡议、战略转向）的 manager，用「Cross-Functional Ali"
   }
 ]
