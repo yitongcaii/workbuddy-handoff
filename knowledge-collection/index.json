@@ -9163,5 +9163,53 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "区域高级领导战略务虚：self-portrait画像开场破高管互防；主体走欣赏式探询四步（发掘高光→描绘理想→设计路径→承诺行动）聚焦优势"
+  },
+  {
+    "title": "职工技术创新成果奖·政府官方评审 SOP（分等次+专家评审委+公示异议）",
+    "normKey": "职工技术创新成果奖·政府官方评审 SOP（分等次+专家评审委+公示异议）",
+    "url": "https://www.hefei.gov.cn/public/1741/40408761.html",
+    "sourceType": "一手",
+    "relation": "supervisor",
+    "summary": "合肥市政府《职工技术创新成果奖励办法》：奖项分特/一/二/三/参评五等次（按行业领先水平+经济增加值门槛，如特等奖 EVA≥500万）；评审由市劳动竞赛委员会组织实施，下设办公室（市总工会）+专家评审委；申报经企事业单位工会→县区/产业工会"
+  },
+  {
+    "title": "服务之星评选·一线基层员工月度/季度/年度表彰（分管领导任组长+明查暗访复核）",
+    "normKey": "服务之星评选·一线基层员工月度/季度/年度表彰（分管领导任组长+明查暗访复核）",
+    "url": "http://www.gzjtkgjt.com/wqzl/199.jhtml",
+    "sourceType": "一手",
+    "relation": "supervisor",
+    "summary": "赣州高速「橙乡服务之星」管理办法（企业官方一手）：评选原则公平公开、每年底评10名；标准含服务水平/工作态度/个人能力/民主评价（零投诉、全勤、民主投票≥60%支持）；评选机构由公司分管运营领导任组长，HR牵头，办公室/党群/监察审计多部门"
+  },
+  {
+    "title": "全国青年岗位能手·团中央官方评选表彰办法（向基层延伸+监督公示+纪律）",
+    "normKey": "全国青年岗位能手·团中央官方评选表彰办法（向基层延伸+监督公示+纪律）",
+    "url": "https://news.youth.cn/gn/202104/t20210407_12835491.htm",
+    "sourceType": "一手",
+    "relation": "supervisor",
+    "summary": "共青团中央《全国青年岗位能手评选表彰管理办法》：推荐人选16-35岁、精通本职/技能高超/创新贡献突出；评选由共青团中央+人社部联合实施，一般每两年一次；突出向基层团支部、企业班组延伸；程序含推荐考察、审核、监督公示、纪律要求；明确「一般不"
+  },
+  {
+    "title": "省长/董事长质量奖·政府最高质量荣誉+一把手亲颁（组织级战略认可）",
+    "normKey": "省长/董事长质量奖·政府最高质量荣誉+一把手亲颁（组织级战略认可）",
+    "url": "https://www.tsingtao.com.cn/news/077B2CF5-7BEF-4AE2-94B9-0F00736B1BA0.html",
+    "sourceType": "一手",
+    "relation": "exec",
+    "summary": "省长质量奖是省级政府设立的最高质量奖项（如山东每两年一届），由省委副书记/省长出席并向企业董事长/负责人亲自颁奖，表彰其在创建先进质量管理模式、推广科学质量理念、对质量强省建设的突出贡献；流程含舆情调查→资格审查→材料评审→现场评审→陈述答"
+  },
+  {
+    "title": "认可项目 ROI 测算框架·给 CHRO/CFO 的投入产出度量（5步法+dashboard）",
+    "normKey": "认可项目 ROI 测算框架·给 CHRO/CFO 的投入产出度量（5步法+dashboard）",
+    "url": "https://walloffame.cloud/recognition-program-roi-calculator",
+    "sourceType": "二手",
+    "relation": "exec",
+    "summary": "walloffame「Recognition Program ROI Calculator」：认可项目不应只算奖品成本，要建立可复现 ROI 模型——①定义度量周期（月/季/年，匹配颁奖频率）；②算总成本（奖品+证书+物流+活动+平台订阅+"
+  },
+  {
+    "title": "多元包容 DEI 表彰·高管站台式认可（移除给/得限制+一线不掉队）",
+    "normKey": "多元包容 DEI 表彰·高管站台式认可（移除给/得限制+一线不掉队）",
+    "url": "https://www.hrmagazine.co.uk/content/comment/looking-at-recognition-through-a-dei-lens/",
+    "sourceType": "二手",
+    "relation": "exec",
+    "summary": "HR Magazine「Looking at recognition through a DEI lens」+ UD Trucks Thailand 案例：把 DEI 织入认可设计——①移除「谁能给认可」的限制（不只 manager-onl"
   }
 ]
