@@ -9420,5 +9420,95 @@
     "relation": "exec",
     "summary": "受众中心设计：PRmoment 借 Oprah 经验重思全员会：伟大沟通始于懂受众。五招：①从员工真想听的开始——用 listenin",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "10 套经评分验证的高管 Offsite 议程模板（2026）",
+    "normKey": "10套经评分验证的高管offsite议程模板2026",
+    "url": "http://consultclarity.org/post/executive-offsite-agenda-templates",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "议程模板库：ConsultClarity 汇总 10 套高管 Offsite 议程模板（2026）：首日开场 20 分钟连接轮让远程",
+    "topic": "offsite"
+  },
+  {
+    "title": "AI Vision Quest·芬兰拉普兰领导力静修（AI转型×荒野）",
+    "normKey": "aivisionquest芬兰拉普兰领导力静修ai转型荒野",
+    "url": "https://aetherlink.ai/en/blog/ai-vision-quest-in-finnish-lapland-leadership-retreat-meets-ai-transformation-rotterdam",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "AI战略静修：AetherLink 案例：高管领导力静修叠加 AI 转型。荒野去掉组织地位游戏，让高管 peer 学习；AI Lead",
+    "topic": "offsite"
+  },
+  {
+    "title": "Connect–Reflect–Align（C-R-A）转型静修框架",
+    "normKey": "connectreflectaligncra转型静修框架",
+    "url": "https://www.niadelta.com/blogs/beyond-the-break-why-retreats-are-strategic-moments-not-just-a-luxury",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "转型框架：NiaDelta 以 Connect–Reflect–Align（C-R-A）框架设计转型静修：连接（跨地域/职能建关系",
+    "topic": "offsite"
+  },
+  {
+    "title": "两天高管团队加速器·从「个人」到「操作系统」",
+    "normKey": "两天高管团队加速器从个人到操作系统",
+    "url": "https://beperpetual.com/insights/articles/when-a-leadership-team-stops-performing-as-individuals/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "团队对齐案例：Perpetual 案例：北美某全球食材企业高管团队两天 Executive Leadership Team Accel",
+    "topic": "offsite"
+  },
+  {
+    "title": "战略静修引导师·两天产出决策 + 60天跟进协议",
+    "normKey": "战略静修引导师两天产出决策60天跟进协议",
+    "url": "https://promptolis.com/originals/strategic-retreat-facilitator",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "引导师模板：Promptolis 给出「真产出决策的两天战略静修」完整剧本：Day1 发散（开场定调/战略复盘/3-4项决策+书面承",
+    "topic": "offsite"
+  },
+  {
+    "title": "高管战略 Offsite 模板（Series B 实战案例）",
+    "normKey": "高管战略offsite模板seriesb实战案例",
+    "url": "https://www.bestmeetingplanner.com/templates/executive-strategy-offsite/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "战略模板：BestMeetingPlanner 高管战略 Offsite 模板：半天 State-of-Business→全员辩论",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队建设议程模板库（含领导力团队建设专场）",
+    "normKey": "团队建设议程模板库含领导力团队建设专场",
+    "url": "https://twilio.withconfetti.com/blog/post/team-building-agenda-templates-for-every-occasion",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "议程模板：Confetti 给出分场景团队建设议程模板。Template 14「领导力团队建设专场」（经理群/高管 offsite",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队静修规划·50%排程 50%留白（文化非怨气）",
+    "normKey": "团队静修规划50排程50留白文化非怨气",
+    "url": "https://www.novatrek.app/en/blog/team-retreat-planning-guide",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "规划原则：NovaTrek 主张「排 50% 时间、留 50% 灵活」的黄金法则，避免静修变怨气。3天样本：周四错峰抵达+欢迎晚餐",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队 Offsite 要「变」不要「演」",
+    "normKey": "团队offsite要变不要演",
+    "url": "https://basecampconsultingllc.com/blog/team-offsites-that-transform-not-just-entertain",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "转型心法：Basecamp 主张伟大 offsite 始于一个问题：「走出房间时我们想有什么不同？」澄清（12个月方向/新领导信任",
+    "topic": "offsite"
+  },
+  {
+    "title": "企业静修议程设计（目的+混合工作+收尾合成）",
+    "normKey": "企业静修议程设计目的混合工作收尾合成",
+    "url": "https://www.campfire-company.com/blog/creating-an-agenda-for-a-business-retreat",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "议程设计：Campfire 给企业静修议程全指南：①定目的与期望成果并提前广而告之；②欢迎定调（到达缓冲/后勤/开场提醒目标与「可",
+    "topic": "offsite"
   }
 ]
