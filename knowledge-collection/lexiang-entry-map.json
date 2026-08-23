@@ -415,13 +415,19 @@
         "entry_id": "3881decc44554c9a87f622ecb752e297",
         "name": "icebreaker-2026-08-22-r20.html",
         "note": "轮次页 R20 (+8)"
+      },
+      {
+        "date": "2026-08-23",
+        "entry_id": "322d057d18514ea0ae2e5ebd542058c7",
+        "name": "icebreaker-2026-08-23-r21.html",
+        "note": "轮次页 R21 (+10)"
       }
     ],
     "wall": {
       "entry_id": "637b3b31280140349221fbe6fa4e08ed",
       "file_id": "3c5c841631e54e1bb56474afc95af1b6",
       "name": "icebreaker.html",
-      "note": "R18 累计墙（168卡）；update 模式持续刷新 637b3b31"
+      "note": "R21 累计墙（193卡）in-place 更新"
     }
   },
   "award": {

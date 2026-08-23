@@ -9600,5 +9600,95 @@
     "relation": "exec,supervisor",
     "summary": "中层×高管对话：新汉科技组织「同心·致远」C Leader 对话沙龙：中层管理人员与高管同场，围绕「如何更好沟通」的开放场域——不设标准",
     "topic": "icebreaker"
+  },
+  {
+    "title": "颁奖典礼全流程 SOP 与避坑（全场景落地指南）",
+    "normKey": "颁奖典礼全流程sop与避坑全场景落地指南",
+    "url": "https://www.xunmei365.com/ask/3635783.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "典礼执行SOP：颁奖典礼全流程拆解：前期（定主题/时间避节假日/舞台尺寸/声光设备/嘉宾名单含颁奖者+获奖者+观众，奖杯奖状提前3天定制",
+    "topic": "award"
+  },
+  {
+    "title": "颁奖词撰写方法论（点题-叙事-升华 + 真诚/画面/温度）",
+    "normKey": "颁奖词撰写方法论点题叙事升华真诚画面温度",
+    "url": "https://www.renrendoc.com/paper/507458683.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖词撰写：颁奖词撰写核心技巧：①结构「点题-叙事-升华」三层——开头点题（「[姓名/团队]以……荣获[奖项]」快速聚焦）、中间叙事",
+    "topic": "award"
+  },
+  {
+    "title": "虚拟/线上颁奖典礼设计与观众体验",
+    "normKey": "虚拟线上颁奖典礼设计与观众体验",
+    "url": "https://successes.live/virtual-awards-ceremony-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "线上典礼：虚拟颁奖典礼设计：先定目标（提振士气/品牌/筹款不可混在一个小时）与成功指标（直播观看率/提名量/聊天参与/回放/分享/",
+    "topic": "award"
+  },
+  {
+    "title": "社内表彰式演出设计 + 评选透明度（日本内行）",
+    "normKey": "社内表彰式演出设计评选透明度日本内行",
+    "url": "https://jp.vcube.com/eventdx/blog/internal-awards-ideas-and-benefits",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "内部表彰演出：日本社内表彰式运营要点：①演出设计——主题与着装统一（「晚宴/奥斯卡风/白金统一」）造非日常一体感，每年换主题提期待；M",
+    "topic": "award"
+  },
+  {
+    "title": "Spot Bonus 即时奖金项目落地（6周启动+审计+指标）",
+    "normKey": "spotbonus即时奖金项目落地6周启动审计指标",
+    "url": "https://hyring.com/free-hr-toolkit/hr-glossary/spot-bonus",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "即时奖金：Spot Bonus（即时奖金）落地指南：定义=对超额/短期目标达成给的即时非经常性现金奖励，胜在「即时」。4-6周启动",
+    "topic": "award"
+  },
+  {
+    "title": "价值观驱动的文化奖项设计（10类命名+落地）",
+    "normKey": "价值观驱动的文化奖项设计10类命名落地",
+    "url": "https://junoschool.org/article/company-culture-award-ideas",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "价值观奖项：价值驱动文化奖项：传统「月度员工」易变人气竞赛致挫败，应改为对齐核心价值的 peer 提名奖（如 Zappos 月度 C",
+    "topic": "award"
+  },
+  {
+    "title": "员工奖项与品牌价值对齐（语言/标准/体验/美学）",
+    "normKey": "员工奖项与品牌价值对齐语言标准体验美学",
+    "url": "https://inchcreative.com/employee-awards-brand-values",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "奖项品牌化：员工奖项与品牌对齐四要素：①语言——奖项名即身份工具，用「The Builder/Connector/Trailblaz",
+    "topic": "award"
+  },
+  {
+    "title": "高端企业颁奖盛典制作全指南（制作占预算25-35%）",
+    "normKey": "高端企业颁奖盛典制作全指南制作占预算2535",
+    "url": "https://hoabinh-group.com/en/award-ceremony-planning",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高端盛典制作：高端企业颁奖盛典制作指南：定义 6-12 个有意义奖项类别（反映真实成就非头衔，拉部门头参与设计增 ownership）",
+    "topic": "award"
+  },
+  {
+    "title": "高管间相互认可·Peer Recognition 奖项机制（ORBIE/C-suite）",
+    "normKey": "高管间相互认可peerrecognition奖项机制orbiecsuite",
+    "url": "http://orbiecircle.org/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管peer认可：高管间相互认可范式：ORBIE Awards 自1998由同行评审（peer-adjudicated）评选 CIO/CI",
+    "topic": "award"
+  },
+  {
+    "title": "高管团队内部认可·把成功写成「被理解」而非「被看见」（Leadership Spotlight）",
+    "normKey": "高管团队内部认可把成功写成被理解而非被看见leadershipspotlight",
+    "url": "https://ceofficialmag.com/recognizing-leadership-celebrating-success-with-your-team",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管团队认可：高管团队内部认可实践集：①Leadership Spotlight——每季度 highlight 一位领导，不用公开奖杯",
+    "topic": "award"
   }
 ]
