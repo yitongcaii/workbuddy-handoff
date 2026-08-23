@@ -9690,5 +9690,59 @@
     "relation": "exec",
     "summary": "高管团队认可：高管团队内部认可实践集：①Leadership Spotlight——每季度 highlight 一位领导，不用公开奖杯",
     "topic": "award"
+  },
+  {
+    "title": "北京市国资委 2026「首都国企开放日」（45 家国企 142 条线路·常态化开放）",
+    "normKey": "北京市国资委 2026「首都国企开放日」（45 家国企 142 条线路·常态化开放）",
+    "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/renwen/sy/whkb/202606/t20260602_4682358.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "北京市国资委启动 2026「首都国企开放日」，45 家首都国企推出 142 条线路（点位）向市民开放，覆盖企业博物馆、生产车间、研发实验室、重点工程现场、城市更新项目、民生服务阵地、职工创新工作室、研学基地等；首次突破集中模式，周期从 20",
+    "topic": "openday"
+  },
+  {
+    "title": "山东重工中国重汽 2026 合作伙伴大会「公众开放日」·可触摸的品牌温暖之旅",
+    "normKey": "山东重工中国重汽 2026 合作伙伴大会「公众开放日」·可触摸的品牌温暖之旅",
+    "url": "https://app.people.cn/h5/detail/normal/6628265830679552",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "山东重工中国重汽在 2026 合作伙伴大会期间办「公众开放日」，员工及家属、社会公众逾万人参与；以全景式沉浸式展览呈现新能源、数智化、自动驾驶成果，从数智化方案到新能源整车及核心技术、覆盖重中轻微客特全系列商用车产业链；设超级卡车打卡、模拟",
+    "topic": "openday"
+  },
+  {
+    "title": "半月谈｜不再「谢绝参观」，「工厂游」拉满体验感（盼盼/小米/青岛啤酒/顺美）",
+    "normKey": "半月谈｜不再「谢绝参观」，「工厂游」拉满体验感（盼盼/小米/青岛啤酒/顺美）",
+    "url": "https://www.toutiao.com/article/7650035668780843529",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "半月谈（北京日报）观察：曾经「谢绝参观」的工厂车间正成热门打卡地；盼盼食品 5G 智慧工厂七道工序零人工接触、2025 年接待超 3.5 万人次参观（同比+48%）；小米汽车工厂开放首日涌入 2.7 万人注册；福建民天酱油「日晒夜露」发酵体",
+    "topic": "openday"
+  },
+  {
+    "title": "小鹏「AI 科技智造之旅」正式对外开放（工业旅游+CEO 亲临交付）",
+    "normKey": "小鹏「AI 科技智造之旅」正式对外开放（工业旅游+CEO 亲临交付）",
+    "url": "https://www.jwview.com/jingwei/01-14/654164.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "小鹏广州智造基地「AI 科技智造之旅」正式对公众开放，定位「大湾区 AI 科技文旅新地标、多形态未来出行体验平台」；百余家媒体与 2026 款 P7+ 首批车主共同见证，公众可经小鹏 APP/公众号预约，亲临全球总部、广州及肇庆两大探索中心",
+    "topic": "openday"
+  },
+  {
+    "title": "上海宝山区水务局 2026「政府开放月」（滨江水务新图景·政民面对面）",
+    "normKey": "上海宝山区水务局 2026「政府开放月」（滨江水务新图景·政民面对面）",
+    "url": "https://xxgk.shbsq.gov.cn/article.html?infoid=cb478f07-3372-4933-9c3d-276e4379bc6d",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "宝山区水务局 2026「政府开放月」以「绿色生态·宜居新城——走进十五五滨江水务新图景」为主题，主场落吴淞炮台湾湿地森林公园，串起滨江生态修复示范段与邮轮旅游度假区滨水公共空间；活动含开幕仪式、滨江水务实地参观、「政民面对面」座谈交流会，集",
+    "topic": "openday"
+  },
+  {
+    "title": "可持续市场倡议（SMI）2026 中国论坛·全球 CEO 北京闭门可持续转型",
+    "normKey": "可持续市场倡议（SMI）2026 中国论坛·全球 CEO 北京闭门可持续转型",
+    "url": "https://www.sustainable-markets.org/news/the-sustainable-markets-initiative-convenes-global-ceos-in-beijing-for-flagship-forum-on-sustainable-transition",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "可持续市场倡议（SMI，查尔斯国王发起）2026 中国论坛 6.21-25 在北京举办，汇聚全球领先企业 CEO 与中国顶尖 CEO 及政府高层，通过圆桌对话、双边会谈、实地考察（探访北京商业图景与中国企业绿色实践）探讨可持续转型；议题聚焦",
+    "topic": "openday"
   }
 ]
