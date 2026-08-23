@@ -10091,5 +10091,86 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "TeamDynamics 团队 offsite 设计器：活动黑名单（避信任 fall/点名/输家竞赛/以酒为中心）+ 真连接活动库 + 每时段 10/60/20/10 模板 + 能量管理与会前中后清单。"
+  },
+  {
+    "title": "新经理首周「诊断式」团队破冰模板（远程团队）",
+    "normKey": "新经理首周「诊断式」团队破冰模板（远程团队）",
+    "url": "https://sirjohnnymai.com/blog/new-manager-team-building-activity-template-for-remote-startups",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 新经理/新主管上任首周团队融合——用「诊断式」轻量结构（kickoff+1:1+书面预提问）替代破冰游戏，30-60-90 从诊断收窄到规则到重复仪式（远程团队）。"
+  },
+  {
+    "title": "远程团队「非尴尬」破冰与信任建设（buddy 制 + 1:1 问法）",
+    "normKey": "远程团队「非尴尬」破冰与信任建设（buddy 制 + 1:1 问法）",
+    "url": "https://knowyourteam.com/blog/2020/05/10/virtual-team-building-how-to-build-trust-in-a-remote-team/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 远程/混合团队管理者——用 context 文档、招聘信、结构化 1:1 与 buddy 制建 affective trust，避开「周末怎样」式磨损破冰（主管主导）。"
+  },
+  {
+    "title": "跨部门协作工作坊·拆筒仓的 7 种结构化格式",
+    "normKey": "跨部门协作工作坊·拆筒仓的 7 种结构化格式",
+    "url": "https://www.noodleresearch.com/field-notes/bridging-silos-how-workshops-foster-cross-functional-collaboration",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 管理者/PM 主导跨部门拆筒仓——用 7 类结构化 workshop 格式（含角色扮演/端到端可视化/跨职能行动组）替代一次性活动，配套复盘与跟进防失效。"
+  },
+  {
+    "title": "组建跨职能团队· facilitator + 团队宪章 + 2 小时 kickoff",
+    "normKey": "组建跨职能团队· facilitator + 团队宪章 + 2 小时 kickoff",
+    "url": "https://eathealthy365.com/steps-to-create-a-cross-functional-team",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 管理者/PM 组建跨职能团队——facilitator（非 boss）+ 团队宪章 + ≥2h kickoff + 周/双周 retro 节奏，先锁直属上级 buy-in 防部门政治拆台。"
+  },
+  {
+    "title": "新人首次 1:1 向上问的 14 个问题（下属→主管）",
+    "normKey": "新人首次 1:1 向上问的 14 个问题（下属→主管）",
+    "url": "https://www.deel.com/blog/one-on-one-questions-to-ask-your-manager/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "② 下属→新主管/换新团队首次 1:1——用 14 个向上问句（管理风格/评估标准/期待/怎样让主管好做）主动建信任与对齐（上下级，下属视角）。"
+  },
+  {
+    "title": "高管过渡·董事会/团队/关键利益方信任建设 + 关系转移",
+    "normKey": "高管过渡·董事会/团队/关键利益方信任建设 + 关系转移",
+    "url": "https://skillpanel.com/it?p=4896128",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 新任高管/CEO 上任过渡——董事会/团队/关键方信任靠「关系转移」（结构化交接+引介）而非假设，配高管教练/同侪网络补关系工作（高管间，非游戏）。"
+  },
+  {
+    "title": "高管入职·「语境先于内容」+ 「意愿联盟」",
+    "normKey": "高管入职·「语境先于内容」+ 「意愿联盟」",
+    "url": "https://www.lucasrec.com/onboarding-new-executives/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 新任高管/exec 入职——「语境先于内容」+「意愿联盟」+ 显式授权指标，90 天分段，董事会持续护航（高管间，避免幼稚破冰）。"
+  },
+  {
+    "title": "新任 CEO 90 天路线图·倾听之旅 + 早期胜仗",
+    "normKey": "新任 CEO 90 天路线图·倾听之旅 + 早期胜仗",
+    "url": "https://www.jrgpartners.com/first-90-days-onboarding-roadmap-ceo/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 新任 CEO 上任——90 天路线图（倾听之旅+早期胜仗），上任前锁书面授权，D1-30 忍住不宣布、每段交付artifact（高管间，商务化）。"
+  },
+  {
+    "title": "CEO 接班·董事会主导的上任护航 + 18 个月融合期",
+    "normKey": "CEO 接班·董事会主导的上任护航 + 18 个月融合期",
+    "url": "https://www.lansdowneboardintelligence.com/selecting-your-next-leader-ceo-succession-tips-part-2",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "③ 董事会/治理层主导 CEO 接班——过渡期 18 个月（非仅 90 天），前 90 天忍住不表态建连接，CHRO 任过渡顾问、离任 CEO 做知识移交（高管间/治理层，商务化）。"
   }
 ]
