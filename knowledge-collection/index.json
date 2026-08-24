@@ -10644,5 +10644,86 @@
     "sourceType": "secondary",
     "relation": "exec",
     "summary": "世界咖啡深度方法：4-5人/桌轮转+host复述+harvest聚类，附四格式对比与5大误区。"
+  },
+  {
+    "title": "认可项目 ROI 建模·给老板看的投资回报论证法",
+    "normKey": "认可项目roi建模给老板看的投资回报论证法",
+    "url": "https://kmuat.kalkinemedia.com/education/guides/how-to-model-the-roi-of-employee-recognition",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "预算ROI：认可/颁奖投入要能向老板证明回报，而非每轮预算都 defending。建模步骤：①先定义目标（降首年流失/奖励里程碑/提",
+    "topic": "award"
+  },
+  {
+    "title": "认可 ROI 计算器搭建·成本/参与/结果三问框架",
+    "normKey": "认可roi计算器搭建成本参与结果三问框架",
+    "url": "https://walloffame.cloud/recognition-roi-calculator-guide",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "预算ROI：做一张可复用的认可 ROI 计算器，把「感觉有效」换成可重复的管理视图。三问：①成本多少——直接奖励+平台工具+行政工时",
+    "topic": "award"
+  },
+  {
+    "title": "紧预算下的认可配比·80/15/5 省钱不省心意",
+    "normKey": "紧预算下的认可配比80155省钱不省心意",
+    "url": "https://awardmaven.com/managing-employee-recognition-on-a-tight-budget",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "预算管控：预算紧≠心意薄。80/15/5 配比：80% 日常零成本认可（Slack/Teams 公开点赞、手写卡、例会 spotl",
+    "topic": "award"
+  },
+  {
+    "title": "表彰公开边界·员工个人信息合规（个保法最小必要）",
+    "normKey": "表彰公开边界员工个人信息合规个保法最小必要",
+    "url": "https://www.workercn.cn/c/2022-02-19/6866782.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "隐私合规：表彰涉及员工个人信息，必须在「最小必要」内处理。官方口径（《个保法》+中工网）：内部表彰披露姓名+部分工作履历属合法正当",
+    "topic": "award"
+  },
+  {
+    "title": "荣誉榜/英雄榜公开·隐私与激励的平衡（可反对即停）",
+    "normKey": "荣誉榜英雄榜公开隐私与激励的平衡可反对即停",
+    "url": "https://www.workercn.cn/c/2021-11-25/6744512.shtml",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "隐私合规：企业内部荣誉榜/业绩英雄榜公开姓名，基于「人事管理」特定目的、在必要范围内属合法（法务部函释+104 职涯）；但边界在「",
+    "topic": "award"
+  },
+  {
+    "title": "颁奖典礼供应商甄选·五维评估与避坑（自有团队/案例/报价/应急）",
+    "normKey": "颁奖典礼供应商甄选五维评估与避坑自有团队案例报价应急",
+    "url": "https://m.cnpinpai.cn/news_hot/2539766.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "供应商甄选：选颁奖典礼策划/礼仪服务商，五维评估：①按规模定范围——千人级优先自有团队大、硬件足、有同类案例；中小活动重性价比与响应",
+    "topic": "award"
+  },
+  {
+    "title": "颁奖策划机构选型·一站式闭环与「按图索骥」考察法",
+    "normKey": "颁奖策划机构选型一站式闭环与按图索骥考察法",
+    "url": "https://www.zgswcn.com/shangxun/news.html?aid=808563",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "供应商甄选：选颁奖晚宴策划机构，核心看「一站式闭环交付」能力（创意→视觉→物料→搭建→执行→传播），减少多供应商协调成本与风格不一风",
+    "topic": "award"
+  },
+  {
+    "title": "CEO/高管颁奖·影像纪实与品牌战略价值（外部获奖杠杆）",
+    "normKey": "ceo高管颁奖影像纪实与品牌战略价值外部获奖杠杆",
+    "url": "https://digital-trophy-case.com/blog/employee-recognition-awards-creative-ideas-celebrate-team-achievements",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管品牌：高管颁奖的影像与品牌价值，是面向董事会/品牌负责人的战略议题。要点：①高管颁奖本身就是「雇主品牌信号」——把认可与组织战",
+    "topic": "award"
+  },
+  {
+    "title": "认可项目 ROI 三层次度量·运营/参与/业务影响记分卡",
+    "normKey": "认可项目roi三层次度量运营参与业务影响记分卡",
+    "url": "https://greatest.live/recognition-program-roi-metrics-benchmarks-and-reporting-ideas",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "预算ROI：向高管汇报认可项目，用三层记分卡替代单一模糊数字：①运营效率层——程序耗时/提名数/评审时长/模板降噪；②参与 enga",
+    "topic": "award"
   }
 ]
