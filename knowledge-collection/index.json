@@ -11005,5 +11005,68 @@
     "relation": "exec",
     "summary": "HBR 变革沟通叙事三阶：①肯定过往美好的部分——员工最怕「未来公司不再是认同的那家」，同时强调连续性(continuity)效果最好；案例 Uber 新 CEO Dara 首场 town hall 不指向过去失误、不扮救世主，而是承诺「保",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "高管 Offsite 引导师遴选标准（中立/机密预访谈/30天跟进/5红线）",
+    "normKey": "高管Offsite引导师遴选标准（中立/机密预访谈/30天跟进/5红线）",
+    "url": "https://marklefko.com/how-to-choose-an-executive-offsite-facilitator",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "遴选五点(中立/机密预访谈/明确产出/跟进机制/讲清局限)+5红线(提案早于了解/全汇报/无预工/不写会后/不承诺主持)；内部CHRO/CoS对高管团队罕适用",
+    "topic": "offsite"
+  },
+  {
+    "title": "高管团队章程与规范校准（把心理安全写进机制）",
+    "normKey": "高管团队章程与规范校准（把心理安全写进机制）",
+    "url": "https://www.scavify.com/blog/9-executive-team-building-activities-that-build-alignment",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "显式团队章程(目的/接口/范围)+规范校准(辩论/坦率/会议节奏/决策记录)+个人「与我共事」页；匿名输入/轮流/小组合议给安静者空间，谈模式不点名",
+    "topic": "offsite"
+  },
+  {
+    "title": "董事会年度面对面 Offsite + 晚宴（信任建设）",
+    "normKey": "董事会年度面对面Offsite+晚宴（信任建设）",
+    "url": "https://www.dlapiper.com/en/insights/publications/accelerate/formation/board-meeting-best-practices-10-steps",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "年度≥1次面对面董事会+会前晚宴建信任；会前7-10天电话预览(坏消息不当场首现)；材料包提前≥1天；不藏球；常规会≤2.5h；其他高管轮列席；年度自评+外部评估",
+    "topic": "offsite"
+  },
+  {
+    "title": "高管 Offsite 预算与房型基准（人均/占比/时长甜区+4类）",
+    "normKey": "高管Offsite预算与房型基准（人均/占比/时长甜区+4类）",
+    "url": "https://go.marcoexperiences.com/blogs/offsite-meeting-planning-guide",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "人均三档($500-800/$800-1500/$1500-3000)；住宿40-50%/餐饮20-30%/差旅15-20%/活动5-10%；4类offsite(战略/文化/冲刺/kickoff)；领导1+1最小/部门2+2甜区/>4天递减",
+    "topic": "offsite"
+  },
+  {
+    "title": "领导力务虚 vs 高管务虚边界（经理/团队负责人/新晋leader）",
+    "normKey": "领导力务虚vs高管务虚边界（经理/团队负责人/新晋leader）",
+    "url": "https://www.offsite.com/leadership-retreats",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "领导力retreat(经理/团队负责人/新晋leader·能力+团队绩效)≠高管retreat(C-suite·组织战略)；目标清晰+参与者共建目标+按人群调议程+平衡工作恢复",
+    "topic": "offsite"
+  },
+  {
+    "title": "新经理融入团队两日 Offsite（3年回溯愿景法·先听后说）",
+    "normKey": "新经理融入团队两日Offsite（3年回溯愿景法·先听后说）",
+    "url": "https://fitleadersacademy.com/the-kiss-of-death-for-new-leaders",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新leader避「我以前公司怎么干」死穴；两日offsite用3年回溯愿景法(想象3年后回望→三问危险/机会/优势→先愿景再探索)；先honor团队再谈自己",
+    "topic": "offsite"
+  },
+  {
+    "title": "部门 Offsite：战略+实战活动平衡（头脑风暴/技能交换/目标对齐）",
+    "normKey": "部门Offsite：战略+实战活动平衡（头脑风暴/技能交换/目标对齐）",
+    "url": "https://gable.to/blog/post/company-offsite-activities",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "部门offsite平衡战略+实战(避例会感)；头脑风暴retreat/技能交换workshop(交叉培训)/团队trivia/协作hackathon(进roadmap)/目标对齐retreat；跨部门协作游戏对少互动团队尤值",
+    "topic": "offsite"
   }
 ]
