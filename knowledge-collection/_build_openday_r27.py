@@ -1,0 +1,237 @@
+# -*- coding: utf-8 -*-
+"""Open Day 二十七轮 enrich (2026-08-26) — 增量页 + 汇总页 + index.json。
+仅 上下级(supervisor) / 高管间(exec)，无 peer。"""
+import json, re, os
+
+KC = os.path.dirname(os.path.abspath(__file__))
+HTML_DIR = os.path.join(KC, "openday")
+SUMMARY = os.path.join(HTML_DIR, "openday.html")
+INC_NAME = "openday-20260826.html"
+INC_PATH = os.path.join(HTML_DIR, INC_NAME)
+INDEX = os.path.join(KC, "index.json")
+DATE = "20260826"
+PAGE_URL = "https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/openday"
+
+STYLE = """<style>
+:root{
+  --bg:#f4f6fb; --card:#ffffff; --ink:#1f2430; --sub:#5b6478;
+  --accent:#6c5ce7; --accent2:#00b8d9; --chip:#eef0ff;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}
+.wrap{max-width:1080px;margin:0 auto;}
+.hero{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:30px 32px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}
+.hero h1{font-size:28px;font-weight:800;letter-spacing:1px;margin-bottom:8px;}
+.hero p{font-size:14px;opacity:.95;}
+.relbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;}
+.relbar span{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}
+.sec{margin:30px 0 12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.sec h2{font-size:19px;font-weight:800;}
+.sec .tag{font-size:12px;padding:4px 12px;border-radius:12px;font-weight:700;}
+.sec3 .tag{background:#f3e8ff;color:#7b2cbf;} .sec3 h2{color:#7b2cbf;}
+.sec2 .tag{background:#fff3e0;color:#c0651a;} .sec2 h2{color:#c0651a;}
+.sec .desc{font-size:12.5px;color:var(--sub);margin-left:2px;}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.hl{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.emoji{font-size:22px;}
+.hl h3{font-size:16px;font-weight:700;flex:1;min-width:120px;}
+.cat{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}
+.badge{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}
+.b1{background:#e6f9f0;color:#0a8f5b;}
+.b2{background:#fff1e6;color:#c0651a;}
+.r1{background:#eaf2ff;color:#2b6cb0;}
+.r2{background:#fff3e0;color:#c0651a;}
+.r3{background:#f3e8ff;color:#7b2cbf;}
+.val{font-size:13.5px;color:var(--sub);}
+.exec{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}
+.exec summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}
+.exec .inner{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}
+.src{font-size:12px;word-break:break-all;}
+.src a{color:var(--accent2);text-decoration:none;}
+.note{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}
+footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}
+</style>"""
+
+CARDS = [
+ # ===== ② 上下级 (supervisor) =====
+ dict(emoji="🏛️", title="驻德国使馆“粽香迎端午”领事大厅开放日", cat="外交领事开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://de.china-embassy.gov.cn/sgyw/202506/t20250602_11638828.htm",
+      value="驻德国使馆举办“粽香迎端午”领事大厅开放日，邀请柏林及周边中德民众、留学生等50余人走进领事大厅，参观护照/签证/公证窗口、海外远程视频公证室和“结婚角”，了解领事职能与办证流程；领事干部围绕单边免签政策与领事保护案例专题宣讲，听取意见建议并开展免签政策与端午佳节有奖问答；嘉宾品尝粽子、体验中华节庆文化与特色饮食。开门过节、与当地民众交流互动，是深化中德友好、加强民间沟通、践行“外交为民”宗旨的有益实践。",
+      how="把领事开放日做成“可走进、可体验、可对话”的窗口——开放办证窗口与“结婚角”等真实场景替代照本宣科；用免签政策+领事保护案例做专题宣讲，把抽象政策讲成切身权益；设“有奖问答+美食品鉴”降低门槛、拉近距离；现场收集意见建议，把开放日变成倾听侨胞诉求的直通车。",
+      note="适用：② 外交领事开放日（驻德使馆官网一手），使馆领事干部以“外交为民”服务者姿态，侨胞/留学生/当地民众零距离了解领事服务与中华文化，尊重边界清晰、不涉隐私。"),
+ dict(emoji="🇨🇳", title="驻哈萨克斯坦大使馆“走进中国”开放日", cat="外交文化开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://www.mfa.gov.cn/wjdt_674879/zwbd_674895/202509/t20250915_11708376.shtml",
+      value="驻哈萨克斯坦使馆举行以“走进中国”为主题的开放日活动，驻哈大使韩春霖出席并致辞，哈“阿玛纳特”党“青年翼”主席及哈各界民众约300人参加；来宾观看中国抗战图片展、九三阅兵和上合天津峰会纪录片，沉浸式体验中医、书法、汉服、茶艺和围棋文化，参观中国品牌商品展；韩大使阐述中国式现代化与全球治理倡议，表达携手构建中哈命运共同体的意愿。",
+      how="大使馆开放日以“文化+叙事”替代生硬宣介——用抗战图片展/阅兵纪录片/峰会纪实建立情感共鸣；设中医/书法/汉服/茶艺/围棋沉浸式体验区把文化变可参与；以中国品牌商品展呈现发展成就；大使亲自致辞把双边关系落到“命运共同体”的具体共鸣点。",
+      note="适用：② 外交文化开放日（外交部官网一手），大使以文化使者与友好桥梁姿态，驻在国各界民众沉浸式感受中国，亲和而不越界、专业而不幼稚。"),
+ dict(emoji="🪖", title="解放军驻澳门部队第十九次军营开放活动", cat="军营开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://cpc.people.com.cn/BIG5/n1/2025/0503/c64387-40472719.html",
+      value="解放军驻澳门部队第十九次军营开放活动在氹仔营区举行，连续3天面向澳门大中小学生和市民开放，安排升国旗仪式、军事训练课目展示、装备军需展示、训练体验和联谊演出；通过线上平台发放活动门票让更多澳门同胞走进军营；市民走进班排宿舍、连队课室及军事展览馆，观摩新式军服、品尝军用食品、与官兵面对面交流。自2005年起已19次组织军营开放，累计约16万澳门市民参与。",
+      how="军营开放日把“威严营区”变“生动课堂”——用升国旗+课目展示+装备体验制造仪式感与热血共鸣；以线上发券控流、扩大参与；开放班排宿舍/展览馆让市民与官兵面对面，把国防教育的严肃主题落到可触摸的体验；用“联谊演出+合影”软化距离，强化爱国爱澳共识。",
+      note="适用：② 军营开放日（人民日报一手），部队以守护者+亲和专业姿态，澳门市民/学生零距离感受国防力量，庄重而不幼稚、尊重而有温度。"),
+ dict(emoji="✈️", title="2025空军航空开放活动军营开放日", cat="军营开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://jl.chinadaily.com.cn/a/202509/24/WS68d380b3a310f0725774a4ca.html",
+      value="2025空军航空开放活动军营开放日在空军航空大学举行，市民、游客走进军营探寻学校建设发展历程、近距离观摩飞行学员日常训练；心训场多维旋梯/固定滚轮/高空飞跃成热门打卡点；刘亚楼军体训练馆开放抗眩晕训练体验与实操枪支射击；创客中心展示无人机、机器人等学员创新成果，航空馆与停机坪多型飞机静态展示供自主参观打卡，凝聚关注空军、热爱空军、建设空军的社会共识。",
+      how="航空开放日用“可玩可拍”的体验设计放大空军魅力——把抗眩晕训练/枪支射击等硬核课目做成市民可参与的体验项目；设静态飞机展示+创客中心无人机机器人成果区制造打卡点；以“走进军营+沉浸体验”替代观看式参观，激发青少年爱国情怀与蓝天志向。",
+      note="适用：② 军营开放日（中国日报一手），空军以开放自信的专业姿态，市民/游客/青少年沉浸式感受空军力量，激发国防共鸣而非娱乐化。"),
+ dict(emoji="🏭", title="隆德县六盘山工业园区管委会2025年“政府开放日”", cat="园区政府开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="http://www.nxld.gov.cn/xxgk/zfxxgkml/zfkfrhd/zfkfrgg/202509/t20250918_5026292.html",
+      value="隆德县六盘山工业园区管委会举办“政府开放日”，主题“透明政务·共筑园区”，开放对象为企业负责人代表、员工代表、社会公众、融媒体记者（企业员工代表比例不低于三分之二）；流程含浏览介绍（观摩园区展厅与办公场所、专人讲解机构设置与办事程序）、参观考察（走进样本重点企业了解生产经营与特色产品）、恳谈交流（座谈介绍重点工作亮点、现场解答诉求）、意见反馈（诉求分类建台账、15个工作日内办结反馈）。",
+      how="园区政府开放日把“政务公开”做成标准SOP——以“员工代表≥2/3”确保一线声音在场；用“展厅讲解→企业实地→座谈答疑→台账反馈”四步闭环把开放落到可办理；明确15个工作日办结反馈时限，把“听意见”变成“有回音”，提升园区公信力与企业满意度。",
+      note="适用：② 园区政府开放日（隆德县政府官网一手），园区管委会以透明服务者姿态，企业员工/公众代表走进园区与重点企业，政企/政民零距离、诉求有闭环。"),
+ dict(emoji="📱", title="河南联通2025客户开放日", cat="企业客户开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://app-api.henandaily.cn/mobile/view/news/443329073142300672531662",
+      value="河南联通以“用心联通·向新而行”为主题开展客户开放日，河南省消协、媒体代表及30余位客户嘉宾参加，党委书记、总经理华豫民携公司领导班子全程参与；专题汇报围绕“网络为基、数智引领、服务为上”展示5G-A、万兆宽带、政企全光网络及智慧家庭产品矩阵，通报暖心办实事、明白消费、适老升级、防骚扰反诈等举措；自由交流环节6名客户代表围绕网络体验、产品功能、服务响应提建议，相关部门负责人现场逐一回应。",
+      how="企业客户开放日核心是“领导真在场、意见真回应”——由一把手携领导班子出席释放重视信号；用智慧展厅沉浸式体验替代口头宣讲；设“自由交流+现场派单”把客户痛点当场分解给部门负责人；把“月月客户日+适老升级+反诈守护”做成常态化服务承诺，把开放日变信任纽带。",
+      note="适用：② 企业客户开放日（河南日报一手），企业高管以“客户满意是第一标准”的服务者姿态，客户/消协/媒体零距离检验服务成效，倾听不敷衍、专业不越界。"),
+ dict(emoji="🌐", title="国家电网2025“中国—巴西—智利云开放日”", cat="央企云开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="http://www.sgcc.com.cn/html/sgcc_main/gb/xwzx/ymbd/20251113/749028202511131845000001.shtml",
+      value="国家电网2025“中国—巴西—智利云开放日”在北京、武汉、龙岩与巴西里约、坎皮纳斯及智利圣地亚哥、瓦尔帕莱索三国七地同步举行，以“电网为媒、文化搭桥”依托汉剧载体搭建“一带一路”能源合作友谊之桥；活动分探访中国汉剧/智利舞蹈/巴西音乐三个篇章，下半场展示汉剧服化与戏曲化妆、身段体验；自2021年起连续5年举办云开放日，累计吸引1700余人参与，传播京剧/茶艺/汉剧等传统文化，以企业形象展示国家形象。",
+      how="央企云开放日用“文化+云端”突破地理边界——以汉剧等中华传统文化为载体，把能源合作讲成文明互鉴故事；三国七地同步+线上直播扩大海外触达；设服化体验/身段互动把文化变可参与；以“市场化、长期化、本土化”国际合作叙事传递企业全球责任，用软实力搭建民心相通之桥。",
+      note="适用：② 央企云开放日（国家电网官网/人民日报一手），企业以文化使者与国际合作者姿态，海外公众/媒体/员工家属云端参与，庄重亲和、专业叙事。"),
+ dict(emoji="🛢️", title="中国石化2025公众开放日", cat="央企公众开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=False, url="https://inengyuan.com/qiye/14477.html",
+      value="中国石化2025公众开放日于第56个世界地球日在沙特达曼中东研发中心启动，所属100余家企业在全国百余座城市对公众开放，近万名公众入厂参观，沉浸式体验石油化工产业链；胜利油田智慧油藏实验室用VR化身“地质勘探员”操作智能钻井，镇海炼化“白鹭有约”专题开放日全球慢直播，四川石油加能站直播90余万网友观看；在巴西、哈萨克斯坦、斯里兰卡等多国同步启动，累计举办超5000场次、27万人现场参观、超2亿人次“云游览”，成为中央企业首个品牌化公众开放日。",
+      how="把“工厂”变“可探秘的景区”——以“探秘智慧能源”统一品牌，用VR/慢直播/科普大篷车把高危石化产线做成安全可感的科普体验；海内外同步+云游览放大规模感；以白鹭园/青少年课堂把环保与公益叙事嵌进开放日，把“最危险”的行业讲成“最透明”的信任故事。",
+      note="适用：② 央企公众开放日（能源杂志转述中石化官方，二手优先补一手），企业以开放透明的产业科普者姿态，公众/青少年/海外社区零距离感知绿色能源，专业严谨、不娱乐化。"),
+ dict(emoji="♿", title="余江区残联“辅具适配零距离”政府开放月", cat="残联政府开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="https://www.yujiang.gov.cn/art/2025/8/14/art_8904_1573103.html",
+      value="余江区残联举办“辅具适配零距离 让残疾人生活更美好”政府开放月活动，宣讲《残疾人保障法》、解读残疾人证办理、辅助器具补贴、两项补贴等政策并答疑；发放征求意见表收集对残联工作的建议；康复机构提供个性化辅具适配服务；组织现场观摩单位日常运行；邀请基层残疾人工作者、康复机构、残疾人代表、市民代表、人大代表、政协委员、媒体记者等参与，深化政务公开与政民互动。",
+      how="残联政府开放日把“惠残政策”做成可办可感的服务现场——以政策宣讲+答疑把补贴/办证等硬核条款讲透；现场提供个性化辅具适配把“开放”落到真实服务；用征求意见表把残疾人诉求纳入台账；以“观摩+座谈”让社会各界看见残联工作成效，提升透明度与满意度。",
+      note="适用：② 残联政府开放日（余江区政府官网一手），残联以贴心服务者姿态，残疾人代表/市民/人大代表零距离了解惠残政策与辅具服务，尊重关怀、隐私有界。"),
+ dict(emoji="🌾", title="崖西镇“政务公开暖民心·乡村振兴共参与”政府开放日", cat="乡村振兴政府开放日", rel="supervisor", rel_label="上下级", rel_class="r2",
+      primary=True, url="http://www.rongcheng.gov.cn/art/2025/8/15/art_87144_5724165.html",
+      value="崖西镇开展“政务公开暖民心·乡村振兴共参与”政府开放日，群众代表、村“两委”代表、机关干部代表参加；实地体验镇便民服务中心“一窗受理、集成服务”，工作人员演示医保报销、低保申请等高频事项并指导线上操作，讲解扶持农业产业与乡村振兴政策成效；座谈会围绕乡村振兴扶持、民生保障、人居环境整治等热点解读，并现场答疑。",
+      how="乡镇政府开放日用“就近可感”打通乡村振兴最后一公里——以便民服务中心实景演示把高频事项讲清办顺；用“政策讲解+现场答疑”把乡村振兴红利讲明白；请村“两委”与群众代表同场座谈，把“政务公开”落到村口百姓关切，提升获得感与参与度。",
+      note="适用：② 乡村振兴政府开放日（荣成市政府官网一手），乡镇政府以务实服务者姿态，村民/村两委/机关干部零距离感受政务便捷与振兴成效，接地气、不形式。"),
+ # ===== ③ 高管间 (exec) =====
+ dict(emoji="🍳", title="包头市“政商恳谈早餐会”", cat="政企高管早餐会", rel="exec", rel_label="高管间", rel_class="r3",
+      primary=True, url="https://www.nmg.gov.cn/zwyw/ymjnmg/202506/t20250605_2734235.html",
+      value="包头市常态化开展“政商恳谈早餐会”，每月一次、近三年已34场，市长“做东”、企业家“做客”，市委书记/市长与各行业企业代表面对面交流；设计闭环流程：面对面收集问题与建议→市领导现场派单、职能部门现场接单→市委办建台账全程跟踪督办→建微信群随时线上联络；34场累计431家企业受邀，收集问题500余个、办结率超九成，并当场发放200页惠企政策指引与金融产品手册。",
+      how="政企高管早餐会以“低门槛、高闭环”替代正式会议——用早餐场景降低层级感、鼓励真问题；领导现场派单+部门现场接单把诉求当场分解；台账跟踪+微信群长效联络把“一顿饭”变“持续办”；以办结率与政策手册交付信任，树立营商口碑。",
+      note="适用：③ 政企高管早餐会（新华每日电讯一手），市委书记/市长以“做东解难题”的务实同侪姿态，企业家坦诚建言，商务化、以共同目标（营商环境）切入，忌幼稚游戏。"),
+ dict(emoji="🥢", title="梅河口市“政企早餐会”（三定三精·三级闭环）", cat="政企高管早餐会", rel="exec", rel_label="高管间", rel_class="r3",
+      primary=True, url="https://jl.people.com.cn/BIG5/n2/2025/1028/c349771-41393996.html",
+      value="梅河口市政企早餐会由市委书记、市长固定牵头，每期邀请分管市领导与涉企部门负责人按议题到场的“领导带头、部门联动、精准服务”模式；创新“三定三精”——定时定点精准对接、定题定向精准聚焦（一会一主题）、定人定员精准匹配（每场8-10家企业、按议题匹配分管领导与部门）；建立“个性问题现场解决、疑难问题清单管理、共性问题长效解决”三级闭环，累计举办7期破解瓶颈诉求102个，推动出台《推进工业经济高质量发展》等文件。",
+      how="政企早餐会用“机制化”替代随意座谈——固定由市领导牵头形成稳定预期；“一会一主题+部门按需到场”实现企业点单、部门接单的靶向服务；三级闭环把个性/疑难/共性诉求分别处置，让问题从“纸上谈”到“马上办”；以政策文件固化成果，把餐桌对话变营商环境平台。",
+      note="适用：③ 政企高管早餐会（人民网一手），市委书记/市长与企业家以“解难题”的务实同侪姿态对话，商务化、以产业发展共同目标切入，层级清晰不越界。"),
+ dict(emoji="🤝", title="中国新加坡商会·上海 × 大华银行“CEO闭门圆桌”", cat="跨国企业CEO闭门", rel="exec", rel_label="高管间", rel_class="r3",
+      primary=True, url="https://singcham-shanghai.org/news/navigating-tomorrows-leadership-gonghuaweilailingdaoli",
+      value="中国新加坡商会·上海与新加坡大华银行（中国）联合主办“Navigating Tomorrow's Leadership”CEO闭门圆桌，于上海浦东邀请制集结28位行业领袖，围绕“CEO Leadership for Tomorrow: Navigating Complexity, Purpose, and Transformation”展开战略对话；参会者横跨正大集团、携程、霍尼韦尔、罗克韦尔、新百伦、凯德、胜科能源、商汤等中外企业一把手，以闭门、邀请制保障坦诚交流。",
+      how="跨国企业CEO闭门圆桌用“邀请制+闭门”保障高管对话质量——以明确战略主题（复杂性/使命/转型）替代泛社交；精选同量级一把手确保对话对等；闭门环境降低表态压力、鼓励坦诚；由商协会+金融机构联合主办提供中立背书，把 networking 升级为战略互鉴。",
+      note="适用：③ 跨国企业CEO闭门会（中国新加坡商会官方一手），中外企业一把手以同侪战略伙伴姿态对话，商务化、以专业与共同挑战（转型/不确定性）切入，忌幼稚互动。"),
+]
+
+def card_html(c):
+    src_label = "一手" if c["primary"] else "二手"
+    src_class = "b1" if c["primary"] else "b2"
+    return (
+        '    <div class="hl">\n'
+        '      <div class="top"><span class="emoji">%s</span><h3>%s</h3>'
+        '<span class="cat">%s</span><span class="badge %s">%s</span>'
+        '<span class="badge %s">%s</span></div>\n'
+        '      <p class="val">%s</p>\n'
+        '      <details class="exec"><summary>怎么做</summary><div class="inner">%s</div></details>\n'
+        '      <div class="src">🔗 <a href="%s" target="_blank">%s</a></div>\n'
+        '      <div class="note">%s</div>\n'
+        '    </div>\n'
+    ) % (c["emoji"], c["title"], c["cat"], c["rel_class"], c["rel_label"],
+         src_class, src_label, c["value"], c["how"], c["url"], c["url"], c["note"])
+
+def section_html(label_class, h2, tag, cards):
+    body = "".join(card_html(c) for c in cards)
+    return ('  <div class="sec %s">\n    <h2>%s</h2>\n    <span class="tag">%s</span>\n  </div>\n'
+            '  <div class="grid">\n%s  </div>\n') % (label_class, h2, tag, body)
+
+sup = [c for c in CARDS if c["rel"] == "supervisor"]
+exe = [c for c in CARDS if c["rel"] == "exec"]
+print("sup=%d exe=%d total=%d" % (len(sup), len(exe), len(CARDS)))
+
+# ---------- 1) 增量页 ----------
+inc = ('<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n<meta charset="UTF-8">\n'
+       '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+       '<title>Open Day 开放日 · 二十七轮补采 (2026-08-26)</title>\n' + STYLE +
+       '</head>\n<body>\n<div class="wrap">\n'
+       '  <div class="hero">\n    <h1>🚪 Open Day 开放日 · 二十七轮补采</h1>\n'
+       '    <p>采集于 2026-08-26 ｜ 本轮 +%d（%d 上下级 + %d 高管间）｜ 六维评估通过 ｜ 一手优先 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）</p>\n'
+       '    <div class="relbar">\n      <span>② 领导↔员工（上下级，supervisor）</span>\n      <span>③ 领导↔领导（高管间，exec）</span>\n    </div>\n  </div>\n'
+       % (len(CARDS), len(sup), len(exe))
+       + section_html("sec2", "② 领导↔员工（上下级 · supervisor）", "%d 卡" % len(sup), sup)
+       + section_html("sec3", "③ 领导↔领导（高管间 · exec）", "%d 卡" % len(exe), exe)
+       + '  <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>\n'
+       + '</div>\n</body>\n</html>\n')
+with open(INC_PATH, "w", encoding="utf-8") as f:
+    f.write(inc)
+print("增量页写出:", INC_PATH, len(inc), "字节")
+
+# ---------- 2) 汇总页 ----------
+html = open(SUMMARY, encoding="utf-8").read()
+i_sec3 = html.find('<div class="sec sec3">')
+i_footer = html.rfind('<footer>')
+# inject into sec2 grid (before its grid-close) and sec3 grid
+def inject(region_start, region_end, cards):
+    region = html[region_start:region_end]
+    closes = [m.start() for m in re.finditer(r'</div>', region)]
+    grid_close = closes[-2]   # second-last </div> = grid close
+    abs_gc = region_start + grid_close
+    insert = "".join(card_html(c) for c in cards)
+    return html[:abs_gc] + insert + html[abs_gc:]
+# sec2 region = [:i_sec3]; inject sup
+html = inject(0, i_sec3, sup)
+# recompute i_sec3/i_footer after first inject (length changed)
+i_sec3 = html.find('<div class="sec sec3">')
+i_footer = html.rfind('<footer>')
+html = inject(i_sec3, i_footer, exe)
+
+# update header counts: 184 -> 194 ; 25 -> 28
+html = html.replace('<span class="tag">184 卡</span>', '<span class="tag">194 卡</span>', 1)
+html = html.replace('<span class="tag">25 卡</span>', '<span class="tag">28 卡</span>', 1)
+
+# hero tail append
+anchor = "二十六轮补采 2026-08-25(+6，啤酒40周年/造船实验室/联通黑龙江科创/威海博物馆/于都政企/济南活力民营·4②2③)"
+r27 = ("｜ 二十七轮补采 2026-08-26(+13：驻德使馆领事开放日/哈使馆走进中国开放日/驻澳部队军营开放/"
+       "空军航空开放/工业园区政府开放日/河南联通客户开放日/国网云开放日/中石化公众开放日/余江残联开放日/崖西乡村振兴开放日·10② "
+       "+ 包头政商早餐会/梅河口政企早餐会/中新商会CEO闭门圆桌·3③)")
+if anchor in html:
+    html = html.replace(anchor, anchor + r27, 1)
+else:
+    print("WARN: hero anchor not found")
+
+with open(SUMMARY, "w", encoding="utf-8") as f:
+    f.write(html)
+print("汇总页更新:", SUMMARY, html.count('class="hl"'), "卡")
+
+# ---------- 3) index.json ----------
+d = json.load(open(INDEX, encoding="utf-8"))
+new_entries = []
+for c in CARDS:
+    new_entries.append({
+        "title": c["title"],
+        "normKey": c["title"],
+        "url": c["url"],
+        "sourceType": "primary" if c["primary"] else "secondary",
+        "relation": c["rel"],
+        "summary": "**文章摘要**  \n" + c["value"] + "\n\n**怎么做**  \n" + c["how"]
+                   + "\n\n**适用关系**  \n" + c["note"],
+        "topic": "openday",
+        "source": "web",
+    })
+# dedup guard: drop any whose url already in index
+existing = {x.get("url", "").strip() for x in d}
+before = len(d)
+added = 0
+for e in new_entries:
+    if e["url"] in existing:
+        print("SKIP dup:", e["url"])
+        continue
+    d.append(e)
+    existing.add(e["url"])
+    added += 1
+json.dump(d, open(INDEX, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+print("index.json: before=%d added=%d total=%d" % (before, added, len(d)))
+
+# persist card list for later steps (obsidian/lexiang)
+with open(os.path.join(KC, "_openday_r27_cards.json"), "w", encoding="utf-8") as f:
+    json.dump({"cards": CARDS, "inc": INC_NAME, "date": DATE}, f, ensure_ascii=False, indent=2)
+print("DONE build")
