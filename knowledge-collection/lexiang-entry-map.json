@@ -298,10 +298,10 @@
     "note": "轮次页 R23 (+10)"
    },
    {
-    "date": "20260825",
+    "date": "2026-08-25",
     "entry_id": null,
-    "name": "offsite-20260825.html",
-    "note": "轮次页 R27 (+7)｜上传待补（token 过期，待重连乐享 MCP 后跑 _put_offsite_r27_lexiang.py 补传并回填 entry_id）"
+    "name": "offsite-2026-08-25-r27.html",
+    "note": "轮次页 R27（+17：早前预置 7 卡 + 本轮执行 10 卡）｜上传待补（token 过期，待重连乐享 MCP 后补传并回填 entry_id）"
    }
   ]
  },
