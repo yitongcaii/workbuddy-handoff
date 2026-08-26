@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>员工大会 · 知识采集卡片墙</title>
+<style>
+:root{
+  --bg:#f4f6fb; --card:#ffffff; --ink:#1f2430; --sub:#5b6478;
+  --accent:#6c5ce7; --accent2:#00b8d9; --chip:#eef0ff;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}
+.wrap{max-width:1080px;margin:0 auto;}
+.hero{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:30px 32px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}
+.hero h1{font-size:28px;font-weight:800;letter-spacing:1px;margin-bottom:8px;}
+.hero p{font-size:14px;opacity:.95;}
+.relbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;}
+.relbar span{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}
+.sec{margin:30px 0 12px;display:flex;align-items:center;gap:10px;}
+.sec h2{font-size:19px;font-weight:800;}
+.sec .tag{font-size:12px;padding:4px 12px;border-radius:12px;font-weight:700;}
+.sec3 .tag{background:#f3e8ff;color:#7b2cbf;} .sec3 h2{color:#7b2cbf;}
+.sec2 .tag{background:#fff3e0;color:#c0651a;} .sec2 h2{color:#c0651a;}
+.sec1 .tag{background:#eaf2ff;color:#2b6cb0;} .sec1 h2{color:#2b6cb0;}
+.sec .desc{font-size:12.5px;color:var(--sub);margin-left:2px;}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.hl{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.emoji{font-size:22px;}
+.hl h3{font-size:16px;font-weight:700;flex:1;min-width:120px;}
+.cat{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}
+.badge{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}
+.b2{background:#fff1e6;color:#c0651a;}
+.r1{background:#eaf2ff;color:#2b6cb0;}
+.r2{background:#fff3e0;color:#c0651a;}
+.r3{background:#f3e8ff;color:#7b2cbf;}
+.val{font-size:13.5px;color:var(--sub);}
+.exec{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}
+.exec summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}
+.exec .inner{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}
+.src{font-size:12px;word-break:break-all;}
+.src a{color:var(--accent2);text-decoration:none;}
+.note{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}
+
+footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+<p style="margin:0 0 16px"><a href="staff-meeting.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📑 返回累计卡片墙 →</a></p>
+  <div class="hero">
+    <h1>🎤 员工大会 · 第二十七轮增量页</h1>
+    <p>采集于 2026-08-26（第二十七轮 +11）｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）</p>
+    <div class="relbar">
+      <span>② 领导↔员工（上下级，supervisor）</span>
+      <span>③ 领导↔领导（高管间，exec）</span>
+    </div>
+  </div>
+  <div class="sec sec3">
+    <h2>③ 领导↔领导（高管间 · exec）</h2>
+    <span class="tag">3 卡（本轮新增）</span>
+  </div>
+  <div class="grid">    <div class="hl">
+      <div class="top"><span class="emoji">🚀</span><h3>汇川技术董事长2026年度演讲·「愿力」以人为先+AI+</h3><span class="cat">高管演讲</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
+      <p class="val">汇川技术董事长朱兴明2026年度演讲实录：2026定调「人先年」，核心是激发员工「愿力」——唤醒独立人格，让员工内心安放与公司的使命愿景高度同频共振；提出与员工一起规划人生战略。三大时代挑战：①AI技术革命（"不拥抱就下岗"，敢把AI做成盈利组织、给钱给授权）②第三次能源革命 ③地缘政治黑天鹅。倡导"追求人生40%的快乐"，让每个汇川人的心灵安放与使命价值观结合，同频共振成强大力量。高管年度演讲把"战略"翻译成"人的愿力"，是领导↔全员（含新兵）战略与文化同频的一手范式。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">高管做年度演讲，别只讲战略数字——先讲"人"：把宏大战略翻译成员工的"愿力与人生战略"（同频共振），再落到具体时代挑战与公司的应对（AI/能源/地缘），给员工"敢想就投钱授权"的真实信号；结尾回到"人的快乐与意义"，让战略有温度。</div></details>
+      <div class="src">🔗 <a href="https://new.qq.com/rain/a/20260206A038ST00?refer=cp_1009" target="_blank">new.qq.com/rain/a/20260206A038ST00?refer=cp_1009</a></div>
+      <div class="note">适用：适用：③ 高管在年度员工大会/战略发布会上的演讲范式（一手真实案例，战略→愿力→同频共振）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">🎙️</span><h3>领导力Town Hall临场纪律·确定性优先+Q&A定生死</h3><span class="cat">临场纪律</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">DarkStar 高管演讲教练拆解：Town Hall 失败很少因PPT弱，而是领导把它当"内部广播"、员工却把它当"压力测试"——员工在判读你稳不稳。三条纪律：①围绕"决策"而非"内容"组织——开场先定"这场结束员工必须怎么想/感受/做"，再筛素材，只留服务主线的；②用"当前现实→领导判断→下一步行动"三步走，避免"讲10分钟复杂、花30秒表态"；③难消息更要结构：说已知的、说未知的、说下一步，别软化每道棱角。Q&A是可信度生死线：短暂停顿显掌控，先给top line再补上下文，答非所问最毁信任。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">高管上台前先写"员工散场时必须不同的1个想法"，据此删素材；难消息用"已知/未知/下一步"三句兜底；Q&A被尖锐问题时停1秒、先给结论再补理由，绝不答非所问或慌答细节。</div></details>
+      <div class="src">🔗 <a href="https://www.darkstaruk.com/post/how-to-deliver-a-leadership-townhall-well" target="_blank">www.darkstaruk.com/post/how-to-deliver-a-leadership-townhall-well</a></div>
+      <div class="note">适用：适用：③ 高管/CEO 主持全员会/战略发布会的临场与信息控制纪律（确定性优先+Q&A可信度）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">📖</span><h3>Town Hall故事化叙事·钩子+使命+亲历+愿景四段式</h3><span class="cat">叙事结构</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">Corporate Streams 把 Town Hall 从"例行汇报"改成"能驱动行动的故事"：①钩子（Hook）开场抓注意 ②一句使命陈述（purpose）定调 ③个人亲历故事（anecdotes）把领导变"人"——分享历程/挑战/胜利，拉近距离 ④未来愿景（vision）给方向与意义，让员工看到自己角色连到大局；配合互动（投票/修辞问/QA）保持参与，数据要用"对听众意味着什么"的语境呈现而非堆数字。核心：员工记的是故事不是幻灯片。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">高管准备全员会讲话，别上来就念业务更新——用"钩子+一句使命+一段自己的真实故事+一个清晰愿景"四段式搭叙事；每页数据都回答"这对员工意味着什么"；把"我在讲"变成"我们在经历"。</div></details>
+      <div class="src">🔗 <a href="http://corporatestreams.com/blog/elevate-your-townhall-presentations-with-captivating-techniques" target="_blank">corporatestreams.com/blog/elevate-your-townhall-presentations-with-captivating-techniques</a></div>
+      <div class="note">适用：适用：③ 高管/创始人把全员会讲话做成"故事"而非"播报"（钩子+使命+亲历+愿景）。</div>
+    </div>
+</div>
+  <div class="sec sec2">
+    <h2>② 领导↔员工（上下级 · supervisor）</h2>
+    <span class="tag">8 卡（本轮新增）</span>
+  </div>
+  <div class="grid">    <div class="hl">
+      <div class="top"><span class="emoji">💎</span><h3>中国珠宝2026工作会·董事长把战略"解码"为任务</h3><span class="cat">战略解码</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">中国珠宝2026年度工作会（保利工艺旗下，央企）：董事长张义静总结讲话，不空喊口号，而是把"十五五"战略解码为可执行的三点要求——①锤炼战略执行力：把战略目标解码为具体任务，压实责任链条、协同破解难题，确保执行不走样见实效；②加强市场化意识：树牢自强理念、主动融入市场，强化业务穿透管控与核心竞争力；③激发组织新活力：人力资源优化配置、构建协同格局、以绩效创领担当作为。保利工艺董事长李晶结合自身经历强调摆脱路径依赖、激发组织与个人活力。领导↔全员把"大战略"翻译成"每人具体动作"的一手范式。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">领导在年度工作会/员工大会讲话，把战略落成"三点可执行的硬要求"（解码到任务/责任链/市场化/组织活力），而非只念愿景；用"你要做什么"替代"我们要努力"，让员工知道战略落到自己岗位是什么。</div></details>
+      <div class="src">🔗 <a href="https://www.163.com/dy/article/KKFFITV205388169.html" target="_blank">www.163.com/dy/article/KKFFITV205388169.html</a></div>
+      <div class="note">适用：适用：② 领导在年度工作会/员工大会把战略解码为具体任务与责任链（一手央企范式）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">⚡</span><h3>国家电网2026总部员工大会·董事长"建设一流总部"三大责任</h3><span class="cat">总部定位</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">国家电网2026年总部员工大会：董事长张智刚出席讲话，围绕"建设坚强有力的一流总部"提三定位——①履行国家战略使命的国有重点企业（以更坚定态度推动做强做优做大，统筹"三大责任"）②保障国家能源安全的电力骨干企业（更大力度加快发展转型，保经济增长供电）③服务国计民生的公用事业企业（更高标准当电力先行官、架党群连心桥）。强调总部作为"指挥部"，要对标"让党中央放心、让人民群众满意"的模范机关，打造政治过硬/管理现代/创新高效/服务赋能/清正廉洁"五个总部"。领导↔总部员工把"总部价值"定义为"服务与赋能"的一手范式。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">领导对总部/职能员工讲话，别只压指标——把总部定位成"指挥部+服务赋能勤务兵"，用"三大责任/五个总部"把宏大使命翻译成总部每人"服务一线、赋能基层"的具体角色，让职能岗也看到自身战略价值。</div></details>
+      <div class="src">🔗 <a href="https://cpnn.com.cn/news/nyqy/202602/t20260225_1867726.html" target="_blank">cpnn.com.cn/news/nyqy/202602/t20260225_1867726.html</a></div>
+      <div class="note">适用：适用：② 领导对总部/职能员工讲话，把"总部价值"立为服务赋能（一手央企范式）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">🌸</span><h3>完美中国2026员工大会·CEO"五关键词+一锚双轮三维"演讲</h3><span class="cat">高管演讲</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">完美中国2026员工大会：CEO彭志红《以春为序 共赴花开》主题演讲，用"破局向新/升维进化/笃定深耕/韧性增长/担当向善"五个关键词回顾2025、筑牢底色；面对2026机遇与不确定，提出"一锚定心、双轮驱动、三维突破"核心方针——以"共同成长 完美生活"价值主张为精神引领，深化"荟生活/荟创业"双板块，围绕业绩突破/运营提效/健康发展三维提升核心竞争力。董事长古润金讲政策机遇，副董事长许国伟讲"领导力+执行力+贯彻力"与拥抱AI。高管团队用"关键词+方针"把战略讲成员工可记可传的一手范式。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">高管在员工大会演讲，用"几个关键词+一句核心方针"搭记忆点（如五关键词+一锚双轮三维），让员工散场能复述战略；把"共同成长"价值主张当精神锚，连到每个板块与每个人的动作。</div></details>
+      <div class="src">🔗 <a href="https://www.163.com/dy/article/KNBCABRS0534NBSP.html" target="_blank">www.163.com/dy/article/KNBCABRS0534NBSP.html</a></div>
+      <div class="note">适用：适用：② 高管在员工大会用"关键词+核心方针"搭战略记忆点（一手企业范式）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">🏛️</span><h3>公司2026总部员工大会·党委书记"领航者/牵线人/勤务兵"三重角色</h3><span class="cat">总部赋能</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">某建筑央企2026年总部员工大会：党委书记、董事长卢华勇讲话，给总部员工立三重角色——①战略引领"领航者"：以战略清醒把准航向、破解迷雾；②协同联动"牵线人"：激活体系实现"兵团作战"（房建/基建/总包/专业工程环环相扣）；③赋能基层"勤务兵"：总部价值不在"管得多"而在"服务好、赋能准"，让一线轻装上阵。并提"锻造新能力"（多维攻坚营销力/专精细作履约力/微处掘金价值创造力）与"展现新作风"（创新/实干/崇廉）。把"总部"从"管理者"重新定义为"服务者"的一手范式。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">领导对总部/机关员工讲话，用"领航者+牵线人+勤务兵"三重角色重定总部定位——核心落点是"勤务兵"（服务赋能一线）；配"新能力/新作风"具体要求，让机关岗从"管"转向"服"。</div></details>
+      <div class="src">🔗 <a href="https://www.sohu.com/a/990754506_121123683" target="_blank">www.sohu.com/a/990754506_121123683</a></div>
+      <div class="note">适用：适用：② 领导对总部/机关员工讲话，把总部重定义为"服务赋能勤务兵"（一手央企范式）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">🗂️</span><h3>全员会议程设计·轮换主持+提前征集+AQAs</h3><span class="cat">议程设计</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">WeWork 拆解高效全员会：①定形式与议程——避免变成"没人想听的讲座/网课"，要多样声音与互动；②轮换主持——每场由不同团队成员主持并串场（Managed by Q 案例：开场新员工介绍+晋升公告、结尾提前征集的 shoutouts 与"AQAs/Ask Q Anything"、会前+现场双通道收问）；③纪律——"无议程不开会"、每板块设起止时间留转场缓冲、50分钟样板议程（介绍5/新人晋升5/闪电演讲15/专题15/表彰10/QA10）；④明确 owner（行政/EA/HR）。核心：对"内容共享什么、想让人带走什么"有纪律，时间有限要精巧用。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部组织者办全员会，别让领导从头讲到底——轮换主持（不同团队轮流串场）、开场新人介绍+结尾 shoutout、会前+现场双通道征集问题（AQAs）、严格50分钟议程各板块限时；明确 single owner 防扯皮。</div></details>
+      <div class="src">🔗 <a href="https://www.wework.com/ideas/professional-development/business-solutions/how-to-plan-an-effective-all-hands-meeting" target="_blank">www.wework.com/ideas/professional-development/business-solutions/how-to-plan-an-effective-all-hands-meeting</a></div>
+      <div class="note">适用：适用：② 内部组织者/HR 设计全员会议程（轮换主持+提前征集+AQAs+限时样板）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">🛡️</span><h3>全员会真匿名Q&A·员工验证+统一管理空间破"寒蝉"</h3><span class="cat">匿名问答</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Pigeonhole Live 内部沟通方案：员工在领导/同事注视下往往不敢问尖锐问题，真匿名Q&A能让人说真话——要点：①Purposeful Anonymity（可按会话选开匿名）、员工经邮件/SSO验证身份但提问真匿名，兼顾可信与安全感；②审核（moderation）随时开，敏感问题可私有回复；③统一管理空间（Unified engagement space）——把线下口头问与线上聊天问汇到一个 URL 的 Q&A+投票+词云，远程与现场同等发言权；④会前就发链接让员工提前提问投票，领导会前先答部分，减少现场 reactive。把"单向广播"变"真实对话"。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部沟通/HR 办全员会，开"真匿名+员工验证"Q&A（防水军又保安全），会前就发链接让全员提前提问投票、领导先答一部分；用统一互动空间把现场口头与线上聊天合流，远程与现场同权；敏感问题私有回复，破"没人敢问"的寒蝉。</div></details>
+      <div class="src">🔗 <a href="https://pigeonholelive.com/solutions/internal-communications/" target="_blank">pigeonholelive.com/solutions/internal-communications/</a></div>
+      <div class="note">适用：适用：② 内部沟通/HR 建全员会真匿名Q&A与心理安全感（验证身份+真匿名+统一管理空间）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">📊</span><h3>全员会Q&A投票排序·匿名预征集+现场QR投票定优先</h3><span class="cat">Q&A排序</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Fast-Poll 把 Town Hall 的 Q&A 从"混乱自由谈"变"数据驱动对话"：两步——①会前一周匿名预征集问题（保心理安全，让薪酬/战略转向/领导变动等敏感问题敢于提），HR/内通团队收齐后归并相似、筛出 Top10-15 做现场投票 ballot；②现场用投屏 QR 码让员工手机秒投，实时出结果，优先答最高票问题，让"集体声音"直接定议程。价值：避免被最敢说/最高层声音主导、沉默多数被埋，透明排序本身就在建信任。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部沟通/HR 办全员会Q&A，会前一周匿名预征集、归并去重筛 Top 问题；现场投屏 QR 让员工实时投票排序，优先答最高票——把"谁敢抢麦"变成"集体票选"，让沉默多数真被听见。</div></details>
+      <div class="src">🔗 <a href="https://fast-poll.com/use-cases/human-resources-workplace/all-hands-meeting-qa-poll" target="_blank">fast-poll.com/use-cases/human-resources-workplace/all-hands-meeting-qa-poll</a></div>
+      <div class="note">适用：适用：② 内部沟通/HR 用"匿名预征集+现场投票排序"让全员Q&A代表集体声音（数据驱动）。</div>
+    </div>
+    <div class="hl">
+      <div class="top"><span class="emoji">📡</span><h3>真实企业直播全员会案例·联想誓师2万员工15地云合唱云颁奖</h3><span class="cat">直播案例</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">微吼直播真实案例：①联想誓师大会——2小时，北京/上海/广州/安徽/四川等15地共2万余名员工进直播间，最高并发数万；开场MV全员云合唱"联想之歌"，CEO杨元庆演讲，评论区刷定制"元庆表情包"；每位高管上台员工刷针对性礼物表情包；整场云合唱/云贯宣/云颁奖/云誓师四环节情绪递进；实名登录+ITcode脱敏+时长跳出监控的严密参会管理；总体支出同比省60%、筹备至完成仅1月。②极飞科技年度大会数万观看，带参二维码裂变打通1000+经销商。把"直播全员会"做成可量化、可复制的真实样本。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部传播/HR 办大型直播全员会，学联想"云合唱+云颁奖+表情包互动"四环节情绪递进；用实名登录+脱敏+时长监控做严密参会管理；把直播当"可复制活动产品"打磨（预案彩排+互动节奏表），成本可控、触达可量化。</div></details>
+      <div class="src">🔗 <a href="https://www.vhall.com/archives/70.html" target="_blank">www.vhall.com/archives/70.html</a></div>
+      <div class="note">适用：适用：② 内部传播/HR 办大型直播全员会的真实案例范式（云合唱/云颁奖/严密参会管理/成本可控）。</div>
+    </div>
+</div>
+<footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
+</div>
+</body>
+</html>
