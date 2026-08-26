@@ -12471,5 +12471,95 @@
     "relation": "exec",
     "summary": "组织变革方法论对比：计划式变革(英雄领导强推)失败率高达 70%；涌现式变革(开放空间/World Café/欣赏式探询)把“改变想法”放“改变行为”前。AI 由 David Cooperrider 创立(1987)，用积极提问引出参与。案",
     "topic": "icebreaker"
+  },
+  {
+    "title": "系统化荣誉体系·「4343」架构（推荐型/评选型/积分型三维 + 四维激励矩阵）",
+    "normKey": "系统化荣誉体系·「4343」架构（推荐型/评选型/积分型三维 + 四维激励矩阵）",
+    "url": "https://www.cptu.org.cn/html1/report/2510/3215-1.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "宜宾邮政《荣誉体系建设方案》以「4343」架构把荣誉表彰做成体系化生态：四大原则（党建引领/战略导向/公平公正/责任动态）定盘；三元荣誉维度——推荐型（本级荣誉优先推上级表彰，建基层→公司→上级晋升链）、评选型（综合类+专业类，按业务条线设",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "多层级表彰策略·同侪/经理/公司三层分立（经理辅导发展 + 公司奖项战略信号）",
+    "normKey": "多层级表彰策略·同侪/经理/公司三层分立（经理辅导发展 + 公司奖项战略信号）",
+    "url": "https://beefed.ai/zh/multi-layered-recognition-strategy",
+    "sourceType": "secondary",
+    "relation": "supervisor,exec",
+    "summary": "把表彰拆成彼此独立、各有设计规则/所有者/节奏/指标的三层：①经理认可（角色层级辅导）——把个人贡献连职业路径、给建设性反馈、公开提升与目标一致的典型，机制=安排好的 1:1 表扬、经理提交的里程碑提名、绩效对话校准、经理认可频率记分卡；经",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "员工感恩与认可制度·低成本高回报（经理工具包 + 反圈子文化 + 认可/薪酬边界）",
+    "normKey": "员工感恩与认可制度·低成本高回报（经理工具包 + 反圈子文化 + 认可/薪酬边界）",
+    "url": "https://renshiquan.com/blog/yuangong-gengxie-zhidu",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "认可 vs 薪酬边界先划清：认可=及时/具体/行为导向/金额可小；薪酬=市场对标/岗位价值/绩效结果；禁止用「感谢信」替代加班费/提成/法定补偿。三层认可设计：即时（感谢卡/IM 公开表扬·随时）、团队（周会「本周之星」·每周）、公司（季度",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "企业奖项分类菜单·十大类目设计参考（年度/服务/领导卓越/销售/团队/创新/客服/新星/文化/突出）",
+    "normKey": "企业奖项分类菜单·十大类目设计参考（年度/服务/领导卓越/销售/团队/创新/客服/新星/文化/突出）",
+    "url": "https://www.trophyspecialists.com.au?p=1404075/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "设计颁奖节目时，奖项类目决定「表彰什么行为」。澳洲企业常用十类：①Employee of the Year（年度最佳，综合绩效+价值观+领导力+敬业）；②Years of Service（长期服务，5/10/15/20/25 年里程碑，定制",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "颁奖典礼 Run Sheet·运营级执行文档（时段/单一owner/cue/AV/升级预案）",
+    "normKey": "颁奖典礼 Run Sheet·运营级执行文档（时段/单一owner/cue/AV/升级预案）",
+    "url": "https://getout.sg/award-ceremony-run-sheet-singapore",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖之夜真正管现场的是 run sheet，不是节目单。它告诉团队：发生什么、何时、谁负责、什么 cue 触发下一步、时间失控怎么办。核心结构（每行列唯一 owner）：Time（用真实钟点非粗时长）/Segment（award block",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "领导力卓越奖评选标准·员工提名直属经理（协作/敬业/创新/福祉 四维度）",
+    "normKey": "领导力卓越奖评选标准·员工提名直属经理（协作/敬业/创新/福祉 四维度）",
+    "url": "https://staffassembly.uci.edu/excellence-in-leadership-awards/",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "UC Irvine「Excellence in Leadership Awards」由员工提名直属经理/主管，表彰把人才导向组织目标的中坚领导者。四评选维度：①Collaboration——跨团队/跨学科建信任合作、纳入多元视角、可衡量的合",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "认可工具与培训·把 Recognition Index 从低→平均 +745%、→高 +869%",
+    "normKey": "认可工具与培训·把 Recognition Index 从低→平均 +745%、→高 +869%",
+    "url": "https://production.humanresourcesonline.net/hr-s-guide-the-best-ways-to-provide-rewards-recognition-to-employees-chi",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "O.C.Tanner 研究：企业要把认可指数（RI）从低变平均，基本表扬工具=个性化感谢讯息、会议/聚会的口头表扬、线上正式表扬平台；要从平均变高，认可计划须含虚拟货币表扬（电子贺卡）、象征性奖励（尤其受尊崇的成就）、含其他获奖者的庆祝、获",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "2026 象征性奖项设计趋势·价值叙事刻字 + NFC 智能奖 + 可堆叠里程碑 + 可持续",
+    "normKey": "2026 象征性奖项设计趋势·价值叙事刻字 + NFC 智能奖 + 可堆叠里程碑 + 可持续",
+    "url": "https://www.terryberry.com/blog/symbolic-employee-awards-for-2026",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "2026 象征性奖项从「通用摆设」转向有故事、可集成、可成长：①Purpose-Driven——围绕核心价值观做定制雕塑（如互锁环=协作、发光结构=创新），慈善影响代币把实体纪念+以获奖者名义捐款结合，让象征性认可变真实社会影响；②高度个性",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
+  },
+  {
+    "title": "2026 颁奖物料设计·高管/董事会/投资者认可礼品逻辑 + 远程居家展示设计",
+    "normKey": "2026 颁奖物料设计·高管/董事会/投资者认可礼品逻辑 + 远程居家展示设计",
+    "url": "https://fabit3d.com?p=5145/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管与领导者奖项设计有特定挑战：领导奖项常比个人贡献者更公开、可能被外部传播拍摄，设计标准须匹配这种可见度——高管奖项应与运营奖项「真正差异化」，若 CEO 奖只是员工季度奖的放大版，层级信号就丢了；用 premium 材质+定制+精工营造",
+    "topic": "award",
+    "dateCollected": "2026-08-27"
   }
 ]

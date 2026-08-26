@@ -1,0 +1,249 @@
+# -*- coding: utf-8 -*-
+import json, os, re
+
+KC = r"C:\Users\v_yitcai\WorkBuddy\20260728154244\knowledge-collection"
+AWARD = os.path.join(KC, "award")
+VAULT = r"C:\Users\v_yitcai\Documents\Obsidian\活动\知识采集库"
+RUN_DATE = "2026-08-27"
+ROUND = "二十六轮 enrich 2026-08-27(+9)"
+
+def esc(s):
+    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+# ---- Cards (R26, 2026-08-27) — 仅 ②上下级 / ③高管间，0 peer ----
+cards = [
+ {
+  "emoji":"🏛️","cat":"荣誉体系","rel":"supervisor","st":"一手",
+  "title":"系统化荣誉体系·「4343」架构（推荐型/评选型/积分型三维 + 四维激励矩阵）",
+  "val":"宜宾邮政《荣誉体系建设方案》以「4343」架构把荣誉表彰做成体系化生态：四大原则（党建引领/战略导向/公平公正/责任动态）定盘；三元荣誉维度——推荐型（本级荣誉优先推上级表彰，建基层→公司→上级晋升链）、评选型（综合类+专业类，按业务条线设特色荣誉）、积分型（非管理序列「荣誉员工」，近2年考评积分累计入围，认可长期贡献）；四维激励机制矩阵（精神赋能/物质激励/成长支持/福利保障）多维度激活。统一命名规范既显地方特色又彰专业差异。机制要点：荣誉工作体系化、制度化、规范化，让表彰成为业务突破「助推器」而非年终仪式。",
+  "how":"② 工会/HR/党建落地：①以「四大原则」为体系根基，荣誉与战略同频；②设三元维度全覆盖——推荐型搭晋升链、评选型按综合/专业分设、积分型认长期贡献；③四维矩阵组合精神+物质+成长+福利，避免只发钱；④统一命名规范+动态管理，让荣誉体系长效运转。适合大型组织/国企把零散评优升级为立体荣誉生态。",
+  "url":"https://www.cptu.org.cn/html1/report/2510/3215-1.htm",
+  "note":"② 工会/HR/党建把荣誉表彰升级为「4343」系统化生态（推荐/评选/积分三维+四维激励矩阵），大型企业荣誉体系治理 SOP（一手·四川省邮政工会）。"
+ },
+ {
+  "emoji":"🪜","cat":"多层表彰","rel":"supervisor,exec","st":"二手",
+  "title":"多层级表彰策略·同侪/经理/公司三层分立（经理辅导发展 + 公司奖项战略信号）",
+  "val":"把表彰拆成彼此独立、各有设计规则/所有者/节奏/指标的三层：①经理认可（角色层级辅导）——把个人贡献连职业路径、给建设性反馈、公开提升与目标一致的典型，机制=安排好的 1:1 表扬、经理提交的里程碑提名、绩效对话校准、经理认可频率记分卡；经理是团队参与度的最大单一杠杆，需脚本+15-20分钟培训+Manager Recognition Playbook；②公司奖项（战略、稀缺、高可见）——按季/年设、明确评分标准、跨职能提名小组、叙事素材（获奖者聚焦幻灯片/内网文章），合适时挂钩奖励与职业机会，治理=奖项章程+提名透明+多样性目标；③（同侪层略——本知识库仅保留上下级/高管间两档）。设计原则：以结果为导向（每类映射业务结果）、高质量（真实/及时/个性化/公平/内嵌流程）五大支柱预测参与度与留存。",
+  "how":"② 经理层：用 1:1 表扬+里程碑提名+频率记分卡把认可做成发展杠杆，给经理脚本与 Playbook 降门槛；③ 公司层：把稀缺奖项当战略信号，章程化+透明提名+叙事传播，挂钩职业机会。用「同侪做规模、经理促发展、公司传信号」分工，避免三类混成一团噪声。",
+  "url":"https://beefed.ai/zh/multi-layered-recognition-strategy",
+  "note":"②经理+③公司奖项：三层表彰分立设计（同侪层本库剔除），经理用 1:1+记分卡促发展、公司用稀缺奖项传战略信号（二手·AI 实务）。"
+ },
+ {
+  "emoji":"💝","cat":"认可体系","rel":"supervisor","st":"二手",
+  "title":"员工感恩与认可制度·低成本高回报（经理工具包 + 反圈子文化 + 认可/薪酬边界）",
+  "val":"认可 vs 薪酬边界先划清：认可=及时/具体/行为导向/金额可小；薪酬=市场对标/岗位价值/绩效结果；禁止用「感谢信」替代加班费/提成/法定补偿。三层认可设计：即时（感谢卡/IM 公开表扬·随时）、团队（周会「本周之星」·每周）、公司（季度/年度里程碑奖）。经理工具包：写有效感谢=「你做了什么+带来什么影响+我的感谢」，反例「辛苦了/再接再厉」；培训经理避免只表扬加班时长，改表扬协作/质量/客户好评等可复制行为。非物质清单：与高管咖啡时间（限量预约）、内部分享署名录制、弹性上下班 1 小时、优先外部大会名额。公平防「圈子文化」：年度大奖提名开放 2 周实名推荐附事例，评审团含 HR/职工代表/跨部门总监，获奖事迹 intranet 公示可验证事实，对管理者设「团队认可覆盖率」观察值防只夸亲信。与绩效/晋升衔接：认可记录作晋升答辩补充，不替代绩效等级。",
+  "how":"② HR/经理落地：①先划认可与薪酬边界，绝用感谢替代法定补偿；②三层频率设计（即时/周/季年）；③给经理「行为+影响+感谢」模板与培训；④设提名开放+多方评审+公示防圈子文化；⑤认可记录接晋升但不改工资。预算≈人数×经理月额度×12，年度盛典≤福利预算 10%。",
+  "url":"https://renshiquan.com/blog/yuangong-gengxie-zhidu",
+  "note":"② HR/经理：低成本认可体系（经理感谢模板+反圈子文化+认可vs薪酬边界+预算粗算），可复用落地框架（二手·人事圈）。"
+ },
+ {
+  "emoji":"🗂️","cat":"奖项类目","rel":"supervisor","st":"二手",
+  "title":"企业奖项分类菜单·十大类目设计参考（年度/服务/领导卓越/销售/团队/创新/客服/新星/文化/突出）",
+  "val":"设计颁奖节目时，奖项类目决定「表彰什么行为」。澳洲企业常用十类：①Employee of the Year（年度最佳，综合绩效+价值观+领导力+敬业）；②Years of Service（长期服务，5/10/15/20/25 年里程碑，定制雕刻牌）；③Leadership Excellence（领导卓越，激励他人/辅导/战略思维/支持成长，适配经理主管与新兴领导者）；④Sales Achievement（销售成就，最高年销售/新客/留存/破纪录）；⑤Team Excellence（团队卓越，协作/创新/项目成功，共享 perpetual trophy 或成员各一）；⑥Innovation（创新，新想法/流程改进/业务转型）；⑦Customer Service Excellence（客服卓越，零售/医疗/专业服务高价值）；⑧Rising Star（新星，早期职业快速成长）；⑨Workplace Culture（文化，促协作/ embodied 价值观/positive 环境）；⑩Outstanding Achievement（突出成就，重大项目/业务结果/行业认可）。选料原则：按目的重要性选 premium 材质（水晶/玻璃/木牌/金属），每件定制刻名+奖项+公司 LOGO+成就+日期，把奖变成有意义的纪念。趋势：从销售/绩效扩展到创新/文化/福祉/协作。",
+  "how":"② HR/活动策划：①先按「想强化什么行为」定类目，避免奖项雷同（如「优秀员工」「最佳员工」名近易混）；②十类菜单按需组合，长期服务用里程碑、领导用卓越奖、一线用客服/新星；③材质与奖项重要性匹配（premium 给高可见度奖），定制刻字增意义；④类目随战略扩到创新/文化/福祉。",
+  "url":"https://www.trophyspecialists.com.au?p=1404075/",
+  "note":"② HR/活动：奖项类目 taxonomy（十大类+选料+定制原则），设计颁奖节目时对照补漏（二手·颁奖定制商）。"
+ },
+ {
+  "emoji":"📋","cat":"现场执行","rel":"supervisor","st":"二手",
+  "title":"颁奖典礼 Run Sheet·运营级执行文档（时段/单一owner/cue/AV/升级预案）",
+  "val":"颁奖之夜真正管现场的是 run sheet，不是节目单。它告诉团队：发生什么、何时、谁负责、什么 cue 触发下一步、时间失控怎么办。核心结构（每行列唯一 owner）：Time（用真实钟点非粗时长）/Segment（award block、nominee video、acceptance、dinner hold 等简标）/Owner（每条只能一人）/Stage 或 Emcee cue（精确口播或走位触发）/AV 或 ops cue（音光屏摄宴动作）/Escalation（presenter 迟到/获奖者缺席/用餐超时的处理）。Winner-call 做成可复用操作块：emcee 介绍类别→邀 presenter→AV 滚类别 slate→presenter 读确认卡→walk-up 音乐即时起→stage manager 接人站 photo mark→trophy 递交+握手+摄影计数固定顺序→emcee 无死空转下一组。若获奖者缺席，run sheet 须先写明由代表代领/hold/台上致谢不发奖。Programme（嘉宾看）展示公开序列，run sheet（组织者/emcee/舞台/AV/运营）控分钟级执行——两文档不同。",
+  "how":"② 活动执行/舞台监督：①用真实钟点列 run sheet，每条指定唯一 owner；②把 winner-call 固化为「介绍→滚屏→读卡→walk-up 音乐→接人→递奖→摄影」固定顺序；③AV cue（sting/lower third/黑场）与 emcee cue 对齐；④先写 escalation（缺席/迟到/超时），无 owner 会漂、无 cue 会卡。配 emcee brief 与彩排使用。",
+  "url":"https://getout.sg/award-ceremony-run-sheet-singapore",
+  "note":"② 活动执行/舞台监督：颁奖之夜运营级 run sheet 模板（owner+cue+AV+升级预案），可抄进 Excel/Sheets（二手·活动制作商）。"
+ },
+ {
+  "emoji":"🏅","cat":"领导奖评选","rel":"supervisor","st":"一手",
+  "title":"领导力卓越奖评选标准·员工提名直属经理（协作/敬业/创新/福祉 四维度）",
+  "val":"UC Irvine「Excellence in Leadership Awards」由员工提名直属经理/主管，表彰把人才导向组织目标的中坚领导者。四评选维度：①Collaboration——跨团队/跨学科建信任合作、纳入多元视角、可衡量的合作产出、超越单项目的伙伴关系可持续；②Employee Engagement——营造让员工感到被重视/有归属/被赋能的环境、参与实践的一致性、用反馈改进、辅导团队提升指标、主动征求并采纳员工意见；③Innovation——引入创想/技术改进流程服务成果、清晰挑战、可衡量影响、鼓励试错容错、让适应与创造力滋长；④Well-Being Support——优先团队身心/工作生活平衡、常态化福祉实践、降低压力改善气候、福祉举措的公平可及。Overall Award 需四维度均有深度持续影响。资格：仅经理/主管（staff appointment），每年可提名、每三年才获奖一次（除非换岗）；仅直接下属提名有效。颁奖在年度 Service Awards 举行，$1000 现金奖给 Overall。",
+  "how":"② HR/工会设计「领导奖」：①用员工提名直属经理的机制，让一线定义「好领导」；②四维度（协作/敬业/创新/福祉）量化评选标准；③设公平护栏（每年可提名、三年一获奖防垄断、仅 direct report 提名有效）；④与年度服务奖同台颁奖，增强仪式与可见度。把向下认可做成向上反馈通道。",
+  "url":"https://staffassembly.uci.edu/excellence-in-leadership-awards/",
+  "note":"② HR/工会：领导力卓越奖评选标准（员工提名经理·四维度+公平护栏），可作「向下评领导」奖项设计范本（一手·高校官方）。"
+ },
+ {
+  "emoji":"📈","cat":"认可培训","rel":"supervisor","st":"二手",
+  "title":"认可工具与培训·把 Recognition Index 从低→平均 +745%、→高 +869%",
+  "val":"O.C.Tanner 研究：企业要把认可指数（RI）从低变平均，基本表扬工具=个性化感谢讯息、会议/聚会的口头表扬、线上正式表扬平台；要从平均变高，认可计划须含虚拟货币表扬（电子贺卡）、象征性奖励（尤其受尊崇的成就）、含其他获奖者的庆祝、获奖后联谊时间、来自客户的认可、融合现有科技生态的表扬工具、针对性认可培训。关键：并非所有员工甚至领袖都懂如何给有意义认可，企业须集中资源做认可培训——把 RI 从低→平均，要向高级管理層、前线主管、所有团队成员讲清认可作用/如何个性化表扬/为何大小成就都表扬/为何是优先项/如何有目标地给认可；从平均→高，则重全面个性化、重影响、给指引让所有人得有意义时刻。两策略+适当工具，实现平均 RI 机会 +745%、高 RI +869%。",
+  "how":"② HR/高管落地：①提供分层表扬工具（个性化感谢/口头/线上平台/虚拟货币/客户认可）；②把认可培训当核心投入——对高管、前线主管、全员分别讲清「为什么+怎么做」；③用科技嵌入现有生态降低门槛；④以「个性化+影响+指引」把 RI 推高。数据说话：培训+工具使达到平均 RI 机会 +745%、高 RI +869%。",
+  "url":"https://production.humanresourcesonline.net/hr-s-guide-the-best-ways-to-provide-rewards-recognition-to-employees-chi",
+  "note":"② HR/高管：认可工具矩阵+针对性培训框架（RI 低→平均 +745%、→高 +869%），用数据论证培训投入（二手·HR Online/O.C.Tanner）。"
+ },
+ {
+  "emoji":"🎨","cat":"奖项物料","rel":"exec","st":"二手",
+  "title":"2026 象征性奖项设计趋势·价值叙事刻字 + NFC 智能奖 + 可堆叠里程碑 + 可持续",
+  "val":"2026 象征性奖项从「通用摆设」转向有故事、可集成、可成长：①Purpose-Driven——围绕核心价值观做定制雕塑（如互锁环=协作、发光结构=创新），慈善影响代币把实体纪念+以获奖者名义捐款结合，让象征性认可变真实社会影响；②高度个性化叙事刻字——弃用「谨表谢意」套话，改刻具体项目里程碑/团队原话/可量化影响，或用定制插画/压克力框描绘个人旅程；③可持续材料——FSC 认证木/原生石/100% 回收玻璃/海洋塑料，甚至可种植种子奖；④Tech-Integrated 智能奖——NFC 嵌入牌/币，轻触即开领导个性化视频/数字荣誉墙/peer 喊话 montage，实体奖配 LinkedIn 可分享数字凭证（认证/司龄里程碑）；⑤可堆叠模块化里程碑——每年加一块几何积木/挑战币进木框，可视化职业生涯成长，而非每年发孤立新物；⑥3D 打印释放复杂创意。对高管/董事会奖项，设计标准须反映更高可见度，与日常奖项显著差异化。",
+  "how":"③ 品牌/行政/高管：①高管奖项物料须与日常奖项显著差异化（premium 材质+定制+精工），视觉上拉开层级；②用价值叙事刻字+慈善代币把象征变意义；③NFC 智能奖让实体连数字荣誉墙/领导视频；④可堆叠模块让长期贡献可视化成长。让奖项「讲得出故事、连得上数字、看得到成长」。",
+  "url":"https://www.terryberry.com/blog/symbolic-employee-awards-for-2026",
+  "note":"③ 品牌/行政/高管：2026 象征性奖项设计趋势（叙事刻字/NFC 智能/可堆叠/可持续），高管奖项物料差异化（二手·颁奖定制商）。"
+ },
+ {
+  "emoji":"🏛️","cat":"高管物料","rel":"exec","st":"二手",
+  "title":"2026 颁奖物料设计·高管/董事会/投资者认可礼品逻辑 + 远程居家展示设计",
+  "val":"高管与领导者奖项设计有特定挑战：领导奖项常比个人贡献者更公开、可能被外部传播拍摄，设计标准须匹配这种可见度——高管奖项应与运营奖项「真正差异化」，若 CEO 奖只是员工季度奖的放大版，层级信号就丢了；用 premium 材质+定制+精工营造恰当区分。董事会与投资者认可礼品（IPO/重大收购/公司里程碑）更接近高端客户礼品逻辑，按同类别高价值标准做。高管退休纪念值得高投入——为场合专做、融入 career highlights/重大成就/个人元素，可陈列数十年的纪念。远程员工颁奖物料：居家展示、视频通话可见，尺寸/美学/居家适配不同于办公室奖；表彰时机须更 deliberate，建认可节奏（会议/活动专设时刻）防被运营内容挤掉。新兴类别：环境贡献/数字转型/社区影响/心理健康领导力，材料须呼应其价值（天然/回收/认证可持续来源）。",
+  "how":"③ 品牌/高管/行政：①高管奖项与运营奖项显著差异化，premium 材质+定制；②董事会/投资者里程碑礼品按高端客户礼品标准（IPO/收购/司庆）；③高管退休做专属纪念（career highlights+个人元素）；④远程获奖者物料考虑居家展示+视频可见，建专门认可节奏；⑤新兴类别（环境/数字/社区/心理）用料呼应价值。把「物质质量+用心设计」当组织认真对待认可的信号。",
+  "url":"https://fabit3d.com?p=5145/",
+  "note":"③ 品牌/高管/行政：高管/董事会/投资者认可礼品设计逻辑 + 远程居家展示物料（二手·3D 定制商）。"
+ },
+]
+
+def rel_badges(rel):
+    out=""
+    if "exec" in rel:
+        out+='<span class="badge r3">高管间</span>'
+    if "supervisor" in rel:
+        out+='<span class="badge r2">上下级</span>'
+    return out
+
+def card_html(c):
+    return (
+      '    <div class="hl">\n'
+      '      <div class="top"><span class="emoji">'+esc(c["emoji"])+'</span><h3>'+esc(c["title"])+'</h3>'
+      '<span class="cat">'+esc(c["cat"])+'</span>'+rel_badges(c["rel"])+'<span class="badge b2">'+esc(c["st"])+'</span></div>\n'
+      '      <p class="val">'+esc(c["val"])+'</p>\n'
+      '      <details class="exec"><summary>怎么做</summary><div class="inner">'+esc(c["how"])+'</div></details>\n'
+      '      <div class="src">🔗 <a href="'+c["url"]+'" target="_blank">'+esc(c["url"])+'</a></div>\n'
+      '      <div class="note">适用：'+esc(c["note"])+'</div>\n'
+      '    </div>\n'
+    )
+
+CSS = """<style>
+:root{--bg:#f4f6fb;--card:#ffffff;--ink:#1f2430;  --sub:#5b6478;--accent:#6c5ce7;--accent2:#00b8d9;--chip:#eef0ff;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:linear-gradient(135deg,#eef1ff 0%,#e6f7ff 100%);color:var(--ink);padding:28px 18px;line-height:1.6;}
+.wrap{max-width:1080px;margin:0 auto;}
+.hero{background:linear-gradient(135deg,var(--accent) 0%,var(--accent2) 100%);border-radius:22px;padding:26px 30px;color:#fff;box-shadow:0 14px 40px rgba(108,92,231,.25);margin-bottom:22px;}
+.hero h1{font-size:24px;font-weight:800;letter-spacing:1px;margin-bottom:6px;}
+.hero p{font-size:13px;opacity:.95;}
+.relbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;}
+.relbar span{background:rgba(255,255,255,.2);border-radius:20px;padding:5px 14px;font-size:13px;font-weight:600;}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.hl{background:var(--card);border-radius:18px;padding:18px 18px 16px;border-top:4px solid var(--accent);box-shadow:0 10px 32px rgba(108,92,231,.10);display:flex;flex-direction:column;gap:9px;}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.emoji{font-size:22px;}
+.hl h3{font-size:16px;font-weight:700;flex:1;min-width:120px;}
+.cat{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:600;background:var(--chip);color:var(--accent);}
+.badge{border-radius:14px;padding:3px 10px;font-size:12px;font-weight:700;}
+.b2{background:#fff1e6;color:#c0651a;}
+.r2{background:#fff3e0;color:#c0651a;}
+.r3{background:#f3e8ff;color:#7b2cbf;}
+.val{font-size:13.5px;color:var(--sub);}
+.exec{margin-top:2px;border-top:1px dashed #e2e8f0;padding-top:8px;}
+.exec summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--accent);}
+.exec .inner{font-size:13px;color:var(--sub);margin-top:6px;padding-left:4px;}
+.src{font-size:12px;word-break:break-all;}
+.src a{color:var(--accent2);text-decoration:none;}
+.note{font-size:12px;color:#94a3b8;border-left:3px solid #e2e8f0;padding-left:8px;}
+footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1px solid #e2e8f0;margin-top:40px;}
+</style>"""
+
+exec_cards = [c for c in cards if "exec" in c["rel"]]
+sup_cards  = [c for c in cards if "supervisor" in c["rel"]]
+n_exec=len(exec_cards); n_sup=len(sup_cards)
+assert n_exec + n_sup - len([c for c in cards if "supervisor" in c["rel"] and "exec" in c["rel"]]) == len(cards), "card count mismatch"
+
+# ---- 1. incremental page ----
+inc_body_exec = "".join(card_html(c) for c in exec_cards)
+inc_body_sup = "".join(card_html(c) for c in sup_cards)
+inc_html = (
+'<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n<meta charset="UTF-8">\n'
+'<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+'<title>颁奖 . 二十六轮补采（2026-08-27）</title>\n'+CSS+'</head><body>\n'
+'<div class="wrap">\n'
+'<p style="margin:0 0 16px"><a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">🏆 返回颁奖累计卡片墙 .</a> &nbsp; <a href="https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/index.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📚 返回知识库门户 .</a></p>\n'
+'  <div class="hero">\n'
+'    <h1>🏆 颁奖 . 二十六轮补采（2026-08-27）</h1>\n'
+'    <p>采集于 2026-08-27 ｜ 本轮新增 '+str(len(cards))+' 张（通过六维评估，剔除平级/朋友向①，仅 ②上下级 / ③高管间）；关系档：③高管间 '+str(n_exec)+' 张 + ②上下级 '+str(n_sup)+' 张。</p>\n'
+'    <div class="relbar">\n      <span>② 领导↔员工（上下级，supervisor）</span>\n      <span>③ 领导↔领导（高管间，exec）</span>\n    </div>\n  </div>\n'
+'  <div class="sec sec3">\n    <h2>③ 领导↔领导（高管间，exec）</h2>\n    <span class="tag">'+str(n_exec)+' 卡</span>\n  </div>\n'
+'  <div class="grid">\n'+inc_body_exec+'  </div>\n'
+'  <div class="sec sec2">\n    <h2>② 领导↔员工（上下级，supervisor）</h2>\n    <span class="tag">'+str(n_sup)+' 卡</span>\n  </div>\n'
+'  <div class="grid">\n'+inc_body_sup+'  </div>\n'
+'<footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>\n'
+'</div>\n</body>\n</html>\n'
+)
+inc_path = os.path.join(AWARD, "award-20260827.html")
+with open(inc_path, "w", encoding="utf-8") as f:
+    f.write(inc_html)
+print("WROTE incremental:", inc_path, len(inc_html), "bytes")
+
+# ---- 2. update summary award.html ----
+summary = open(os.path.join(AWARD,"award.html"), encoding="utf-8").read()
+before = summary.count('class="hl"')
+exec_frag = "".join(card_html(c) for c in exec_cards)
+sup_frag  = "".join(card_html(c) for c in sup_cards)
+
+assert summary.count('  <div class="sec sec2">')==1, "sec2 marker not unique"
+summary = summary.replace('  <div class="sec sec2">', '  '+exec_frag+'  <div class="sec sec2">', 1)
+
+parts = summary.split('<footer>', 1)
+assert len(parts)==2, "footer marker not found"
+summary = parts[0] + sup_frag + '<footer>' + parts[1]
+
+hero_old = '二十五轮 enrich 2026-08-25(+9)'
+assert summary.count(hero_old)>=1
+summary = summary.replace(hero_old, hero_old+' ｜ '+ROUND, 1)
+
+open(os.path.join(AWARD,"award.html"),"w",encoding="utf-8").write(summary)
+after = summary.count('class="hl"')
+print("UPDATED summary award.html: hl %d -> %d (added %d)" % (before, after, after-before))
+
+# ---- 3. index.json ----
+idx = json.load(open(os.path.join(KC,"index.json"), encoding="utf-8"))
+new_entries=[]
+for c in cards:
+    e={
+      "title": c["title"],
+      "normKey": c["title"],
+      "url": c["url"],
+      "sourceType": "secondary" if c["st"]=="二手" else "primary",
+      "relation": c["rel"],
+      "summary": c["val"][:120],
+      "topic": "award",
+      "dateCollected": RUN_DATE
+    }
+    idx.append(e)
+    new_entries.append(e)
+json.dump(idx, open(os.path.join(KC,"index.json"),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
+print("UPDATED index.json (+%d) total=%d" % (len(new_entries), len(idx)))
+
+# ---- 4. Obsidian note ----
+note_path = os.path.join(VAULT,"素材","award","颁奖-知识卡汇总.md")
+note = open(note_path, encoding="utf-8").read()
+note = note.replace("共 158 张","共 167 张",1)
+
+round_sec = (
+"## 轮次 2026-08-27（+9）\n"
+"本轮新增（均通过六维评估、仅 ②上下级 / ③高管间）：\n"
+)
+for c in cards:
+    rel_txt = "③高管间" if c["rel"]=="exec" else ("②上下级" if c["rel"]=="supervisor" else "②上下级+③高管间")
+    round_sec += "- "+c["title"]+"（award.html） | "+rel_txt+" | "+c["st"]+"\n"
+note = note.replace("## 轮次 2026-08-25（+9）", round_sec+"## 轮次 2026-08-25（+9）", 1)
+
+rows=""
+for c in cards:
+    rel_cell = "③高管间" if c["rel"]=="exec" else ("②上下级" if c["rel"]=="supervisor" else "②上下级+③高管间")
+    rows += "| "+c["title"]+"（award/award.html） | 4 | "+c["st"]+" | "+rel_cell+" |  |\n"
+note = note.replace("## 线上卡片墙（GitHub Pages）", rows+"## 线上卡片墙（GitHub Pages）", 1)
+
+link_old = "- 本轮增量页（二十二轮·2026-08-22）：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award-20260822.html"
+note = note.replace(link_old, link_old+"\n- 本轮增量页（二十六轮·2026-08-27）：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/award/award-20260827.html", 1)
+open(note_path,"w",encoding="utf-8").write(note)
+print("UPDATED obsidian note")
+
+# ---- 5. 00-index ----
+idx00 = open(os.path.join(VAULT,"00-知识采集索引.md"), encoding="utf-8").read()
+hdr_old = " ｜ 二十五轮 enrich 2026-08-25(+9)"
+assert idx00.count(hdr_old)>=1
+idx00 = idx00.replace(hdr_old, hdr_old+" ｜ 二十六轮 enrich 2026-08-27(+9)", 1)
+idx00 = idx00.replace("**158 卡**", "**167 卡**", 1)
+openday_nav = "📄 主题汇总笔记：[[知识采集库/素材/openday/OpenDay-开放日-知识卡汇总|OpenDay-开放日-知识卡汇总]]"
+assert idx00.count(openday_nav)>=1
+zrows=""
+for c in cards:
+    rel_cell = "③高管间" if c["rel"]=="exec" else ("②上下级" if c["rel"]=="supervisor" else "②上下级+③高管间")
+    zrows += "| "+c["title"]+"（award/award.html） | 4 | "+c["st"]+" | "+rel_cell+" |  |\n"
+idx00 = idx00.replace(openday_nav, zrows+openday_nav, 1)
+open(os.path.join(VAULT,"00-知识采集索引.md"),"w",encoding="utf-8").write(idx00)
+print("UPDATED 00-index")
+print("DONE R26")
