@@ -37,7 +37,8 @@
     "url": "https://renrendoc.com/paper/464311311.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "含可量化评选机制(业绩60%+互评20%+领导20%)+公示+宣传"
+    "summary": "含可量化评选机制(业绩60%+互评20%+领导20%)+公示+宣传",
+    "topic": "staff-meeting"
   },
   {
     "title": "企业期中总结表彰大会方案范本",
@@ -250,7 +251,8 @@
     "url": "https://m.renrendoc.com/paper/528738552.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "议程两维：会前暖场+核心30-45min领导致辞(运营回顾/形势/战略/号召)+40-60min总结表彰"
+    "summary": "议程两维：会前暖场+核心30-45min领导致辞(运营回顾/形势/战略/号召)+40-60min总结表彰",
+    "topic": "staff-meeting"
   },
   {
     "title": "公司员工大会流程详解·互动答疑+会后闭环",
@@ -258,7 +260,8 @@
     "url": "https://wap.jiandaoyun.com/nblog/67475/",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "完整示例议程+线上问卷满意度+24h纪要(决策/待办/责任人)+协同提醒追踪"
+    "summary": "完整示例议程+线上问卷满意度+24h纪要(决策/待办/责任人)+协同提醒追踪",
+    "topic": "staff-meeting"
   },
   {
     "title": "公司员工大会组织流程·主题公式+分工落地",
@@ -266,7 +269,8 @@
     "url": "https://m.renrendoc.com/paper/457098210.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "主题'关键词+行动'；3h议程框架；预算预留10-15%弹性；六组责任到人"
+    "summary": "主题'关键词+行动'；3h议程框架；预算预留10-15%弹性；六组责任到人",
+    "topic": "staff-meeting"
   },
   {
     "title": "All-Hands Meeting Guide（Slack）·参与设计",
@@ -274,7 +278,8 @@
     "url": "https://slack.com/intl/pt-br/blog/collaboration/what-is-an-all-hands-meeting-a-guide-to-company-wide-alignment",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "会前24-48h发议程+轮换发言人+live Q&A/polls/chat+会后takeaways"
+    "summary": "会前24-48h发议程+轮换发言人+live Q&A/polls/chat+会后takeaways",
+    "topic": "staff-meeting"
   },
   {
     "title": "All-Hands Q&A Best Practices（Lattice）·答疑与心理安全",
@@ -282,7 +287,8 @@
     "url": "https://lattice.com/library/how-to-run-effective-all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "会前征题+主持人+现场投票+心理安全感+R.E.A.C.T.+留存记录"
+    "summary": "会前征题+主持人+现场投票+心理安全感+R.E.A.C.T.+留存记录",
+    "topic": "staff-meeting"
   },
   {
     "title": "社員総会企画コンテンツ（vcube）·含経営層对话session",
@@ -290,7 +296,8 @@
     "url": "https://jp.vcube.com/eventdx/blog/general-employee-meeting-planning-ideas",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "経営方針発表+表彰MVP+社長役員对话(匿名質問Slido)+部門成果LT"
+    "summary": "経営方針発表+表彰MVP+社長役員对话(匿名質問Slido)+部門成果LT",
+    "topic": "staff-meeting"
   },
   {
     "title": "Company Townhall 脚本模板（ajobthing）",
@@ -298,7 +305,8 @@
     "url": "https://www.ajobthing.com/resources/blog/company-townhall-conduct-how-what-need-to-say",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "标准45-60min逐段脚本+CEO视觉化更新+会前匿名问题+散会summary"
+    "summary": "标准45-60min逐段脚本+CEO视觉化更新+会前匿名问题+散会summary",
+    "topic": "staff-meeting"
   },
   {
     "title": "Ultimate Guide to All-Hands（ExpertBeacon）·议程六段解剖",
@@ -306,7 +314,8 @@
     "url": "https://expertbeacon.com/the-ultimate-guide-to-running-highly-effective-all-hands-meetings/",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "Opening/业务/部门/表彰/互动/展望六段；深耕少数认可；必含互动段"
+    "summary": "Opening/业务/部门/表彰/互动/展望六段；深耕少数认可；必含互动段",
+    "topic": "staff-meeting"
   },
   {
     "title": "CEO 沟通→有意义员工参与（福布斯教练委员会）",
@@ -314,7 +323,8 @@
     "url": "https://forbes-forbescom-live.non-prod.zephrcf.com/councils/forbescoachescouncil/2026/02/26/how-to-turn-ceo-communications-into-meaningful-employee-engagement",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "从广播到共创意义：authenticity/so what/sense-making/个人stakes"
+    "summary": "从广播到共创意义：authenticity/so what/sense-making/个人stakes",
+    "topic": "staff-meeting"
   },
   {
     "title": "Town Hall That Inspires（CEO 议程模板·BHAG/3HAG）",
@@ -322,7 +332,8 @@
     "url": "https://www.incrementa.ca/how-to-run-a-town-hall-meeting-that-inspires-your-team",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "CEO镇会模板：六大关键问→传达；BHAG/3HAG/年度目标；<30min+实时+必含Q&A"
+    "summary": "CEO镇会模板：六大关键问→传达；BHAG/3HAG/年度目标；<30min+实时+必含Q&A",
+    "topic": "staff-meeting"
   },
   {
     "title": "CEOs Transform Town Hall（数据变故事·KP Strategies）",
@@ -330,7 +341,8 @@
     "url": "https://www.kpstrategies.net/blog/setting-the-tone-for-q2-and-beyond-how-ceos-can-transform-town-hall-meetings",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "四招：数据变故事/会前介入/做互动/CEO放手领导"
+    "summary": "四招：数据变故事/会前介入/做互动/CEO放手领导",
+    "topic": "staff-meeting"
   },
   {
     "title": "All-Hands Best Practices（RingCentral）·战略沟通支柱",
@@ -338,7 +350,8 @@
     "url": "https://www.ringcentral.com/us/en/blog/all-hands-meeting/",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "5理由(transparency/alignment/culture/celebrate/inspire)+节奏(周/月/季)+format+60min"
+    "summary": "5理由(transparency/alignment/culture/celebrate/inspire)+节奏(周/月/季)+format+60min",
+    "topic": "staff-meeting"
   },
   {
     "title": "Leadership Team Offsite 议程模板库",
@@ -649,7 +662,8 @@
     "url": "https://lexiangla.com/p/bb33afaca84848c3a6bb0b604d2aebe8",
     "sourceType": "primary",
     "relation": "exec",
-    "summary": "地图产品部2026年度员工大会实录：AL战略分享同筑长青智绘地图、宏观趋势AI全球化浪潮、业务战略重点、组织提效。真实高管↔全员沟通案例，一手源。"
+    "summary": "地图产品部2026年度员工大会实录：AL战略分享同筑长青智绘地图、宏观趋势AI全球化浪潮、业务战略重点、组织提效。真实高管↔全员沟通案例，一手源。",
+    "topic": "staff-meeting"
   },
   {
     "title": "【花草团队】文化类事件SOP&SLA（内部运营框架）",
@@ -710,7 +724,8 @@
     "url": "https://www.atlassian.com/blog/blog/teamwork/how-to-create-better-all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "Atlassian 首席of staff：全员大会最大败因是变单向广播；把会议变双向对话——提前征集问题+upvote排序让全员看见彼此关心；非高管也上台讲项目/教训破silo；直面棘手话题(如关停产品)开专场Q&A；把员工当insider分享财务细节，信任生信任。"
+    "summary": "Atlassian 首席of staff：全员大会最大败因是变单向广播；把会议变双向对话——提前征集问题+upvote排序让全员看见彼此关心；非高管也上台讲项目/教训破silo；直面棘手话题(如关停产品)开专场Q&A；把员工当insider分享财务细节，信任生信任。",
+    "topic": "staff-meeting"
   },
   {
     "title": "All-hands 度量与提效（Sally.io）",
@@ -718,7 +733,8 @@
     "url": "https://www.sally.io/blog/all-hands-meeting-how-to-generate-real-impact",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "WorkBoard(2023)：72%员工参会后更认同公司；最佳实践：议程提前共享、45-60min防疲劳、Q&A+poll混搭、跨部门轮讲；互动工具(Slido/Teams poll/Zoom reaction)提参与；无障碍(实时字幕+转录)人人可参与；AI会议助手自动录制/转录/摘要/派发action item(GDPR合规)。"
+    "summary": "WorkBoard(2023)：72%员工参会后更认同公司；最佳实践：议程提前共享、45-60min防疲劳、Q&A+poll混搭、跨部门轮讲；互动工具(Slido/Teams poll/Zoom reaction)提参与；无障碍(实时字幕+转录)人人可参与；AI会议助手自动录制/转录/摘要/派发action item(GDPR合规)。",
+    "topic": "staff-meeting"
   },
   {
     "title": "虚拟/混合 All-Hands 10 招（Mural）",
@@ -726,7 +742,8 @@
     "url": "https://mural.co/blog/virtual-all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "分布式/混合团队全员大会更关键；10招：固定时段+录制回放、warm-up热身、议程从简(更新/成就/指标/Q&A/认可/展望)、工具先行(Mural/Teams)、演练彩排、轮换发言人、匿名提问、跨时区兼顾、记录分享Slack、庆祝里程碑；强调最贵会议要物尽其用。"
+    "summary": "分布式/混合团队全员大会更关键；10招：固定时段+录制回放、warm-up热身、议程从简(更新/成就/指标/Q&A/认可/展望)、工具先行(Mural/Teams)、演练彩排、轮换发言人、匿名提问、跨时区兼顾、记录分享Slack、庆祝里程碑；强调最贵会议要物尽其用。",
+    "topic": "staff-meeting"
   },
   {
     "title": "Town Hall 格式与 Q&A 设计（HR 词典）",
@@ -734,7 +751,8 @@
     "url": "https://hyring.com/free-hr-toolkit/hr-glossary/town-hall-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "五格式对比(线下/全虚拟/混合/录播+直播Q&A/AMA)按规模分布选；硬指标45-60min、月/季频、≥30%时间给Q&A；Slido/Mentimeter/表单匿名征集问题(降恐惧+给领导备答)；信任数据：定期town hall领导信任高2.3x(Edelman)、74%员工会后更连接(Gallup 2024)。"
+    "summary": "五格式对比(线下/全虚拟/混合/录播+直播Q&A/AMA)按规模分布选；硬指标45-60min、月/季频、≥30%时间给Q&A；Slido/Mentimeter/表单匿名征集问题(降恐惧+给领导备答)；信任数据：定期town hall领导信任高2.3x(Edelman)、74%员工会后更连接(Gallup 2024)。",
+    "topic": "staff-meeting"
   },
   {
     "title": "华为 DSTE 战略务虚会体系（高管战略 Offsite 范式）",
@@ -933,7 +951,8 @@
     "url": "http://www.gongxiaodaji.com/index.php?id=22163",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "央企背景上市公司年度工作会：董事长提「三点要求」(危机感动员/强化中心/卧薪尝胆归属感)+总裁工作报告+2024先进集体与个人表彰(专项奖/安全奖/管理精英奖/变革先锋奖)发言；领导↔员工战略对齐+表彰真实案例"
+    "summary": "央企背景上市公司年度工作会：董事长提「三点要求」(危机感动员/强化中心/卧薪尝胆归属感)+总裁工作报告+2024先进集体与个人表彰(专项奖/安全奖/管理精英奖/变革先锋奖)发言；领导↔员工战略对齐+表彰真实案例",
+    "topic": "staff-meeting"
   },
   {
     "title": "华神药业 2025 总结会暨 2026 全员大会（官方）",
@@ -941,7 +960,8 @@
     "url": "https://www.huasungrp.com/news_view.aspx?nid=2&typeid=4&id=1066",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "三天结构(拓展训练破隔阂→团拜联欢暖人心→总结会立状明责)；董事长讲十年规划长期主义+责任书签署立状+专业培训+省区复盘；全员大会「复盘-规划-能力-责任」闭环样板"
+    "summary": "三天结构(拓展训练破隔阂→团拜联欢暖人心→总结会立状明责)；董事长讲十年规划长期主义+责任书签署立状+专业培训+省区复盘；全员大会「复盘-规划-能力-责任」闭环样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "宝光集团 2025 年会总结表彰大会（官方）",
@@ -949,7 +969,8 @@
     "url": "http://ahbgjc.com/newscentre/info.aspx?itemid=204",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "总裁年度报告(风控体系/CRM上线/增长目标)+优秀总经理经验分享+四大管理中心复盘；表彰含「十年老员工功勋奖」(999纯金35万)+晋升任命+12家子公司目标责任状+董事长寄语+高管发红包；以奋斗者为本样板"
+    "summary": "总裁年度报告(风控体系/CRM上线/增长目标)+优秀总经理经验分享+四大管理中心复盘；表彰含「十年老员工功勋奖」(999纯金35万)+晋升任命+12家子公司目标责任状+董事长寄语+高管发红包；以奋斗者为本样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "恒丰 2025 总结表彰大会暨 2026 新春年会（官方）",
@@ -957,7 +978,8 @@
     "url": "http://hf-chem.cn/Shownews.asp?BigClass=公司新闻&ID=294",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "总经理报告提出「四个转变」战略(管理→经营/成本定价→价值定价/量本利→价本利/恶性→良性竞争)+「三不相信/三马精神」；表彰先进集体与个人+「风雨同舟奖」(20年老员工)；钢铁行业逆势突围真实案例"
+    "summary": "总经理报告提出「四个转变」战略(管理→经营/成本定价→价值定价/量本利→价本利/恶性→良性竞争)+「三不相信/三马精神」；表彰先进集体与个人+「风雨同舟奖」(20年老员工)；钢铁行业逆势突围真实案例",
+    "topic": "staff-meeting"
   },
   {
     "title": "新疆龙海达 2025 年度总结暨表彰大会（官方）",
@@ -965,7 +987,8 @@
     "url": "http://xjlhdjt.com/articles/show/96",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "四大篇章(复盘蓄能/使命必达/风采飞扬/星耀龙海)；13位负责人汇报+董事长部署四核心方向+「星火人才战略」(年投300万)；15位负责人签目标责任状(战书)+团队风采展示；多业态集团全员大会样板"
+    "summary": "四大篇章(复盘蓄能/使命必达/风采飞扬/星耀龙海)；13位负责人汇报+董事长部署四核心方向+「星火人才战略」(年投300万)；15位负责人签目标责任状(战书)+团队风采展示；多业态集团全员大会样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员沟通大会(All-Hands)怎么开（商业新知）",
@@ -973,7 +996,8 @@
     "url": "https://www.shangyexinzhi.com/article/16642625.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "三段式全体大会：①战略回顾+关键战役里程碑(树立信心)②优秀实践分享(15min脱敏成果+方法心得)③Q&A占25%(预先问卷投票+即兴问答，负责人答/难问题承诺内网回)；把单向传递变双向连接"
+    "summary": "三段式全体大会：①战略回顾+关键战役里程碑(树立信心)②优秀实践分享(15min脱敏成果+方法心得)③Q&A占25%(预先问卷投票+即兴问答，负责人答/难问题承诺内网回)；把单向传递变双向连接",
+    "topic": "staff-meeting"
   },
   {
     "title": "强力 Town Hall 实操指南（AgileLAB·大厂仪式）",
@@ -981,7 +1005,8 @@
     "url": "https://agilelab.de/blog/how-to-run-powerful-town-hall-meetings",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "分步指南：目的定义→员工参与议程(Slido/Forms征集+upvote)→故事化议程(欢迎+领导更新+客户/员工故事+Q&A+仪式)→教练领导(平衡事实情绪/承认失败/人性化)→心理安全(欢迎尖锐问题)；附 Google TGIF/Amazon 6页memo/Meta AMA/Microsoft 包容 大厂仪式对照表；会后24h发录像+FAQ"
+    "summary": "分步指南：目的定义→员工参与议程(Slido/Forms征集+upvote)→故事化议程(欢迎+领导更新+客户/员工故事+Q&A+仪式)→教练领导(平衡事实情绪/承认失败/人性化)→心理安全(欢迎尖锐问题)；附 Google TGIF/Amazon 6页memo/Meta AMA/Microsoft 包容 大厂仪式对照表；会后24h发录像+FAQ",
+    "topic": "staff-meeting"
   },
   {
     "title": "Asana 全员会议议程模板（60 分钟样例）",
@@ -989,7 +1014,8 @@
     "url": "https://asana.com/templates/all-company-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "工具官方模板：议程七要素(开场icebreaker/业务更新指标/项目团队更新/认可庆祝/团队spotlight/Q&A/行动项)+60分钟样例分配(欢迎5/业务10/项目15/认可5/spotlight5/Q&A15/收尾5)；强调提前发议程+轮换发言人+会前收集Q&A+会后takeaways"
+    "summary": "工具官方模板：议程七要素(开场icebreaker/业务更新指标/项目团队更新/认可庆祝/团队spotlight/Q&A/行动项)+60分钟样例分配(欢迎5/业务10/项目15/认可5/spotlight5/Q&A15/收尾5)；强调提前发议程+轮换发言人+会前收集Q&A+会后takeaways",
+    "topic": "staff-meeting"
   },
   {
     "title": "远程全员大会 60 分钟议程（TeamRally·只做现场三件事）",
@@ -997,7 +1023,8 @@
     "url": "https://teamrally.app/blog/all-hands-meeting-agenda-remote",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "远程专属：全员大会只配现场三件事——能量/认可/无脚本Q&A，其余异步；60分钟分段(开场赢5/业务脉搏10/单点深潜20/认可5/Q&A15/收尾5)；匿名优先征集真实问题、录制必发、跨时区轮换时段、chat作第二舞台；警惕读幻灯片/跳过认可/无预采问题"
+    "summary": "远程专属：全员大会只配现场三件事——能量/认可/无脚本Q&A，其余异步；60分钟分段(开场赢5/业务脉搏10/单点深潜20/认可5/Q&A15/收尾5)；匿名优先征集真实问题、录制必发、跨时区轮换时段、chat作第二舞台；警惕读幻灯片/跳过认可/无预采问题",
+    "topic": "staff-meeting"
   },
   {
     "title": "Gatheround 8 类全员会议模板（分类框架）",
@@ -1005,7 +1032,8 @@
     "url": "https://valimail.gatheround.com/blog/essential-all-hands-templates",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "八类模板覆盖不同场景：Meeting/Retrospective/Town Hall(重Q&A)/Fireside Chat(轻松问高管)/Business Review(财务KPI)/Cross-Team Sync(破silo)/Celebration/Pulse Check(关系健康)；按会议目的选模板，降低规划成本、提参与度"
+    "summary": "八类模板覆盖不同场景：Meeting/Retrospective/Town Hall(重Q&A)/Fireside Chat(轻松问高管)/Business Review(财务KPI)/Cross-Team Sync(破silo)/Celebration/Pulse Check(关系健康)；按会议目的选模板，降低规划成本、提参与度",
+    "topic": "staff-meeting"
   },
   {
     "title": "Strategy Offsite Facilitation 路线图（规划到执行）",
@@ -1305,7 +1333,8 @@
     "url": "https://livegroup.co.uk/what-is-a-town-hall-meeting-how-town-hall-meetings-boost-engagement/",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "town hall 四大目的：战略对齐/文化建设/变革沟通/认可激励；变革期是高频驱动——转型重组时员工信息需求远超正式渠道，town hall 让领导抢在谣言前诚实给上下文、愿谈难题；有效靠设计+意图+领导以参与者而非广播者到场，含未过滤不回避Q&A才显问责"
+    "summary": "town hall 四大目的：战略对齐/文化建设/变革沟通/认可激励；变革期是高频驱动——转型重组时员工信息需求远超正式渠道，town hall 让领导抢在谣言前诚实给上下文、愿谈难题；有效靠设计+意图+领导以参与者而非广播者到场，含未过滤不回避Q&A才显问责",
+    "topic": "staff-meeting"
   },
   {
     "title": "重组全员会 3 阶段时间表（结构化落地）",
@@ -1313,7 +1342,8 @@
     "url": "https://leadership-and-development.com/4-reorg-scripts-that-stop-team-resistance-with-templates",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "重组沟通14天3阶段：①上线前7天静默对齐关键影响者(15min闭门，问卡点非同意，成功率+30%)②上线日结构化Town Hall≤30min(市场5/模型10/时间线5/Q&A10)开门见山讲业务必然③上线后7天48h内逐人20min 1:1修复建心理安全+重锚30天目标"
+    "summary": "重组沟通14天3阶段：①上线前7天静默对齐关键影响者(15min闭门，问卡点非同意，成功率+30%)②上线日结构化Town Hall≤30min(市场5/模型10/时间线5/Q&A10)开门见山讲业务必然③上线后7天48h内逐人20min 1:1修复建心理安全+重锚30天目标",
+    "topic": "staff-meeting"
   },
   {
     "title": "字节全员会：双月会核心是「暴露问题」（晚点/雪球）",
@@ -1321,7 +1351,8 @@
     "url": "https://k.sina.cn/article_7294209083_1b2c4cc3b00101jw3a.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "字节跳动全员会文化：集体会议核心主题是暴露问题(双月会重点就是暴露问题，说进展好不开影响也不大)；内部论坛保留匿名功能降低发言成本、允许吐槽负面反馈；蓝军从外部视角专帮暴露问题；暴露后动作是复盘沉淀而非惩罚(千万级bug仅象征性罚千元)"
+    "summary": "字节跳动全员会文化：集体会议核心主题是暴露问题(双月会重点就是暴露问题，说进展好不开影响也不大)；内部论坛保留匿名功能降低发言成本、允许吐槽负面反馈；蓝军从外部视角专帮暴露问题；暴露后动作是复盘沉淀而非惩罚(千万级bug仅象征性罚千元)",
+    "topic": "staff-meeting"
   },
   {
     "title": "字节「CEO 面对面」双月会·公开 OKR 对齐（阿里云开发者）",
@@ -1329,7 +1360,8 @@
     "url": "https://developer.aliyun.com/article/938254",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "字节每双月CEO面对面/部门双月会：张一鸣公开讲自己OKR进度逐项打分、没做好的直言不讳；重大决策战略危机梳理解释；鼓励直入主题提问、会议纪要原封不动发全员；倡导不包装结果不向上管理坦诚清晰，参考Google充分Context少量Control对抗大公司病"
+    "summary": "字节每双月CEO面对面/部门双月会：张一鸣公开讲自己OKR进度逐项打分、没做好的直言不讳；重大决策战略危机梳理解释；鼓励直入主题提问、会议纪要原封不动发全员；倡导不包装结果不向上管理坦诚清晰，参考Google充分Context少量Control对抗大公司病",
+    "topic": "staff-meeting"
   },
   {
     "title": "阿里 Qwen 重组全员会·动荡期稳军心（腾讯新闻）",
@@ -1337,7 +1369,8 @@
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_85069aace2648952",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "真实案例：Qwen团队重组引发负责人离职后13小时，阿里CEO吴泳铭/CPO蒋芳/CTO周靖人即开Qwen全员会(杭州线下+京沪视频)，吴泳铭坦言会本就要开只是稍提前；重大变动后最高层第一时间面对面澄清承接情绪给确定感，比层层传达更快止血"
+    "summary": "真实案例：Qwen团队重组引发负责人离职后13小时，阿里CEO吴泳铭/CPO蒋芳/CTO周靖人即开Qwen全员会(杭州线下+京沪视频)，吴泳铭坦言会本就要开只是稍提前；重大变动后最高层第一时间面对面澄清承接情绪给确定感，比层层传达更快止血",
+    "topic": "staff-meeting"
   },
   {
     "title": "鈦坦科技 Town Hall·公开透明降不确定性（DevOpsDays）",
@@ -1345,7 +1378,8 @@
     "url": "https://devopsdays.tw/2023/news-page/458",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "新加坡商鈦坦科技(300+人新台四地)远程视频全员Town Hall：总经理亲自讲年度目标/组织调整目的/产品改善方向/执行路径；核心公开透明全员参与制降低不确定性，践行敏捷价值观坦率透明；员工不确定感下降→确定状态→信任动机提升协作更顺"
+    "summary": "新加坡商鈦坦科技(300+人新台四地)远程视频全员Town Hall：总经理亲自讲年度目标/组织调整目的/产品改善方向/执行路径；核心公开透明全员参与制降低不确定性，践行敏捷价值观坦率透明；员工不确定感下降→确定状态→信任动机提升协作更顺",
+    "topic": "staff-meeting"
   },
   {
     "title": "七五煤业「三向发力」宣贯下沉（山东能源）",
@@ -1353,7 +1387,8 @@
     "url": "https://www.shandong-energy.com/78593/81923/2025/07/39945136.html",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "山东能源七五煤业官网：上级会议精神学/宣/干三维度落地；学=会议解读+形势研判+任务分解三位一体分层；宣=直通车进车间班组面对面+五微(图文/影像/语音/座谈/情景)+三层宣讲(领导/专业/职工代表)；干=学习成效转重点工作引擎。官方一手会议精神从会议室走到岗位样板"
+    "summary": "山东能源七五煤业官网：上级会议精神学/宣/干三维度落地；学=会议解读+形势研判+任务分解三位一体分层；宣=直通车进车间班组面对面+五微(图文/影像/语音/座谈/情景)+三层宣讲(领导/专业/职工代表)；干=学习成效转重点工作引擎。官方一手会议精神从会议室走到岗位样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "鲍店煤矿「订单式宣讲」接地气宣贯（山东能源）",
@@ -1361,7 +1396,8 @@
     "url": "https://ykny.shandong-energy.com/77891/78937/2026/02/42557465.html",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "山东能源鲍店煤矿官网：打破念文件划重点传统，宣讲团订单式深入矿区队班组用职工家常话+岗位案例把大道理讲小故事(48场覆盖2000+人)；梳理4大类69项重点任务清单化项目化；班前会学精神谈打算让职工把精神转岗位目标。官方一手会议精神从纸上落到地上样板"
+    "summary": "山东能源鲍店煤矿官网：打破念文件划重点传统，宣讲团订单式深入矿区队班组用职工家常话+岗位案例把大道理讲小故事(48场覆盖2000+人)；梳理4大类69项重点任务清单化项目化；班前会学精神谈打算让职工把精神转岗位目标。官方一手会议精神从纸上落到地上样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "高管 Retreat 规划时间轴（3-6 月提前量）",
@@ -1583,7 +1619,8 @@
     "url": "https://www.mckinsey.com/locations/mckinsey-client-capabilities-network/our-work/strategic-and-change-communications/the-communications-exchange/ceo-insights-creating-authentic-connections-with-employees",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "顶级CEO用对话替代说话：清晰信息具体化+提问与积极倾听建立真实；用AI作助手不作老板；读房间能量实时改议程"
+    "summary": "顶级CEO用对话替代说话：清晰信息具体化+提问与积极倾听建立真实；用AI作助手不作老板；读房间能量实时改议程",
+    "topic": "staff-meeting"
   },
   {
     "title": "CEO 全员会沟通困境·社媒时代（Korn Ferry）",
@@ -1591,7 +1628,8 @@
     "url": "https://www.kornferry.com/insights/featured-topics/leadership/the-communication-conundrum",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "员工赋权时代CEO全员会每句在记录上(内部即外部)；提前征题主动挑难题答；CCO/CMO可代答；坦诚说还没定胜过沉默"
+    "summary": "员工赋权时代CEO全员会每句在记录上(内部即外部)；提前征题主动挑难题答；CCO/CMO可代答；坦诚说还没定胜过沉默",
+    "topic": "staff-meeting"
   },
   {
     "title": "Town Hall 5 类议程模板库（Airmeet）",
@@ -1599,7 +1637,8 @@
     "url": "https://www.airmeet.com/hub/blog/5-agenda-templates-for-efficient-and-effective-town-hall-meetings",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "5套模板：Classic Executive Update/Employee-Centric/Vision&Innovation/crisis/remote，覆盖高管广播到员工中心多种town hall"
+    "summary": "5套模板：Classic Executive Update/Employee-Centric/Vision&Innovation/crisis/remote，覆盖高管广播到员工中心多种town hall",
+    "topic": "staff-meeting"
   },
   {
     "title": "All-Hands 三幕式结构（欢迎庆祝15%+战略60%）",
@@ -1607,7 +1646,8 @@
     "url": "https://www.sanmao.com/rz/14692230.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "三幕剧：欢迎庆祝15%(新人口播/周年/生日/表彰/价值观)+使命战略同步60%(Why→战略→提案)+收尾行动；先庆祝再谈战略"
+    "summary": "三幕剧：欢迎庆祝15%(新人口播/周年/生日/表彰/价值观)+使命战略同步60%(Why→战略→提案)+收尾行动；先庆祝再谈战略",
+    "topic": "staff-meeting"
   },
   {
     "title": "办好全员大会·表彰+无障碍+福祉（Wellhub）",
@@ -1615,7 +1655,8 @@
     "url": "https://wellhub.com/en-us/blog/organizational-development/all-hands-meeting/",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "双向沟通Q&A/breakout/poll；表彰维度全(点名/月度之星/部门spotlight/peer/司龄)；无障碍清单(时区/字幕/翻译/录制/匿名)；福祉建心理安全"
+    "summary": "双向沟通Q&A/breakout/poll；表彰维度全(点名/月度之星/部门spotlight/peer/司龄)；无障碍清单(时区/字幕/翻译/录制/匿名)；福祉建心理安全",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员大会 8 个参与度点子（Confetti）",
@@ -1623,7 +1664,8 @@
     "url": "https://twilio.withconfetti.com/blog/post/all-hands-meeting-ideas",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "8招：icebreaker/recognition/Q&A/leader故事/workshop/polls/成功故事/fun close；把互动注入大群双向沟通"
+    "summary": "8招：icebreaker/recognition/Q&A/leader故事/workshop/polls/成功故事/fun close；把互动注入大群双向沟通",
+    "topic": "staff-meeting"
   },
   {
     "title": "员工沟通渠道设计·场景化打法+治理（HRloo）",
@@ -1631,7 +1673,8 @@
     "url": "https://m.hrloo.com/rz/14781556.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "场景-重点-渠道地图(扩张/转型/远程/高压)；治理三机制RACI+沟通工单池闭环+数据看板；town hall只是其中一环"
+    "summary": "场景-重点-渠道地图(扩张/转型/远程/高压)；治理三机制RACI+沟通工单池闭环+数据看板；town hall只是其中一环",
+    "topic": "staff-meeting"
   },
   {
     "title": "员工大会主持词及管理者发言范例汇编",
@@ -1639,7 +1682,8 @@
     "url": "https://www.renrendoc.com/paper/494552614.html",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "跨场景主持词+管理者发言范例：开场/议程过渡/领导讲话引导/复盘战略动员文化建设话术；逻辑清晰+情感真挚"
+    "summary": "跨场景主持词+管理者发言范例：开场/议程过渡/领导讲话引导/复盘战略动员文化建设话术；逻辑清晰+情感真挚",
+    "topic": "staff-meeting"
   },
   {
     "title": "中核集团 2025 年度工作会议（官方）",
@@ -1647,7 +1691,8 @@
     "url": "https://nnsa.mee.gov.cn/ywdt/hyzx/202501/t20250120_1101001.html",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "央企年度工作会：卓越绩效模式年度报告；利润+5.8%/考核A级19年；23家上级单位出席；战略对齐+追求卓越真实案例"
+    "summary": "央企年度工作会：卓越绩效模式年度报告；利润+5.8%/考核A级19年；23家上级单位出席；战略对齐+追求卓越真实案例",
+    "topic": "staff-meeting"
   },
   {
     "title": "鞍钢集团 2025 年度总结表彰大会（官方）",
@@ -1655,7 +1700,8 @@
     "url": "https://www.newsansteel.cn/agxwcm/mepaper/content/202601/06/c172736.html",
     "sourceType": "primary",
     "relation": "supervisor",
-    "summary": "官方表彰大会：命名先进45/劳模145/先进生产者400；多讲职工身边事引领主人翁；劳模+十五五战略动员样板"
+    "summary": "官方表彰大会：命名先进45/劳模145/先进生产者400；多讲职工身边事引领主人翁；劳模+十五五战略动员样板",
+    "topic": "staff-meeting"
   },
   {
     "title": "企业 Offsite 端到端规划指南（含预算基准）",
@@ -6217,7 +6263,8 @@
     "url": "https://www.cbma.com.cn/cn/report/2608/0002-1.htm",
     "sourceType": "firsthand",
     "relation": "supervisor,exec",
-    "summary": "中国建材年中工作会：董事长讲话定调+总经理报告拆解，五方面部署（战略引领/价值创造/创新/改革/党建）+拼闯干动员"
+    "summary": "中国建材年中工作会：董事长讲话定调+总经理报告拆解，五方面部署（战略引领/价值创造/创新/改革/党建）+拼闯干动员",
+    "topic": "staff-meeting"
   },
   {
     "title": "华能集团2026年年中工作会（董事长讲话·雄安新区·权威媒体报道）",
@@ -6225,7 +6272,8 @@
     "url": "https://m.thepaper.cn/newsDetail_forward_33655240",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "华能年中工作会：雄安新区召开，董事长讲话+六个进一步部署，双过半+A级考核提振信心"
+    "summary": "华能年中工作会：雄安新区召开，董事长讲话+六个进一步部署，双过半+A级考核提振信心",
+    "topic": "staff-meeting"
   },
   {
     "title": "中远海运集团2026年工作会议（官方·二届五次职代会·十五五蓝图）",
@@ -6233,7 +6281,8 @@
     "url": "https://seafarer.coscoshipping.com/col/col10978/art/2026/art_6ca31739197d4719b765ee72da02c6e6.html",
     "sourceType": "firsthand",
     "relation": "supervisor,exec",
-    "summary": "中远海运2026工作会+二届五次职代会：十五五五方面部署（产业体系/AI+/全球通道/改革/安全）+三个作用排头兵"
+    "summary": "中远海运2026工作会+二届五次职代会：十五五五方面部署（产业体系/AI+/全球通道/改革/安全）+三个作用排头兵",
+    "topic": "staff-meeting"
   },
   {
     "title": "中汽中心党委扩大会暨2026中期工作会（官方·视频分会场+工作回顾片）",
@@ -6241,7 +6290,8 @@
     "url": "https://www.catarc.ac.cn/detail/25110f53f38446e4a4c503b180dbb7f7",
     "sourceType": "firsthand",
     "relation": "supervisor,exec",
-    "summary": "中汽中心中期工作会：现场+视频分会场近500人+回顾片暖场，对标七个深刻学习领会+实字当头干字为先"
+    "summary": "中汽中心中期工作会：现场+视频分会场近500人+回顾片暖场，对标七个深刻学习领会+实字当头干字为先",
+    "topic": "staff-meeting"
   },
   {
     "title": "企业Town Hall最佳实践（climbtheladder·议程/主持/坦诚/跟进）",
@@ -6249,7 +6299,8 @@
     "url": "https://climbtheladder.com/what-is-a-town-hall-meeting-in-business-best-practices",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "全员会最佳实践：会前限时议程+技术彩排、moderator控场、share the stage、会后摘要含未答问题；避四类失灵"
+    "summary": "全员会最佳实践：会前限时议程+技术彩排、moderator控场、share the stage、会后摘要含未答问题；避四类失灵",
+    "topic": "staff-meeting"
   },
   {
     "title": "Town Hall会议全指南（议题库+Q&A主持+最佳实践·thedetroitbureau）",
@@ -6257,7 +6308,8 @@
     "url": "https://www.thedetroitbureau.com/today-report/town-hall-meetings-a-comprehensive-guide-and-examples-1764798024",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "全员会全指南：议题五类+Q&A成败关键（moderator控流/共情诚实/问答摘要）+互动含字幕+会后反馈"
+    "summary": "全员会全指南：议题五类+Q&A成败关键（moderator控流/共情诚实/问答摘要）+互动含字幕+会后反馈",
+    "topic": "staff-meeting"
   },
   {
     "title": "如何办好全员会（granola·异步纪要+限时+远程激活+问责）",
@@ -6265,7 +6317,8 @@
     "url": "https://www.granola.ai/blog/how-to-run-a-great-all-hands-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "全员会运营：会后24h recap(决策+行动项owner/deadline+未答Q&A)、死保Q&A时间块、开场问责、远程激活"
+    "summary": "全员会运营：会后24h recap(决策+行动项owner/deadline+未答Q&A)、死保Q&A时间块、开场问责、远程激活",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员会最佳实践2026（teamflect·混合包容+议程+认可）",
@@ -6273,7 +6326,8 @@
     "url": "https://teamflect.com/blog/employee-engagement/all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "混合全员会Remote-First三招（齐眼平线/先答远程/同步投票）+议程菜单+月度季度节奏"
+    "summary": "混合全员会Remote-First三招（齐眼平线/先答远程/同步投票）+议程菜单+月度季度节奏",
+    "topic": "staff-meeting"
   },
   {
     "title": "混合团队全员会2026指南（gable·5大失误+5种原型+议程模板）",
@@ -6281,7 +6335,8 @@
     "url": "https://www.gable.to/blog/post/all-hands-meeting",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "混合全员会5大失误+5种原型（对齐/表彰/透明Q&A/战略转型/复盘）+60/30min模板"
+    "summary": "混合全员会5大失误+5种原型（对齐/表彰/透明Q&A/战略转型/复盘）+60/30min模板",
+    "topic": "staff-meeting"
   },
   {
     "title": "高管炉边谈话（Fireside Chat）怎么跑（haystack·信任连接范式）",
@@ -6289,7 +6344,8 @@
     "url": "https://www.haystackteam.com/blog/how-to-run-an-executive-fireside-chat",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "高管炉边谈话：moderator一对一引导替代宣讲，town hall做对齐透明+fireside做信任连接双轨"
+    "summary": "高管炉边谈话：moderator一对一引导替代宣讲，town hall做对齐透明+fireside做信任连接双轨",
+    "topic": "staff-meeting"
   },
   {
     "title": "高管 Offsite 议程模板 + 90 天落地（3 优先级 + 首检<14天 + 沟通计划）",
@@ -6651,7 +6707,8 @@
     "url": "https://customerexperience.io/blog/quarterly-business-review-qbr-agenda-template-examples",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "③ 高管季度业务复盘+硬核对齐；② 全员会嵌入QBR、诚实暴露缺口建信任。"
+    "summary": "③ 高管季度业务复盘+硬核对齐；② 全员会嵌入QBR、诚实暴露缺口建信任。",
+    "topic": "staff-meeting"
   },
   {
     "title": "QBR执行摘要一页纸模板（toolkitcafe·Headline/财务快照/Top3 wins/risks/decisions）",
@@ -6659,7 +6716,8 @@
     "url": "https://toolkitcafe.com/blog/quarterly-business-review-template",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "③ 高管季度战略定调页（一页纸模板），会议开场钩子。"
+    "summary": "③ 高管季度战略定调页（一页纸模板），会议开场钩子。",
+    "topic": "staff-meeting"
   },
   {
     "title": "追觅俞浩「高调战略」：全员信息透明·信息直达末梢（m.x-techcon·每层级损耗20%）",
@@ -6667,7 +6725,8 @@
     "url": "https://m.x-techcon.com/article/106221.html",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "③ 科技CEO战略透明治理范式；② 全员信息直达、破层级壁垒。"
+    "summary": "③ 科技CEO战略透明治理范式；② 全员信息直达、破层级壁垒。",
+    "topic": "staff-meeting"
   },
   {
     "title": "iM金融黄秉宇董事长CEO Town Hall（digitaltoday·与百名员工面对面+互动公益+不限题QA）",
@@ -6675,7 +6734,8 @@
     "url": "https://www.digitaltoday.co.kr/cn/view/27532/hwang-byeong-woo-im-financial-chairman-holds-townhall-meeting-with-employees",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "③ 金融集团CEO Town Hall常态沟通+文化建设范式。"
+    "summary": "③ 金融集团CEO Town Hall常态沟通+文化建设范式。",
+    "topic": "staff-meeting"
   },
   {
     "title": "员工倾听策略：Town Hall + Skip-level（vantagecircle·跨越直属上级的倾听）",
@@ -6683,7 +6743,8 @@
     "url": "https://blog.vantagecircle.com/en/blog/employee-listening-strategy/",
     "sourceType": "secondary",
     "relation": "supervisor,exec",
-    "summary": "③ 高管越级倾听（Skip-level）；② 全员Town Hall倾听+反馈闭环。"
+    "summary": "③ 高管越级倾听（Skip-level）；② 全员Town Hall倾听+反馈闭环。",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员会参与度度量与ROI（Airmeet·KPI/情绪/sentiment·会前会中会后三段）",
@@ -6691,7 +6752,8 @@
     "url": "https://www.airmeet.com/hub/blog/measuring-employee-engagement-in-townhalls-and-internal-events",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会参与度度量体系+ROI，向高管汇报用。"
+    "summary": "② 全员会参与度度量体系+ROI，向高管汇报用。",
+    "topic": "staff-meeting"
   },
   {
     "title": "Slido for Microsoft Teams 一站式互动（blog.slido·投票/匿名QA/词云·远程与现场同权）",
@@ -6699,7 +6761,8 @@
     "url": "https://www.slido.com/microsoft-teams-powerpoint",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会 Teams 原生互动（投票/匿名QA/词云），远程现场同权。"
+    "summary": "② 全员会 Teams 原生互动（投票/匿名QA/词云），远程现场同权。",
+    "topic": "staff-meeting"
   },
   {
     "title": "Vevox × Microsoft Teams 匿名投票问答（vevox·侧边栏集成·免切换屏幕）",
@@ -6707,7 +6770,8 @@
     "url": "https://vevox.zendesk.com/hc/en-us/articles/360009153397-Using-Vevox-with-Microsoft-Teams",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会匿名投票/Q&A（Vevox×Teams），零切换。"
+    "summary": "② 全员会匿名投票/Q&A（Vevox×Teams），零切换。",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员会互动技巧2026（AhaSlides·匿名QA 74%、24h纪要、200人拆分组）",
@@ -6715,7 +6779,8 @@
     "url": "https://ahaslides.com/blog/town-hall-meeting-guide/",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会全程结构化互动+匿名Q&A+24h纪要。"
+    "summary": "② 全员会全程结构化互动+匿名Q&A+24h纪要。",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员会 production 制胜（event.com.sg·音频/直播制作/混合平权/技术彩排）",
@@ -6723,7 +6788,8 @@
     "url": "https://event.com.sg/blog/how-to-plan-a-town-hall-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会现场制作+混合平权，避免「体验翻车」。"
+    "summary": "② 全员会现场制作+混合平权，避免「体验翻车」。",
+    "topic": "staff-meeting"
   },
   {
     "title": "互动目标→形式匹配（event.com.sg·先定目标再选互动·避为花样而花样）",
@@ -6731,7 +6797,8 @@
     "url": "https://event.com.sg/blog/town-hall-event-ideas-for-employee-engagement",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 全员会互动「目标→形式」匹配设计，拒为花样而花样。"
+    "summary": "② 全员会互动「目标→形式」匹配设计，拒为花样而花样。",
+    "topic": "staff-meeting"
   },
   {
     "title": "跳过一级的 Skip-level 倾听 Offsite（leader 跨级听一线、建信任不越界）",
@@ -7067,7 +7134,8 @@
     "url": "https://happeo.com/blog/ceo-communication-with-employees",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "③ 高管把全员会做成双向对话+真实感沟通范式。"
+    "summary": "③ 高管把全员会做成双向对话+真实感沟通范式。",
+    "topic": "staff-meeting"
   },
   {
     "title": "AI 全员会模板：直面岗位焦虑·再培训·诚实Q&A（businessplusai·信任在Q&A赚或失）",
@@ -7075,7 +7143,8 @@
     "url": "https://www.businessplusai.com/blog/ai-town-hall-template-how-to-address-workforce-concerns-and-build-employee-trust",
     "sourceType": "secondary",
     "relation": "exec,supervisor",
-    "summary": "③ 高管向全员做AI变革沟通；② 各部门AI答疑对接人+再培训落地。"
+    "summary": "③ 高管向全员做AI变革沟通；② 各部门AI答疑对接人+再培训落地。",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员公告写作结构（commswith.ai·All-Staff Update Format：钩子/背景/变什么/对你意味什么/时间线/下一步）",
@@ -7083,7 +7152,8 @@
     "url": "https://www.commswith.ai/library/content/all-staff-update-format",
     "sourceType": "secondary",
     "relation": "exec,supervisor",
-    "summary": "③ 高管全员公告定调；② HRBP/内部沟通写全员通知骨架。"
+    "summary": "③ 高管全员公告定调；② HRBP/内部沟通写全员通知骨架。",
+    "topic": "staff-meeting"
   },
   {
     "title": "CEO 亲临一线：三班倒专场+2分钟视频+「人来了」效应（wp.me/linkedin·无桌员工触达）",
@@ -7091,7 +7161,8 @@
     "url": "https://wp.me/pectHZ-3r",
     "sourceType": "secondary",
     "relation": "exec",
-    "summary": "③ 一把手面向一线/无桌员工的「在场」沟通范式。"
+    "summary": "③ 一把手面向一线/无桌员工的「在场」沟通范式。",
+    "topic": "staff-meeting"
   },
   {
     "title": "一线/无桌员工触达框架：经理级联+Town Hall直连+数字标牌+观看派对（forbes/firstup·80%员工无桌）",
@@ -7099,7 +7170,8 @@
     "url": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/20/the-best-and-worst-ways-to-reach-front-line-employees/",
     "sourceType": "secondary",
     "relation": "exec,supervisor",
-    "summary": "③ 高管面向一线宣布变革+直连；② 经理级联toolkit+数字标牌触达。"
+    "summary": "③ 高管面向一线宣布变革+直连；② 经理级联toolkit+数字标牌触达。",
+    "topic": "staff-meeting"
   },
   {
     "title": "异步全员会模板：pre-read文档把低价值内容前移·现场只留能量/认可/Q&A（betterat.work）",
@@ -7107,7 +7179,8 @@
     "url": "https://betterat.work/tool/all-hands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 组织者把全员会低价值内容异步化、现场聚焦能量/认可/Q&A。"
+    "summary": "② 组织者把全员会低价值内容异步化、现场聚焦能量/认可/Q&A。",
+    "topic": "staff-meeting"
   },
   {
     "title": "员工该问领导的25问框架（openculturebot·按战略/财务/产品/文化/人才分组+不问得像炫技）",
@@ -7115,7 +7188,8 @@
     "url": "https://www.openculturebot.com/blog/questions-to-ask-leadership-ceo-in-a-town-hall",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 组织者/HRBP给员工备提问清单、激活冷场Q&A。"
+    "summary": "② 组织者/HRBP给员工备提问清单、激活冷场Q&A。",
+    "topic": "staff-meeting"
   },
   {
     "title": "线上Town Hall主持与彩排：排练人非仅技术·给提问真实位置·24h内发纪要（india.aonmeetings）",
@@ -7123,7 +7197,8 @@
     "url": "https://india.aonmeetings.com/online-town-hall-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 内部沟通/HRBP主持线上全员会+彩排+纪要闭环。"
+    "summary": "② 内部沟通/HRBP主持线上全员会+彩排+纪要闭环。",
+    "topic": "staff-meeting"
   },
   {
     "title": "7个能拿到承诺的CEO提问（icvdm·要指标/owner/时间线·非泛泛而谈+制作视角run-of-show）",
@@ -7131,7 +7206,8 @@
     "url": "https://icvdm.com/questions-to-ask-the-ceo-during-a-corporate-town-hall-meeting",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② 组织者备「逼出承诺」的高质量提问+run-of-show制作清单。"
+    "summary": "② 组织者备「逼出承诺」的高质量提问+run-of-show制作清单。",
+    "topic": "staff-meeting"
   },
   {
     "title": "会议认可系统化：固定议程段live shout-out+同侪提名模板+跨部门可见（verifyed·持续可预测>偶发）",
@@ -7139,7 +7215,8 @@
     "url": "https://www.verifyed.io/blog/budget-employee-appreciation-gifts",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "② HRBP/组织者把认可做进会议常驻议程+同侪提名机制。"
+    "summary": "② HRBP/组织者把认可做进会议常驻议程+同侪提名机制。",
+    "topic": "staff-meeting"
   },
   {
     "title": "高管务虚会「战略摩擦映射」+ 决策速度框架（对齐引擎）",
@@ -8121,7 +8198,8 @@
     "url": "https://blog.slido.com/how-to-host-better-qa-sessions-at-allhands-meetings",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "Q&A 九法：占 1/3 时间、匿名平台+upvote、会前收问题让高管备答、直面尖锐、会后摘要闭环。"
+    "summary": "Q&A 九法：占 1/3 时间、匿名平台+upvote、会前收问题让高管备答、直面尖锐、会后摘要闭环。",
+    "topic": "staff-meeting"
   },
   {
     "title": "7 法打通员工沟通（含月度 Town Hall+CEO 咖啡+巡场）",
@@ -8129,7 +8207,8 @@
     "url": "https://greatplacetowork.com/resources/blog/7-ways-to-effectively-communicate-with-employees",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "7 法打通员工沟通：1:1/站会/发展对话/月度 town hall/CEO 咖啡/使命时刻/员工巡场，town hall 为固定节奏之一。"
+    "summary": "7 法打通员工沟通：1:1/站会/发展对话/月度 town hall/CEO 咖啡/使命时刻/员工巡场，town hall 为固定节奏之一。",
+    "topic": "staff-meeting"
   },
   {
     "title": "Town Hall 通知写作器：3-3-3 信息结构+提醒序列（FindSkill）",
@@ -8137,7 +8216,8 @@
     "url": "https://findskill.ai/skills/productivity/town-hall-announcement-writer",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "Town Hall 通知写作器：3-3-3 信息结构、前一日/会前 1h 提醒序列、四类 Q&A 口径与桥接句、会后 recap 模板。"
+    "summary": "Town Hall 通知写作器：3-3-3 信息结构、前一日/会前 1h 提醒序列、四类 Q&A 口径与桥接句、会后 recap 模板。",
+    "topic": "staff-meeting"
   },
   {
     "title": "办好全员会：定目标+七要素内容+双向沟通（Gympass）",
@@ -8145,7 +8225,8 @@
     "url": "https://gympass.com/en-us/blog/organizational-development/all-hands-meeting/",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "办好全员会：先定目标、七要素混搭内容（故事/可视化/互动/认可/嘉宾/证言/进展）、促双向沟通、拉远程参与。"
+    "summary": "办好全员会：先定目标、七要素混搭内容（故事/可视化/互动/认可/嘉宾/证言/进展）、促双向沟通、拉远程参与。",
+    "topic": "staff-meeting"
   },
   {
     "title": "全员会最佳实践：每月轮换 MC+邀请嘉宾+直面难题（monday.com）",
@@ -8153,7 +8234,8 @@
     "url": "https://monday.com/blog/teamwork/conducting-an-all-hands-meeting-the-right-way",
     "sourceType": "secondary",
     "relation": "supervisor",
-    "summary": "全员会最佳实践：月度固定节奏、轮换 MC+嘉宾、守时、高层讲重点非倒数据、开放尖锐问题、公开表彰。"
+    "summary": "全员会最佳实践：月度固定节奏、轮换 MC+嘉宾、守时、高层讲重点非倒数据、开放尖锐问题、公开表彰。",
+    "topic": "staff-meeting"
   },
   {
     "title": "高管 offsite「决策架构」模板：单一决策 + 结构化异议 + 30天复查（基于 23,624 份真实议程）",
