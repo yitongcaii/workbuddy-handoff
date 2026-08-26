@@ -52,7 +52,7 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
 <p style="margin:0 0 16px"><a href="runs/index.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📑 查看本主题分页独立页 →</a></p>
   <div class="hero">
     <h1>🏔️ Offsite 团建务虚 · 知识采集卡片墙</h1>
-    <p>采集于 2026-08-07 ｜ 2026-08-08 三轮 enrich +10 ｜ 2026-08-09 五轮 enrich +8 ｜ 2026-08-09(夜) 六轮 enrich +5 ｜ 2026-08-10 语义去重 -1（合并 iceindia→easyhotelrfp，保留预算基准硬数据）｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）｜ KM补采 2026-08-10(+3) ｜ 2026-08-10 七轮补采 +10｜ 2026-08-10 八轮补采 +6 ｜ 2026-08-12 九轮补采 +5 ｜ 2026-08-12 十轮补采 +9 ｜ 2026-08-13 十一轮补采 +6 ｜ 2026-08-14 十三轮补采 +10 ｜ 2026-08-15 十四轮补采 +6 ｜ 2026-08-16 十五轮补采 +6 ｜ 2026-08-17 十六轮补采 +6 ｜ 2026-08-17 十七轮补采 +4 ｜ 2026-08-18 十八轮补采 +3 ｜ 2026-08-19 十九轮补采 +6 ｜ 2026-08-20 二十轮补采 +6 ｜ 2026-08-21 二十一轮补采 +11 ｜ 2026-08-22 二十二轮补采 +6 ｜ 2026-08-23 二十三轮补采 +10 ｜ 2026-08-23 二十四轮补采 +5 ｜ 2026-08-24 二十五轮补采 +7（漏渲染补登·索引校正） ｜ 二十六轮补采 +8（exec 跟进闭环·决策权·引导技术）  ｜ 2026-08-25 二十七轮补采 +10（高管 retreat 治理/引导师选型 / 远程混合 offsite 决策+2025趋势）｜ 2026-08-27 二十八轮补采 +14（高管 retreat 2026趋势/制作框架/战略务虚/董事会治理/团队建设 + 经理层两日对齐/活动菜单/个人发展/远程灵感） ｜ 2026-08-27 续·补采 +5（议程五块法/董事会retreat治理/家族董事会案例 + 新leader融入/90天onboarding）</p>
+    <p>采集于 2026-08-07 ｜ 2026-08-08 三轮 enrich +10 ｜ 2026-08-09 五轮 enrich +8 ｜ 2026-08-09(夜) 六轮 enrich +5 ｜ 2026-08-10 语义去重 -1（合并 iceindia→easyhotelrfp，保留预算基准硬数据）｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）｜ KM补采 2026-08-10(+3) ｜ 2026-08-10 七轮补采 +10｜ 2026-08-10 八轮补采 +6 ｜ 2026-08-12 九轮补采 +5 ｜ 2026-08-12 十轮补采 +9 ｜ 2026-08-13 十一轮补采 +6 ｜ 2026-08-14 十三轮补采 +10 ｜ 2026-08-15 十四轮补采 +6 ｜ 2026-08-16 十五轮补采 +6 ｜ 2026-08-17 十六轮补采 +6 ｜ 2026-08-17 十七轮补采 +4 ｜ 2026-08-18 十八轮补采 +3 ｜ 2026-08-19 十九轮补采 +6 ｜ 2026-08-20 二十轮补采 +6 ｜ 2026-08-21 二十一轮补采 +11 ｜ 2026-08-22 二十二轮补采 +6 ｜ 2026-08-23 二十三轮补采 +10 ｜ 2026-08-23 二十四轮补采 +5 ｜ 2026-08-24 二十五轮补采 +7（漏渲染补登·索引校正） ｜ 二十六轮补采 +8（exec 跟进闭环·决策权·引导技术）  ｜ 2026-08-25 二十七轮补采 +10（高管 retreat 治理/引导师选型 / 远程混合 offsite 决策+2025趋势）｜ 2026-08-27 二十八轮补采 +14（高管 retreat 2026趋势/制作框架/战略务虚/董事会治理/团队建设 + 经理层两日对齐/活动菜单/个人发展/远程灵感）</p>
     <div class="relbar">
       <span>② 领导↔员工（上下级，supervisor）</span>
       <span>③ 领导↔领导（高管间，exec）</span>
@@ -61,7 +61,7 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
 
     <div class="sec sec3">
     <h2>③ 领导↔领导（高管间 · exec）</h2>
-    <span class="tag">126 卡</span>
+    <span class="tag">124 卡</span>
     <span class="desc">商务化、以专业/共同目标切入，避免幼稚游戏；含战略务虚会、闭门决策会、领导力团队 offsite 议程模板与权威方法论</span>
   </div>
   <div class="grid">    <div class="hl">
@@ -716,6 +716,13 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
       <div class="note">适用：③ 高管/战略 retreat，「议程骨架=决策窗+反思+强收尾+可复用模板」是可迁移时间块设计。（平台商二手，方法论权威；偏「议程结构性元素与能量排程」，补时间窗/反思/收尾纪律）</div>
     </div>
     <div class="hl">
+      <div class="top"><span class="emoji">📊</span><h3>数据驱动务虚议程：1个决策+结构化异议+30天check-in+记录异议</h3><span class="cat">数据驱动议程</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
+      <p class="val">基于23,624份真实议程评分的强议程模板，核心三动作：①邀约里就写明"本次必须产出的那一个决策"；②在 offsite 现场就排好30天复盘会（不是会后补）；③把异议与决策一并记录，让承诺更耐久。逐块设计：9:00每人说"90天必须有什么不同"（个人 stakes 替代破冰，成为当天成功判据）→9:30问题简报（预读复盘+唯一决策）→10:00证据轮（已知/假设分离）→11:00结构化异议（红队在还便宜时反驳）→12:30成对散步午餐（跨职能纽带）→13:30决策会（选项上墙、权衡、写定并记录异议）→15:00ownership map（每条工作流有owner/日期/第一步）→16:00收尾（排30天check-in并定纪要owner）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用数据驱动议程学 unitedwetransform「1个决策+结构化异议+现场排30天check-in+记录异议」：邀约写明唯一决策；用个人stakes替代破冰；证据轮分离已知与假设；红队在低成本时结构化反驳；决策写定并记异议；ownership map 落 owner/日期；收尾当场排30天跟进与纪要owner。</div></details>
+      <div class="src">🔗 <a href="https://unitedwetransform.com/leadership-offsite-agenda-template" target="_blank">https://unitedwetransform.com/leadership-offsite-agenda-template</a></div>
+      <div class="note">适用：③ 高管 offsite，「决策架构（问题具体+异议设计+跟进日历化）」是可迁移硬骨架。（服务商二手，强在数据支撑与「决策不落地=贵价晚餐」判据；补「记录异议使承诺耐久」这一少被提的落点）</div>
+    </div>
+    <div class="hl">
       <div class="top"><span class="emoji">🎯</span><h3>执行对齐型务虚：决策backlog反排+2页决策简报+心理安全机制+实时记录</h3><span class="cat">执行对齐</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
       <p class="val">高管务虚=高强度工作会议（暂离日程噪声做重大决定），产出不是"玩得好"而是更少优先级+更清问责+更信怎么决策。五原则：①从决策backlog反排（列3-5个必须带走的选择，围绕它们建议程而非堆幻灯片）；②用1-2页决策简报替代60页deck（问题/选项/权衡/风险/草拟建议，会前静读）；③心理安全靠机制（结构化异议轮、匿名初投、明确允许挑战假设），并连到会后保留的团队仪式；④定"操作系统"而非只定战略（决策权RACI/DACI、升级路径、规划节奏、KPI）；⑤决策写进屋里（owner/日期/"怎么算做到"进可见日志）。附2天议程：Day0发简报+脉冲调研；Day1三决策块+操作系统工作坊+连接burst。</p>
       <details class="exec"><summary>怎么做</summary><div class="inner">做执行对齐务虚学 scavify「决策backlog反排+2页决策简报+心理安全机制+定操作系统+实时记录」：先列3-5个必带走的决策建议程；用1-2页简报替代长deck会前静读；结构化异议轮/匿名初投建安全感；明定决策权RACI与升级路径；决策现场落owner/日期/判据进可见日志。</div></details>
@@ -856,32 +863,10 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
   <div class="src">✅ <a href="https://ideaguides.com/feeds/blog/executive-team-building-retreats" target="_blank">https://ideaguides.com/feeds/blog/executive-team-building-retreats</a></div>
   <div class="note">适用：③ 高管团队建设 retreat（exec/team leader）的「活动顺序+复盘机制+空隙设计」。（引导机构二手，团队建设向；补 fusefacilitation 治理之外的「团队建设活动序列+复盘闭环」）</div>
 </div>
-
-    <div class="hl">
-      <div class="top"><span class="emoji">🗺️</span><h3>高管 Offsite 议程五块法（命名成果→重设Flag→坦诚对话→决策归属→30天加固）</h3><span class="cat">议程框架</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">把 offsite 当成「通往一个成果的路径」而非活动清单。五块按序：①命名一个成果（"30天后___不同"）；②重设 Flag（团队共认未来1-2个季度服务的2-3个优先级，命名不出就说明这是要解决的）；③开坦诚对话（团队一直绕开不穿透的话题，CEO 作为参与者而非裁判）；④把对话变决策（每个议题一个 owner+deadline+辩护义务）；⑤建30天加固（几乎被所有议程跳过、却决定能否存活的一块——谁查什么、何时、在哪个会）。1天版压成：Flag重置+坦诚对话+决策（上午），承诺+30天计划（下午）；半天只够一件事。最大错误=跳过加固块。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">五块顺序不可乱：命名成果→重设Flag→坦诚对话→决策(owner+deadline)→30天加固(谁查/何时/哪个会)；1天压缩版保结构不保时长；半天只做一件事（坦诚对话→决策→加固）；加固块是绝大多数议程漏掉、却决定存活的一块。</div></details>
-      <div class="src">🔗 <a href="https://www.belegendary.org/leadership-offsite-agenda/" target="_blank">Be Legendary·领导力Offsite议程五块法</a></div>
-      <div class="note">适用：③ 高管团队 offsite 议程设计，「五块法+30天加固不可省」是可迁移议程骨架。🔍 区别于卡片（consultclarity 10套模板=多情景模板库；本卡=极简五块顺序纪律，补「议程不是清单、加固块不可省」）。</div>
-    </div>
-    <div class="hl">
-      <div class="top"><span class="emoji">🏛️</span><h3>董事会年度务虚 retreat：战略议题+关系建设+建设性异议规范</h3><span class="cat">董事会治理</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">高效董事会靠信任不靠层级。具体动作：①在正式会前排非正式晚餐、办聚焦战略规划的年度董事会 retreat（而非运营更新）；②鼓励董事间会间 1对1 连接；③尽早建立「建设性异议」准则——质疑假设、要求更多数据、提替代方案是强化决策而非破坏团结；④新董事结构化 onboarding（fiduciary duties/战略/董事会实务），让其首年即贡献；⑤问题行为（打断/主导/不备会）走私下谈话+教练，严重违 fiduciary/保密走正式干预。关系熟悉度决定高风险决策时的建设性冲突质量。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">会前排非正式晚餐+年度战略 retreat（非运营更新）；鼓励董事间1对1；早期建立建设性异议准则（质疑假设/要数据/提替代=强化决策）；新董事结构化onboarding使其首年贡献；问题行为私下谈话+教练，严重违fiduciary走正式干预。</div></details>
-      <div class="src">🔗 <a href="https://www.diligent.com/resources/blog/board-management/" target="_blank">Diligent·董事会管理15条最佳实践(2026)</a></div>
-      <div class="note">适用：③ 董事会/治理层 offsite，「年度战略 retreat+会前晚餐+建设性异议规范+新董事onboarding」是可迁移治理信任动作。🔍 区别于卡片（DLA Piper 董事会10步=具体操作清单；本卡=治理层关系建设与异议规范机制，补「建设性冲突如何制度化」）。</div>
-    </div>
-    <div class="hl">
-      <div class="top"><span class="emoji">🏢</span><h3>家族企业董事会务虚 retreat 实战案例（发现期+SWOT+两日森林facilitation）</h3><span class="cat">董事会案例</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">Namar Foods 家族企业处领导更替+三代接班+扩张十字路口。做法：①发现期下载机构知识（财报/董事会纪要/章程/HR政策）+对每位董事做机密 1对1 访谈锚定 rapport，产出 SWOT 框定 retreat 目标与 ground rules；②北加州森林两日 retreat，凭发现期信任把「房间里的大象」变成董事会盟友而非争议点；③产出可表决的清晰路径+下一代治理蓝图。要点：family business 的董事会务虚要把代际所有权传承与现任 CEO 对齐一起做，facilitator 须做实质预访谈而非带通用议程。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">发现期=下载机构知识+每位董事机密1对1访谈→SWOT框定目标与ground rules；两日retreat凭预访谈信任处理「大象」议题；产出可表决路径+代际治理蓝图；family business须把代际传承与现任CEO对齐同做；facilitator须实质预访谈。</div></details>
-      <div class="src">🔗 <a href="https://www.impactcollaborative.co/clientwork/namar" target="_blank">Impact Collaborative·家族企业董事会Retreat案例(Namar Foods)</a></div>
-      <div class="note">适用：③ 家族企业/治理层董事会务虚，「发现期机密访谈+SWOT框定+两日facilitation+代际对齐」是可迁移案例骨架。🔍 区别于卡片（DLA Piper/egonzehnder=原则指南；本卡=真实家族企业董事会 retreat 端到端案例，补「代际传承如何进务虚」）。</div>
-    </div>
 </div>
 <div class="sec sec2">
     <h2>② 领导↔员工（上下级 · supervisor）</h2>
-    <span class="tag">81 卡</span>
+    <span class="tag">128 卡</span>
     <span class="desc">尊重、不隐私暴露、建信任不越界；含行动学习工作坊、群策群力、复盘工作坊、管理层团建与信任责任建设</span>
   </div>
   <div class="grid">    <div class="hl">
@@ -1266,6 +1251,317 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
     </div>
 </div><div class="grid">
 <div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>裁员/重组后 manager 带队重建信任：倾听会（领导回避）+ 1:1投入 + 团队宪章共创 + 用户手册交换</h3><span class="cat">信任重建</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">裁员/重组后团队信任崩了，先承认现实再建。manager 用 offsite/工作坊重建的四步：①倾听会（第1-2周）：6-10人小组合议，只问"你现在真实经历什么""未来30天什么对你最重要"，领导不参加；结果匿名汇总回传领导并公开承诺一周内回应主题——成本极低却产出比敬业度调研更真的组织情报。②1:1投入（第2-4周）：manager 与每位直属下属做30分钟"你怎么样、需要什么"对话（非绩效、非 workload 重分配），经理角色几乎全在听+承认，不解释不辩护。③团队宪章会（第4-6周）：90分钟引导共创新 Operating Norms——沟通协议（邮件/Slack/面谈各管什么）、决策权（经理定/团队定/需共识）、会议规范、反馈规范、workload 透明——共同写的比领导下发的高遵从低摩擦。④用户手册交换：每人答5问（沟通偏好/好工作日长啥样/什么让我压力及表现/挣扎时我需要经理什么/希望你懂我怎么工作），尤其适合人员大变动的团队。避坑：在现实被承认前搞团建=表演，员工一眼看穿。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">裁员后先承认现实；第1-2周办领导回避的倾听会（2问，匿名回传+一周承诺）；第2-4周每人30min 1:1纯倾听；第4-6周引导共创团队宪章（沟通/决策/会议/反馈/负荷透明）；人员变动大时做用户手册交换。</div></details>
+      <div class="src">🔗 <a href="https://www.fulltiltteams.com/blog/team-building-after-layoffs-the-complete-guide-to-rebuilding-trust-culture-and-performance-in-2026" target="_blank">https://www.fulltiltteams.com/blog/team-building-after-layoffs-the-complete-guide-to-rebuilding-trust-culture-and-performance-in-2026</a></div>
+      <div class="note">适用：② 一线/中层 manager 在裁员或重组后带团队 offsite 重建信任，「倾听会(领导回避)+1:1倾听+团队宪章共创+用户手册」是可迁移救场框架。🔍 区别于卡片（团队再契约——本卡聚焦"危机后信任重建"的时机节奏与领导回避机制，补救场而非日常维护）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔧</span><h3>团队成员进出时 manager 带队「再契约（re-contracting）」：刷新团队宪章 + 重建心理安全</h3><span class="cat">团队维护</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">团队不是建好就不变——人进进出出、优先级移、外部条件变。每次成员变动，manager 别只当招聘/离职流程管，而要当成重置+加固团队文化的机会，办一次"再契约"会话：把团队聚起来公开讨论新一章怎么一起工作，专门更新团队宪章/基本规则，鼓励每个人说出"要感到舒服、发挥最好需要什么"（哪些规范继续、要不要新建）。让成员发声定什么是重要的，是把文化塑造权交给团队。同步重建心理安全：经理以身作则想要的行为、对新老成员一致公平、邀请提问、耐心等大家适应；可办轻松社交或破冰重建人际连接，让人感到"我们仍在一起"。关键是把"团队维护"做成领导例行——每次演变都变成强化基础（重对焦目的、刷新规则、加固安全信任）的机会，而非拖累绩效的扰动。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">成员进出时办"再契约"会话更新团队宪章（继续/新建哪些规范）；让成员发声定重要的事；经理以身作则+一致公平+邀请提问重建心理安全；把团队维护做成领导例行而非一次性。</div></details>
+      <div class="src">🔗 <a href="https://theconversationcompany.co.uk/team-maintenance-a-cornerstone-of-good-leadership" target="_blank">https://theconversationcompany.co.uk/team-maintenance-a-cornerstone-of-good-leadership</a></div>
+      <div class="note">适用：② 一线/中层 manager 在团队成员变动（入职/离职/转岗）时带团队 offsite/会话「再契约」，刷新宪章+重建心理安全。🔍 区别于卡片（裁员后重建——本卡聚焦"日常成员变动的例行再契约维护"而非危机补救，更轻量可复用）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔭</span><h3>跳过一级的 Skip-level 倾听 Offsite（leader 跨级听一线、建信任不越界）</h3><span class="cat">跨级倾听</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Skip-level（领导见下属的下属）是打破信息茧房、提前发现系统性问题的结构化机制，不是绩效审查也不是打小报告。三要素：① 会前明确「为什么」（这不是评估你经理，是听你的视角，保密、只聚合模式不点名）；② 中性私密场景（会议室/视频/散步，避开双方办公室以中和权力差）；③ 全神贯注+承诺跟进（听到问题就反馈，哪怕「暂不动」也要说）。频率：新经理上任/重组/裁员后每月，稳定团队 6 周–季度，别高于每月否则变战术会挤占直线经理。问法从 broad 到聚焦：「近期最自豪/最有能量的事→当前角色什么最耗能→如果魔杖能改什么→还有什么该让我知道」。避坑：不当传声三角、不绕过直线经理、不替下属做其经理该做的反馈；把聚合反馈回传给直线经理让其知情。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">会前发目的+让对方带议程；中性私密地点；开场澄清「非绩效审查、保密、只看模式」；问题从 broad→聚焦（自豪/耗能/魔杖/其他）；全神贯注+承诺跟进；聚合反馈回传直线经理；频率随变革上调（每月）稳定期季度。</div></details>
+      <div class="src">🔗 <a href="https://www.lenareinhard.com/articles/effective-skip-level-meetings-guide-templates-managers-of-managers" target="_blank">https://www.lenareinhard.com/articles/effective-skip-level-meetings-guide-templates-managers-of-managers</a></div>
+      <div class="note">适用：② 中层/高管跨越一级与一线骨干建信任、挖跨部门/系统性堵点（如部署流程隐患），是 offsite/1:1 外的「向下穿透」机制。🔍 区别于卡片：聚焦「跨一级倾听」这一独特关系姿态（领导↔下属的下属），补直线 manager↔report 之外的第三层信任通道，且强调「不绕过直线经理/不建三角」的边界。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌱</span><h3>团队 Offsite 嵌入职业发展对谈（manager 与下属谈成长/晋升，向前看非审判）</h3><span class="cat">成长对谈</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">团队 offsite 不只是业务对齐，也是 manager 与直属下属做职业发展对谈的低压力窗口——把「谈成长」从一年一次绩效审判，变成 offsite 里的定期模块。五步：① 季度节奏（用既有 1:1 槽位拨一个专门谈发展，理想每季度）；② 先盘现状优势（什么让你有能量/哪块最不想做）；③ 探未来（1-3 年想去哪/想学什么/有没有想尝试的路径）；④ 共创发展计划（2-3 个带时限的下一步，manager 是伙伴不是 driver）；⑤ 持续跟进（每周 1:1 回看进展）。关键姿态：向前看不翻旧账、明确「这不是绩效/薪酬/纪律谈话」、给足专注与安全感。对 retention 的真实杠杆：82% 员工说若经理定期谈发展会更投入，75% 更可能留下，但仅 16% 真在定期谈。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">把职业发展对谈设成 offsite/1:1 定期模块（季度）；先聊优势与能量再探抱负；共创 2-3 带时限发展行动 manager 作伙伴；明确「非绩效审判」基调；每周 1:1 持续跟进。</div></details>
+      <div class="src">🔗 <a href="https://teamspective.com/blog/career-development-conversations" target="_blank">https://teamspective.com/blog/career-development-conversations</a></div>
+      <div class="note">适用：② 部门 manager 在 offsite/团队日嵌入与下属的成长对谈，把「发展」从年度审查变成定期低压力对话，提升投入与留存。🔍 区别于卡片：聚焦「manager↔report 职业发展对谈」这一上下级专属关系动作，补 talent/retention 维度（此前墙内无此角度）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏔️</span><h3>TADHUB·2026乐行-实验平台西双版纳团建游记</h3><span class="cat">团建 Offsite</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">**文章摘要**
+
+本文是腾讯实验平台团队2025年夏季西双版纳团建的游记。文章以轻松、生动的笔触，记录了团队在四天三晚的行程中，从开半年会到深入雨林徒步、探访植物园和古寨、与亚洲象互动的全过程。文章旨在分享团队活动的精彩瞬间，展现团队凝聚力，并为读者提供一份详实有趣的西双版纳旅行参考。
+
+**文章重点总结**
+
+1.  **行程概览**：团队于7月9日至12日从深圳飞往西双版纳，入住云投喜来登酒店。行程融合了工作会议（半年会）与丰富的团建活动，包括文化景点、户外探险和自然生</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部参考：WXG技术架构部 的真实落地做法，可迁移至本公司「Offsite/团建」场景；重点提取其议程结构 / 互动环节 / 叙事温度，避免照搬形式。</div></details>
+      <div class="src">🔗 <a href="https://km.woa.com/articles/show/665992" target="_blank">km.woa.com/articles/show/665992</a></div>
+      <div class="note">适用：② 公司内部上下级场景（KM 内部一手，WXG技术架构部 实践可抄）</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏔️</span><h3>暑假团建季，组团送福利！</h3><span class="cat">团建 Offsite</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">**文章摘要**
+
+本文是一篇面向腾讯公司内部员工的暑期团建福利活动通知。文章的核心目的是介绍一项限时福利活动，鼓励员工在暑假期间发起或参与团建，并通过完成指定任务来赢取打车代金券。
+
+**文章重点总结**
+
+1.  **活动背景与对象**：活动名为“暑假团建季，组团送福利”，面向公司内部全体同学，活动时间从即日起至2026年9月31日，奖品限量500份，送完即止。
+
+2.  **参与方式与奖励机制**：活动分为两个步骤，每完成一步即可解锁对应奖励：
+    *   **第一</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部参考：腾讯地图用户交流吧 的真实落地做法，可迁移至本公司「Offsite/团建」场景；重点提取其议程结构 / 互动环节 / 叙事温度，避免照搬形式。</div></details>
+      <div class="src">🔗 <a href="https://km.woa.com/articles/show/664853" target="_blank">km.woa.com/articles/show/664853</a></div>
+      <div class="note">适用：② 公司内部上下级场景（KM 内部一手，腾讯地图用户交流吧 实践可抄）</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏔️</span><h3>TADHUB·2026乐行 · 同心同行，山海为证——新疆六日团建纪行</h3><span class="cat">团建 Offsite</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
+      <p class="val">**文章摘要**
+
+本文是一篇关于腾讯TADHUB团队2026年新疆六日团建活动的纪实回顾。文章并非单纯记录风景，而是以“同心同行”为主题，通过描述旅途中的具体经历，深刻展现了团队从陌生到熟悉、最终形成高度默契与凝聚力的过程。文章旨在将团建中建立的信任与协作精神，引申到未来的工作中。
+
+**文章重点总结**
+
+1.  **旅程概览与核心主题**：
+    *   文章记录了6月25日至30日，团队从乌鲁木齐出发，途经赛里木湖、伊宁、喀拉峻、那拉提、独库公路，最终抵达库车的六天</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">内部参考：WXG技术架构部 的真实落地做法，可迁移至本公司「Offsite/团建」场景；重点提取其议程结构 / 互动环节 / 叙事温度，避免照搬形式。</div></details>
+      <div class="src">🔗 <a href="https://km.woa.com/articles/show/664331" target="_blank">km.woa.com/articles/show/664331</a></div>
+      <div class="note">适用：② 公司内部上下级场景（KM 内部一手，WXG技术架构部 实践可抄）</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🗺️</span><h3>中通服软件·战略解码工作坊（真实案例）</h3><span class="cat">战略解码</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">科石携手中通服软件战略解码工作坊真实案例：围绕战略目标系统梳理核心组织能力（研发创新/方案整合/数字化人才梯队）；将战略意图分解为可操作关键举措（目标/预期成果/牵头部门/责任人/里程碑），避免执行模糊；各小组基于战略地图把关键目标拆为部门任务，讨论成功核心要素（资源/能力/协作）并定衡量标准；跨部门就人力/预算/技术/协同坦诚协商形成资源共识；各部门负责人现场承诺主动担当。学员反馈"打破信息孤岛与思维壁垒、方向更清、心更齐"。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用战略地图把战略目标拆为部门任务；每项任务讨论资源/能力/协作三要素+衡量标准；跨部门坦诚协商资源与协同；负责人现场承诺；务虚务实结合。</div></details>
+      <div class="src">🔗 <a href="http://www.keystonecn.com/hot/1884.html" target="_blank">keystonecn.com/hot/1884.html（中通服软件战略解码工作坊）</a></div>
+      <div class="note">适用：② 中高层战略解码工作坊真实落地，战略地图+责任分解+跨部门共识适配上下级与跨职能。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">📐</span><h3>浙江鞋业集团·战略体系澄清工作坊（真实案例）</h3><span class="cat">战略澄清</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">中大咨询×浙江某大型鞋业集团战略体系澄清工作坊（2 天）真实案例：澄清使命/愿景/经营/竞争/职能战略四层 15 模块；每模块先理论讲解+案例（白老师）再群策群力——管理者分组讨论白板展示、激烈碰撞提建议、老师点评引申；目的=传递理念/统一认识/看清问题/找到方法/形成习惯；学员"从未一起开诚布公探讨，增进了了解与责任感"。董事长信心增强。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">分层澄清（使命→愿景→经营→竞争→职能，15 模块）；理论+案例导入后群策群力分组白板展示；老师点评引申留思考题；两天达成共识驱动下一步。</div></details>
+      <div class="src">🔗 <a href="https://www.mpgroup.cn/article_1085.html" target="_blank">mpgroup.cn/article_1085.html（浙江鞋业集团战略体系澄清工作坊）</a></div>
+      <div class="note">适用：② 中高层战略澄清工作坊真实样本，四层 15 模块框架 + 群策群力可迁移内部 workshop。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">💡</span><h3>中国水务·团队学习法 + 战略务虚会（央企实践）</h3><span class="cat">团队学习</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">中国水务"团队学习法"应用实践（央企）：山东区域总部用团队学习法办 2026 年度战略务虚会，70 余名核心人员借 SWOT 等工具系统评估"十四五"执行、围绕数字化转型/城乡供水一体化编高质量战略规划报告，为"十五五"锚方向；总部/下属单位围绕业务攻坚（农村供水 3+1、直饮水、招采整改等）跨层级研讨形成可量化行动目标；以集体智慧将共同愿景转业务突破。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用团队学习法（SWOT 等工具）办战略务虚会；跨层级研讨把愿景转可量化行动目标；业务攻坚课题直锚真实痛点；成果转战略报告驱动落地。</div></details>
+      <div class="src">🔗 <a href="https://www.chinahho.com/news/t13/2834" target="_blank">chinahho.com/news/t13/2834（中国水务团队学习法实践）</a></div>
+      <div class="note">适用：② 央企战略务虚会 + 团队学习法真实实践，跨层级共识 + 量化行动目标适配上下级场景。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔄</span><h3>中集圣达因·半年度复盘工作坊（真实案例）</h3><span class="cat">复盘工作坊</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">中集圣达因（中集安瑞科控股国企制造业）半年度复盘工作坊真实案例：茅庐引导团队在真实业务场景中复盘实战，系统梳理上半年得失、规划下半年路径；项目背景四原则——聚焦关键问题/关注活生生的个体/瞄着打非蒙着打/跨团队拉通激集体创造力；不只复盘更是"学习复盘"（复盘有层次：基于事本身→看到趋势找规律→就规律复盘）；把"在复盘中学"融入日常，为组织持续迭代奠基。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用真实业务场景做复盘实战（非走过场）；四原则锚定（聚焦/看人/瞄着打/跨团队）；把复盘分层（事→趋势→规律）；外部引导师带训战让团队掌握方法并内化日常。</div></details>
+      <div class="src">🔗 <a href="https://www.morelook.cn/index.php/sanbanfuxunzhanfhk/21.html" target="_blank">morelook.cn/.../中集圣达因复盘</a></div>
+      <div class="note">适用：② 国企制造业中高层复盘工作坊真实样本，与卡片7（qg68 管理者复盘思维）互补——本卡是真实落地案例 + 复盘分层法。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🧠</span><h3>行动学习工作坊·问题共诊→方案落地</h3><span class="cat">行动学习</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">以企业提前提交的真实管理课题为素材，学员组行动学习小组，在催化师引导下走「共诊→共创→共担」三段式：逻辑树把模糊困扰转清晰定义、5Why+鱼骨图挖根因、团队共创+收益-难度矩阵收敛策略、行动计划表落到责任人与节点；每组方案经「城镇会议」跨组质询保可行可检验。两天工作坊只是起点——训后小组不解散，约定复盘周期持续运转，回岗推动落地，在干中学、学中干。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用真问题替代模拟案例；三段式（共诊/共创/共担）结构化；城镇会议跨组质询；训后小组持续运转 + 复盘周期固化。</div></details>
+      <div class="src">🔗 <a href="https://m.qg68.cn/neixun/detail/227073.html" target="_blank">m.qg68.cn/neixun/detail/227073.html</a></div>
+      <div class="note">适用：② 管理者与骨干以真实业务难题共创，训战闭环强、可迁移内部 workshop。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌱</span><h3>行动学习项目工作坊·方法菜单</h3><span class="cat">行动学习</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">面向中高层/基层/骨干的行动学习项目工作坊，覆盖一整套研讨工具菜单：欣赏式探寻（4D 循环发现优势与梦想）、深度汇谈 ORID（数据→理解→体验→行动四层）、群策群力 WORKOUT（愿景/SWOT/承诺/关键行动/城镇会议/复盘）、世界咖啡（创造集体智慧汇谈）、开放空间（捕捉灵光）、团队共创；以视觉引导 + 情境呈现 + 团队教练 + 故事隐喻等方式，把「讨论变决策、决策变行动」。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">按议题选工具：破冰用欣赏式探寻；深挖用 ORID；对齐用群策群力；集智用世界咖啡/开放空间；全程团队共创收口。</div></details>
+      <div class="src">🔗 <a href="http://www.333ce.cn/nxcourse/course_2304.html" target="_blank">333ce.cn/nxcourse/course_2304.html</a></div>
+      <div class="note">适用：② 管理者 workshop 工具箱，方法菜单可直接组合设计内部 session。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>群策群力团队催化能力提升</h3><span class="cat">群策群力</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">面向带团队的中层干部/基层主管的群策群力（WORKOUT）训战工坊，溯源 GE 群策群力：四大核心价值 = 建立团队信任、赋予员工权力、鼓励创新突破、激发高效执行；三阶段（规划/催化/落地）；催化六步法（共启愿景→SWOT→团队承诺→关键行动→城镇会议→复盘）。强调学员是主角、老师是催化者与点评者，全程互动实战，把「基于指令的管理」转为「基于承诺的管理」。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">先建团队信任再谈执行；用 GE 群策群力六步法；催化师退后让学员主角；把指令管理转承诺管理。</div></details>
+      <div class="src">🔗 <a href="http://szhanray.com/index.php?c=msg&amp;id=1358" target="_blank">szhanray.com/index.php?c=msg&amp;id=1358</a></div>
+      <div class="note">适用：② 中层带团队催化能力，信任+赋权+承诺三件套适配上下级。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔄</span><h3>管理者的复盘思维工作坊</h3><span class="cat">复盘工作坊</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">面向中层管理者的复盘思维工作坊，破解「同一坑反复跌倒/治标不治本/复盘变甩锅会/忙于救火」四大困境；独创「三维复盘」框架——管理自己（以身作则）、管理问题（标本兼治）、赋能团队（组织进化）；第一天沉浸式沙盘积累一手复盘素材，第二天用 ORID/5Why/SCOA/原因分类矩阵等十余工具完成「问题界定→根因→行动」闭环；带走针对真实痛点的《复盘解决方案与行动计划》，让复盘从「走过场」到「真进化」。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用沙盘造共同体验；三维框架（自己/问题/团队）防甩锅；ORID/5Why/SCOA 工具闭环；带走真实议题行动计划。</div></details>
+      <div class="src">🔗 <a href="https://m.qg68.cn/neixun/detail/227096.html" target="_blank">m.qg68.cn/neixun/detail/227096.html</a></div>
+      <div class="note">适用：② 中层复盘能力，把「甩锅会」转「真进化」尤其适合团队效能瓶颈。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏗️</span><h3>公司员工团建拓展策划方案</h3><span class="cat">拓展方案</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">结构化团建拓展方案，强调「体验-反思-分享-应用」体验式学习循环：① 破冰启航与团队组建（建立归属）；② 团队协作与沟通挑战（盲人摸象/有轨电车/罗马炮架/密室逃脱，练信任沟通分工）；③ 思维激发与创新突破（头脑风暴/创意搭建/沙漠掘金战略模拟）；④ 领导力与责任担当（针对中高层/储备干部：领袖风采/孤岛求生/情景模拟）；并设「角色互换模拟决策」打破单一思维、「跨职能协作演练」在高压下验协作边界、「动态复盘反馈」把临磨合转长期默契。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">按体验式四循环设计；角色互换促跨视角；跨职能高压演练验边界；动态复盘把磨合沉淀为默契；领导力模块专设中高层。</div></details>
+      <div class="src">🔗 <a href="https://www.renrendoc.com/paper/531327758.html" target="_blank">renrendoc.com/paper/531327758.html</a></div>
+      <div class="note">适用：② 管理层与员工共建信任/责任/协作，模块分层（含中高层领导力）适配上下级。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🎲</span><h3>管理层参与团建项目选型</h3><span class="cat">管理层团建</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">梳理适合管理层与团队共建的 8 类团建项目：① 战略模拟游戏（商业决策/资源分配，展领导力）；② 户外拓展（信任背摔/攀岩，挑战中建信任需按身体承受力规划）；③ 创意工作坊（设计思维探未来方向）；④ 团队竞赛（趣味运动/知识竞赛，公平轻松拉近距离）；⑤ 公益项目（植树/社区服务，奉献中显领导力与共同使命）；⑥ 文化体验（美食制作/艺术工坊，轻松交流）；⑦ 领导力培训（角色扮演提能力）；⑧ 团队旅行（放松增进感情）。关键 = 按团队特点选最适合项，发挥管理层引领作用。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">按目标选类（战略/信任/创新/公益）；管理层以「引领者」而非「玩伴」姿态参与；公平与趣味并重；把团建锚定共同使命。</div></details>
+      <div class="src">🔗 <a href="https://www.lanmatj.com/news_detail/1331225849769529344.html" target="_blank">lanmatj.com/news_detail/1331225849769529344.html</a></div>
+      <div class="note">适用：② 管理层与员工团建选型清单，强调「管理层引领 + 共同使命」而非同乐。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">💎</span><h3>团队凝聚力魔鬼训练营（中高层）</h3><span class="cat">信任责任</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">面向高层/中层领导的 2 天体验式凝聚力训练营，围绕六大价值观（信任/负责任/选择/承诺/双赢/关爱）：通过「信任倒」让成员切身感受与团队的关系、突出归属感与凝聚力；「迈向成功之路」体认企业如何一步步发展、个人如何行动达目标；「领袖风采」让领袖为团队结果负责，体验责任与担当，反省平日如何忽略同事协作与支持，从而愿从自身调整心态、营造真诚/伙伴/肯定的团队氛围。向内发掘优缺与盲点，清晰心态位置并迁善达成目标。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用信任/责任主题模块替代纯游戏；领袖为结果负责的设计培养担当；体验式内省迁善心态；适配中高层领导力。</div></details>
+      <div class="src">🔗 <a href="https://www.huishi365.com/icourse_detail/39.html" target="_blank">huishi365.com/icourse_detail/39.html</a></div>
+      <div class="note">适用：② 中高层信任与责任建设，去游戏化、重担当与归属感，适配上下级场景。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🧭</span><h3>尚普「战略决策赋能工作坊」模式</h3><span class="cat">决策赋能</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">尚普「战略决策赋能工作坊」：会前对齐（战略简报 → 互动预习包 + 关键问题投票 + 产出契约）+ 会中催化（战略意图画布 / 逆向规划推演 / 承诺检查公开化责任）+ 把培训与引导植入战略会议，决策无缝转可执行行动计划，规避「听起来美做起来难」。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">会前发互动预习包+关键问题投票+产出契约；会中用战略意图画布/逆向规划推演；承诺检查把责任公开化；决策无缝转行动计划。</div></details>
+      <div class="src">🔗 <a href="https://survey.cu-market.com.cn/yjywz/qypx3/8794.html" target="_blank">survey.cu-market.com.cn/.../战略决策赋能工作坊</a></div>
+      <div class="note">适用：② 中高层战略会议赋能，把「任务下达」变「能力对齐」。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">📚</span><h3>开好三会：务虚会+解码会+经营分析会</h3><span class="cat">三会体系</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">开好三会体系：战略务虚会（五看三定 · 定方向凝共识）+ 战略解码会（战略地图 / OGSM-T / PBC · 责任互锁）+ 经营分析会（一报一会 · 刀刃向内）；务虚定 → 解码拆 → 经分调，DSTE/BLM 中文落地框架，华为 / 中集案例。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">务虚会用五看三定定方向；解码会用战略地图/OGSM-T/PBC 责任互锁；经分会一报一会刀刃向内；三会协同成战略落地系统。</div></details>
+      <div class="src">🔗 <a href="https://chinacpx.com/opencourse/2025265708.shtm" target="_blank">chinacpx.com/opencourse/2025265708.shtm</a></div>
+      <div class="note">适用：② 中高层战略管理，三会协同是 DSTE 中文落地骨架。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>新经理融入工作坊（New Manager Assimilation）</h3><span class="cat">新经理融入</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">基于哈佛 Gabarro《接管动态》的新经理同化法：把 normally 需 9 个月建立的「经理↔直属下属」工作关系压缩到约 9 小时。1-4 周（或入职首月）内做，外部引导师先与下属 3 小时结构化访谈（已知/想知/顾虑/最想要/需知团队什么/未来 12 月主要问题/如何助其成功），经理暂离场造心理安全；再经理回归共读主题、回应对齐、共创工作协议；可选加 stakeholder 分析段。已用于 Citigroup/GE/JPMorgan 等。把「第一年」压缩为一天，避开假设与失误。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">入职 1-4 周内做；外部引导师先与下属访谈（经理离场造安全）；经理回归共读主题+回应对齐+共创工作协议；可加 stakeholder 分析；把 9 月关系压缩为 9 小时。</div></details>
+      <div class="src">🔗 <a href="http://www.nielsongroup.com/3206/13001.html" target="_blank">nielsongroup.com/3206/13001.html</a></div>
+      <div class="note">适用：② 新经理/空降主管与团队快速建信任对齐，Gabarro 框架权威、可迁移。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔗</span><h3>行动学习·跨部门沟通协作工作坊</h3><span class="cat">跨部门协作</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">场景化定制的跨部门沟通协作工作坊：以真实跨部门项目为场景，学员分饰多部门角色演练沟通方案；用六顶思考帽做横向高效决策共识、跨部门责任监督矩阵强化分工责任、定期「鲜花与钻石鱼缸会议」强化彼此担当；覆盖「启动谈目标（聪明七环）/协调看分工（六步例会）/解决找方案（因果链）/执行讲反思（AAR）」沟通思维；结尾训战教练引导输出改善方案+承诺+监督责任，让推诿扯皮无影。提升上下级与横向团队凝聚力与协作力。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用真实跨部门场景角色扮演；六顶思考帽做横向决策共识；责任监督矩阵+鱼缸会议强化担当；聪明七环/六步例会/AAR 通信闭环；结尾承诺+监督责任防推诿。</div></details>
+      <div class="src">🔗 <a href="https://www.qiyingschool.com/neixunke/410651.html" target="_blank">qiyingschool.com/neixunke/410651.html</a></div>
+      <div class="note">适用：② 管理者带跨部门团队破壁，场景训战+责任矩阵适配上下级与横向。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🛡️</span><h3>团建定制安全管理六策略</h3><span class="cat">安全管理</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">团建定制安全六策略（管理层组织视角）：①明确目标与参与者身体状况（年龄/健康/体能，心血管史者避高强度）——因人而异非一刀切；②选专业团建服务商（查案例/安全记录/应急预案，配保护绳救生衣等，购意外险）；③场地安全评估（室内消防通道/设备标准，户外地面设施维护，行前实地考察）；④详细应急预案（医疗急救/疏散/突发应对，配医护随行+急救设备+紧急联系方式）；⑤活动安全教育与全程引导（设备使用/危险规避，教练监督纠偏，互相关照）；⑥科技手段提升安全管理（如定位/通讯）。把「安全」作为管理层对员工的受托责任，而非附属项。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">先摸参与者身体底线（健康/年龄/体能）分级；选有资质与应急预案的服务商并购意外险；场地行前实地安全评估；配医护+急救+疏散预案；活动前安全教育+教练全程监督；用科技手段兜底。</div></details>
+      <div class="src">🔗 <a href="https://www.lanmatj.com/news_detail/1347566495774629888.html" target="_blank">lanmatj.com/news_detail/1347566495774629888.html</a></div>
+      <div class="note">适用：② 管理层组织户外/体验式团建的安全受托责任，六策略是合规底线。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌐</span><h3>分布式/远程团队 Offsite 带领法</h3><span class="cat">远程团队</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">远程/混合团队 offsite 像指挥跨时区乐团：① 排期聪明（找多数人清醒的时区甜点，拆小场或多次会话兜底）；② 目标清晰（团建/头脑风暴/战略，先 survey 团队成员想要什么再定制）；③ 工具链（Zoom/Teams 稳定 + Miro/MURAL 协作白板 + Slack/Donut 偶遇咖啡）；④ 议程平衡（不尬的破冰如两真一假/家庭办公室寻宝 + 工作块与轻量活动交替 + breakout 小组合适轮换）；⑤ 留连接时间（15min 虚拟咖啡 + 伙伴制小组合照 + 结尾反思分享收获）；⑥ 跟进（发摘要+决策+action items、收反馈、计划后续虚拟 happy hour 保持势头）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">跨时区找重叠窗口或拆场；会前 survey 对齐期待；工具链稳定+白板+偶遇咖啡；议程工作/玩/连接三段平衡；结尾反思+跟进摘要 action items 保势头。</div></details>
+      <div class="src">🔗 <a href="https://blog.goteamassemble.com/posts/how-to-lead-an-offsite-for-distributed-teams-tips-tricks-and-a-touch-of-magic" target="_blank">blog.goteamassemble.com/.../distributed-teams</a></div>
+      <div class="note">适用：② 管理者带分布/远程团队做线下聚首 offsite，混合式连接设计。🔍 差异化：区别于卡片22「虚拟/混合高管 Offsite（45+15法则）」——本卡偏管理者带分布式团队实操工具链（Zoom/Teams+Miro/Donut），含跨时区排期与会前 survey 对齐，非高管闭门场景。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🎯</span><h3>高影响力团队 Offsite 四策略</h3><span class="cat">团队务虚</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">一刀切模板无效，offsite 要为单位团队定制：① 业务影响聚焦（目标要具体——避开「改善通信/互相认识」等空泛，按团队挑战 1-10 排序、与团队对齐成功度量；别默认用 MBTI/大五性格测评填充，组织因素如资源/目标/角色清晰度更影响业务）；② 共建心理安全（领导与成员都不因发言/冒险/求反馈被羞辱惩罚，会前就用言行表态差异是资产）；③ 用外部引导师（自引易分心难在场，外部承接责任让领导成参与者，提升 offsite 后行为改变概率）；④ 维持影响（收尾前团队共议关键收获+承诺行动；1/3/6 月 check-in 会议让新计划 stick，跟进会议是成效最关键因子）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">目标具体并锚定业务挑战（避开空泛+性格测评填充）；会前建心理安全表态差异是资产；请外部引导师让领导在场；收尾共议承诺 + 1/3/6 月 check-in 维持。</div></details>
+      <div class="src">🔗 <a href="https://www.kathrynlandisconsulting.com/blog/4-strategies-for-an-impactful-team-offsite" target="_blank">kathrynlandisconsulting.com/.../4-strategies-...</a></div>
+      <div class="note">适用：② 管理者带团队务虚/团建，四策略覆盖目标-安全-引导-跟进全闭环。🔍 差异化：区别于卡片20「领导力 Offsite 选型与心理安全」、卡片5「高管团队 Offsite 21条实操」——本卡聚焦「四策略」闭环且明确反对用 MBTI/大五性格测评填充，强调组织因素（资源/目标/角色清晰度）更影响业务。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌐</span><h3>远程/混合团队文化塑造 offsite（节奏框架）</h3><span class="cat">文化塑造</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">远程团队文化塑造 offsite：会前做内部审计（敬业度调研/1:1 听痛点）让议程对症；结构把“文化工作”嵌入而非附带——开场命名文化目的、价值观工作坊/引导式复盘/讲故事(为何加入)/跨职能展示造共同参照、用物理环境(山间/可步行社区)降正式感、引入仪式(表彰价值观楷模/共餐/结尾每人写一条带回远程工作的承诺)让文化 sticky；节奏框架：早期团队(<30人)季度或至少半年一次、中型(30-150)年度全员+小队补、企业级年度全员+LE/ERG/区域聚会；2-3 天为甜点区。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">会前内部审计(调研/1:1)让议程对症；文化工作嵌入结构(价值观工作坊/复盘/讲故事/跨职能展示)；用环境降正式感+仪式造黏性；按团队阶段定节奏(早期季度/中型年度/企业年度+LE)。</div></details>
+      <div class="src">🔗 <a href="https://www.offsite.com/blog/remote-work-culture" target="_blank">offsite.com/blog/remote-work-culture</a></div>
+      <div class="note">适用：适用：② 管理者带远程/混合团队做文化塑造 offsite，节奏框架+仪式化是可迁移亮点。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">📊</span><h3>团建/务虚 ROI 三层测量（HR 视角·防 vanity）</h3><span class="cat">ROI测量</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">团队 offsite ROI 三层框架：L1 情绪(第1周)会前 2 周与会后 5 天同卷测信任/清晰度/能量 delta；L2 行为(第30天)数承诺兑现数/跨团队会议数/此前从不互 DM 的人是否开始联络；L3 结果(第90天)留存/内推/战略里程碑——客户数据中位数 offsite 仅靠留存节省 4 个月内回本(留住 1 名资深 IC 即覆盖 30 人 €2500/人)。须忽略：会后 NPS(只测后勤)/Slack 照片/社媒数/CEO 感觉好——都是 vanity。🔍 区别于「高管 Retreat ROI(SAS/RQI/OFS)」卡——本卡是 HR/团队务实 ROI + 防 vanity 指标。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">三层(情绪/行为/结果)在 W1/D30/D90 分别测；会前 2 周基线卷对照；D30 数承诺兑现与跨团队联络；D90 看留存/内推；坚决忽略 NPS/照片/社媒等 vanity。</div></details>
+      <div class="src">🔗 <a href="https://bondeo-offsites.com/blog/offsite-roi-measurement" target="_blank">bondeo-offsites.com/blog/offsite-roi-measurement</a></div>
+      <div class="note">适用：适用：② 管理层/HR 论证团队务虚 ROI，三层框架+防 vanity 是可迁移亮点。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>远程团队线下 reconnect·最高 ROI morale 投资</h3><span class="cat">团队 reconnect</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">远程优先团队 morale：虚拟互动(随机咖啡/非工作 Slack 频道/认可系统)只能“维持”不能“转化”——研究一致表明一年一次线下聚首对归属感的作用 >12 个月虚拟 happy hour；高影响 retreat 四特征：非结构化时间 ≈ 议程重要(晚餐/徒步/会前 20 分钟)、共享物理体验造情感记忆(烹饪课/徒步/共创)、节目反映团队文化而非默认公司格式、跟进(half-life：连接须靠后续沟通与认可强化)。HBR：面对面建信任/连接显著优于数字。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用一年一次线下聚首替代 12 个月虚拟维持；保留非结构化时间(晚餐/徒步)≈议程；造共享物理体验情感记忆；节目反映团队文化；跟进 half-life 靠后续沟通与认可。</div></details>
+      <div class="src">🔗 <a href="https://www.offsite.com/blog/employee-morale-suggestions-remote-team" target="_blank">offsite.com/blog/employee-morale-suggestions-remote-team</a></div>
+      <div class="note">适用：适用：② 管理者带远程团队做线下 reconnect，morale 投资 ROI 论证 + half-life 跟进是可迁移亮点。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">💰</span><h3>Offsite 立项商业论证·一页 business case 拿 CFO 签字</h3><span class="cat">立项论证</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">向 CFO/董事会 要 offsite 预算，别用 deck 用一页 business case（5 要素）：① 一句话首要业务目标（如「降低资深 IC 主动离职」而非「团队凝聚力」）② 全成本（差旅+场地+餐饮+策划费+保守估算的产出工时损失）③ 成功指标+怎么测 ④ 不做的成本（SHRM 基准：留 1 人=年薪 50-200%，100 人 offsite 留 2 个 10 万者即避免 10-40 万替换成本）⑤ 先例（2019 后 59% 公司加了 offsite 预算）。把目标翻成财务语言——「战略对齐」=「把 Top3 倡议决策延迟砍半」，再贴美元值对比活动成本；董事会/CFO 看风险调整回报。指标会前定，别会后补。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">一页五要素带进预算会；目标翻财务语言+贴美元值；指标会前定；对标「不做的成本」而非只算活动价。</div></details>
+      <div class="src">🔗 <a href="https://www.affinitytravel.co/blog/how-to-build-the-business-case-for-a-company-offsite" target="_blank">affinitytravel.co/blog/how-to-build-the-business-case-for-a-company-offsite</a></div>
+      <div class="note">适用：② 管理者/HR 向 CFO 立项团建务虚预算，一页 business case 框架 + 留人成本数学是可迁移亮点（exec 同样适用董事会论证）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">📍</span><h3>领导力 Retreat 选址完全指南（隐私·目的地·踩点·合同陷阱）</h3><span class="cat">选址</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">领导力 retreat 选址与议程/引导同等重要——私密住宅式物业（6-14 人，多套卫浴卧室+主厨厨房+大起居+泳池/温泉）给高管团队完全隐私与客厅式非正式讨论，代价是 Wi-Fi 不稳须提前测、餐饮自理；目的地匹配目标（山=专注战略/海=反思焕新/城=创新工坊），优先机场 90 分钟内直达、2-3 天门到门<6-7h；肩季（4-5/9-10 月）常省 10-25%；踩点必做（听真实噪声/走房间动线/测多点 Wi-Fi/看真实客房）；合同盯缩水房/取消条款/AV 加价/F&B 最低消费/30-40% 高管有特殊饮食；红绿灯：销售不回/报价模糊/Wi-Fi 差/不愿给参考=拒；隐私与舒适不达标=高管预期落空。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">私密住宅式优先(6-14人)给诚实对话空间；目的地匹配目标+机场90分钟内；肩季省10-25%；必踩点(噪声/动线/Wi-Fi/真实客房)；合同盯AV加价/F&B最低消费/饮食复杂性。</div></details>
+      <div class="src">🔗 <a href="https://www.offsite.com/blog/leadership-retreat-venue" target="_blank">offsite.com/blog/leadership-retreat-venue</a></div>
+      <div class="note">适用：② 团建/务虚 选址策划（管理者/行政），私密物业+踩点清单+合同陷阱是可迁移硬货（exec 高管 retreat 同样适用）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🔄</span><h3>AAR 任务后复盘·把 offsite 变团队学习节奏</h3><span class="cat">复盘文化</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">美军 AAR（任务后复盘）可迁移到高管 offsite 收尾：四问——目标是什么/实际发生什么/哪里好/下次哪不同；核心是无责难（blame-free）、只谈绩效不评人。高管团队 embedding AAR 能建心理安全+无责问责+暴露真障碍（非 KPI 表面）。落地：顶部脆弱感示范（「不为谁做错，为团队更锐」）；小但恒（15 分钟 huddle 也够，节奏 Plan→Execute→Debrief→Adjust→Repeat）；捕获并级联（洞察若被捕获可跨团队/区域放大，问「刚学到什么别人该知道」）。大多数企业只交付不学习——AAR 把经验转洞察、洞察转行动，是敏捷执行的关键机制。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">四问无责难（目标/实际/好/不同）；顶部脆弱示范+小但恒（15min huddle）；捕获级联放大跨团队。</div></details>
+      <div class="src">🔗 <a href="https://beperpetual.com/insights/articles/military-precision-to-boardroom-performancepart-3" target="_blank">beperpetual.com/insights/articles/military-precision-to-boardroom-performancepart-3</a></div>
+      <div class="note">适用：② 管理者带团队做 offsite 复盘文化（也适用 ③ 高管团队学习节奏），AAR 四问+无责难+级联是可迁移亮点。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🧭</span><h3>两天式 Offsite 规划框架 前期预读 跨部门对齐</h3><span class="cat">规划框架</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">严格两天封闭框架（一天太短出不了方案、三天掉 momentum），面向「无执行问题只有对齐问题」的跨部门团队。T-2 周发 pre-work，Day1 战略对齐（信任→数据→跨职能 SWOT→共享 OKR），Day2 行动转化（优先级→RACI→倒推问责）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">会前必做：提前两周收一页纸部门总结、自合成「共享仪表盘」统一事实、租外部场地、发禁手机令；行动项写具体人名（非部门），RACI 中 Accountable 仅一人；CEO/最高管别自己 facilicate（用第三方/下级）；后续节奏离场前全设完；成败看 90 天 OKR 数字。</div></details>
+      <div class="src">🔗 <a href="https://jeremyhaynes.com/skills/planning-offsite" target="_blank">jeremyhaynes.com</a></div>
+      <div class="note">适用：② 主管带跨部门团队做对齐型 offsite（外部营销顾问方法论，可抄节奏）。</div>
+    </div><div class="hl">
+    <div class="top"><span class="emoji">👔</span><h3>新Leader×管理团队 Offsite 融入议程</h3><span class="cat">团队 Offsite</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+    <p class="val">面向新上任领导者与其管理团队的 offsite 融入议程：开场轻量视频→议程走查（预留 car park 收纳离题议题）→破冰（分享一件不为人知的小事/重要物件建立连接）→「关于你」（用时间线讲为何而非简历）→把董事会/高管层期待拆成开放问题征集输入而非给答案→部门发现（先讲成就再讲挑战、对事不对人）→管理团队反思→收尾三问（好/可更好/没说出口的）。</p>
+    <details class="exec"><summary>怎么做</summary><div class="inner">新 leader 用时间线讲「为什么」而非履历；部门发现先成就后挑战、聚焦事不聚焦人；设 car park 收纳离题；收尾三问暴露未说出口的顾虑；用视频而非长文向 broader team 同步。</div></details>
+    <div class="src">🔗 <a href="https://www.davidbanger.com/post/the-offsite-agenda-that-builds-your-team" target="_blank">davidbanger.com/post/the-offsite-agenda-that-builds-your-team</a></div>
+    <div class="note">适用：② 新上任管理者与直属团队的 offsite 融入，议程/反思/部门发现。</div>
+  </div><div class="hl">
+    <div class="top"><span class="emoji">🛠️</span><h3>团队 Offsite 议程设计器（避坑+能量管理）</h3><span class="cat">议程设计</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+    <p class="val">团队 offsite 议程设计器：给出半天/一天/两天模板与「每区块=OPENING/EXPLORATION/SYNTHESIS/TRANSITION」结构；明确列出该避开的团建——强迫身体暴露、单点羞辱、制造输家的竞争、以酒为中心、信任背摔等陈词滥调；推荐真实连接活动（个人地图/价值观卡/欣赏圈/协作挑战）；附能量管理（每 90 分钟动 break、换空间、大小组交替）与前后 offsite checklist。</p>
+    <details class="exec"><summary>怎么做</summary><div class="inner">用「personal maps/价值观卡/欣赏圈」替代信任背摔等强迫式活动；每 90 分钟安排运动 break 与空间切换；上午高能量战略、午后具体行动规划；前后 offsite checklist 覆盖 pre-read/饮食/决策权/48h 纪要分发。</div></details>
+    <div class="src">🔗 <a href="https://findskill.ai/skills/productivity/team-offsite-agenda-designer" target="_blank">findskill.ai/skills/productivity/team-offsite-agenda-designer</a></div>
+    <div class="note">适用：② 管理者自设计团队 offsite，规避强迫式团建+真实连接活动+90 分钟能量节奏。</div>
+  </div><div class="hl">
+    <div class="top"><span class="emoji">🤝</span><h3>公司级 Offsite 完全规划指南（包容无障碍）</h3><span class="cat">公司 Offsite</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+    <p class="val">公司级 offsite 完全规划指南：D1 抵达对齐（低压力破冰如 Kahoot 团队 quiz→部门 spotlight 跨职能理解→工作坊混编分组解决问题）；D2 团队建设+反思+从容离场。强调「offsite 应强化归属而非让人被排除」——征集饮食/行动/神经多样性/宗教/育儿等无障碍需求，社交活动可选且不以酒精为中心，提供替代方案；晚餐是领导者致谢、表彰、强化目的的自然场合。</p>
+    <details class="exec"><summary>怎么做</summary><div class="inner">规划前发问卷征集无障碍与偏好，提供活动选择权；晚宴由领导者致谢与表彰，强化目的；社交活动可选、避开酒精中心；离场前重述目标与决策、给 10-15 分钟缓冲；用包容设计提升参与而非制造排斥。</div></details>
+    <div class="src">🔗 <a href="https://www.perk.com/guides/planning-company-offsite" target="_blank">perk.com/guides/planning-company-offsite</a></div>
+    <div class="note">适用：② 管理者统筹公司级 offsite，包容/无障碍/可选社交+晚餐认可。</div>
+  </div><div class="hl">
+    <div class="top"><span class="emoji">🌐</span><h3>分布式团队 Offsite 加速信任（餐叙+共做）</h3><span class="cat">远程 Offsite</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+    <p class="val">Dropbox 虚拟优先团队的 offsite 信任加速做法：远程/混合团队更需要 intentional 实践重建连接。三步——①破冰用「你在家在哪/This or That 快速二选一/多数人不知道的你」找共鸣点；②混合用餐与 Workshop（预置问题与时序，让员工午餐/晚餐也能流出创意，内向者尤其受用）；③一起动起来（志愿服务/艺术课/运动课），共同支持公益或学习技能比虚拟更易建立连接。</p>
+    <details class="exec"><summary>怎么做</summary><div class="inner">用预置问题的共餐替代自由社交，让内向者也有话可说；安排志愿/艺术/运动等「一起做」活动创造共同记忆；offsite 后把信任实践迁移回日常（异步贡献、定期 1:1）；衡量用「感到被连接」脉冲调研。</div></details>
+    <div class="src">🔗 <a href="https://experience.dropbox.com/virtual-first-toolkit/teamwork/accelerate-trust-with-offsites" target="_blank">experience.dropbox.com/virtual-first-toolkit/teamwork/accelerate-trust-with-offsites</a></div>
+    <div class="note">适用：② 远程/混合团队管理者，offsite 餐叙混合+共同活动重建信任。</div>
+  </div><div class="hl">
+    <div class="top"><span class="emoji">📈</span><h3>亨克尔日本业绩反转·管理团队 Offsite（真实案例）</h3><span class="cat">务虚·业绩反转（上下级）</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+    <p class="val">亨克尔日本 Schwarzkopf 品牌业绩反转，营业本部长为部长级(含现场成员)设计 1 泊 2 日 offsite：首日织入 3 大组织课题的团队解题，次日在本部长带领下讨论，促使部长自揭「最终靠自己」、自发提 2 倍以上目标、一致团结。</p>
+    <details class="exec"><summary>怎么做</summary><div class="inner">① 会前社内听证摸清「回避挑战/阶层沟通失灵/无人主动思考」三病灶；② 1 泊 2 日刻意与「维持现状」舒适区保持距离；③ 首日把 3 课题织入团队解题活动，促内省；④ 次日由本部長 lead 讨论，让部长级自行觉察组织课题并锁定反转战略细节。</div></details>
+    <div class="src">🔗 <a href="https://www.impactinternational.com/index%2ephp/jp/kesusutatei/henkel/management-site" target="_blank">impactinternational.com/.../henkel/management-site</a></div>
+    <div class="note">适用：适用：② 中层/部长级业绩承压团队的务虚反转；「上级 lead 讨论+体验式自省」比单向宣讲更能撬动 mindset 改变（归上下级档：本部長↔部长）。</div>
+  </div><div class="hl">
+      <div class="top"><span class="emoji">🛡️</span><h3>团建旅行风险管理专属透镜（Duty of Care·ISO 31030）</h3><span class="cat">风险管理</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">企业团建/务虚会本质是「高风险版差旅」：1 人变 30/50/200 人共享航班酒店与户外活动，风险呈指数放大。四大群体性挑战：① 集中暴露（食物中毒/疾病/场地问题整队同时中招）② 单点失效（全员一架 charter 航班/一班接驳，一处取消全盘崩）③ 医疗差异（过敏/饮食禁忌/处方药/无障碍需求跨群体放大）④ 偏远场地（绝美山居/海滨度假村可能距最近医院 2 小时）。落地清单：签合同前核场地应急预案与就医距离、RSVP 阶段收医疗与紧急联系人、避免全员同一航班、指定现场应急负责人、做天气预案。Duty of Care 是义务，Travel Risk Management 是满足义务的系统；ISO 31030 是旅行风险国际标准（insurers/法院重视）。关键：必须指定唯一 owner，"人人负责"等于没人负责。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">把团建当作高风险差旅单列风险计划；签合同前过"场地应急+就医距离+医疗清单+单点失效"四关；指定唯一应急 owner；每年至少一次桌面演练；ISO 31030 作评估基准。</div></details>
+      <div class="src">🔗 <a href="https://www.theoffsiteco.com/news/getting-corporate-travel-risk-management-right" target="_blank">theoffsiteco.com/news/getting-corporate-travel-risk-management-right</a></div>
+      <div class="note">适用：② 公司内部上下级场景（HR/行政 owner 团建差旅风险），"群体性风险四挑战+唯一 owner+ISO 31030" 是可抄硬框架。🔍 差异化：区别于卡片（jgutierrez 现场安保/beefed 应急清单）——本卡是"差旅风险专属透镜"，从 duty of care 与 ISO 标准切入，非现场安防。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏙️</span><h3>迪拜 Offsite 实操：40% 留白法则 + 餐饮多元 + 活动避坑</h3><span class="cat">选址运营</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">最常见的 offsite 错误是排太满。优秀 offsite 约 60% 规划内容 + 40% 留白——那未被计划的 40% 才是团队真正建立联结的时刻。半日模板（4h）：抵达早餐→愿景宣讲→休息→3 个 breakout→综合与承诺→午餐离场；全日：回顾/战略在上午、工作坊在下午、长午餐（刻意 75min）；两日：Day1 硬仗（战略/回顾/决策），Day2 活动/团建/非正式——别倒置（难对话在 rested 时更好，团建在"无悬项"时更好）。餐饮：Halal 是迪拜默认，国际成员要显式确认猪肉与酒精；50 人团队必有 vegan/素食/无麸质/无奶/坚果过敏，签 caterer 前给饮食计数。活动：烹饪课（低体力、半日好塞）、沙漠体验（需半日）、游船（20-50 人日落 reception）；避开 paintball/密室逃脱（30 岁后参与感骤降）、单程 90min 通勤、"再来个演讲嘉宾"式收尾。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">议程严守 60/40（内容/留白）；难对话锁上午、团建锁下午；caterer 签约前给饮食计数（含宗教与过敏）；活动选低体力可嵌入半日者，避 paintball/密室/长通勤。</div></details>
+      <div class="src">🔗 <a href="https://www.secretgardenivy.com/how-to-plan-a-corporate-offsite-in-dubai/" target="_blank">secretgardenivy.com/how-to-plan-a-corporate-offsite-in-dubai</a></div>
+      <div class="note">适用：② 公司内部上下级场景（团队 lead/行政操盘多日 offsite），"40% 留白法则 + 餐饮多元计数 + 活动避坑清单"是可直接套的运营经验。🔍 差异化：区别于卡片（offsite.com 议程模板/effective.club 目的地主题）——本卡聚焦"多日 offsite 的餐饮多样性与活动选择实操"，补运营细节。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🧗</span><h3>探险型团建安全协议（健康筛查·装备·撤离·应急通讯）</h3><span class="cat">安全管理</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">探险型团建（攀岩/野外生存/水上）带来强联结，但引入独特安全风险，需多层防护。核心协议：① 行前健康筛查——收医疗史/当前体能/用药/过敏/旧伤/活动舒适度，据此调整或给替代参与选项；② 装备安全检查——头盔/安全带/救生衣定期检修更换，参与者到场试穿并懂调节；备用装备常备；③ 风险评估——活动前数周启动，逐活动（攀岩看路线难度/岩质/锚点/救援可达；水上看水流/水温/能见度/就近医疗），建风险登记册；④ 应急程序——即时响应预案、撤离路线（含直升机坪）、与属地急救建立关系、communications chain；⑤ 演练——员工练撤离、人人知角色。沟通协议确保能快速呼叫救援。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">探险类团建前置"健康筛查+装备检+逐活动风险登记+撤离路线+属地急救联络"五件套；给不能参与者替代选项（避免隐性排除伤信任）；活动前演练撤离与通讯链。</div></details>
+      <div class="src">🔗 <a href="https://dmc-go.com/blog/what-are-the-most-important-safety-protocols-for-adventure-based-corporate-retreats/" target="_blank">dmc-go.com/blog/what-are-the-most-important-safety-protocols-for-adventure-based-corporate-retreats</a></div>
+      <div class="note">适用：② 公司内部上下级场景（含户外/探险环节的团建），"五层安全协议"是可直接套的硬框架。🔍 差异化：区别于卡片（theoffsiteco 差旅风险/团建定制安全管理六策略）——本卡专攻"探险型活动本身"的装备/撤离/风险评估，补高风险环节。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">📋</span><h3>团队外出活动应急与风险管理清单（中文·决策权限矩阵）</h3><span class="cat">风险管理</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">中文语境下可直接抄的团建应急运行手册：① 决策权限矩阵——现场负责人/安全官/高管/法务HR 对"户外转室内/撤离/取消外地活动/对外声明"的分级批准权，配打印版授权委托书（活动前 7 天书面签署，压力下去歧义）；② 三档演练——距活动 90 天做 60-90min 跨职能桌面演练、14 天与供应商做 2-4h 功能演练（部分撤离/换供应商）、开场前 30min 安全简报+通信树；③ 72h 内事后评估并更新计划与供应商名单；④ 48h 快速清单——确认人数饮食偏好、发一页抵达/交通更新含紧急联系人、核备用 AV 与在岗技术、打印 Emergency_POCs.csv 放签到处、标 AED 位置、定旅行中断 SOP（设 Travel_Disruption 标志→直联参会者→改线上/录播→对账索赔）；⑤ 医疗应急 0-2min 查反应/打 911/部署 AED/CPR。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">团建前建"决策权限矩阵+授权委托书"；做三档演练（90天桌面/14天功能/开场简报）；48h 清单核 AED/医疗联系人/备用 AV；旅行中断有 SOP 兜底；事后 72h 复盘。</div></details>
+      <div class="src">🔗 <a href="https://beefed.ai/zh/offsite-contingency-risk-management-checklist" target="_blank">beefed.ai/zh/offsite-contingency-risk-management-checklist</a></div>
+      <div class="note">适用：② 公司内部上下级场景（中文团队外出活动应急），"决策权限矩阵+三档演练+48h 清单+AED/旅行中断 SOP"是本土可直接套模板。🔍 差异化：区别于卡片（theoffsiteco 差旅/dmc-go 探险）——本卡是"中文应急响应运行手册"，含决策权限与授权委托书，补合规与权责。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌍</span><h3>目的地主题式 Offsite + ROI 仪表盘（30/60/90 度量）</h3><span class="cat">选址设计</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">2026 目的地趋势把 offsite 从"度假"升级为"主题化务虚"：格陵兰=危机响应演练（桌面推演+决策演练+角色演练）、阿佐雷斯/马德拉=可持续 sprint（碳审计+供应商可持续记分卡+政策试点）、巴塔哥尼亚=长期战略与北极星对齐、首尔=产品/设计冲刺（快速原型+伙伴展示+客户验证）。可复制议程模板：2 日密集（到店 mixer→目标对齐→问题框定+跨团队 sprint→方案 pitch+owner 认领→承诺仪式+30/60/90 计划）；3 日战略+休整。度量别靠愿望：出发前定义成功指标，30/60/90 天测。示例 KPI：运营类（交接延迟降幅%）+ 产出类（交付物 vs 计划）+ 参与度（eNPS/留任）。工具：Notion/Confluence 异步 playbook、Miro/FigJam 实时映射、AI 生成会后摘要与 SOP 草稿、测量仪表盘（基线 handoff time/cycle time/会议时长 + 三次跟进）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">用"目的地主题"反推 offsite 焦点（危机/可持续/战略/冲刺）；议程套 2/3 日模板；出发前定 KPI，30/60/90 天用仪表盘度量；AI 生成会后摘要与 SOP 草稿降摩擦。</div></details>
+      <div class="src">🔗 <a href="https://effective.club/from-vacations-to-retreats-designing-a-company-offsite-using" target="_blank">effective.club/from-vacations-to-retreats-designing-a-company-offsite-using</a></div>
+      <div class="note">适用：② 公司内部上下级场景（按目的地主题设计 offsite + 用仪表盘度量 ROI），"主题化选址+30/60/90 KPI 仪表盘"是可迁移设计杠杆。🔍 差异化：区别于卡片（"团建务虚 ROI 三层测量"——本卡把 ROI 与"目的地主题选择"绑定，补选址即议程的设计视角）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🌐</span><h3>远程团队季度 Offsite 定 OKR + 双周 1:1 追踪（信任自主不 micromanage）</h3><span class="cat">远程团队</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">远程团队更难但不必 micromanage。某 CTO 的打法：每季度第一周把团队（CTO+产品+内容 head）拉 offsite，先用便利贴列出所有人想完成的，再收敛成可行季度 OKR，口头约定后文档化，双周 1:1 追踪风险/推进、季末复盘再重置。决策权分层清晰：CEO 对财务健康负责，CTO 对战略负责，激活层（战略→OKR→执行）落在 CTO 与下级的接口。信任来自「季度初定 OKR + 双周 1:1 无惊喜」：给足自主，风险在双周谈，需要时才介入。manager 不靠盯 commit 管人，而靠节奏与透明。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">远程团队季度 offsite 定 OKR（便利贴列全员想做→收敛可行→口头约定→文档化）；双周 1:1 追踪风险/推进、季末复盘重置；决策权分层（CEO财务/高管战略/激活层落接口）；用节奏+透明替代 micromanage。</div></details>
+      <div class="src">🔗 <a href="https://distantjob.com/blog/podcasts/keys-to-successful-remote-work-strategy-mike-soldan" target="_blank">https://distantjob.com/blog/podcasts/keys-to-successful-remote-work-strategy-mike-soldan</a></div>
+      <div class="note">适用：② 远程/分布式团队 manager 主导的季度 offsite，「便利贴收敛 OKR + 双周 1:1 追踪 + 决策权分层 + 信任自主」是可迁移管理框架。🔍 差异化：区别于卡片（dropbox 分布式 offsite 加速信任/sumup 新组建团队）——本卡聚焦「远程团队 OKR 节奏 + 双周 1:1 不 micromanage」的管理机制，补远程治理。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🗓️</span><h3>季度团队 Offsite 议程模板（经营复盘 + 战略 + 连接 + 承诺收尾）</h3><span class="cat">团队议程</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">manager 主导的一日季度团队 offsite 可直接套的模板：目标块（业务结果/团队结果/需决策/预读）→ 上午（开场 check-in 一个词+客户引言 / 季度复盘 metrics walk-through 静默评论 / 战略讨论比对三个增长赌注 / 决策 checkpoint 用 impact-confidence-effort 排序）→ 下午（规划工作坊定 owner+里程碑+风险 / ways-of-working retro 用 start-stop-continue / 连接活动配对讲「最好的经理」故事 / 承诺收尾每人说一个周五交付）。含真实填好的例子（Growth Marketing 团队 Q4 获客赌注）。要点：会前定 2–3 结果并指 owner；breakout 给单一 prompt+5 分钟 report-out；把酒精放成果之后；离场前 capture 决策+owner+deadline 进一文档。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">manager 季度团队 offsite 套模板：目标块（业务/团队/决策/预读）→ 上午复盘+战略+决策排序 → 下午规划(owner/里程碑/风险)+retro(start-stop-continue)+连接故事+承诺收尾；会前定 2–3 结果指 owner；breakout 单一 prompt+5 分钟 report；离场前 capture 决策进一文档。</div></details>
+      <div class="src">🔗 <a href="https://hogonext.com/templates/quarterly-team-offsite-agenda" target="_blank">https://hogonext.com/templates/quarterly-team-offsite-agenda</a></div>
+      <div class="note">适用：② 部门/业务团队 manager 主导的季度 offsite，「经营复盘+战略+连接+承诺收尾 一日模板 + 真实填例」是可迁移实操。🔍 差异化：区别于卡片（stonehouse 一日 team offsite 偏餐饮/散步 hospitality/venue 视角）——本卡是带真实填例的「业务+复盘+retro+承诺」管理模板，补可执行结构。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🤝</span><h3>团队建设议程模板库（含领导力团队建设专场）</h3><span class="cat">议程模板</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Confetti 给出分场景团队建设议程模板。Template 14「领导力团队建设专场」（经理群/高管 offsite，60-90分）：0-10 命名探索的领导行为/挑战；10-25 个人反思团队动力；25-45 讨论对齐/沟通/决策规范；45-65 真实领导情境演练；65-80 选领导协议/行为；80-90 收尾。通用半日 retreat 模板（连接热身→团队反思→战略/规划→团建活动→承诺→收尾）配提示词（我们该为团队骄傲什么/要留下什么/成长要护什么/要强化的习惯/下季成功样貌）。混合场另给「远程倡导+数字工具+避免房内私语」要点。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">做团队/offsite 议程，学 Confetti「分场景模板+领导力专场」：领导力专场聚焦信任/对齐/决策规范与真实情境演练，而非破冰游戏；通用 retreat 用「反思→规划→团建→承诺」节奏；混合场设远程倡导防静音。把议程从 filler 变杠杆。</div></details>
+      <div class="src">🔗 <a href="https://twilio.withconfetti.com/blog/post/team-building-agenda-templates-for-every-occasion" target="_blank">https://twilio.withconfetti.com/blog/post/team-building-agenda-templates-for-every-occasion</a></div>
+      <div class="note">适用：② 经理群/团队领导（活动平台二手；分场景议程模板+领导力专场+混合场要点，可作团建议程速查）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏕️</span><h3>团队静修规划·50%排程 50%留白（文化非怨气）</h3><span class="cat">规划原则</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">NovaTrek 主张「排 50% 时间、留 50% 灵活」的黄金法则，避免静修变怨气。3天样本：周四错峰抵达+欢迎晚餐+自由；周五仅2个强制工作块（共6h）+大量非结构时间（小群/运动/探索）；周六「自选冒险」（户外/文化/躺平三选项）+团队晚餐；周日告别早午餐+15分 retro「你带走的一件事」。活动选品准则：包容（各体能可参与）、低尴尬、自然对话、有明确目的、尽量可选。衡量超越「好不好玩」：即时评分+30天回访（是否影响工作/是否保持连接）+客观指标（敬业度、跨团队 Slack 模式）。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">规划团队静修，学 NovaTrek「50/50 留白+可选活动+客观度量」：只排约半时间、留白养有机对话；活动按包容/低尴尬/有目的/可选筛；用30天回访与跨团队连接模式衡量成败，而非「好玩吗」。把静修从消耗变文化投资。</div></details>
+      <div class="src">🔗 <a href="https://www.novatrek.app/en/blog/team-retreat-planning-guide" target="_blank">https://www.novatrek.app/en/blog/team-retreat-planning-guide</a></div>
+      <div class="note">适用：② 团队负责人/HR（规划指南二手；50/50留白+活动选品准则+客观度量，可作静修排程心法）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🏯</span><h3>团队 Offsite 要「变」不要「演」</h3><span class="cat">转型心法</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Basecamp 主张伟大 offsite 始于一个问题：「走出房间时我们想有什么不同？」澄清（12个月方向/新领导信任/优先级对齐/价值观）。给真实对话留白：用提示词逼真话（「为提速我们要停什么」「我们回避没说却该说的」「哪里不对齐、为什么」）。从想法到决策：离场前定「最重要的3项（Vital Few）+owner+追踪节奏+指标」；用30-60-90天检查保势头。锚定情绪：徒步/共创故事/感恩认可让团队「感到」而非「看到」方向。闭环：会后发 debrief 提醒决定与对齐样貌。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">做团队 offsite，学 Basecamp「以终为始+真话提示词+Vital Few+30-60-90」：先问「离场要什么不同」再排议程；用停止/回避/不对齐三问逼真实对话；离场锁3优先+owner+检查节奏；会后 debrief 闭环。把「记得的周末」变「每天感受到的 shifts」。</div></details>
+      <div class="src">🔗 <a href="https://basecampconsultingllc.com/blog/team-offsites-that-transform-not-just-entertain" target="_blank">https://basecampconsultingllc.com/blog/team-offsites-that-transform-not-just-entertain</a></div>
+      <div class="note">适用：② 团队领导/HR（咨询二手；以终为始+真话提示词+Vital Few，可作团队 offsite 转型心法）。</div>
+    </div><div class="hl">
+      <div class="top"><span class="emoji">🗓️</span><h3>企业静修议程设计（目的+混合工作+收尾合成）</h3><span class="cat">议程设计</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">Campfire 给企业静修议程全指南：①定目的与期望成果并提前广而告之；②欢迎定调（到达缓冲/后勤/开场提醒目标与「可放松」许可）；③混合风格工作块（深度工作坊/小组合/创意/客座）；④连接活动（破冰勿尬、户外自然/可选、非结构社交）；⑤健康正念可选；⑥战略 downtime 非懈怠；⑦收尾合成（总结洞察/决策/下一步，勿以后勤收尾）+庆祝归属。按精力流排：晨聚焦、下午创造、早可选 wellness。强调「事件在邀约发出时已开始」，Priya Parker 式刻意设计。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">设计企业静修议程，学 Campfire「目的先行+混合工作块+收尾合成非后勤」：开场给「可放松」许可降防御；工作块混深度/小组/创意；连接活动低尴尬可选；收尾做合成（决策+下一步）而非念退房须知。按精力流排晨聚焦下午创造。</div></details>
+      <div class="src">🔗 <a href="https://www.campfire-company.com/blog/creating-an-agenda-for-a-business-retreat" target="_blank">https://www.campfire-company.com/blog/creating-an-agenda-for-a-business-retreat</a></div>
+      <div class="note">适用：② 团队领导/行政（议程指南二手；目的先行+混合工作块+收尾合成，可作企业静修议程骨架）。</div>
+    </div></div>
+ <div class="hl">
       <div class="top"><span class="emoji">🚀</span><h3>销售 Kickoff 作运营机制（六段议程 + 决策语言）</h3><span class="cat">团队启动</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
       <p class="val">把销售 kickoff 从「激励大会」升级为「运营机制」：六段议程——① 经营环境（市场/客户/战略变了什么、哪些假设失效）② 成果与成功标准（团队目标+进度指标+不可妥协行为+可接受的权衡）③ 角色清晰与接口（AE/SDR/经理/RevOps 职责+交接规则+升级路径+决策边界）④ 管线执行标准（阶段进出纪律/复盘预期/forecast 置信证据/at-risk 定义与响应时效）⑤ 教练与经理节奏（周 1:1 重点/通话复盘校准/分群技能优先级）⑥ 首 30 天计划（owner+里程碑+依赖+风险+回撤）。用「决策语言」替代「灵感语言」：每段收尾落到 owner+时限+完成证据，避免「我们应该」。明确的 stop-doing 清单（kickoff 时退役低效习惯）。kickoff 后接周度管理（周度检视标准→教练补技能缺口→forecast 反映标准是否奏效），让对齐活过第一周。</p>
       <details class="exec"><summary>怎么做</summary><div class="inner">kickoff 按六段议程产出「团队优先级+角色职责+管线标准+教练节奏+30天计划」；每段用决策语言收尾（owner/时限/证据）；设 stop-doing 清单；kickoff 决策接周度 1:1/复盘/forecast 形成管理链。</div></details>
@@ -1398,6 +1694,14 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
       <div class="note">适用：② 一线/中层 manager 或 lead 筹划团队务虚的「端到端手册」（目的→类型→预工→心理安全→跟进），可作策划清单。（平台商二手，体系完整；偏「manager 视角全流程」，补「按张力选类型」与「分阶段跟进」）</div>
     </div>
     <div class="hl">
+      <div class="top"><span class="emoji">🧭</span><h3>务虚完整规划指南（2026）：按目标选类型 + 预工 + 流程平衡 + 外部引导 + 文档承诺</h3><span class="cat">完整指南</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
+      <p class="val">2026 版务虚完整指南：Step1 先定具体目标（战略对齐/协作沟通/组织变革/创新/领导凝聚力，清晰度定一切）；Step2 按紧迫度/信任度/转型需求选类型（团队稳定=重建信任解深层张力；团队暂停=反思学习改进；团队重启=重置工作法；创新session=设计下一步）；Step3 组多元设计小组（含领导）共创目标与议程，防错位早建ownership；Step4 预工（调研摸张力+1对1访谈+发预读/反思题）；Step5 设计流程平衡（深工↔轻时刻、反思↔行动、小组↔个人、坐↔动，留恢复与debrief，结尾承诺+收尾仪式）；Step6 环境与心理安全（1-3天、离开职场、轻食、去层级座次、领导示范脆弱）；Step7 外部引导带来中立/框架/挑战模式；Step8 文档化承诺+owner+1天/1周/1月计划+跟进会。</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">按完整指南学 simurise「目标→类型→共创→预工→流程平衡→环境/心理安全→外部引导→文档承诺跟进」：先定具体目标再选稳定/暂停/重启/创新类型；小组共创防错位；预工用调研访谈预读；流程多维平衡留debrief；环境去层级领导示范脆弱；外部引导保中立；收尾落承诺owner与分阶段行动。</div></details>
+      <div class="src">🔗 <a href="https://simurise.com/leadership-offsite-complete-guide-2026/" target="_blank">https://simurise.com/leadership-offsite-complete-guide-2026/</a></div>
+      <div class="note">适用：② 各级 manager 筹划务虚的「2026 完整指南」（目标分层→类型匹配→预工→平衡→外部引导→跟进），可作年度务虚 SOP。（咨询商二手，结构清晰；与 offsite.com 手册互补：本卡更强「按目标选类型」的决策树与外部引导价值）</div>
+    </div>
+
+<div class="hl">
   <div class="top"><span class="emoji">🗓️</span><h3>通用 Retreat 议程模板（4-5晚/工作休闲平衡/样例日程/破冰可选/技能发展/20-30% 留白）</h3><span class="cat">议程模板</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
   <p class="val">offsite.com 的通用 retreat 议程模板，可适配 team/leadership/staff 三类。理想时长 4-5 晚（综合体验与日程平衡），员工 broader 群可短至 2-3 天。每 1 小时业务 session 配≥30 分钟休息防疲劳；常见错误是自由时间给不够——分配 20-30% 日程为非结构时间。样例：D1 抵达+欢迎酒会+晚宴主旨；D2-3 核心工作日（早餐社交→破冰15-30min建舒适→战略深潜 workshop→团队建设→复盘→自由时间）；D4 反思+离开圈。关键组件：破冰（开头15-30min，参与可选防不适）、团队建设（寻宝/逃生室/烹饪/徒步）、技能发展（2-3h 讲座或互动工坊）、自由时间（≥20-30% 防 burnout）、可选活动。选址即设计、预算防超支。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">学 offsite.com「4-5晚+每1h业务配≥30min休+20-30%留白+破冰可选+团队建设/技能发展/自由时间组件+选址即设计」：议程以「工作+休闲+自由」三段平衡为骨；破冰参与可选降压力；留白非浪费是关系深化处。</div></details>
@@ -1460,21 +1764,6 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
   <div class="src">✅ <a href="https://offsiteio.com/b/top-offsite-ideas-corporate-team-retreat" target="_blank">https://offsiteio.com/b/top-offsite-ideas-corporate-team-retreat</a></div>
   <div class="note">适用：② 经理/HR 规划团队 retreat（远程/分布式）的「5 类灵感+包容与弹性设计」。（平台商二手，灵感向；补 offsiteio 活动清单之外的「远程团队专属+场景催化」）</div>
 </div>
-
-    <div class="hl">
-      <div class="top"><span class="emoji">🤝</span><h3>新 leader 融入务虚（入职10-21天窗口+facilitated retreat+30/90 checkpoint）</h3><span class="cat">新官融入</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">新 leader 融入要在「concrete 固化前」做，理想窗口入职第10-21天（首月 onboarding 之后、重大决定之前）。做法：①全天的或两次半天的 facilitated retreat，把团队关切与疑问摆上台面，共创沟通与协作约定；②Day30 首检（复盘约定、调整）、Day90 二检（对标初始期望、庆祝胜、补缺口）；③若已过窗口（如在任6个月），可改名「团队 retreat」但结构不变。红旗：团队只报喜不报忧（恐惧）、个别成员主导他人沉默——facilitator 须注意权力动态、用小组合议给安静者空间，必要时匿名调研打包给 leader。前提：团队稳定后再做（变动未定别建容器）。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">窗口=入职10-21天（onboarding后、重大决定前）；全天/两次半天facilitated retreat摆关切+共创约定；Day30/Day90两检；过窗口改名团队retreat结构不变；红旗=只报喜/个别人主导→小组合议+匿名调研；团队未稳不做。</div></details>
-      <div class="src">🔗 <a href="https://leadingwithheart.com/new-leader-assimilation" target="_blank">Leading with Heart·新Leader融入完全指南</a></div>
-      <div class="note">适用：② 新 leader 带团队 offsite/融入务虚，「10-21天窗口+facilitated retreat+30/90 checkpoint+红旗识别」是可迁移融入纪律。🔍 区别于卡片（fitleaders/saintonge=具体融合动作；本卡=时间窗口与红旗识别机制，补「何时做+何时别做」）。</div>
-    </div>
-    <div class="hl">
-      <div class="top"><span class="emoji">📅</span><h3>新 leader 90天 onboarding 框架（Before Day1/30/60/90 四阶段）</h3><span class="cat">新官融入</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">领导力 onboarding 不是 orientation 周结束。四阶段弧：①Before Day1（HR+高管在到任前备文档/系统/战略优先级，关键利益相关者预先热身，起草30-60-90）；②Day1-30 先听后动（1对1全覆盖、跨职能 stakeholder 会、文化观察、与直属上级周检，不急于改）；③Day30-60 立方向与早期动能（设团队期望、找 early wins、建常规沟通、定绩效目标）；④Day60-90 战略贡献与长期建设（参与战略规划、完成90天复盘、持续教练）。常见暗礁：误读表层之下的文化、建信任慢于预期、动太快、平衡 quick wins 与长期信誉、navigating 非正式权力、孤立缺同侪支持——结构化的 check-in+高管教练+主动 stakeholder 管理可前置化解。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">Before Day1备齐（文档/系统/战略/利益方预热+30-60-90草稿）；Day1-30先听后动（1对1全覆盖+文化观察+周检）；Day30-60立方向找early wins；Day60-90战略贡献+90天复盘；暗礁=误读文化/建信慢/动快/孤立→结构化check-in+教练前置化解。</div></details>
-      <div class="src">🔗 <a href="https://galleryhr.com/blogs/hr-best-practices-blog/successfully-onboarding-new-leaders-best-practices-leadership-transition" target="_blank">Gallery HR·新Leader 90天Onboarding框架</a></div>
-      <div class="note">适用：② HR/高管帮新 leader 落地，「Before Day1→30→60→90 四阶段+暗礁前置化解」是可迁移 onboarding 框架。🔍 区别于卡片（leadingwithheart=融入务虚窗口；本卡=90天分阶段体系，补「onboarding 不止 orientation 周」）。</div>
-    </div>
 </div>
 <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
 </div>
