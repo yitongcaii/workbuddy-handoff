@@ -12961,5 +12961,41 @@
     "relation": "exec",
     "summary": "新 CEO 务虚：百日 Phase2 愿景共建 Retreat 与高管 co-create（非宣布）+ Days1-30 aggressive listening 先行 + 战略叙事多通道(不抄前任) + retreat 后即人才审计 tough call；坑=讨好冻住或照搬旧剧本。",
     "topic": "offsite"
+  },
+  {
+    "title": "高管团队运营章程·6 项承诺 + DRI + 禁三角传递",
+    "normKey": "高管团队运营章程6项承诺dri禁三角传递",
+    "url": "https://www.monkhouseandcompany.com/blog/how-to-supercharge-your-executive-team",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "高管团队章程：高管团队需要一份「运营章程」（Operating Charter），不是裱起来的价值观海报，而是一份行为协议——当某个行",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "董事会-CEO 运营协议·四级决策权 + 客观阈值",
+    "normKey": "董事会ceo运营协议四级决策权客观阈值",
+    "url": "https://www.managingthefuture.co/p/the-agreement-every-board-and-ceo",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "治理层对齐：CEO 与董事会的张力几乎从不是「决策内容」，而是「谁来做这个决策」的模糊。解法：写一份 Board-CEO Opera",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "联席 CEO/共治团队协议·决策权/沟通/冲突/基调 四领域",
+    "normKey": "联席ceo共治团队协议决策权沟通冲突基调四领域",
+    "url": "https://www.ceonextchapter.com/insights-blog/why-co-ceos-need-team-agreements",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "共治团队协议：联席领导（Co-CEO/双人共治）结构不同于单人领导：两人共享权威时，每一个未说破的假设都是潜在断层。根因几乎不是「坏意",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "越级会谈·领导者实战手册（先告中层 + 6Ps 预简报 + 45min 高密度议程）",
+    "normKey": "越级会谈领导者实战手册先告中层6ps预简报45min高密度议程",
+    "url": "https://performanceninja.co.uk/post/skip-level-meetings-that-work-a-leaders-playbook",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "越级会谈：越级会谈（skip-level）不是办工作坊，而是用一致的思维模型，让跨层的「组织机制真相」随时间浮现。先定格式：1:1",
+    "topic": "icebreaker"
   }
 ]
