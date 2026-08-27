@@ -12997,5 +12997,75 @@
     "relation": "supervisor",
     "summary": "越级会谈：越级会谈（skip-level）不是办工作坊，而是用一致的思维模型，让跨层的「组织机制真相」随时间浮现。先定格式：1:1",
     "topic": "icebreaker"
+  },
+  {
+    "title": "员工提名系统平台·端到端自动化（多轮审批/委员会投票/资格控制）",
+    "normKey": "员工提名系统平台·端到端自动化（多轮审批/委员会投票/资格控制）",
+    "url": "https://www.awardco.com/ca/platform-features/nominations",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Awardco Nominations 把提名全生命周期从『表格+邮件+电子表格』碎片化流程，收进一个平台：配置提名项目（个人/团队/自荐/提名上限/按部门·成本中心设资格）、自定义问题（文本/附件/价值观标签）、多轮审查（审批轮=直通直属",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "提名工作流治理·经理审批路由 + HR 治理 + 公平性分析（一线 SMS 可达）",
+    "normKey": "提名工作流治理·经理审批路由 + HR 治理 + 公平性分析（一线 SMS 可达）",
+    "url": "https://recognizeapp.com/cms/articles/how-the-nomination-process-works-in-recognize",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Recognize 的提名工作流给 HR 完整治理、给员工极简提交：HR 控 badge/谁能提名/是否需经理或 HR 审批/是否带积分/正式或非正式；员工选 badge→写提名→提交，审批人（经理/HR/领导）在 Teams/邮件/Web",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "飞书落地优秀员工表彰·五阶段数字化（提名/投票/公示/专栏/开屏）",
+    "normKey": "飞书落地优秀员工表彰·五阶段数字化（提名/投票/公示/专栏/开屏）",
+    "url": "https://www.feishu.cn/practice_template/67492",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "飞书实践模板把『优秀员工表彰』做成全员可达的数字化闭环：①提名征集——用多维表格表单/飞书问卷向各部门 Leader 收提名，一键触达；②投票评选——飞书问卷展示候选、设匿名填写、订阅号推全员；③结果公示——设飞书开屏界面跳链接，员工打开飞",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "简道云零代码表扬公示系统（提名→复核→公示→数据沉淀）",
+    "normKey": "简道云零代码表扬公示系统（提名→复核→公示→数据沉淀）",
+    "url": "https://www.jiandaoyun.com/nblog/215975",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "简道云零代码 OA 把『员工表扬公示』做成自动化流：任一员工发起表扬提名（填事迹+被表扬人），自动流转至直接上级或 HR 复核审批，通过后系统自动发布到内网公示栏/企业微信公告栏，后台自动统计月度/季度表扬次数与贡献类型，为年度评优供数据。",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "颁奖典礼预算配比·per-head 基准·ROI 倍数·12 周 timeline",
+    "normKey": "颁奖典礼预算配比·per-head 基准·ROI 倍数·12 周 timeline",
+    "url": "https://eventnest.ph/blog/planning-an-employee-recognition-or-awards-night/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖之夜（awards night）预算配比（eventnest）：场地 18-25% / 餐饮 28-35% / AV灯光舞台 15-20% / AVP 制作 5-10% / 舞美设计 10-15% / 主持演艺 8-12% / 摄影摄像",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "市属国企负责人荣誉体系·政府官方评选办法（精神为主/物质为辅）",
+    "normKey": "市属国企负责人荣誉体系·政府官方评选办法（精神为主/物质为辅）",
+    "url": "https://jyg.gov.cn/zfxxgk/fdzdgknr/zfgb/wqzfgb/2020n5yzfgb/art/2022/art_25819aac7f4449768a3a7db607ce7944.html",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "嘉峪关市政府办印发《市属国有企业荣誉体系奖励评选办法》（一手·政府公开文件），把对国企负责人的荣誉表彰制度化：奖项设『优秀国有企业家/优秀国有企业/最具成长型国有企业/突出贡献国有企业』四类，对上交国有资本收益排名前 3 与同比增幅前 3 ",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
+  },
+  {
+    "title": "荣休仪式「五个一」暖心流程（家属绶带+工龄纪念章+手写感谢信+全家福+上门荣休）",
+    "normKey": "荣休仪式「五个一」暖心流程（家属绶带+工龄纪念章+手写感谢信+全家福+上门荣休）",
+    "url": "https://www.xianceremony.com/fangan/1422",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "赛诺美『五个一』荣休方案把退休欢送做成有温度的荣誉时刻：①家属戴绶带+家人拥抱——配偶/子女上台佩『光荣退休』绶带，无家属由密友同事代；②徒弟/同事献花+祝福卡——花束内插部门手写祝福；③领导颁发纪念章——章与工龄挂钩，15年银底『感谢十五",
+    "topic": "award",
+    "dateCollected": "2026-08-28"
   }
 ]
