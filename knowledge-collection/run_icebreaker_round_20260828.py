@@ -72,10 +72,11 @@ CARDS = [
 ]
 
 def card_block(c):
+    rel_badge = 'r3' if c["rel"] == "exec" else 'r2'
     return (
         '    <div class="hl">\n'
         '      <div class="top"><span class="emoji">{emoji}</span><h3>{title}</h3>'
-        '<span class="cat">{cat}</span><span class="badge {rel}">{rel_text}</span>'
+        '<span class="cat">{cat}</span><span class="badge {rb}">{rel_text}</span>'
         '<span class="badge {src}">{src_text}</span></div>\n'
         '      <p class="val">{val}</p>\n'
         '      <details class="exec"><summary>怎么做</summary><div class="inner">{exec_inner}</div></details>\n'
@@ -84,8 +85,8 @@ def card_block(c):
         '    </div>\n'
     ).format(
         emoji=esc(c["emoji"]), title=esc(c["title"]), cat=esc(c["cat"]),
-        rel=c["rel"], rel_text=esc(c["rel_text"]), src=c["src"], src_text=esc(c["src_text"]),
-        val=esc(c["val"]), exec_inner= (c["exec"]), url=c["url"], url_disp=esc(c["url_disp"]),
+        rb=rel_badge, rel_text=esc(c["rel_text"]), src=c["src"], src_text=esc(c["src_text"]),
+        val=esc(c["val"]), exec_inner=(c["exec"]), url=c["url"], url_disp=esc(c["url_disp"]),
         note=esc(c["note"]),
     )
 
