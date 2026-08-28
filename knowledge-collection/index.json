@@ -13167,5 +13167,86 @@
   "summary": "龙口市政府官网，徐福街道2025“政府开放日暨企业恳谈会”，经验互鉴+政策解读+现场答疑，问题当场记录建跟踪台账，发放营商环境问卷，落实领导包联帮扶与清单化管理闭环。",
   "normKey": "徐福街道2025政府开放日暨企业恳谈会营商环境问卷清单化闭环",
   "topic": "openday"
+ },
+ {
+  "title": "东莞市广西商会女企业家精英沙龙「白衫映韶华」",
+  "normKey": "东莞市广西商会女企业家精英沙龙白衫映韶华",
+  "url": "https://static.nfnews.com/content/202510/24/c11847750.html",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "妇委会/女企委发起+会员商业演说力分享+围坐畅谈创业，她力量圈层",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "成都遂宁商会『遂商下午茶』第一期资源共享交流联谊会",
+  "normKey": "成都遂宁商会遂商下午茶第一期资源共享交流联谊会",
+  "url": "https://cdsnsh.com/news/117069",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "『资源整合价值共生』主题+会长分享+会员资源对接，抱团发展",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "长沙市张家界商会『启新·对话』新年下午茶",
+  "normKey": "长沙市张家界商会启新对话新年下午茶",
+  "url": "http://www.cszjjsh.com/detail/2841.html",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "书记/会长领衔+企业家实战分享+建言商会机制，乡情+发展双载体",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "新加坡33Club『女性领导力·失败后崛起』下午茶讲座",
+  "normKey": "新加坡33Club女性领导力失败后崛起下午茶讲座",
+  "url": "https://www.fortunetimes.sg/cn?p=54758",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "以『失败』为主题的女企业家/高管圆桌，海外参考——坦诚失败做思想连接",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "山东高速投资控股『倾心』下午茶 · 领导与员工围坐谈心",
+  "normKey": "山东高速投资控股倾心下午茶领导与员工围坐谈心",
+  "url": "http://www.sdgstzkg.com/xwdt2/353.jhtml",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "创建『倾心』活动室+领导与员工围坐谈心，拆除隔心墙建连心桥",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "广誉远国药『倾听新声 共创未来』新员工茶话会",
+  "normKey": "广誉远国药倾听新声共创未来新员工茶话会",
+  "url": "https://applet.10100.com/article/107102666",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "『新人养成计划』关键环+创意破冰+领导现场解困惑，嵌进新人融入",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "浦发银行合肥分行『靠浦青年面对面』· 三级联动茶话会",
+  "normKey": "浦发银行合肥分行靠浦青年面对面三级联动茶话会",
+  "url": "https://www.cnr.cn/ah/kjjr/20251104/t20251104_527419093.shtml",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "团委+党委组织部+业务部门三级联动，即时解惑+长期规划双赋能",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "新洋丰『百人计划』青年骨干茶话会 · 无主席台圆桌深度对话",
+  "normKey": "新洋丰百人计划青年骨干茶话会无主席台圆桌深度对话",
+  "url": "https://yonfer.com/news/article/22388",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "无主席台圆桌+人才领导小组现场听记+『重点培养接班人』定性",
+  "topic": "afternoontea"
+ },
+ {
+  "title": "黑龙江昊华团委青年茶话会 · 安全赋能+领导寄语+趣味互动",
+  "normKey": "黑龙江昊华团委青年茶话会安全赋能领导寄语趣味互动",
+  "url": "http://www.hhhlj.chemchina.com/hhhlj/xwysj/gsxw/2026/1/I1465374707124535296.html",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "党委领导集体出席+安全赋能+轻互动+心愿卡，青年关怀",
+  "topic": "afternoontea"
  }
 ]
