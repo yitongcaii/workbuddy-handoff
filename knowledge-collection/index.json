@@ -13302,5 +13302,50 @@
     "relation": "exec",
     "summary": "领导者用故事塑造认知，但三类叙事会削弱对齐：①hero-only(把领导当唯一英雄，贬低团队)；②不切实际的积极(听起来像剧本/虚假，引发怀疑)；③甩锅(推给外部/前任/某团队，伤信任)。6 步结构：①Context(用 SCQA 讲清为何",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "GitLab E-Group 季度4天 Offsite（CoS引导/CEO Shadow/分歧话题/50%实施时间）",
+    "normKey": "GitLabE-Group季度4天Offsite（CoS引导/CEOShadow/分歧话题/50%实施时间）",
+    "url": "https://handbook.gitlab.com/handbook/company/offsite/",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "季度4天(董事会后);议程只收需当面+有分歧话题;CoS中立引导(控时/控题/50%时间导向实施);CEO Shadow专司纪要;参会者标推荐/可选;把分歧当资产",
+    "topic": "offsite"
+  },
+  {
+    "title": "敏感战略会议/高管务虚数据保密治理（分类/DRM/水印/加密/物理数字文档处置）",
+    "normKey": "敏感战略会议/高管务虚数据保密治理（分类/DRM/水印/加密/物理数字文档处置）",
+    "url": "https://umbrex.com/resources/the-busy-consultants-guide-to-project-updates/choosing-and-distributing-meeting-materials",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "创建即分类;Restricted启DRM+按观看者水印;传输TLS1.3/存储AES-256+SSO/MFA+SIEM;按GDPR/ITAR/SOX区域锁+WORM销毁;异常下载/截屏告警;附合规矩阵",
+    "topic": "offsite"
+  },
+  {
+    "title": "领导力/高管 Offsite ROI 度量（25 种指标：决策速度/稳定性/行为改变/下属感知/框架语言）",
+    "normKey": "领导力/高管OffsiteROI度量（25种指标：决策速度/稳定性/行为改变/下属感知/框架语言）",
+    "url": "https://consultclarity.org/post/measure-leadership-offsite-roi",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "度量归5类;会前1页框架(决策/战略/凝聚力/行动项owner+期限);离会48h内调研+季度回访;25指标含决策速度/30-60-90兑现/心理安全/直接下属感知/共享词汇采纳率",
+    "topic": "offsite"
+  },
+  {
+    "title": "中层团队 Offsite 协作练习（pre-mortem/角色期望映射/Start-Stop-Continue/真实业务协作）",
+    "normKey": "中层团队Offsite协作练习（pre-mortem/角色期望映射/Start-Stop-Continue/真实业务协作）",
+    "url": "https://www.svsb.ai/blog/how-to-improve-team-collaboration",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "中层offsite用4练习(pre-mortem/角色期望映射/Start-Stop-Continue/真实业务协作);经理不独占发言;引导师保节奏;硬对话+共同做事配对最耐用",
+    "topic": "offsite"
+  },
+  {
+    "title": "虚拟团队 Offsite（facilitator中立角色/buddy系统/≤3工具/领导建模脆弱性）",
+    "normKey": "虚拟团队Offsite（facilitator中立角色/buddy系统/≤3工具/领导建模脆弱性）",
+    "url": "https://slack-future-of-work-develop.go-vip.net/2021/01/15/consider-changing-up-your-team-offsite-this-year",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "中立facilitator+经理IC专注对话;buddy系统(贴处境+@buddy拉回);工具≤3(Zoom/Slack/白板)全程录制;领导建模脆弱性建信任;3分钟讲自己+2分钟问答短icebreaker;虚拟议程像作曲",
+    "topic": "offsite"
   }
 ]
