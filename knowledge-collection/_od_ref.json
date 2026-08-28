@@ -1,0 +1,1409 @@
+[
+{
+"title": "信安・客户开放日：策略与人工的双向奔赴，共筑视频号业务质效新生态",
+"url": "https://km.woa.com/articles/show/640342",
+"normKey": "信安・客户开放日：策略与人工的双向奔赴，共筑视频号业务质效新生态",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "客服开放日丨英雄联盟手游客户服务部岗位体验",
+"url": "https://km.woa.com/articles/show/664403",
+"normKey": "客服开放日丨英雄联盟手游客户服务部岗位体验",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "展厅员工开放日｜诚挚邀请",
+"url": "https://km.woa.com/articles/show/655379",
+"normKey": "展厅员工开放日｜诚挚邀请",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "初心向用户，成长不设限丨新鹅“用户为本”第一课【客服开放日-PCG新鹅专场精彩回顾】",
+"url": "https://km.woa.com/articles/show/640730",
+"normKey": "初心向用户，成长不设限丨新鹅“用户为本”第一课【客服开放日-PCG新鹅专场精彩回顾】",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "一起Debug！微信支付新鹅的必修课 【客服开放日-25年WXG微信支付毕业生专场精彩回顾】",
+"url": "https://km.woa.com/articles/show/638471",
+"normKey": "一起Debug！微信支付新鹅的必修课 【客服开放日-25年WXG微信支付毕业生专场精彩回顾】",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中国石油辽宁销售开放日「从油品到生活」转型展示",
+"url": "https://www.sohu.com/a/948017446_120578424",
+"normKey": "中国石油辽宁销售开放日从油品到生活转型展示",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "中船集团国企开放日暨品牌宣传周（2025）",
+"url": "https://new.qq.com/rain/a/20251027A06I5Q00",
+"normKey": "中船集团国企开放日暨品牌宣传周2025",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "国家能源集团广西电力「品牌开放日」（2025）",
+"url": "https://gx.people.com.cn/BIG5/n2/2025/0929/c179464-41368513.html",
+"normKey": "国家能源集团广西电力品牌开放日2025",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "川维化工「公众开放日」十年开门之路",
+"url": "https://paper.people.com.cn/mszk/pc/content/202605/25/content_30163549.html",
+"normKey": "川维化工公众开放日十年开门之路",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "大唐华银「企业开放日暨品牌日」（2026）",
+"url": "https://hn.people.com.cn/BIG5/n2/2026/0529/c356884-41595389.html",
+"normKey": "大唐华银企业开放日暨品牌日2026",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "中国石化 2026 公众开放日（胜利油田启动）",
+"url": "https://sd.people.com.cn/BIG5/n2/2026/0423/c166188-41560975.html",
+"normKey": "中国石化2026公众开放日胜利油田启动",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "大汉电商「总部开放日」（员工跨区参访）",
+"url": "https://m.voc.com.cn/xhn/news/202505/29567497.html",
+"normKey": "大汉电商总部开放日员工跨区参访",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "南京欣网「总部开放日」（全国优秀员工参访）",
+"url": "http://www.xwtele.com/news/shownews.php?id=390",
+"normKey": "南京欣网总部开放日全国优秀员工参访",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "「上海国企开放日」第二批（科技科普专场）",
+"url": "https://www.sohu.com/a/1060060701_121106832",
+"normKey": "上海国企开放日第二批科技科普专场",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "销售企业公众开放日实践路径探析（中国石油甘肃销售）",
+"url": "https://vod.xianfengdangjian.com.cn/content/theory_research/content_103.shtml",
+"normKey": "销售企业公众开放日实践路径探析中国石油甘肃销售",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "《沟通创造价值》企业公众开放日品牌方法论（中国石化）",
+"url": "https://m.bookschina.com/8077427.htm",
+"normKey": "沟通创造价值企业公众开放日品牌方法论中国石化",
+"relation": "supervisor,exec",
+"src": "secondary"
+},
+{
+"title": "毕节环保设施向公众开放日（医疗废物/垃圾焚烧/污水/监测）",
+"url": "https://www.bijie.gov.cn/bm/bjssthjj/dt/bmdt/202603/t20260330_89921013.html",
+"normKey": "毕节环保设施向公众开放日（医疗废物/垃圾焚烧/污水/监测）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "漳州环保设施向公众开放日（多县区污水/再生能源/监测站）",
+"url": "https://www.zhangzhou.gov.cn/cms/html/zzsrmzfbgsgfxwjk/2026-06-12/1502162222.html",
+"normKey": "漳州环保设施向公众开放日（多县区污水/再生能源/监测站）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "检察开放日制度范式（2025全国7500余场/30.5万人/四级联动）",
+"url": "https://www.spp.gov.cn/zdgz/202601/t20260129_717121.shtml",
+"normKey": "检察开放日制度范式（2025全国7500余场/30.5万人/四级联动）",
+"relation": "supervisor,exec",
+"src": "primary"
+},
+{
+"title": "「检爱四十载·携手向未来」全国四级检察机关检察开放日（未成年人检察40周年）",
+"url": "https://www.spp.gov.cn//zdgz/202606/t20260628_730673.shtml",
+"normKey": "「检爱四十载·携手向未来」全国四级检察机关检察开放日（未成年人检察40周年）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "荆州区「政法开放日·平安零距离」（法院+检察+公安+司法+综治联合）",
+"url": "http://www.jingzhouqu.gov.cn/xwzx/jzqx/202512/t20251206_1056127.shtml",
+"normKey": "荆州区「政法开放日·平安零距离」（法院+检察+公安+司法+综治联合）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "国网临海「逐光之旅」社会责任开放日（中国品牌日+多元资本核算+利益相关方对话）",
+"url": "https://cs.zjol.com.cn/jms/202505/t20250519_31002196.shtml",
+"normKey": "国网临海「逐光之旅」社会责任开放日（中国品牌日+多元资本核算+利益相关方对话）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "韶关供电局2025国企开放日（客户代表发言+青年员工说唱+变电站探访）",
+"url": "https://www.nfnews.com/content/mom4NpjW6V.html",
+"normKey": "韶关供电局2025国企开放日（客户代表发言+青年员工说唱+变电站探访）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "山东消防队站开放日（济南训练基地·近2万市民沉浸体验）",
+"url": "https://sd.people.com.cn/BIG5/n2/2025/1112/c397967-41409385.html",
+"normKey": "山东消防队站开放日（济南训练基地·近2万市民沉浸体验）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "贵州轮胎「最美之旅」客户开放日（100位门店客户·灯塔工厂+山水+恳谈）",
+"url": "https://www.gztyre.com/news/news-detail-10060.htm",
+"normKey": "贵州轮胎「最美之旅」客户开放日（100位门店客户·灯塔工厂+山水+恳谈）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "国药集团2026「解码国药智造」媒体开放日（中国品牌日·上海）",
+"url": "https://www.shyndec.com/shxdzy/gsxwlb/2026/5/I1506344524509609984.html",
+"normKey": "国药集团2026「解码国药智造」媒体开放日（中国品牌日·上海）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "东安动力媒体开放日（新能源动力总成产线+技术脱口秀+双转子点火）",
+"url": "https://news.10jqka.com.cn/20260617/c677546271.shtml",
+"normKey": "东安动力媒体开放日（新能源动力总成产线+技术脱口秀+双转子点火）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "北玻2026「六零绿色建材日」公众开放日（媒体+行业专家·花园式园区）",
+"url": "https://glass.northglass.com/newsInfo/872.html",
+"normKey": "北玻2026「六零绿色建材日」公众开放日（媒体+行业专家·花园式园区）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "腾讯「企鹅开放日」首次面向公众开放（AI 生活化场景）",
+"url": "https://www.toutiao.com/article/7645699763064554011",
+"normKey": "腾讯「企鹅开放日」首次面向公众开放（AI 生活化场景）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国联通 2026 国企开放日（北京启动·全国联动）",
+"url": "https://tech.gmw.cn/2026-07/17/content_38891990.htm",
+"normKey": "中国联通 2026 国企开放日（北京启动·全国联动）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国联通福建省分公司 2026 国企开放日（科创+产学研座谈+非遗）",
+"url": "https://fj.people.com.cn/n2/2026/0717/c181466-41641734.html",
+"normKey": "中国联通福建省分公司 2026 国企开放日（科创+产学研座谈+非遗）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "五华区翠湖博物馆群落国际博物馆日（六大场馆联动）",
+"url": "https://new.qq.com/rain/a/20260521A079UR00",
+"normKey": "五华区翠湖博物馆群落国际博物馆日（六大场馆联动）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "榆林市国际博物馆日系列活动（全市联动·数字云桥）",
+"url": "https://www.toutiao.com/article/7641189833896886818/",
+"normKey": "榆林市国际博物馆日系列活动（全市联动·数字云桥）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "广州近 80 家博物馆国际博物馆日联动（首开地标+沉浸剧游）",
+"url": "https://epaper.nfnews.com/nfdaily/html/202605/19/content_10170740.html",
+"normKey": "广州近 80 家博物馆国际博物馆日联动（首开地标+沉浸剧游）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "滨州市人民医院公众开放日（医师节·社会监督+医患互信）",
+"url": "https://new.qq.com/rain/a/20260812A03OQT00",
+"normKey": "滨州市人民医院公众开放日（医师节·社会监督+医患互信）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "北京天坛医院建院 70 周年公众开放日（科研转化+同行协作）",
+"url": "https://weibo.com/2640433283/5328971861594399",
+"normKey": "北京天坛医院建院 70 周年公众开放日（科研转化+同行协作）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "嘉定区 2026 政府开放月（50 项目+护照打卡+开放集市）",
+"url": "https://www.shanghai.gov.cn/jdq/20260731/9e5f3bf9d29044488e8c8a98e1dbb01c.html",
+"normKey": "嘉定区 2026 政府开放月（50 项目+护照打卡+开放集市）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "姚圩镇政府开放日（角色互换·实景找茬·现场办结）",
+"url": "https://www.yushui.gov.cn/yushui/ldxxlyjqqnr/2026-07/17/content_cdbc0ea6770948459ad48185bbf10e04.shtml",
+"normKey": "姚圩镇政府开放日（角色互换·实景找茬·现场办结）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "南开大学元素有机化学国家重点实验室公众开放日",
+"url": "https://skleoc.nankai.edu.cn/info/1327/6315.htm",
+"normKey": "南开大学元素有机化学国家重点实验室公众开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "哈工大材料焊接全国重点实验室开放日（科技周·大国工匠叙事）",
+"url": "https://mse.hit.edu.cn/2026/0602/c16847a393278/page.htm",
+"normKey": "哈工大材料焊接全国重点实验室开放日（科技周·大国工匠叙事）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "石牌岭社区「公共空间开放日」暨端午主题活动（居民共建）",
+"url": "http://www.hbgdby.cn/shequchuanzhen/955.html",
+"normKey": "石牌岭社区「公共空间开放日」暨端午主题活动（居民共建）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "沈阳地铁 3 号线「热线暖心相伴 畅享品质出行」市民开放日",
+"url": "https://ln.people.com.cn/n2/2026/0626/c400014-41621670.html",
+"normKey": "沈阳地铁 3 号线「热线暖心相伴 畅享品质出行」市民开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "无锡地铁 2026「政府开放月」专场（探秘科技密码与服务温度）",
+"url": "https://c.m.163.com/news/a/L1BNU7LU0514RDBQ.html",
+"normKey": "无锡地铁 2026「政府开放月」专场（探秘科技密码与服务温度）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "深圳地铁 13 号线二期北延「媒体开放日」抢先试乘（一站一景）",
+"url": "https://www.sznews.com/news/content/mb/2026-06/26/content_32102950.htm",
+"normKey": "深圳地铁 13 号线二期北延「媒体开放日」抢先试乘（一站一景）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "首创环保集团 2026「首都国企开放日」绿色工厂探秘（供水/污水/再生水/垃圾发电）",
+"url": "https://finance.sina.com.cn/wm/2026-06-02/doc-inhzzivp1601459.shtml",
+"normKey": "首创环保集团 2026「首都国企开放日」绿色工厂探秘（供水/污水/再生水/垃圾发电）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "北京排水集团 2026 北排环保设施 8、9 月预约开放（碳中和示范厂+亚洲最大地下再生水厂）",
+"url": "https://peking.bjd.com.cn/content/s6a63759fe4b03fa51a81ff8b.html",
+"normKey": "北京排水集团 2026 北排环保设施 8、9 月预约开放（碳中和示范厂+亚洲最大地下再生水厂）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "南平市 2026 六五环境日环保设施开放集锦（污水/监测/危废处置）",
+"url": "https://manager.np.gov.cn/cms/html/jyqrmzf/2026-06-10/1188839724.html",
+"normKey": "南平市 2026 六五环境日环保设施开放集锦（污水/监测/危废处置）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "潍坊市图书馆 2026「市民开放日」解锁书香新体验（《全民阅读促进条例》实施日）",
+"url": "https://www.wfcmw.cn/334174/2026/01/42420850.html",
+"normKey": "潍坊市图书馆 2026「市民开放日」解锁书香新体验（《全民阅读促进条例》实施日）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "高明区文化馆 2026 开放日活动（全国文化馆服务宣传周·人民的终身美育学校）",
+"url": "https://new.qq.com/rain/a/20260523A08ZHU00",
+"normKey": "高明区文化馆 2026 开放日活动（全国文化馆服务宣传周·人民的终身美育学校）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国气象局 2026 世界气象日京区单位开放（气象科技展馆+风云卫星+观测场）",
+"url": "https://www.cma.gov.cn/2011xwzx/zdbk/jdbkxw/202603/t20260317_7659071.html",
+"normKey": "中国气象局 2026 世界气象日京区单位开放（气象科技展馆+风云卫星+观测场）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "梧州市气象局 2026 世界气象日开放（沉浸式科普+校园科普集市+主播体验）",
+"url": "http://gx.cma.gov.cn/wzs/dsyw_9915/202604/t20260407_7714265.html",
+"normKey": "梧州市气象局 2026 世界气象日开放（沉浸式科普+校园科普集市+主播体验）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "九江地震监测中心站 2026 科普开放日（防灾减灾日+世界计量日·测氡仪比测台站）",
+"url": "https://www.jxsdzj.gov.cn/jxsdzjj/tzgg925/pc/content/content_2051824609623281664.html",
+"normKey": "九江地震监测中心站 2026 科普开放日（防灾减灾日+世界计量日·测氡仪比测台站）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "九江市国资委 2026「政府开放日」走进九江公交（智慧调度+新能源维保+开门纳谏）",
+"url": "https://www.jiujiang.gov.cn/zwzx/ztbd/2026zfkf/hdbd/202607/t20260703_7268256.html",
+"normKey": "九江市国资委 2026「政府开放日」走进九江公交（智慧调度+新能源维保+开门纳谏）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "太仓 2026 工业旅游公交专线（元气森林透明工厂+莱卡尔烘焙城堡+耐克零碳园区）",
+"url": "https://js.ifeng.com/c/8tFuCjeVwKk",
+"normKey": "太仓 2026 工业旅游公交专线（元气森林透明工厂+莱卡尔烘焙城堡+耐克零碳园区）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "息烽公安「党建引领·警务实战」警营开放日",
+"url": "https://www.xifeng.gov.cn/xwdt/bmdt/202606/t20260605_90486926.html",
+"normKey": "息烽公安「党建引领·警务实战」警营开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "云浮公安警营开放日暨「6·26」国际禁毒日主题宣传",
+"url": "https://www.nfnews.com/content/j3kjYNMQyA.html",
+"normKey": "云浮公安警营开放日暨「6·26」国际禁毒日主题宣传",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "青岛能源集团 2025「企业开放日」（燃气/供热·智慧能源）",
+"url": "http://gzw.qingdao.gov.cn/xwzx/qydt/202508/t20250808_9991858.shtml",
+"normKey": "青岛能源集团 2025「企业开放日」（燃气/供热·智慧能源）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "十堰中燃「燃气安全开放日」（从保供到入户全流程）",
+"url": "https://syiptv.com/article/show/329413",
+"normKey": "十堰中燃「燃气安全开放日」（从保供到入户全流程）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "抚州南城机场航空科普开放日（五一·实景体验）",
+"url": "https://i.ifeng.com/c/8sk35lBJNyC",
+"normKey": "抚州南城机场航空科普开放日（五一·实景体验）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "浦发银行「走进外滩12号」上海国企开放日",
+"url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8746a7eba3298752",
+"normKey": "浦发银行「走进外滩12号」上海国企开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "兴业银行「权益守护开放日」（网点消保课堂）",
+"url": "https://www.jsw.com.cn/2026/0618/1961315.shtml",
+"normKey": "兴业银行「权益守护开放日」（网点消保课堂）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "广饶农商银行「小小银行家」网点开放日（青少年财商）",
+"url": "https://www.163.com/dy/article/HJE2VLIP0514R9KU.html",
+"normKey": "广饶农商银行「小小银行家」网点开放日（青少年财商）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "青岛 2026「农业科技开放日」（政府开放月·农科院）",
+"url": "https://www.qingdao.gov.cn/zwgk/xxgk/nync/ywfl/kjtg/202605/t20260529_10621652.shtml",
+"normKey": "青岛 2026「农业科技开放日」（政府开放月·农科院）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "福州港开放日·江阴港区专场（智慧绿色港口）",
+"url": "https://fzftz.fuzhou.gov.cn/zwgk/qydt/202507/t20250714_5047251.htm",
+"normKey": "福州港开放日·江阴港区专场（智慧绿色港口）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "天津港 2025 企业开放日（港城同心·千名市民进港区）",
+"url": "https://www.ftutj.cn/tjgrbpaper/tjgrb/2025-10/20/content_99226364.html",
+"normKey": "天津港 2025 企业开放日（港城同心·千名市民进港区）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "阳谷县「政法机关开放日」（法院/检察/公安/司法全景）",
+"url": "http://zfw.liaocheng.gov.cn/channel_t_283_16517/doc_674d0be744ac0bf0ea602dfc.html",
+"normKey": "阳谷县「政法机关开放日」（法院/检察/公安/司法全景）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "光明区文化馆「文化和自然遗产日」非遗开放体验",
+"url": "https://wtl.sz.gov.cn/ztzl_78228/zdly/sswhg/gzdt_81834/content/post_12845667.html",
+"normKey": "光明区文化馆「文化和自然遗产日」非遗开放体验",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "福州港开放日·宁德(湾坞)专场（政企研港产城融合沙龙）",
+"url": "https://www.toutiao.com/article/7664607603448480265/",
+"normKey": "福州港开放日·宁德(湾坞)专场（政企研港产城融合沙龙）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "浙江省税务局『12366品牌开放体验日』（有问题，找12366）",
+"url": "https://zhejiang.chinatax.gov.cn/art/2026/4/24/art_13230_653713.html",
+"normKey": "浙江省税务局『12366品牌开放体验日』（有问题，找12366）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "大连金普新区税务局『税务开放日』（智慧办税体验官）",
+"url": "https://dalian.chinatax.gov.cn/art/2026/4/15/art_3236_693228.html",
+"normKey": "大连金普新区税务局『税务开放日』（智慧办税体验官）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "分宜县税务局『政府开放日』（办税流程体验）",
+"url": "https://www.fenyi.gov.cn/fenyi/hdyg/2026-06/30/content_52b7d30643d34ad494b5f92749bacbd3.shtml",
+"normKey": "分宜县税务局『政府开放日』（办税流程体验）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "镇江消防队站『齐开放』（安全守护零距离）",
+"url": "https://js.119.gov.cn/202608/jsxfww-menu-gzdt_c_ca33eccfdc2d4c58bf04.html",
+"normKey": "镇江消防队站『齐开放』（安全守护零距离）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "钦州『3·15』消防站开放日（产品辨伪+体验）",
+"url": "http://gx.119.gov.cn/portal/article/index/id/11332.html",
+"normKey": "钦州『3·15』消防站开放日（产品辨伪+体验）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "巴中『消企合作』消防宣传新阵地（门店预约+队站开放）",
+"url": "https://sc.119.gov.cn/scxfjyzd/bzs/2026/3/12/4e23a5cd66ef48ffa00ea99804aa3d98.shtml",
+"normKey": "巴中『消企合作』消防宣传新阵地（门店预约+队站开放）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "雄商高铁临清东站『汇聚众智，共鉴新程』主题开放日",
+"url": "http://jtj.liaocheng.gov.cn/channel_l_sjtjzfkfybmhd8404/doc_6a4c526867e981bf0e624364.html",
+"normKey": "雄商高铁临清东站『汇聚众智，共鉴新程』主题开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "长沙市水厂开放日（节约用水宣传周·五水厂联动）",
+"url": "https://m.thepaper.cn/newsDetail_forward_33132204",
+"normKey": "长沙市水厂开放日（节约用水宣传周·五水厂联动）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "樟树市药都供水『固定开放月』（透明供水零距离）",
+"url": "https://www.zhangshu.gov.cn/zssrmzf/tzgg/pc/content_2081905172540137472/content_2081905172540137472.html",
+"normKey": "樟树市药都供水『固定开放月』（透明供水零距离）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "西宁供水集团『市民开放日』（从源头到水龙头）",
+"url": "http://www.8112112.com/a/zixundongtai/gongshuixinwen/20260525/6466.html",
+"normKey": "西宁供水集团『市民开放日』（从源头到水龙头）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "濮阳法院『走进濮阳法院 感受公平正义』开放日",
+"url": "https://www.toutiao.com/article/7623204980362641930/",
+"normKey": "濮阳法院『走进濮阳法院 感受公平正义』开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "汉寿县人民法院旁听庭审预约（司法公开机制）",
+"url": "https://m.thepaper.cn/newsDetail_forward_33364028",
+"normKey": "汉寿县人民法院旁听庭审预约（司法公开机制）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "重庆『全民安全开放日』（安全生产月·重庆科技馆）",
+"url": "https://www.cbg.cn/a/705/20260528/a6512f0c410748edab5f582e933d40f8.html",
+"normKey": "重庆『全民安全开放日』（安全生产月·重庆科技馆）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "秦皇岛『国门同心·口岸同安』口岸安全联合开放日",
+"url": "https://thepaper.cn/newsDetail_forward_32959877",
+"normKey": "秦皇岛『国门同心·口岸同安』口岸安全联合开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "深圳海关『国际海关日』海关开放日（企业代表+AEO实训）",
+"url": "https://www.toutiao.com/article/7600261842037522998/",
+"normKey": "深圳海关『国际海关日』海关开放日（企业代表+AEO实训）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "上海义务教育“校园开放日”（家校零距离·升学季）",
+"url": "https://www.shedunews.sh.cn/shanghai/con/2026-04/12/content_30552.html",
+"normKey": "上海义务教育“校园开放日”（家校零距离·升学季）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "田林四小2026校园开放日（竹文化办学特色）",
+"url": "https://www.xuhui.gov.cn/zfjg_qzfbm_jyj_xyfc/20260420/572230.html",
+"normKey": "田林四小2026校园开放日（竹文化办学特色）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "华理附中2026校园开放日（五育融合游园会）",
+"url": "https://ldfz.xhedu.sh.cn/cms/app/info/doc/index.php/7651/0/111",
+"normKey": "华理附中2026校园开放日（五育融合游园会）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "东莞科技馆免费开放日（AI科普剧+科学秀）",
+"url": "https://webzdg.sun0769.com/web/news/content/861609",
+"normKey": "东莞科技馆免费开放日（AI科普剧+科学秀）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "上海科技馆2026“科学之夜”（焕新回归·科普嘉年华）",
+"url": "https://sast.gov.cn/content.html?id=kjb244006",
+"normKey": "上海科技馆2026“科学之夜”（焕新回归·科普嘉年华）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "兰州市食药检院食品药品安全公众开放日（一手·免费送检）",
+"url": "https://scjgj.lanzhou.gov.cn/art/2026/6/3/art_22180_1708495.html",
+"normKey": "兰州市食药检院食品药品安全公众开放日（一手·免费送检）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "全南县市场监督管理局政府开放日（你送我检）",
+"url": "https://www.quannan.gov.cn/qnxrmzfwyyh/gztj/202603/fd9e1afacc534c2c97d304e02c19440d.shtml",
+"normKey": "全南县市场监督管理局政府开放日（你送我检）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "郓城县市场监督管理局政府开放日（沉浸式食安）",
+"url": "http://cnyc.gov.cn/2c90808483d171790183e4d0219b0002/2c90808483e8bf6dad000a/2034799582025748480.html",
+"normKey": "郓城县市场监督管理局政府开放日（沉浸式食安）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "信息社会日科普开放日（武汉·五大运营商）",
+"url": "https://new.qq.com/rain/a/20260515A0AN9T00",
+"normKey": "信息社会日科普开放日（武汉·五大运营商）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国联通三明市国企开放日（数字科普+反诈）",
+"url": "https://www.toutiao.com/article/7665177743206433295/",
+"normKey": "中国联通三明市国企开放日（数字科普+反诈）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国联通佛山517客户日（万兆AI惠商）",
+"url": "http://www.cctime.com/m/1735061.htm",
+"normKey": "中国联通佛山517客户日（万兆AI惠商）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "景德镇市卫健委政府开放日（就医体验+PET-CT探秘）",
+"url": "https://wsjs.jdz.gov.cn/zwzx/gggs/t1098743.shtml",
+"normKey": "景德镇市卫健委政府开放日（就医体验+PET-CT探秘）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "荣成市卫健局政府开放日（医路同行·中医体验）",
+"url": "http://www.rongcheng.gov.cn/art/2026/7/3/art_133936_6461305.html",
+"normKey": "荣成市卫健局政府开放日（医路同行·中医体验）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "青岛市北区政府开放月（国医薪火·中医药沉浸）",
+"url": "https://www.qingdao.gov.cn/ywdt/zwzl/zfkfy/qdzfkf/kfdt/202605/t20260522_10601165.shtml",
+"normKey": "青岛市北区政府开放月（国医薪火·中医药沉浸）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "国网咸宁供电六五环境日变电站开放日（电磁监测）",
+"url": "http://hb.news.cn/20260605/aeb0b1b818b246b4b69e3b9b9e5e488a/c.html",
+"normKey": "国网咸宁供电六五环境日变电站开放日（电磁监测）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "国网奎屯供电电网体验师开放日（职校师生探访）",
+"url": "https://www.toutiao.com/article/7638601348447027752",
+"normKey": "国网奎屯供电电网体验师开放日（职校师生探访）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "马自达博物馆 Saturday Open Day",
+"url": "https://www.mazda.com/en/experience/museum/event-info/saturdayopenday202506/",
+"normKey": "马自达博物馆 Saturday Open Day",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "郑州考古工地开放日+文博盛宴",
+"url": "https://zynews-html.oss-cn-qingdao.aliyuncs.com/zwspecial/2025/09/30/178324.html",
+"normKey": "郑州考古工地开放日+文博盛宴",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "上海国际博物馆日文博主题巴士",
+"url": "http://www.why.com.cn/wx/article/2025/05/18/17475623571245741406.html",
+"normKey": "上海国际博物馆日文博主题巴士",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "扬州文旅博物馆日百余场",
+"url": "https://m.chinanews.com/wap/detail/cht/zw/375793.shtml",
+"normKey": "扬州文旅博物馆日百余场",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "国网湖北四美塘变电站“电力方舟”",
+"url": "https://www.toutiao.com/article/7493533085259121203/",
+"normKey": "国网湖北四美塘变电站“电力方舟”",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "佛山供电局2025国企开放日",
+"url": "https://www.fsonline.com.cn/p/347583.html",
+"normKey": "佛山供电局2025国企开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "济南“打开大门干交通”地铁NOCC",
+"url": "https://www.163.com/dy/article/KEGP6M3C0530WJIN.html",
+"normKey": "济南“打开大门干交通”地铁NOCC",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中科院合肥物质院公众科学日(EAST)",
+"url": "https://new.qq.com/rain/a/20250518A02F1K00",
+"normKey": "中科院合肥物质院公众科学日(EAST)",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "南宁科技馆双节科普5.6万人次",
+"url": "https://gx.people.com.cn/BIG5/n2/2025/1009/c179462-41374621.html",
+"normKey": "南宁科技馆双节科普5.6万人次",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "上海普陀消防站开放日",
+"url": "https://www.shanghai.gov.cn/nw17239/20250227/8bd1ff2d4360411b997e44bed52b252f.html",
+"normKey": "上海普陀消防站开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "广元大一污水处理环保开放日",
+"url": "https://hbj.cngy.gov.cn/news/show/763fe2684aff49b78d7a11d9c87cae21.html",
+"normKey": "广元大一污水处理环保开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "重庆水务彭水污水厂环保开放日",
+"url": "https://www.163.com/dy/article/K15HI8RE053469M5.html",
+"normKey": "重庆水务彭水污水厂环保开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "紫金山天文台 2026 公众科学日",
+"url": "https://www.pmo.ac.cn/xwdt2019/kpdt2019/202605/t20260528_8210826.html",
+"normKey": "紫金山天文台 2026 公众科学日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "云南天文台「寻找超级地球」主题日",
+"url": "https://ynao.cas.cn/kxcb/kphd/202507/t20250724_7895644.html",
+"normKey": "云南天文台「寻找超级地球」主题日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中广核第十四届 8·7 公众开放体验日",
+"url": "https://www.cgnpc.com.cn/cgn/c100944/2026-08/11/content_5db4956311ad4d72a991ac3ee0c9f565.shtml",
+"normKey": "中广核第十四届 8·7 公众开放体验日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "大亚湾核电 8·7 公众开放体验日",
+"url": "http://www.dnmc.com.cn/dnmccn/c101678/2026-08/10/content_11f5c3facb354782b70577be708084b1.shtml",
+"normKey": "大亚湾核电 8·7 公众开放体验日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中科院海洋所第22届公众科学日",
+"url": "https://qdio.cas.cn/2019Ver/Science/kpdt/202605/t20260516_8202711.html",
+"normKey": "中科院海洋所第22届公众科学日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "北江水厂开放日",
+"url": "https://www.ss.gov.cn/gzjg/ssqswj/xwdt/zwdt/content/post_7121343.html",
+"normKey": "北江水厂开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "潮州水厂开放日",
+"url": "https://www.nfnews.com/content/ky9vaOgA3G.html",
+"normKey": "潮州水厂开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "鹰潭水厂政府开放日",
+"url": "https://stzg.china.com.cn/2025-08/22/content_43210763.htm",
+"normKey": "鹰潭水厂政府开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "潍坊人防工程政府开放日",
+"url": "https://www.weifang.gov.cn/162/55364/1992791239665258496.html",
+"normKey": "潍坊人防工程政府开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "滁州人防工作开放日",
+"url": "https://gdb.chuzhou.gov.cn/public/2681539/1112717142.html",
+"normKey": "滁州人防工作开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "松江国动政府开放月",
+"url": "https://gfdy.sh.gov.cn/zhxx/gqcz/20240826/459bd14fdba540f8b9c0b4d81a975e53.html",
+"normKey": "松江国动政府开放月",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中科院植物所公众科学日",
+"url": "https://ib.cas.cn/2019gb/News2019/202605/t20260518_8204440.html",
+"normKey": "中科院植物所公众科学日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "静安非遗会客厅/老字号品牌馆",
+"url": "https://www.toutiao.com/article/7666348668185821748",
+"normKey": "静安非遗会客厅/老字号品牌馆",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "丰台非遗展示体验中心",
+"url": "https://www.toutiao.com/article/7650840805954929162",
+"normKey": "丰台非遗展示体验中心",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "垃圾焚烧发电「从闲人免进到城市客厅」开放日",
+"url": "https://big5.mee.gov.cn/gate/big5/www.mee.gov.cn/xxgk2018/xxgk/xxgk15/201908/t20190814_728909.html",
+"normKey": "垃圾焚烧发电「从闲人免进到城市客厅」开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "再生水厂「地下治污·地上造绿」公众开放日",
+"url": "https://www.neijiang.gov.cn/njs/c134045/202606/6d0022b2405c43c48f35ebdfc37b293c.shtml",
+"normKey": "再生水厂「地下治污·地上造绿」公众开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "燃气安全「政府开放日」（住建局+燃气企业）",
+"url": "http://www.ruijin.gov.cn/rjsxxgk/rjin80925/202510/b12588572f4f42839db4305da40b3901.shtml",
+"normKey": "燃气安全「政府开放日」（住建局+燃气企业）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "血站/血液中心「探秘一袋热血」科普开放日",
+"url": "https://csbt.org.cn/plus/view.php?aid=135865",
+"normKey": "血站/血液中心「探秘一袋热血」科普开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "海事局「中国航海日」公众开放日（VTS交管+海巡船艇）",
+"url": "https://www.ln.msa.gov.cn/c/2026-07-13/670060.shtml",
+"normKey": "海事局「中国航海日」公众开放日（VTS交管+海巡船艇）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "城市规划展览馆「政府开放日」（城市会客厅·规划连心桥）",
+"url": "http://www.rushan.gov.cn/art/2025/8/1/art_77646_5716006.html",
+"normKey": "城市规划展览馆「政府开放日」（城市会客厅·规划连心桥）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "「万名市民看排水」品牌系列开放日（地上公园地下工厂）",
+"url": "https://new.qq.com/rain/a/20260702A06Y4000?refer=cp_1009",
+"normKey": "「万名市民看排水」品牌系列开放日（地上公园地下工厂）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "文昌航天观礼中心 开放日（航天文旅科普·观礼+小课堂）",
+"url": "https://wenchang.hainan.gov.cn/wenchang/jrwc/202509/9cb84e501e294dc8b7a0ca09bd1b72b4.shtml",
+"normKey": "文昌航天观礼中心 开放日（航天文旅科普·观礼+小课堂）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中国移动 5G 通信公众体验开放日（返乡学子/市民·数字科普）",
+"url": "https://www.sohu.com/a/985344920_122616369",
+"normKey": "中国移动 5G 通信公众体验开放日（返乡学子/市民·数字科普）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "华电新能源 光伏/风电电站公众开放日（清洁能源科普·校企共建）",
+"url": "https://big5.china.com.cn/gate/big5/slzg.china.com.cn/2026-05/21/content_43432090.htm",
+"normKey": "华电新能源 光伏/风电电站公众开放日（清洁能源科普·校企共建）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "三峡工程 国企开放日（大国重器·水利枢纽公众开放）",
+"url": "https://cpc.people.com.cn/BIG5/n1/2021/0427/c64387-32089054.html",
+"normKey": "三峡工程 国企开放日（大国重器·水利枢纽公众开放）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "强制隔离戒毒所 禁毒警示教育开放日（青少年法治教育·现身说法+亲情帮教）",
+"url": "https://www.moj.gov.cn/pub/sfbgw/jgsz/jgszjgtj/jgtjjdglj/jdgljtjxw/202606/t20260626_536869.html",
+"normKey": "强制隔离戒毒所 禁毒警示教育开放日（青少年法治教育·现身说法+亲情帮教）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "高淳区档案馆（党史办·地方志办）2026 国际档案日「档案馆开放日」",
+"url": "https://www.njgc.gov.cn/jrgc/gsgg/202606/t20260603_5851143.html",
+"normKey": "高淳区档案馆（党史办·地方志办）2026 国际档案日「档案馆开放日」",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "成都市美术馆 2026 国际博物馆日系列活动（跨界走秀+文学对谈+科技讲座+夜游延时）",
+"url": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-05/15/content_518b5498e3394397913158b5f2ddfa1b.shtml",
+"normKey": "成都市美术馆 2026 国际博物馆日系列活动（跨界走秀+文学对谈+科技讲座+夜游延时）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "新余市卫健委 2026「政府开放日」（探秘疾控·急救·采供血全流程）",
+"url": "https://wjw.xinyu.gov.cn/wjw/gggs/2026-06/08/content_2f3f45cd6c734ec1a718b025bd90fed7.shtml",
+"normKey": "新余市卫健委 2026「政府开放日」（探秘疾控·急救·采供血全流程）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "鹰潭市行政审批局 2026「政务开放日」（鹰办尽办·政务服务体验日）",
+"url": "http://www.yingtan.gov.cn/art/2026/8/18/art_12979_1607810.html",
+"normKey": "鹰潭市行政审批局 2026「政务开放日」（鹰办尽办·政务服务体验日）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中央广播电视总台 TVCC 向公众开放 + 2026CMG 暑期视听嘉年华开放日",
+"url": "https://1118.cctv.com/2026/06/09/ARTIJHGwmLzm4ob21sQw5jMU260609.shtml",
+"normKey": "中央广播电视总台 TVCC 向公众开放 + 2026CMG 暑期视听嘉年华开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "北京市国资委 2026「首都国企开放日」（45 家国企 142 条线路·常态化开放）",
+"url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/renwen/sy/whkb/202606/t20260602_4682358.html",
+"normKey": "北京市国资委 2026「首都国企开放日」（45 家国企 142 条线路·常态化开放）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "山东重工中国重汽 2026 合作伙伴大会「公众开放日」·可触摸的品牌温暖之旅",
+"url": "https://app.people.cn/h5/detail/normal/6628265830679552",
+"normKey": "山东重工中国重汽 2026 合作伙伴大会「公众开放日」·可触摸的品牌温暖之旅",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "半月谈｜不再「谢绝参观」，「工厂游」拉满体验感（盼盼/小米/青岛啤酒/顺美）",
+"url": "https://www.toutiao.com/article/7650035668780843529",
+"normKey": "半月谈｜不再「谢绝参观」，「工厂游」拉满体验感（盼盼/小米/青岛啤酒/顺美）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "小鹏「AI 科技智造之旅」正式对外开放（工业旅游+CEO 亲临交付）",
+"url": "https://www.jwview.com/jingwei/01-14/654164.shtml",
+"normKey": "小鹏「AI 科技智造之旅」正式对外开放（工业旅游+CEO 亲临交付）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "上海宝山区水务局 2026「政府开放月」（滨江水务新图景·政民面对面）",
+"url": "https://xxgk.shbsq.gov.cn/article.html?infoid=cb478f07-3372-4933-9c3d-276e4379bc6d",
+"normKey": "上海宝山区水务局 2026「政府开放月」（滨江水务新图景·政民面对面）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "可持续市场倡议（SMI）2026 中国论坛·全球 CEO 北京闭门可持续转型",
+"url": "https://www.sustainable-markets.org/news/the-sustainable-markets-initiative-convenes-global-ceos-in-beijing-for-flagship-forum-on-sustainable-transition",
+"normKey": "可持续市场倡议（SMI）2026 中国论坛·全球 CEO 北京闭门可持续转型",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "最高检‘检爱四十载·携手向未来’全国四级检察机关检察开放日（未成年人检察40周年）",
+"url": "https://www.spp.gov.cn/zdgz/202606/t20260628_730673.shtml",
+"normKey": "最高检‘检爱四十载·携手向未来’全国四级检察机关检察开放日（未成年人检察40周年）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "南京公安2026常态化警营开放六月活动（18展区+行业专场·暑期为青少年筑牢安全线）",
+"url": "https://gaj.nanjing.gov.cn/jwdt/202607/t20260708_5873086.html",
+"normKey": "南京公安2026常态化警营开放六月活动（18展区+行业专场·暑期为青少年筑牢安全线）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "兴业银行2026‘普及金融知识万里行’·网点‘权益守护开放日’（五进入+适老反诈）",
+"url": "https://www.xyyh.com.cn/cn/aboutCIB/about/news/2026/20260617_4.html",
+"normKey": "兴业银行2026‘普及金融知识万里行’·网点‘权益守护开放日’（五进入+适老反诈）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "北京市重点站区管委会‘交通枢纽变身博物馆新展厅’（暑运免费展·不用预约）",
+"url": "https://www.bjd.com.cn/news/2026/08/04/11900909.shtml",
+"normKey": "北京市重点站区管委会‘交通枢纽变身博物馆新展厅’（暑运免费展·不用预约）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "江西修水何市镇‘走进最美何市·共话乡村振兴新图景’政府开放日（现代农业云中心+甲鱼基地）",
+"url": "https://www.xiushui.gov.cn/xxgk/xzxxgk/hsz/fgzc/zcwj/202606/t20260612_7252375.html",
+"normKey": "江西修水何市镇‘走进最美何市·共话乡村振兴新图景’政府开放日（现代农业云中心+甲鱼基地）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "内蒙古奈曼旗大沁他拉镇2026‘政府开放日’（智慧农业产业园+综治中心·闭环治理）",
+"url": "http://naimanqi.gov.cn/ztzl/zfkfr1/ssqk4/202607/t20260706_1058630.html",
+"normKey": "内蒙古奈曼旗大沁他拉镇2026‘政府开放日’（智慧农业产业园+综治中心·闭环治理）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "江西分宜县农粮局2026‘政府开放日’（农业产业助力乡村振兴·西瓜大棚+采茶制茶）",
+"url": "https://www.fenyi.gov.cn/fenyi/hdyg/2026-06/04/content_2c5a201c86334b3d829cfe07e155c7ea.shtml",
+"normKey": "江西分宜县农粮局2026‘政府开放日’（农业产业助力乡村振兴·西瓜大棚+采茶制茶）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "内蒙古通辽经开区税务局2026‘政府开放日’（大数据精准赋能·税企同心优服务）",
+"url": "https://so.tongliao.gov.cn/ztzl/zfkfr/hdgg/202606/t20260625_1056158.html",
+"normKey": "内蒙古通辽经开区税务局2026‘政府开放日’（大数据精准赋能·税企同心优服务）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "市长企业家‘早餐会’（湖北黄石·聚焦重大增长点·诉求101快速解决机制）",
+"url": "https://3g.cjn.cn/Detail/?id=5204842",
+"normKey": "市长企业家‘早餐会’（湖北黄石·聚焦重大增长点·诉求101快速解决机制）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "进博会虹桥论坛‘探索增长之路：美资企业在华发展新引擎’闭门会（USCBC+商务部）",
+"url": "https://www.ciie.org/zbh/cn/19news/dynamics/voice/20251027/53356.html",
+"normKey": "进博会虹桥论坛‘探索增长之路：美资企业在华发展新引擎’闭门会（USCBC+商务部）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "上海进博沙龙‘CIIE Roundtable: New Horizons’（外办+中国日报·国际商领与外交官对话）",
+"url": "https://www.chinadaily.com.cn/a/202511/11/WS6912afc5a310fc20369a46c4.html",
+"normKey": "上海进博沙龙‘CIIE Roundtable: New Horizons’（外办+中国日报·国际商领与外交官对话）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "乌苏啤酒 40 周年品牌开放日（董事长率队·酒厂全景透明）",
+"url": "https://dy.163.com/article/L4FIAGU30514R9KE.html",
+"normKey": "乌苏啤酒 40 周年品牌开放日（董事长率队·酒厂全景透明）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "江南造船研究院首届「实验室开放日」（5G 智造·11 批次近 500 人）",
+"url": "https://www.sohu.com/a/1032266186_120407443",
+"normKey": "江南造船研究院首届「实验室开放日」（5G 智造·11 批次近 500 人）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中国联通黑龙江省分公司 2026 国企开放日（科创体验中心+巡检机器狗）",
+"url": "https://fdz.fendoui.org.cn/detailArticle/28391019_71601_fdzzs.html",
+"normKey": "中国联通黑龙江省分公司 2026 国企开放日（科创体验中心+巡检机器狗）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "威海市博物馆 2026 政府开放日（流动博物馆进社区+智能机器人+夜间延时）",
+"url": "https://www.weihai.gov.cn/art/2026/8/7/art_75803_5034.html",
+"normKey": "威海市博物馆 2026 政府开放日（流动博物馆进社区+智能机器人+夜间延时）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "于都县科工信局「走进阳光科工信 共话发展新蓝图」政企开放日（政策闭环）",
+"url": "https://www.yudu.gov.cn/yudu/gzqk/202607/7d52362b847e4ad8bac124e463b6a281.shtml",
+"normKey": "于都县科工信局「走进阳光科工信 共话发展新蓝图」政企开放日（政策闭环）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "济南市民营经济发展局「活力民营」开放日（全年四场·拆三堵墙）",
+"url": "https://hb.dzwww.com/p/p2MGjJET4G5.html",
+"normKey": "济南市民营经济发展局「活力民营」开放日（全年四场·拆三堵墙）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "2026「上海国企开放日」集中开放活动（城市级 80+ 场·四大主题周）",
+"url": "https://www.gzw.sh.gov.cn/shgzw_zxzx_gqdt/20260706/1ff64acadaa3479ba4711ef5498146ed.html",
+"normKey": "2026「上海国企开放日」集中开放活动（城市级 80+ 场·四大主题周）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中科院脑智卓越中心 2026「脑智擘未来」公众科学日（脑机接口·VR·科普市集）",
+"url": "https://cebsit.cas.cn/cxwh/kphd/202605/t20260518_8203753.html",
+"normKey": "中科院脑智卓越中心 2026「脑智擘未来」公众科学日（脑机接口·VR·科普市集）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中科院核能安全所 2026 公众科学日（液态金属回路·辐射真相·核科普）",
+"url": "https://www.inest.cas.cn/new/xwdt/jqyw/202605/t20260519_838285.html",
+"normKey": "中科院核能安全所 2026 公众科学日（液态金属回路·辐射真相·核科普）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中科院固体所 2026 公众科学日（材料之美·气凝胶·微结构摄影）",
+"url": "https://issp.cas.cn/gts/xwzx/zhxw/202605/t20260518_838189.html",
+"normKey": "中科院固体所 2026 公众科学日（材料之美·气凝胶·微结构摄影）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "成都智算中心「探秘智算·启迪未来」开放日（青少年 AI 算力科普·分年级场次）",
+"url": "https://www.toutiao.com/article/7621004724006896174",
+"normKey": "成都智算中心「探秘智算·启迪未来」开放日（青少年 AI 算力科普·分年级场次）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "2026 数博会设置公众开放日（专业观众日+公众开放日分层·AI 互动）",
+"url": "https://www.guiyang.gov.cn/jdhy/xinwenfabuhui_new/2026/2026zggjdsjcyblhzyzlxwfbhmttqy/mtbd/202607/t20260710_90606759.html",
+"normKey": "2026 数博会设置公众开放日（专业观众日+公众开放日分层·AI 互动）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "2026「众智」大模型开放智算生态协同高级别开放日（信通院·软硬件协同中心首开放）",
+"url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6636a4ba09972052",
+"normKey": "2026「众智」大模型开放智算生态协同高级别开放日（信通院·软硬件协同中心首开放）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "2026 首场「知音湖北 超级文旅日」暨第五届湖北非遗嘉年华（省级文旅 IP·消费券·国际会客厅）",
+"url": "https://www.mct.gov.cn/gtb/index.jsp?url=https%3A%2F%2Fwww.mct.gov.cn%2Fwhzx%2Fqgwhxxlb%2Fhb_7730%2F202601%2Ft20260119_964176.htm",
+"normKey": "2026 首场「知音湖北 超级文旅日」暨第五届湖北非遗嘉年华（省级文旅 IP·消费券·国际会客厅）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中宁工业园区 2026「政府开放日」（园区管委会·7 工作日闭环处置）",
+"url": "https://www.znzf.gov.cn/xxgk/zfxxgkml/zfkfr/hdfa/202608/t20260813_5312756.html",
+"normKey": "中宁工业园区 2026「政府开放日」（园区管委会·7 工作日闭环处置）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "章贡区 2026 政府开放日+营商环境「吐槽大会」（园区企业专场·区领导现场办公）",
+"url": "https://www.zgq.gov.cn/zgqzf/c105773/202606/90bbf85b22bb405a8fedf401cd763731.shtml",
+"normKey": "章贡区 2026 政府开放日+营商环境「吐槽大会」（园区企业专场·区领导现场办公）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "驻德国使馆“粽香迎端午”领事大厅开放日",
+"url": "https://de.china-embassy.gov.cn/sgyw/202506/t20250602_11638828.htm",
+"normKey": "驻德国使馆“粽香迎端午”领事大厅开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "驻哈萨克斯坦大使馆“走进中国”开放日",
+"url": "https://www.mfa.gov.cn/wjdt_674879/zwbd_674895/202509/t20250915_11708376.shtml",
+"normKey": "驻哈萨克斯坦大使馆“走进中国”开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "解放军驻澳门部队第十九次军营开放活动",
+"url": "https://cpc.people.com.cn/BIG5/n1/2025/0503/c64387-40472719.html",
+"normKey": "解放军驻澳门部队第十九次军营开放活动",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "2025空军航空开放活动军营开放日",
+"url": "https://jl.chinadaily.com.cn/a/202509/24/WS68d380b3a310f0725774a4ca.html",
+"normKey": "2025空军航空开放活动军营开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "隆德县六盘山工业园区管委会2025年“政府开放日”",
+"url": "http://www.nxld.gov.cn/xxgk/zfxxgkml/zfkfrhd/zfkfrgg/202509/t20250918_5026292.html",
+"normKey": "隆德县六盘山工业园区管委会2025年“政府开放日”",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "河南联通2025客户开放日",
+"url": "https://app-api.henandaily.cn/mobile/view/news/443329073142300672531662",
+"normKey": "河南联通2025客户开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "国家电网2025“中国—巴西—智利云开放日”",
+"url": "http://www.sgcc.com.cn/html/sgcc_main/gb/xwzx/ymbd/20251113/749028202511131845000001.shtml",
+"normKey": "国家电网2025“中国—巴西—智利云开放日”",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中国石化2025公众开放日",
+"url": "https://inengyuan.com/qiye/14477.html",
+"normKey": "中国石化2025公众开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "余江区残联“辅具适配零距离”政府开放月",
+"url": "https://www.yujiang.gov.cn/art/2025/8/14/art_8904_1573103.html",
+"normKey": "余江区残联“辅具适配零距离”政府开放月",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "崖西镇“政务公开暖民心·乡村振兴共参与”政府开放日",
+"url": "http://www.rongcheng.gov.cn/art/2025/8/15/art_87144_5724165.html",
+"normKey": "崖西镇“政务公开暖民心·乡村振兴共参与”政府开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "包头市“政商恳谈早餐会”",
+"url": "https://www.nmg.gov.cn/zwyw/ymjnmg/202506/t20250605_2734235.html",
+"normKey": "包头市“政商恳谈早餐会”",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "梅河口市“政企早餐会”（三定三精·三级闭环）",
+"url": "https://jl.people.com.cn/BIG5/n2/2025/1028/c349771-41393996.html",
+"normKey": "梅河口市“政企早餐会”（三定三精·三级闭环）",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "中国新加坡商会·上海 × 大华银行“CEO闭门圆桌”",
+"url": "https://singcham-shanghai.org/news/navigating-tomorrows-leadership-gonghuaweilailingdaoli",
+"normKey": "中国新加坡商会·上海 × 大华银行“CEO闭门圆桌”",
+"relation": "exec",
+"src": "primary"
+},
+{
+"title": "首都国企开放142条线路邀市民打卡",
+"url": "https://bj.people.com.cn/BIG5/n2/2026/0527/c14540-41592437.html",
+"normKey": "首都国企开放142条线路邀市民打卡",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "长沙县9家大厂开放参观（工业旅游品牌开放日）",
+"url": "https://cs.bendibao.com/xiuxian/2026512/134814.shtm",
+"normKey": "长沙县9家大厂开放参观（工业旅游品牌开放日）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "千禾智能工厂暑期研学开放（全透明可视化参观通道）",
+"url": "https://www.app.dawuhanapp.com/p/46929161.html",
+"normKey": "千禾智能工厂暑期研学开放（全透明可视化参观通道）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "工业旅游跑出加速度（2026 行业综述：18% 年均增速·3000 亿）",
+"url": "http://gp.zhonghongwang.com/show-8-78676-1.html",
+"normKey": "工业旅游跑出加速度（2026 行业综述：18% 年均增速·3000 亿）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "中科院公众科学日 138 家机构全国联动",
+"url": "https://www.jwview.cn/gn/2026/05-16/10622203.shtml",
+"normKey": "中科院公众科学日 138 家机构全国联动",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "北理工爆炸科学与安全防护全国重点实验室公众开放日",
+"url": "https://www.bast.net.cn/sy/hdyg/202606/t20260603_182825.html",
+"normKey": "北理工爆炸科学与安全防护全国重点实验室公众开放日",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "华南理工发光材料与器件全国重点实验室公众开放日",
+"url": "https://www2.scut.edu.cn/skllmd/2026/0708/c24815a631732/page.htm",
+"normKey": "华南理工发光材料与器件全国重点实验室公众开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "华南理工先进造纸与纸基材料全国重点实验室公众开放日",
+"url": "https://www2.scut.edu.cn/sklppe/2026/0526/c13922a627956/page.htm",
+"normKey": "华南理工先进造纸与纸基材料全国重点实验室公众开放日",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中国石化 2026 公众开放日（“探秘智慧能源”·百城百企）",
+"url": "https://big5.china.com.cn/gate/big5/union.china.com.cn/jdnews/txt/2026-04/22/content_43409995.shtml",
+"normKey": "中国石化 2026 公众开放日（“探秘智慧能源”·百城百企）",
+"relation": "supervisor",
+"src": "secondary"
+},
+{
+"title": "同心县 2026“政府开放日”活动通知（四步流程+15 工作日反馈闭环）",
+"url": "https://www.tongxin.gov.cn/zwgk/zfxxgkml/zfkfr/hdfa/202608/t20260812_5311526.html",
+"normKey": "同心县 2026“政府开放日”活动通知（四步流程+15 工作日反馈闭环）",
+"relation": "supervisor",
+"src": "primary"
+},
+{
+"title": "中国联通天津市分公司 2026 国企开放日（智算生态研讨·政企领导+客户+生态）",
+"url": "https://tj.people.com.cn/BIG5/n2/2026/0803/c408648-41657718.html",
+"normKey": "中国联通天津市分公司 2026 国企开放日（智算生态研讨·政企领导+客户+生态）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "中国联通江苏省分公司国企开放日（产业链党建串联上下游·政企共建）",
+"url": "https://new.qq.com/rain/a/20260826A08PNC00?refer=cp_1009",
+"normKey": "中国联通江苏省分公司国企开放日（产业链党建串联上下游·政企共建）",
+"relation": "exec",
+"src": "secondary"
+},
+{
+"title": "中国联通国企开放日合作伙伴专场（沽源·长效助农签约）",
+"url": "https://new.qq.com/rain/a/20260824A0BBAJ00?refer=cp_1009",
+"normKey": "中国联通国企开放日合作伙伴专场（沽源·长效助农签约）",
+"relation": "exec",
+"src": "secondary"
+}
+]

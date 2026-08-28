@@ -802,6 +802,18 @@
         "entry_id": null,
         "name": "openday-20260826-r28.html",
         "note": "轮次页 R28 (+13，二十八轮补采：10②+3③，12一手+1二手，待上传)"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "openday-2026-08-27-r29.html",
+        "note": "轮次页 R29 (+13) · 上传待补（lexiang token 缺失，待重配后补传）"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "openday-2026-08-28-r30.html",
+        "note": "轮次页 R30 (+10) · 上传待补（lexiang token 缺失，待重配后补传）"
       }
     ]
   },
