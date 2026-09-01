@@ -832,6 +832,12 @@
         "entry_id": null,
         "name": "openday-2026-08-28-r30.html",
         "note": "轮次页 R30 (+10) · 上传待补（lexiang token 缺失，待重配后补传）"
+      },
+      {
+        "date": "20260901",
+        "entry_id": null,
+        "name": "openday-20260901.html",
+        "note": "轮次页 R31 (+14)｜乐享待补传(token 401 过期，待重连后补传并回填 entry_id)"
       }
     ]
   },
