@@ -13731,5 +13731,68 @@
     "relation": "exec",
     "summary": "政企下午茶：浦东新区政协2026年第二期「企业话发展」下午茶5月29日在张江举办，主题「万亿赛道新引擎：生物医药的全链条创新策源」，",
     "topic": "afternoontea"
+  },
+  {
+    "title": "Teams 全员会 Q&A 官方配置全解（审核/匿名/上投票/报告）",
+    "normKey": "Teams全员会QA官方配置全解审核匿名上投票报告",
+    "url": "https://support.microsoft.com/en-us/teams/meetings/q-a-in-microsoft-teams",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "微软官方文档：大型结构化会议（town hall / webinar）用 Q&A 而非聊天来管提问。开启入口三处——Outlook 新日历事件 → Meeting Options → Enable Q&A；Teams 日历 → View e",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "目的性匿名（Purposeful Anonymity）· 匿名不是开关是契约",
+    "normKey": "目的性匿名PurposefulAnonymity匿名不是开关是契约",
+    "url": "https://blog.pigeonholelive.com/purposeful-anonymity-in-town-hall-qna",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Pigeonhole Live 官方立场文档，把匿名分成两种：传统匿名（身份可能被追踪、自由被滥用；产出常不可行动甚至伤人；本质是\"盾\"，问责几乎归零）vs 目的性匿名（规则明确、设计上身份完全不可追溯、配保障机制防滥用；能浮出本来会被藏起",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "全员会想「取消匿名压负面」？四类替代做法（从业者答疑）",
+    "normKey": "全员会想取消匿名压负面四类替代做法从业者答疑",
+    "url": "https://www.strictlyinternal.com/p/ama-managing-negative-comments-in-town-halls",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "真实提问：领导层倾向把全员会 Q&A 改成完全实名，以此打消负面或不建设性评论——内部沟通从业者的回答是这会同时牺牲心理安全与真实反馈，并给出四类替代：①正面立规而非事后压制——开场由领导引用公司价值观定调（\"我们要建设性对话，请保持专业、",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "全员会实时字幕（CART）安排规范 · 24h 术语表是硬要求",
+    "normKey": "全员会实时字幕CART安排规范24h术语表是硬要求",
+    "url": "https://mn.gov/deaf-hard-of-hearing/communication-access/cart/index.jsp",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "明尼苏达州聋与听障服务司官方指南（可直接照搬到企业全员大会/培训/大型会议）。CART=受训认证的速录员用速录法把口语实时转成文字，显示在笔电/平板上，也可投到大屏供大群阅读，字号与配色可按个人需求调，速录员可现场或远程。关键区分：实时字幕",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "管理者级联包（Cascade Packet）· 全员会开完才算开了一半",
+    "normKey": "管理者级联包CascadePacket全员会开完才算开了一半",
+    "url": "https://www.antoinebuteau.com/all-hands-meetings-that-actually-run-the-company-series-8-the-manager-cascade-is-half-the-meeting/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "全员会不在通话结束时结束，而在管理者能把消息翻译成本地决策且不失真时才结束。典型失败：领导层以为\"全公司听到了同一条消息 = 全公司理解了同一条消息\"，然后管理者带着残缺上下文走进团队会，面对全员会没回答的问题。正确动作是在全员会**之前*",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "宣布艰难决定：第5拍要留下 + 72小时三动作 + 14天可见跟进",
+    "normKey": "宣布艰难决定第5拍要留下72小时三动作14天可见跟进",
+    "url": "https://www.poweredby.com.au/blog/communicating-tough-decisions-without-losing-trust",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "五拍结构的最后一拍最常被做坏：开放提问后要**留下来**——问到没有问题为止，而不是日历上写的 15 分钟；提前离场坐实了\"你们不想回答\"的猜疑。更关键的是配比：全员会只占这件事的 20%，80% 发生在之后 72 小时里，三个动作决定结局",
+    "topic": "staff-meeting"
+  },
+  {
+    "title": "战略不是领导宣布的，是管理者重复的：四步 + 仪表盘 5 问",
+    "normKey": "战略不是领导宣布的是管理者重复的四步仪表盘5问",
+    "url": "https://greatplacetowork.me/your-strategy-is-not-what-leaders-announce-it-is-what-managers-repeat/",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "Great Place To Work 官方机构文章。断层出现的瞬间：领导层宣布 → 管理者和团队同时第一次听到 → 当天下午管理者被要求解释。四步把断层补上：①**公告前**就 brief 管理者，给四样东西：为什么这么决定、对他们团队什",
+    "topic": "staff-meeting"
   }
 ]
