@@ -210,7 +210,10 @@ def main():
     if not cards:
         ap.error('未解析到任何卡片')
 
-    out = args.out or os.path.join('knowledge-collection', args.topic, 'runs',
+    # 默认 out 锚定到脚本自身所在目录（knowledge-collection/），避免从 workspace 根目录调用时
+    # 拼出 knowledge-collection/knowledge-collection/... 的嵌套错误路径（cwd 无关，始终正确）。
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    out = args.out or os.path.join(SCRIPT_DIR, args.topic, 'runs',
                                    f'{args.topic}-{args.date}-r{args.round}.html')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     html = build_page(args.topic, args.topic_name, args.date, args.round, cards, None)
