@@ -13464,5 +13464,65 @@
     "relation": "supervisor",
     "summary": "新团队首会6要素:自我介绍+破冰fun fact/团队视角/领导哲学/期望规则/Q&A/下一步+提前发议程限60-90min",
     "topic": "icebreaker"
+  },
+  {
+    "title": "公平提名流程·10 步可落地框架（资格标准/多通道/独立评审团/匿名/评分量规/利益冲突/迭代反馈）",
+    "normKey": "公平提名流程·10 步可落地框架（资格标准/多通道/独立评审团/匿名/评分量规/利益冲突/迭代反馈）",
+    "url": "https://nominee.app/how-to-run-a-fair-nomination-process",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "Nominee.app 实操框架——把公平性设计进提名每一步：①定义清晰资格与可观测标准（用『协作过≥2 个跨职能项目』替代『团队 player』）；②多提名通道（网页表单+邮件+Slack/Teams 集成）降摩擦、跨通道收同一结构化数据",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
+  },
+  {
+    "title": "奖项项目治理·全周期审计追踪（治理owner/版本控制/决策链/合规导出）",
+    "normKey": "奖项项目治理·全周期审计追踪（治理owner/版本控制/决策链/合规导出）",
+    "url": "https://rqawards.com/program-governance-101-building-audit-trails-and-transparency-into-every-stage",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "RQ Awards 治理框架——奖项缺治理信任崩得快：72% 员工认为认可公平度影响对领导的信任 3 倍于其他因素；决策清晰可解释时再参与率 3 倍。全周期透明：①设计期——标准/量规/权重在开放前文档化并留版本历史（含时间戳+审批人）；②",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
+  },
+  {
+    "title": "评审隐性偏见防控·政府官方指南（委员会多样性/先列名单/避免标准漂移/利益冲突）",
+    "normKey": "评审隐性偏见防控·政府官方指南（委员会多样性/先列名单/避免标准漂移/利益冲突）",
+    "url": "https://www.industry.gov.au/funding-and-incentives/science-and-research/science-and-research/prime-ministers-prizes-for-science/prime-ministers-prizes-for-science-guidelines-for-managing-diversity",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "澳大利亚总理科学奖《多样性管理指南》（一手·政府公开文件）为评选委员会提供降隐性偏见的标准做法：背景——研究证实女性获奖率与提名数/学科占比不匹配，隐性偏见是主因，委员会要求每年评审前审读该简报。①委员会构成——更 diverse 的群体决",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
+  },
+  {
+    "title": "颁奖影像/AVP 制作策略·类型拆解 + 拍摄规划 + 二次利用（高管远程同框/蒙太奇/获奖者特写）",
+    "normKey": "颁奖影像/AVP 制作策略·类型拆解 + 拍摄规划 + 二次利用（高管远程同框/蒙太奇/获奖者特写）",
+    "url": "https://www.vividsnaps.com/awards-video-production-singapore",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "颁奖视频制作类型（Vivid Snaps / Firebrand Media 实操）：①员工感谢/表彰视频——混剪获奖者工作场景+其他机构素材，可做成 45 分钟预录直播流；②年度蒙太奇——黑金主题用获奖者肖像照做庆典视频（省拍摄、用既有职",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
+  },
+  {
+    "title": "董事会/高管治理类奖项设计·NACD Directorship 100（类别/独立评选委员会/推荐信/评分准则）",
+    "normKey": "董事会/高管治理类奖项设计·NACD Directorship 100（类别/独立评选委员会/推荐信/评分准则）",
+    "url": "https://www.nacdonline.org/about/nacd-directorship-100/awards-descriptions/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "全美董事协会（NACD）Directorship 100 是表彰董事、CEO 与治理专业人士的权威奖项（二手·权威机构）：①奖项类别——终身成就奖（B.Kenneth West）、上市公司/私企/非营利董事 of the Year、治理专业",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
+  },
+  {
+    "title": "社会组织评比表彰合规办法·政府规章（自主申报/公示/征求意见/备案/禁收费禁党政机关）",
+    "normKey": "社会组织评比表彰合规办法·政府规章（自主申报/公示/征求意见/备案/禁收费禁党政机关）",
+    "url": "https://www.sg.gov.cn/bmpdlm/mzj/ywgz/content/post_2867250.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "韶关市政府门户《社会组织评比表彰活动管理办法》（一手·政府规章）对『社会组织办评比表彰』设硬约束，对 externally-facing 表彰合规有借鉴：①参评方式——自主申报或推荐，推荐须适当范围公示无异议后上报评审；②征求意见——审慎核",
+    "topic": "award",
+    "dateCollected": "2026-09-01"
   }
 ]
