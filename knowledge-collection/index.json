@@ -13794,5 +13794,77 @@
     "relation": "exec",
     "summary": "Great Place To Work 官方机构文章。断层出现的瞬间：领导层宣布 → 管理者和团队同时第一次听到 → 当天下午管理者被要求解释。四步把断层补上：①**公告前**就 brief 管理者，给四样东西：为什么这么决定、对他们团队什",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "高管团队冲突对话结构化（CEO不当Secret Therapist/把框/澄清事实/分派责任/5步法）",
+    "normKey": "高管团队冲突对话结构化（CEO不当SecretTherapist/把框/澄清事实/分派责任/5步法）",
+    "url": "https://www.karstennoack.com/?p=55553/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "CEO不当秘密治疗师;Hold the Frame定框;情境化(非人身);分派责任;三人对话5步法(定框→A陈述→B同权→澄清→约定+6周复盘);冲突=领导力工作",
+    "topic": "offsite"
+  },
+  {
+    "title": "高管间冲突分级干预（CEO/董事会/HR/外部调解人角色·外部调解ROI $1800 vs 离职$25万）",
+    "normKey": "高管间冲突分级干预（CEO/董事会/HR/外部调解人角色·外部调解ROI$1800vs离职$25万）",
+    "url": "https://georgedupontleadership.com/how-to-handle-conflict-between-senior-leadership-team-members",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "按严重度选干预方;联合前一对一诊断;自涉冲突非指责开场;升级判据(CEO/董事会/HR/外部);外部调解$1800 vs 离职$25万;5:1正负比稳关系",
+    "topic": "offsite"
+  },
+  {
+    "title": "从 Offsite 到 operating model（决策权 RACI/RAPID·一层决策日历栈·单向门/双向门）",
+    "normKey": "从Offsite到operatingmodel（决策权RACI/RAPID·一层决策日历栈·单向门/双向门）",
+    "url": "https://umbrex.com/resources/what-strategy-is/from-offsite-to-operating-model",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "offsite落operating model;RACI执行/RAPID决策(单D窄A);设计规则;决策分类单向门/双向门;领导日历栈年度→双周",
+    "topic": "offsite"
+  },
+  {
+    "title": "领导力 Offsite 前摄心理安全（4阶段·pre-survey 显隐忧·会中建安全动作）",
+    "normKey": "领导力Offsite前摄心理安全（4阶段·pre-survey显隐忧·会中建安全动作）",
+    "url": "https://www.troophr.com/blog/three-things-you-can-do-ahead-of-time-to-make-the-most-of-your-leadership-team-offsite",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "offsite建心理安全;前置3事co-creation/pre-survey 4阶段(归属→学习者→贡献→挑战);会中建安全动作;框架下钻季月周",
+    "topic": "offsite"
+  },
+  {
+    "title": "经理层难对话结构化（准备→倾听→共情精确→调解两leader·2分钟计时器）",
+    "normKey": "经理层难对话结构化（准备→倾听→共情精确→调解两leader·2分钟计时器）",
+    "url": "https://pollackpeacebuilding.com/?p=20416/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "难对话5步(准备/倾听/共情精确/调解两leader/求反馈);经理非指责开场;2分钟计时器防控场;权力失衡→HR/外部",
+    "topic": "offsite"
+  },
+  {
+    "title": "经理主导 Planning Offsite 落地系统（30/60/90脉冲·周脉冲检三问·CEO出席不主持）",
+    "normKey": "经理主导PlanningOffsite落地系统（30/60/90脉冲·周脉冲检三问·CEO出席不主持）",
+    "url": "https://jeremyhaynes.com/?p=1915",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "30/60/90系统;周脉冲三问非状态会;60天诊断计划vs执行;90天对照OKR;季度mini-offsite;CEO出席不主持;共享dashboard",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队章程工作协议坊（5域·含违规处置条款·季度复访·活文档）",
+    "normKey": "团队章程工作协议坊（5域·含违规处置条款·季度复访·活文档）",
+    "url": "https://www.raganmcgill.co.uk/c4e/engineering-leadership/Playbook/building-high-performing-teams-playbook",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "隐性规范显性化;章程坊5域2-3h;文档化发布;违规处置条款给牙齿;季度复访;领导受约束",
+    "topic": "offsite"
+  },
+  {
+    "title": "混合团队 Offsite 远程声音平权 playbook（remote advocate·轮次发言·会前共享文档·remote-first check）",
+    "normKey": "混合团队Offsite远程声音平权playbook（remoteadvocate·轮次发言·会前共享文档·remote-firstcheck）",
+    "url": "https://www.planretreat.com/blog/offsite-playbooks-for-hybrid-teams-integrating-remote-voices-into-in-person-meetings",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "混合offsite远程不在场;7招(会议形/平等技术+远程屏/Remote Advocate/轮次发言/会前文档/数字活动/remote-first check)",
+    "topic": "offsite"
   }
 ]
