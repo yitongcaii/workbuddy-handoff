@@ -173,6 +173,12 @@
         "entry_id": null,
         "name": "staff-meeting-2026-09-02-r30.html",
         "note": "轮次页 R30 (+7)｜乐享待补传（mcp.json lxmcp_ token 401 过期/断开，待重配后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "staff-meeting-20260902",
+        "note": "R31 增量页（乐享 token 401，待重连后补传）"
       }
     ]
   },

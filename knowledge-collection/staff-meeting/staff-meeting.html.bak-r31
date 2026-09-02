@@ -48,10 +48,10 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
 </head>
 <body>
 <div class="wrap">
-<p style="margin:0 0 16px"><a href="staff-meeting-20260902.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📑 查看本主题本轮增量页 →</a></p>
+<p style="margin:0 0 16px"><a href="runs/staff-meeting-2026-08-27-r28.html" style="display:inline-block;background:#eef0ff;color:#6c5ce7;font-weight:700;font-size:13px;padding:8px 16px;border-radius:20px;text-decoration:none;">📑 查看本主题本轮增量页 →</a></p>
   <div class="hero">
     <h1>🎤 员工大会 · 知识采集卡片墙</h1>
-    <p>采集于 2026-09-02（第三十一轮 +13）｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）</p>
+    <p>采集于 2026-08-27（第三十轮 +7）｜ 六维评估（含关系适配度）｜ 一手/二手标注 ｜ 历史去重 ｜ 受众关系分层（仅②上下级 / ③高管间）</p>
     <div class="relbar">
       <span>② 领导↔员工（上下级，supervisor）</span>
       <span>③ 领导↔领导（高管间，exec）</span>
@@ -59,7 +59,7 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
   </div>
       <div class="sec sec3">
     <h2>③ 领导↔领导（高管间 · exec）</h2>
-    <span class="tag">113 卡</span>
+    <span class="tag">109 卡</span>
   </div>
   <div class="grid">
 <div class="hl">
@@ -814,34 +814,10 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
       <details class="exec"><summary>怎么做</summary><div class="inner">全员会公告前一天做一次"翻译测试"：抽 1-2 位管理者用自己的话讲一遍决定，讲不出就回去改消息（别改管理者）。给管理者的 brief 固定四要素：为什么/团队变什么/你能自己定什么/答不了往哪送。价值观别停在词上，挑三个高频冲突场景写成明规则（工作量失衡时怎么算公平、坏消息多快公开、截止期撞团队健康怎么选）。倾听后必发三段回告：听到了什么/要做什么/暂时改不了什么。度量改看一致性：按职能、地点、管理层级拆分看分差，把上面 5 个问题放进转型仪表盘。</div></details>
       <div class="src">🔗 <a href="https://greatplacetowork.me/your-strategy-is-not-what-leaders-announce-it-is-what-managers-repeat/" target="_blank">greatplacetowork.me/your-strategy-is-not-what-leaders-announce-it-is-what-managers-repeat/</a></div>
       <div class="note">适用：③ 高管/HR 负责人（Great Place To Work 官方机构·一手）；战略落地——公告前 brief 四要素+翻译测试、价值观变明规则、倾听三段回告、按职能/地点/层级测一致性+仪表盘 5 问。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">✉️</span><h3>CEO 全员信框架·致敬过去→变革理由→行动呼吁→后果（二手）</h3><span class="cat">高管沟通框架</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">拆一封真实“提升绩效”CEO 信的段落逻辑：①致敬历史与员工（明确“谢谢”作分界）②讲清变革必要性（过去成功 vs 未来挑战的对比）③行动呼吁（CEO+高管团队共担）④具体改变与方式⑤后果（坦诚“部分人达不到新标准将离开”）。多数 CEO 信缺第⑤段，透明反而加分。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">写高管信遵循“感谢→为什么变→共同责任→怎么变→后果”五段；第⑤段坦诚人员后果（不细到个体）显严肃与诚实；用“成人对成人对话”语气，杜绝企业腔；把“谁来做/后果”写具体，别只喊口号。</div></details>
-      <div class="src">🔗 <a href="https://www.talentstrategygroup.com/your-ceos-next-email/" target="_blank">www.talentstrategygroup.com/your-ceos-next-email</a></div>
-      <div class="note">适用：高管间 — CEO 全员信五段框架（致敬→变革理由→共担→怎么变→后果），透明谈人员后果反而加分。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🔧</span><h3>CEO 全员信起草四步·AI 草稿+人声定稿（二手）</h3><span class="cat">高管沟通框架</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">解析 CEO 信已成“周更体裁”：①定调（核心论点/受众张力/期望员工改变）②草稿（用 CEO 语料库微调内部 LLM 生成，6 小时→90 分钟）③判断（法务/IR/CCO 删减强化，把“人声”请回）④CEO 过目。金句：每封信周三前必外泄，含至少一段“AI 生成不出的”（具体故事/具名遗憾/defended 原则）才值得发。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">高管信工作流=定调文档(2段)→AI 草稿→人工判断层(legal/IR/CCO)→CEO 签批；判断层是防“AI 腔”的关键；确保信中至少有一段只有 CEO 写得出、证明“人真在文档里”的内容，否则信任成本悄悄流失。</div></details>
-      <div class="src">🔗 <a href="http://everything-pr.com/who-writes-the-ceos-employee-letter-now" target="_blank">everything-pr.com/who-writes-the-ceos-employee-letter-now</a></div>
-      <div class="note">适用：高管间 — CEO 全员信起草四步工作流（定调→AI草稿→判断层→签批），判断层把人声请回防AI腔。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🎯</span><h3>CEO 沟通三结构·按角色/地区/语言分层（二手）</h3><span class="cat">高管沟通框架</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">CEO 对一线信息要“去术语”：EBITDA/CAGR 对仓库无意义，翻成“更稳的排班/更简的工具”。每则 CEO 信息用“现在发生什么→为什么重要→对你意味着什么”三段；按角色/地区/语言分群（前线要短视频/看板、总部要财务细节、工程要路线图）；给管理者 48h 内本地化工具包。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">同一核心信息多格式分发（15min CEO 视频/一页摘要/经理工具包/内部 chat 短帖）；视频加字幕、非英语团队翻译、跨时区录播；Town Hall 收 30min+ 难问题（含薪酬/工作量/裁员），会前多渠道征集+现场投票，24-48h 内发问答纪要闭环。</div></details>
-      <div class="src">🔗 <a href="https://www.happeo.com/blog/ceo-communication-with-employees/" target="_blank">www.happeo.com/blog/ceo-communication-with-employees</a></div>
-      <div class="note">适用：高管间 — CEO 沟通三段式+按角色/地区/语言分层，去术语翻成一线可感的影响。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🚀</span><h3>CEO 全员会三阶段激励·计划-执行-跟进（二手）</h3><span class="cat">高管沟通框架</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
-      <p class="val">三阶段框架：①计划（明确目标绑定公司使命、用主题/叙事框架、会前征集员工输入、视觉化故事）②执行（正能量开场、展现领导脆弱、公开认可、给“行动号召”）③会后（邮件/简报/短视频多通道强化、定期更新进度）。核心：灵感不是 single moment，是持续叙事。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">全员会前先问“员工听完要知道/感受/做什么”；用统一主题把战略与个人工作勾连；执行中展现真实脆弱+公开认可+明确 CTA；会后多渠道复述关键信息并跟踪目标进度，把能量转成持续行动。</div></details>
-      <div class="src">🔗 <a href="https://www.johanbryan.com/post/how-ceos-can-inspire-their-teams-through-company-wide-meetings" target="_blank">www.johanbryan.com/post/how-ceos-can-inspire-their-teams-through-company-wide-meetings</a></div>
-      <div class="note">适用：高管间 — CEO 全员会三阶段激励框架（计划绑使命→执行显脆弱+CTA→会后多通道强化）。</div>
     </div></div>
   <div class="sec sec2">
     <h2>② 领导↔员工（上下级 · supervisor）</h2>
-    <span class="tag">223 卡</span>
+    <span class="tag">214 卡</span>
   </div>
   <div class="grid">
 <div class="hl">
@@ -2308,60 +2284,6 @@ footer{text-align:center;padding:24px;color:#94a3b8;font-size:13px;border-top:1p
       <details class="exec"><summary>怎么做</summary><div class="inner">全员大会有听障或母语非中文的同事，别只靠会议软件自动字幕交差。提前 2-3 周确认是否有人需要专业实时字幕，按十项清单一次性把信息给到服务方（含发言人姓名拼写与业务黑话表）。会前 24 小时把讲稿/术语表/会议链接发给速录员——这是字幕质量的最大变量。现场备一块投影或给每人一条观看链接，弱声讲者与提问者一律用麦，多讲者强制"先报名字再说话"。费用由主办方出，绝不让提出需求的同事自付。</div></details>
       <div class="src">🔗 <a href="https://mn.gov/deaf-hard-of-hearing/communication-access/cart/index.jsp" target="_blank">mn.gov/deaf-hard-of-hearing/communication-access/cart/index.jsp</a></div>
       <div class="note">适用：② HR/组织者/行政（美国明尼苏达州政府官方无障碍指南·一手）；无障碍——实时字幕(CART)与自动字幕的区别、十项预约清单、会前 24h 术语表、多讲者报名字规范。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">📧</span><h3>英特尔 CEO 全员信·坦诚重构（2025-04-24 一手）</h3><span class="cat">CEO全员信</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
-      <p class="val">英特尔 CEO 陈立武 2025-04-24 发给全体员工的真实一手信：先肯定 Q1 超预期，再直面“太慢、太复杂、太固化”的反馈，宣布扁平化 ET、工程回归、成本控制，并坦诚“这些变动将缩减员工规模”，提前给足调整期（9/1 返岗 4 天）。高管向全员透明传递坏消息、把“为什么”讲透的真实范本。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">写全员信/做全员会，坏消息别藏着——先讲清“发生了什么+影响谁+提供什么支持+下一步”，把“规模缩减”这类硬事实提前、坦诚地说，比事后谣言伤害小；给员工具体时间窗（如返岗政策提前数月预告）降低不确定性。</div></details>
-      <div class="src">🔗 <a href="https://www.intc.com/news-events/press-releases/detail/1738/intel-reports-first-quarter-2026-financial-results" target="_blank">www.intc.com/news-events/press-releases/detail/1738/intel-reports-first-quarter-2026-financial-results</a></div>
-      <div class="note">适用：上下级 — CEO 向全员透明传递组织重构与裁员预期，坏消息前置、给时间窗的真实一手范本。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🐜</span><h3>蚂蚁集团 CEO 全员信·三个小故事叙事（2026-01-29 一手）</h3><span class="cat">CEO全员信</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
-      <p class="val">蚂蚁集团 CEO 韩歆毅 2026 新春内部全员信一手实录：不讲空话，用“父亲的小话筒（AI 助失语父亲表达）”“阿福救了妈妈（AI 健康）”“一亿次碰一下（支付）”三个真实用户小故事，把战略（AI 深入业务/全球化）翻译成员工与用户可感知的温度。CEO→全员用故事替代指标的叙事范本。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">全员信/致辞别堆 KPI，用 1-3 个真实小故事承载战略——每个故事对应一个业务方向+一个用户价值，让“战略”变成同事和家人都懂的话；结尾落到“感谢家人支持”增强归属感。</div></details>
-      <div class="src">🔗 <a href="https://finance.sina.com.cn/tech/2026-01-29/doc-inhiyffy3242726.shtml" target="_blank">finance.sina.com.cn/tech/2026-01-29/doc-inhiyffy3242726.shtml</a></div>
-      <div class="note">适用：上下级 — CEO 用三个真实用户小故事把战略翻译成温度，故事化叙事替代指标堆砌的一手范本。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">⏱️</span><h3>全员会后 72 小时法则·管理者级联是竞争力（二手）</h3><span class="cat">会后跟进</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">提出“72 小时法则”：全员会结束不等于沟通结束，管理层链须在 3 天内把叙事变成与团队的真实对话（而非转发幻灯片），否则信任衰减曲线会超过你的修正能力。强级联包=简版摘要+预判问题+活动卡，既降管理者认知负荷，又设定期望、管理不确定性。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">全员会当天就给管理者“级联包”（核心信息/预期问题/建议活动卡）；要求 72 小时内开团队会转译战略到本地工作；用“你听到了什么/兴奋什么/还缺什么”活动卡对齐认知；高层把“是否跟进”纳入领导力发展考核。</div></details>
-      <div class="src">🔗 <a href="https://www.employee-engagement-trends.com/why-silence-after-an-all-hands-costs-more-than-the-all-hands-itself" target="_blank">www.employee-engagement-trends.com/why-silence-after-an-all-hands-costs-more-than-the-all-hands-itself</a></div>
-      <div class="note">适用：上下级 — 会后72小时管理者级联转译，沉默比会议本身更伤信任的跟进纪律。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">📊</span><h3>管理者级联 KPI·混合模型（核心信息直达+本地转译）（二手）</h3><span class="cat">会后跟进</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">指出纯“向下 cascade”已过时：高效组织用混合模型——内部沟通把“是什么/为什么”直接发全员，管理者用结构化工具包在本地会议转译“对你意味着什么”。并给出可量化 KPI：80% 员工清晰度打分≥8、75% 管理者用过工具包、员工“从经理而非谣言”得知变更的比例。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">工具包含一页摘要+3 个要点+开场脚本+预判问答+升级路径；用“员工是否能用自己话复述战略”作为核心指标；定期问卷回收“经理是否用了工具包/哪类问题还需支持”闭环优化。</div></details>
-      <div class="src">🔗 <a href="https://www.hr-communication.net/the-manager-cascade-problem-why-56-of-ic-teams-are-betting-on-middle-management" target="_blank">www.hr-communication.net/the-manager-cascade-problem-why-56-of-ic-teams-are-betting-on-middle-management</a></div>
-      <div class="note">适用：上下级 — 级联混合模型与可量化 KPI（80% 清晰度≥8、75% 经理用过工具包）的跟进机制。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🤝</span><h3>裁员后留任员工沟通 5 步（同日开会+澄清职责）（二手）</h3><span class="cat">危机沟通</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">留任员工比离职者更易被忽视却决定复产效率。5 步：①说明裁员如何助公司前行（给共同目标）②开放提问（情绪+实际两类）③尽快开留任员工会议（最好与被通知同日，抢在谣言前）④澄清汇报结构与工作量变化⑤安排 1:1 跟进。48% 美国员工有裁员焦虑，缺信息会放大。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">被通知当天就开留任团队会，用脚本防遗漏；明确“汇报线/工作量/新期望”三件事；对工作量失衡者做 1:1 校准；强调“你仍在被需要”，把焦虑转为方向感。</div></details>
-      <div class="src">🔗 <a href="https://www.imercer.com/ca/ARTICLEDETAIL/Communicating-layoffs-to-remaining-employees-in-5-steps" target="_blank">www.imercer.com/ca/ARTICLEDETAIL/Communicating-layoffs-to-remaining-employees-in-5-steps</a></div>
-      <div class="note">适用：上下级 — 裁员后留任员工的5步沟通（同日开会、澄清汇报线与工作量、1:1跟进）。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">💡</span><h3>高 EQ 领导者宣布裁员·坏消息沟通 7 步骤（二手）</h3><span class="cat">危机沟通</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">中文实操框架：①事先准备（目的/受众/语气/时机）②把握时机（掌握全部信息再讲，不早不晚）③忠于事实（用可验证数据，不粉饰不夸大）④谨慎用词（清晰直接，不甩锅不滥道歉）⑤展现脆弱但不指责⑥管理情绪与期望⑦后续跟进闭环。核心是“以伤害最小的方式传达”。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">写要点清单防临场冗长离题；用“事实+背景+正在做的解决措施+聆听”替代模糊安慰；承认问题但给时间窗与下一步；语气不居高临下、不用管理层术语。</div></details>
-      <div class="src">🔗 <a href="https://www.cheers.com.tw/article/article.action?id=5103737" target="_blank">www.cheers.com.tw/article/article.action?id=5103737</a></div>
-      <div class="note">适用：上下级 — 中文情境下高EQ宣布裁员的7步骤（事实优先、时机精准、用词谨慎、跟进闭环）。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🗺️</span><h3>坏消息全员会·信息地图+同理心不失权威（二手）</h3><span class="cat">危机沟通</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">高 stakes 全员会方法论：先建“信息地图”（核心信息+关键问题答案），拉齐 HR/法务/沟通/管理者；高管开场用“发生了什么+影响谁+提供什么支持+下一步”四要素，直呼“裁员/关停/重组”不用“优化/right-sizing”等模糊词；同理心靠放慢语速、稳定姿态、承认影响，而非表演情绪。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">会前对齐所有口径与 severance 信一致、做法律合规检查、大声彩排；开场 3 句内点明决定+承认艰难+担起责任；难问题准备答案并角色扮演；同理心=诚实具体，含糊安慰反而加重焦虑。</div></details>
-      <div class="src">🔗 <a href="https://janicekperformancegroup.com/?p=3461" target="_blank">janicekperformancegroup.com/?p=3461</a></div>
-      <div class="note">适用：上下级 — 坏消息全员会的信息地图+四要素开场，同理心靠诚实而非表演情绪。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">💬</span><h3>匿名 Q&A 实操手册·会前征集+主持人+难问题正常答（二手）</h3><span class="cat">Q&A机制</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">Slido 全员会手册：会前一周征集并 upvote 问题（匿名开时问题量显著更多）；设主持人分组相似问题、与 CEO 会前对齐答案；管理预期“会审核过滤重复”；难问题不躲——“难问题是决策没讲清的信号”；会后把未答问题书面闭环。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">提前 1 周开匿名征集通道并多次提醒；主持人拿平板控场、按主题分组、把战略问题引给对的人；直播+现场双通道；会后发文字版 Q&A 与负责人跟进承诺。</div></details>
-      <div class="src">🔗 <a href="https://static.sli.do/ebook/allhands_booklet_ebook-pages.pdf" target="_blank">static.sli.do/ebook/allhands_booklet_ebook-pages.pdf</a></div>
-      <div class="note">适用：上下级 — 匿名Q&A实操手册（会前征集upvote、主持人控场、难问题当信号、会后书面闭环）。</div>
-    </div><div class="hl">
-      <div class="top"><span class="emoji">🧰</span><h3>管理者沟通工具包·5 要点+FAQ+级联模板（二手）</h3><span class="cat">会后跟进</span><span class="badge r2">上下级</span><span class="badge b2">二手</span></div>
-      <p class="val">给 HR/内部沟通者的即用工具包：①5 个谈话要点+行动项（讲清“什么在变/为什么/团队下一步”）②常见问题 FAQ 表（入职/政策/福利变更）③沟通计划大纲（分群+渠道+业务结果）④级联模板（谁在何时讲什么）。让管理者“提前有答案”，翻转“管理者最后才被通知”的困境。</p>
-      <details class="exec"><summary>怎么做</summary><div class="inner">把工具包当“经理说话模板”而非转发稿——每模板按经理真实工作节奏（会议中/1:1/Slack）设计；FAQ 覆盖“这对我意味着什么”；级联模板跟踪时间防遗漏；目标是把自上而下的信息变成真实对话。</div></details>
-      <div class="src">🔗 <a href="https://useworkshop.com/resources/manager-communications-kit" target="_blank">useworkshop.com/resources/manager-communications-kit</a></div>
-      <div class="note">适用：上下级 — 管理者沟通工具包（5要点+FAQ+级联模板），让经理提前有答案而非最后才知会。</div>
     </div></div>
 <footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>
 </div>
