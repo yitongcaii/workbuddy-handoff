@@ -14161,5 +14161,50 @@
     "relation": "supervisor",
     "summary": "给 HR/内部沟通者的即用工具包：①5 个谈话要点+行动项（讲清“什么在变/为什么/团队下一步”）②常见问题 FAQ 表（入职/政策/福利变更）③沟通计划大纲（分群+渠道+业务结果）④级联模板（谁在何时讲什么）。让管理者“提前有答案”，翻转“管理者最后才被通知”的困境。",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "神经多元友好型 Offsite（包容性设计：提前2-3周发详尽信息/感官友好/多参与模式免伪装/安静室常态不污名）",
+    "normKey": "神经多元友好型 Offsite（包容性设计：提前2-3周发详尽信息/感官友好/多参与模式免伪装/安静室常态不污名）",
+    "url": "https://www.offsite.com/blog/inclusive-event-planning",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "神经多元友好型 offsite：提前2-3周发详尽信息降焦虑/「可选」真可选不惩罚/多参与模式免强制上台/感官友好+安静室常态不污名/accommodation 变默认不要求自曝；成本近零、留人真金白银（约15-20%人口为神经多元）。",
+    "topic": "offsite"
+  },
+  {
+    "title": "团队对齐工作坊（决策非讨论/3-5个rocks单一owner/角色清晰矩阵/周节奏/停车不解决）",
+    "normKey": "团队对齐工作坊（决策非讨论/3-5个rocks单一owner/角色清晰矩阵/周节奏/停车不解决）",
+    "url": "https://www.thekpsgroup.com/resources/team-alignment-workshop-agenda",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "团队对齐工作坊：决策非讨论（每杠变owner+日期+数字否则停车场）；3-5个季度rocks写done when；每职能单一owner+备份+其数字；锁周节奏+承诺；一人计时/强制每事一名字/优先级封顶5。",
+    "topic": "offsite"
+  },
+  {
+    "title": "绿色/可持续 Offsite 落地（eco认证场地LEED/Green Key/低废弃/本地采购/碳抵消/无纸化）",
+    "normKey": "绿色/可持续 Offsite 落地（eco认证场地LEED/Green Key/低废弃/本地采购/碳抵消/无纸化）",
+    "url": "https://learn.offsiteio.com/venue-guides-by-city/how-to-plan-a-sustainable-corporate-retreat-in-6-steps",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "绿色 offsite 落地：定可测目标→选eco认证场地(LEED/Green Key)→绿色活动→8-12周时间线→预算(场地40/F&B25/活动15/交通15/备用5)→风险缓释；group transport+直飞/无纸化/本地采购/会后可持续报告。",
+    "topic": "offsite"
+  },
+  {
+    "title": "2026 ELT 务虚室现场信号 5 模式（AI/peak employment·团队动力学集体·2年+10年视野·客户数据·使命）",
+    "normKey": "2026 ELT 务虚室现场信号 5 模式（AI/peak employment·团队动力学集体·2年+10年视野·客户数据·使命）",
+    "url": "http://interchange.com.au/blog/what-were-hearing-in-elt-rooms-right-now",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "2026 ELT 务虚室5现场信号：AI改写规则(任务vs思考分离/peak employment) / 团队动力学转集体共享模式重校 / 战略视野转2年+10年双轨 / 客户更早带数据测假设 / 使命更紧绕why；offsite 议程须容这些新议题。",
+    "topic": "offsite"
+  },
+  {
+    "title": "专业务虚执行 vs 内部 DIY（战略意图先于行程/引导师逼出决策非对话/会后问责挂钩KPI/风险与品牌完整）",
+    "normKey": "专业务虚执行 vs 内部 DIY（战略意图先于行程/引导师逼出决策非对话/会后问责挂钩KPI/风险与品牌完整）",
+    "url": "https://www.planretreat.com/blog-old/retreat-execution-in-2026-what-smart-planners-know-that-diy-doesnt-deliver",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "专业务虚执行 vs 内部DIY：战略意图先于行程(业务需求倒推)/外部引导逼出决策非对话/运营精度不分散参与者/体验设计造记忆流/数据闭环+会后问责挂KPI+风险品牌完整；2026 执行是纪律非预算。",
+    "topic": "offsite"
   }
 ]
