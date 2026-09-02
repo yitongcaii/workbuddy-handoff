@@ -13920,5 +13920,75 @@
     "topic": "icebreaker",
     "summary": "澳董事学会(AICD)官方：企业务虚离岗新视角→更好决策；首日排非工作活动逼大脑离业务；DiSC 破人际壁垒；fireside chat/晚宴深聊；外部引导师把工作交还董事(被指派+问责)；私企每年两次两天最佳。",
     "normKey": "企业务虚对董事会/管理层的价值首日非工作活动+DiSC+外部引导师（澳董事学会）"
+  },
+  {
+    "title": "颁奖奖金/实物个税代扣合规·税务局官方口径（现金/实物并入工资薪金、证书奖杯鲜花不代扣、偶然所得区分）",
+    "normKey": "颁奖奖金/实物个税代扣合规·税务局官方口径（现金/实物并入工资薪金、证书奖杯鲜花不代扣、偶然所得区分）",
+    "url": "https://xizang.chinatax.gov.cn/art/2018/6/19/art_5347_228937.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "国家税务总局西藏/广东税务局公开答复——企业以现金、实物、有价证券及其他形式经济利益奖励员工，均按『工资薪金所得』并入当期收入计征个税：①现金/购物卡等奖金——并入工资薪金，企业作为扣缴义务人全员全额扣缴；②实物奖品——按凭证注明价格（无凭",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "经理即时认可话术库·SBI(情境-行为-影响)框架 + 1小时法则（具体/及时/公开私下分寸）",
+    "normKey": "经理即时认可话术库·SBI(情境-行为-影响)框架 + 1小时法则（具体/及时/公开私下分寸）",
+    "url": "https://interobservers.com/employee-positive-feedback-examples/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "经理是认可送达率最高的『最后一公里』：①SBI 模型（Center for Creative Leadership）——Specific 具体情境 + Behavior 做了什么 + Impact 带来什么影响，例『昨天站会上你提前拦下计费",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "积分制认可体系设计·点数-货币兑换 + 兑换目录 + 简单/会计口径（Bill on redemption vs issuance）",
+    "normKey": "积分制认可体系设计·点数-货币兑换 + 兑换目录 + 简单/会计口径（Bill on redemption vs issuance）",
+    "url": "https://faq.recognizeapp.com/hc/en-us/articles/215216268--Points-Strategy-Best-Practices-for-Employee-Recognition-Programs",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "积分制把认可变『职场货币』，可累积、可兑换、跨地点统一：①点数-货币比——10点=$1 之类简单比值，从年度预算反推（别抄别家），让员工一眼懂『我离下个奖励多远』；②规则透明——谁可发、发多少、何时过期、如何兑换，写清楚降低 manager",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "虚拟/混合颁奖直播推流实操·嘉宾链接入会 + 候播间 + 失败预案 + 多平台分发（品牌叠加实时）",
+    "normKey": "虚拟/混合颁奖直播推流实操·嘉宾链接入会 + 候播间 + 失败预案 + 多平台分发（品牌叠加实时）",
+    "url": "https://streamyard.com/fr-fr/blog/how-to-stream-award-ceremonies",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "远程/混合颁奖的成败在『推流执行』而非设备清单：①嘉宾零门槛入会——发浏览器链接（如 StreamYard『发送链接、点击加入』），避免下载与复杂路由，远端获奖者提前 15-20 分钟进候播间(green-room)查音频/构图/发音；②主",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "行业 CEO/高管荣誉项目设计·独立评审 + 战略资产定位（投资者/治理/人才信任杠杆）",
+    "normKey": "行业 CEO/高管荣誉项目设计·独立评审 + 战略资产定位（投资者/治理/人才信任杠杆）",
+    "url": "http://worldceoawards.com/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "面向 CEO/创始人的外部荣誉不是『花钱买奖』，而是战略资产：① merit-based 独立评审——如 World CEO Awards 由独立 jury 按领导力卓越/战略远见/创新/业务增长/全球影响评估，无公众投票、『 recogn",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "先进事迹/表彰材料故事化萃取方法论（最小单位英雄 + 数据细节 + 反差排比结尾）",
+    "normKey": "先进事迹/表彰材料故事化萃取方法论（最小单位英雄 + 数据细节 + 反差排比结尾）",
+    "url": "https://www.zhijidoc.com/i-75963.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "表彰材料质量决定典型『立得住、传得开』：①立意对标大局——把个人置于单位发展/行业变革/国家战略背景下，避免流水账；②选材『以一当十』——用最具代表性细节说话，不写『经常加班』而写『攻关三天办公室灯彻夜未熄』；③最小单位英雄——每个重要工作",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
+  },
+  {
+    "title": "高管荣誉晚宴/顶层成就认可形式·与战略叙事挂钩（仅限顶层成就、executive recognition dinners）",
+    "normKey": "高管荣誉晚宴/顶层成就认可形式·与战略叙事挂钩（仅限顶层成就、executive recognition dinners）",
+    "url": "https://digital-trophy-case.com/blog/award-ceremony-planning-memorable-recognition-event",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "顶层成就的认可需要『匹配量级』的场合：①形式分级——日常/中层走会议表彰段，顶层成就（终身成就/战略级贡献/退休领袖）走 executive recognition dinners / leadership honours 等专属晚宴，场合",
+    "topic": "award",
+    "dateCollected": "2026-09-02"
   }
 ]
