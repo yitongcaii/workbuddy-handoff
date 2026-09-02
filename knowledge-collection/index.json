@@ -13866,5 +13866,59 @@
     "relation": "supervisor",
     "summary": "混合offsite远程不在场;7招(会议形/平等技术+远程屏/Remote Advocate/轮次发言/会前文档/数字活动/remote-first check)",
     "topic": "offsite"
+  },
+  {
+    "title": "Google re:Work 团队效能五动态·心理安全为首 + 管理者落地动作（一手工具包）",
+    "url": "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Google Project Aristotle 两年研究 180+ 团队：谁在团队不如团队如何运作，第一大驱动是心理安全。re:Work 官方工具包给 5 大效能动态(心理安全/依赖/结构与清晰/意义/影响)+管理者落地三动作(共同词汇/论坛谈团队动力学/领导承诺持续改进)。作为破冰与团队建设的底层操作系统。",
+    "normKey": "Googlere:Work团队效能五动态心理安全为首+管理者落地动作（一手工具包）"
+  },
+  {
+    "title": "跨文化全球团队·用「团队规范共创」替代破冰游戏 + 开放式提问重构（HBR）",
+    "url": "https://www.bu.edu/questrom/blog/hbr-leading-global-teams-effectively",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "BU Questrom 借 HBR 案例：传统信任建设活动不持久，改用 co-create 团队规范(显式包容、平衡速度与严谨)；把封闭提问「有任何问题吗」重构为开放「我们有什么担心」，把分享困难正常化；用文化智能+视角采择保持聚焦共同目标。",
+    "normKey": "跨文化全球团队用「团队规范共创」替代破冰游戏+开放式提问重构（HBR）"
+  },
+  {
+    "title": "新经理团队建设·非正式仪式 + 零预算 + 远程三板斧（真正管用）",
+    "url": "https://firsttimemanagers.com/articles/building-team-trust/team-building-for-new-managers",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "新经理管用的团队建设重日常轻活动：非正式仪式(周一咖啡/周五 wins&fails/help-needed 看板/新员工传统/内部梗，持续+自愿)；零预算(步行1:1/技能互换/志愿)；远程(虚拟咖啡/异步庆祝/年度线下)。每天做的比季度活动重要千倍。",
+    "normKey": "新经理团队建设非正式仪式+零预算+远程三板斧（真正管用）"
+  },
+  {
+    "title": "新经理 90 天科学剧本·听→对齐→共创共赢 + 首日建心理安全",
+    "url": "https://www.scienceofpeople.com/first-90-days-as-a-manager",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "科学背书新经理 90 天：D1-30 听；D31-60 书面对齐(top3 产出+运营节奏)；D61-90 共创共享胜仗(非个人英雄)。首日建心理安全四信号：示弱/把首个错误当测试/主动邀异议/快速 AAR。引用 Gallup+Edmondson。",
+    "normKey": "新经理90天科学剧本听→对齐→共创共赢+首日建心理安全"
+  },
+  {
+    "title": "高管/董事会务虚·pre-mortem + unconference + 战争推演 + 48 小时规则",
+    "url": "https://hayatkhabar.com/leadership-retreats-that-work-aligning-strategy-beyond-the-boardroom/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "高管务虚当战略仪器：pre-mortem(3年后惨败写历史释放异议)、unconference(议程共创浮出大象)、fireside chat(讲失败)、war gaming(分饰对手)、guided solitude(独处)、外部引导师(CEO 别自 facilitate)；48h 内发决策/owner/期限，3 月后复盘。",
+    "normKey": "高管/董事会务虚pre-mortem+unconference+战争推演+48小时规则"
+  },
+  {
+    "title": "企业务虚对董事会/管理层的价值·首日非工作活动 + DiSC + 外部引导师（澳董事学会）",
+    "url": "https://www.aicd.com.au/organisational-culture/business-ethics/the-power-of-corporate-retreats-in-strengthening-culure",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "澳董事学会(AICD)官方：企业务虚离岗新视角→更好决策；首日排非工作活动逼大脑离业务；DiSC 破人际壁垒；fireside chat/晚宴深聊；外部引导师把工作交还董事(被指派+问责)；私企每年两次两天最佳。",
+    "normKey": "企业务虚对董事会/管理层的价值首日非工作活动+DiSC+外部引导师（澳董事学会）"
   }
 ]
