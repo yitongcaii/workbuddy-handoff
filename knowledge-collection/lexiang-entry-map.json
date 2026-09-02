@@ -856,6 +856,12 @@
         "entry_id": null,
         "name": "openday-20260901.html",
         "note": "轮次页 R31 (+14)｜乐享待补传(token 401 过期，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "20260902",
+        "entry_id": null,
+        "name": "openday-2026-09-02-r32.html",
+        "note": "轮次页 R32 (+6)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
       }
     ]
   },
