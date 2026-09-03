@@ -14712,5 +14712,55 @@
     "relation": "supervisor",
     "topic": "icebreaker",
     "summary": "Spinach AI skip-level会议模板:高层与非直接下属员工1:1,四个核心问题(最不清楚的战略盲区/6-12月职业目标与动机/岗位满意度与改进/start-stop-continue)+「非挖中层黑料」定调+月度或季度1小时节奏。"
+  },
+  {
+    "title": "Workhuman×Gallup 2026 认可数据 40 条（权威原始研究·ROI/留任锚点）",
+    "normKey": "Workhuman×Gallup 2026 认可数据 40 条（权威原始研究·ROI/留任锚点）",
+    "url": "https://workhuman.com/blog/employee-recognition-statistics",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "Workhuman×Gallup 2026 认可原始研究（美/西欧数千员工）：P2P 互认高 41%、5+ 奖项者绩效近 2 倍、认可+反馈绩效 +32%、被低估离职意愿 5 倍、$1 回报 $5–7、单案例 6.9 倍 ROI、68% 留任 5 年+。可用于董事会与预算会议的硬数据锚点。",
+    "topic": "award",
+    "source": "workhuman"
+  },
+  {
+    "title": "月度之星 / Employee of the Month 项目设计 + 防内卷护栏",
+    "normKey": "月度之星 / Employee of the Month 项目设计 + 防内卷护栏",
+    "url": "https://firsthr.app/blog/performance/employee-of-the-month-program",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "经典月度之星证据偏弱且易变人气竞赛/轮换/经理偏袒；改良=标准公开+提名附事例+跨部门委员会+按月轮换维度+追踪分布；替代=Team of the Month、按价值观每人每月一冠军、peer spotlight、全年 P2P 数据驱动月度亮点。",
+    "topic": "award",
+    "source": "firsthr"
+  },
+  {
+    "title": "颁奖/表彰预算编制模型（占薪酬比 + 按频率分项分配）",
+    "normKey": "颁奖/表彰预算编制模型（占薪酬比 + 按频率分项分配）",
+    "url": "https://www.officemoods.com/blog/how-to-budget-for-an-employee-recognition-program",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "认可预算锚点=薪酬 1%–3% 或人均 $150–350/年；按频率四桶分配：P2P 35–40%、经理即时奖 20–30%、里程碑 15–20%、软件≈10%；留 5–10% 缓冲、应税奖预留 25–30% 税差；用替换成本节省证明净 ROI。",
+    "topic": "award",
+    "source": "officemoods"
+  },
+  {
+    "title": "认可项目治理·把高管「买办」变「承诺」+ steering/测量框架",
+    "normKey": "认可项目治理·把高管「买办」变「承诺」+ steering/测量框架",
+    "url": "https://www.hrreporter.com/culture-and-engagement/37577-getting-leaders-engaged-in-recognition/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "认可权威 Roy Saunderson：别只求领导 buy-in，要拿个人承诺；倒推获批所需、CNN 效应短句沟通、财务货币化影响、可持续预算线、部门 leader 问责、数据证 ROI；配套《认可宪章》+ steering 组(含员工代表)+混合度量(触达/公平/能力/结果)。",
+    "topic": "award",
+    "source": "hrreporter"
+  },
+  {
+    "title": "正式「表彰决定」公文写作规范（标题/正文四段/落款）",
+    "normKey": "正式「表彰决定」公文写作规范（标题/正文四段/落款）",
+    "url": "https://yyxz.cust.edu.cn/gwyywxz/swgwxz/9c3b68c94e054fc8a0598a11158001b1.htm",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "《应用写作》表彰性决定(下行文)规范：三项式标题(机关+事由+决定)；正文四段=事迹(数据化)→评价→表彰决定→号召学习；落款机关+日期；用表彰/授予/记功/号召学习庄重表述；公开版省文号与主送、附件列名单。",
+    "topic": "award",
+    "source": "cust-edu"
   }
 ]
