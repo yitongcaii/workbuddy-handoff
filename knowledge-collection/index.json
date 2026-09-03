@@ -14586,5 +14586,50 @@
     "relation": "supervisor",
     "summary": "全员会/ town hall 属「必调研」场景（每场都该收）。脉冲格式 3-5 题、<90 秒、响应率 70%+：P1「这会是好时间投资吗」(1-5) 周环比成会议健康 KPI，连跌两周低于 3.5/5 即开复盘；P2「是否有清晰行动项与负责人」(Y/N)；P3「下次改什么」(开放)。全员会专属题库：战略清晰度/领导更",
     "topic": "staff-meeting"
+  },
+  {
+    "title": "从 Series B 到 D 的领导力架构跃迁（建造者→架构师/职能 owner/授权下沉）",
+    "normKey": "从 Series B 到 D 的领导力架构跃迁（建造者→架构师/职能 owner/授权下沉）",
+    "url": "https://feeds.evpleadership.com/blog/scaling-leadership-series-b-beyond",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "扩规模瓶颈是领导力系统非钱;Series B为最关键拐点(建造者→架构师,职能owner须能独立拥有职能);习惯复利(创始人签批/通才在80-150人变负债);B点到D逐层 conditioning。",
+    "topic": "offsite"
+  },
+  {
+    "title": "高管 Offsite 引导活动库（9 项·视觉签到/未谈之话/Perspective Swap/成功-破坏地图）",
+    "normKey": "高管 Offsite 引导活动库（9 项·视觉签到/未谈之话/Perspective Swap/成功-破坏地图）",
+    "url": "https://points-of-you.com/facilitation-activities-for-leadership-offsites",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "9项引导活动按房间情绪温度选型;视觉签到/未谈之话(匿名写回避话题)/Perspective Swap(用非己视角发言)/成功-破坏地图;甜区=结构化对话降防御提ownership。",
+    "topic": "offsite"
+  },
+  {
+    "title": "CEO Retreat 战略清晰度与领导力焕新（环境/意图/心身对齐/真实案例 Certn）",
+    "normKey": "CEO Retreat 战略清晰度与领导力焕新（环境/意图/心身对齐/真实案例 Certn）",
+    "url": "http://retreatsandvenues.com/blog/ceo-retreats",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "retreat是战略基础设施非indulgence;平衡战略/留白/运动/反思;框架(SWOT/OKR)价值在诚实应用;心身对齐提清晰度;Certn共享体验建连接;避迷你会议/塞满PPT。",
+    "topic": "offsite"
+  },
+  {
+    "title": "领导力 Offsite 五步引导法（对齐→创选项→选优先→压测→定义行动 owner）",
+    "normKey": "领导力 Offsite 五步引导法（对齐→创选项→选优先→压测→定义行动 owner）",
+    "url": "https://okr-consultants.com/leadership-offsite",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "五步通用结构(对齐/创选项/选优先/压测/定义行动What-Why-How-Who-When);把高利害讨论转成清晰优先+决策+owner+可衡量跟进;中立引导师英德双语。",
+    "topic": "offsite"
+  },
+  {
+    "title": "新团队领导上任 1 日对齐工作坊（新领导↔团队期望互换/不成 storming）",
+    "normKey": "新团队领导上任 1 日对齐工作坊（新领导↔团队期望互换/不成 storming）",
+    "url": "https://rightmindedteamwork.com/glossary/onboarding-new-team-leader",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "新leader上任结构化1日工作坊快速度过forming避免storming;会前双准备(队友备告知项/新leader备方向预期);核心=期望结构化互换(运营规范+人际风格Transition Questions)。",
+    "topic": "offsite"
   }
 ]
