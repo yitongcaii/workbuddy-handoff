@@ -14631,5 +14631,86 @@
     "relation": "supervisor",
     "summary": "新leader上任结构化1日工作坊快速度过forming避免storming;会前双准备(队友备告知项/新leader备方向预期);核心=期望结构化互换(运营规范+人际风格Transition Questions)。",
     "topic": "offsite"
+  },
+  {
+    "title": "新任 CEO「Nail your firsts」· EDGE 利益方沟通法 + 首因定调（麦肯锡官方）",
+    "normKey": "mckinsey-nail-your-firsts-ceo-stakeholder",
+    "url": "https://karriere.mckinsey.de/capabilities/strategy-and-corporate-finance/our-insights/nail-your-firsts-a-new-ceos-guide-to-stakeholder-impact",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "新任/继任CEO「Nail your firsts」首因定调手册:EDGE框架(公私沟通扩展/差异化叙事/增长心态/主动姿态)+关键时刻intense准备,把破冰升级为面向投资人/监管/员工/媒体的系统化利益方连接。"
+  },
+  {
+    "title": "新任 CEO 上任首月·跑遍总部与五大电厂的 Town Hall 真实案例（Malakoff 官方）",
+    "normKey": "malakoff-new-ceo-townhall-tour",
+    "url": "https://www.malakoff.com.my/new/town-hall-sessions-with-the-new-ceo-received-overwhelming-response-from-staff",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "马来西亚最大IPP Malakoff新任CEO上任首月全国巡回Town Hall:先听后讲、讲清期待+底线+协作精神、多地实体+虚拟同步,把首场讲话当倾听之旅而非就职演说。"
+  },
+  {
+    "title": "高管公开讲话对齐·寿力中国 30 周年 CEO 致辞（Hitachi 体系 · 一手）",
+    "normKey": "sullair-china-30th-ceo-address",
+    "url": "https://asia.sullair.com/en/news_details_105.html",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "icebreaker",
+    "summary": "寿力(Sullair)中国30周年庆典HIES总裁兼CEO远程致辞:回顾历程建认同、讲清战略方向(能力/业务/数字化)、致谢伙伴绑定生态、官产同台背书,重大节点向员工+伙伴+外部利益方首次系统发声。"
+  },
+  {
+    "title": "主管-新员工对话指南·首日到 90 天定期 1:1（加州人事局官方）",
+    "normKey": "calhr-supervisor-conversation-guide",
+    "url": "https://www.calhr.ca.gov/wfp-Conversation-Guide-for-Supervisors-Managers",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "加州人事局官方《主管/经理对话指南》:新人入职关键是与新员工定期1:1;四块(认识彼此/讲清岗位/组织暗知识/绩效节奏)+30/60/90天固定1:1,把未言明期望与不成文规则显性化。"
+  },
+  {
+    "title": "新入职·跟直属 leader 聊什么（对齐期望与底线，牛客网经验）",
+    "normKey": "nowcoder-newhire-talk-to-leader",
+    "url": "https://www.nowcoder.com/discuss/385020586181844992",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "牛客网一线经验:新人第一步主动找直属leader聊(别等/别跨级),核心对齐双方期望与底线;六步——准备→主动约→问现状架构→要老板期望→同步自己期望与风格(底线)→引导老板亮风格底线。"
+  },
+  {
+    "title": "新员工沟通谈话指导方案（领导版）·破冰→认知→共鸣→赋能四阶段",
+    "normKey": "renrendoc-newemployee-talk-guide-leader",
+    "url": "https://www.renrendoc.com:8443/paper/523759345.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "人人文库《新员工沟通谈话指导方案(领导版)》:领导对新人谈话四阶段(破冰→认知→共鸣→赋能)递进+话术逻辑+谈后记录/兑现/跟进闭环,适配HR/管理者任前谈话SOP。"
+  },
+  {
+    "title": "到新单位如何沟通工作·期望对齐+90 天计划+跨部门边界（PingCode）",
+    "normKey": "pingcode-new-unit-communication",
+    "url": "https://docs.pingcode.com/insights/pv4rg2vgzyspdzpe4z5ixbxo",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "PingCode《到新单位如何沟通工作》通用模板:上级(期望对齐+一页纸+90天计划+双周1:1)、同事/跨部门(快速可信+事实建信任+单一窗口+非暴力沟通)、客户(先定成功标准);会议末总结+纪要成决策可追溯资产。"
+  },
+  {
+    "title": "越级（skip-level）会议怎么准备·员工视角议程模板（Atlassian）",
+    "normKey": "atlassian-skip-level-prepare",
+    "url": "https://www.atlassian.com/blog/loom/how-should-an-employee-prepare-for-a-skip-level-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Atlassian官方博客:skip-level(与老板的老板1:1)员工侧准备——七段议程+会前Loom异步自我介绍破冰+带预定目标与反馈清单+「非投诉会」纪律,聚焦公司方向/自身成长/高层盲区。"
+  },
+  {
+    "title": "越级会（skip-level）议程模板·四个核心问题（Spinach AI）",
+    "normKey": "spinach-skip-level-template",
+    "url": "https://www.spinach.ai/agenda-templates/skip-level-meeting",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "icebreaker",
+    "summary": "Spinach AI skip-level会议模板:高层与非直接下属员工1:1,四个核心问题(最不清楚的战略盲区/6-12月职业目标与动机/岗位满意度与改进/start-stop-continue)+「非挖中层黑料」定调+月度或季度1小时节奏。"
   }
 ]
