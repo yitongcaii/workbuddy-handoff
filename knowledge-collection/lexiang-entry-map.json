@@ -185,6 +185,12 @@
         "entry_id": null,
         "name": "staff-meeting-20260903",
         "note": "R34 增量页（乐享 token 401，待重连后补传）"
+      },
+      {
+        "date": "2026-09-04",
+        "entry_id": null,
+        "name": "staff-meeting-20260904",
+        "note": "轮次页 R35 (+12：2③高管间+10②上下级，2一手+10二手)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
       }
     ]
   },
