@@ -14889,16 +14889,175 @@
   "summary": "英国scale-up教练Paul Avins的CEO LUNCHES：仅限application的CEO/创始人闭门午餐限额18人；议程13:00社交/13:30自我介绍/14:00用餐/15:00演讲/15:30圆桌讨论/16:00离场；定位confidential space for quality conversation，构建长期同侪社区。",
   "normKey": "ceolunches邀约制ceo同侪午餐圆桌复盘限额18人"
  },
-{"title": "高管 Town Hall 控场框架·ACES 四步法", "normKey": "高管townhall控场框架aces四步法", "url": "https://confidenceplaybook.org/blog/leadership-presence-in-town-halls-how-to-command-any-room", "sourceType": "secondary", "relation": "exec", "summary": "适用：高管间 — Town Hall 高管控场 ACES 框架（致谢/澄清/结论先行/拉回主题）+ 黏人故事弧 + 尖锐问题认情绪不认框架，临场表现定信任涨跌。", "topic": "staff-meeting"},
-{"title": "战略落地全员会·先宣贯再逐层对齐", "normKey": "战略落地全员会先宣贯再逐层对齐", "url": "https://www.lucidchart.com/blog/strategic-planning-communication", "sourceType": "secondary", "relation": "exec", "summary": "适用：高管间 — 战略落地先全员会统一宣贯（同口径压谣言）+ 讲清 why/WIIFM + OKR 框架对齐 + 持续 reinforced，规划再好不沟通=零。", "topic": "staff-meeting"},
-{"title": "全员会 Run-of-Show 模板·含讲者/Q&A/后勤计划", "normKey": "全员会runofshow模板含讲者qa后勤计划", "url": "https://hogonext.com/templates/all-hands-meeting-agenda", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 全员会 run-of-show 模板（目标/run of show/讲者计划/Q&A 计划/后勤指名到人），把「谁讲/谁控场/谁写 recap」写进模板防翻车。", "topic": "staff-meeting"},
-{"title": "虚拟全员会技术选型与角色分派", "normKey": "虚拟全员会技术选型与角色分派", "url": "https://www-zoom-com.translate.goog/en/resources/hosting-virtual-all-hands/", "sourceType": "primary", "relation": "supervisor", "summary": "适用：上下级 — 虚拟全员会形态选型（Meetings/Webinars/Events）+ 三角色分派（共享/控场/投票）+ dry run，技术翻车比内容更伤信任。", "topic": "staff-meeting"},
-{"title": "Town Hall Q&A 应答准备·把难题变信任", "normKey": "townhallqa应答准备把难题变信任", "url": "https://www.commswith.ai/library/content/town-hall-qa-preparation", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — Town Hall Q&A 应答准备（原话问/简短答/借题 reinforcing/认情绪/离题 redirect/未答必跟进），只练演讲不练难题最易现场翻车。", "topic": "staff-meeting"},
-{"title": "混合全员会·「每人一屏」+5 维度量", "normKey": "混合全员会每人一屏5维度量", "url": "https://www.usecarly.com/blog/all-hands-meeting", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 混合全员会「每人一屏+远程优先」+(聊天/Q&A moderator)+轮换时间公平+5 维度量，视频的人看直播=最大失败。", "topic": "staff-meeting"},
-{"title": "双向 Q&A 设计·预埋问题+敏感题 HR/法务陪练", "normKey": "双向qa设计预埋问题敏感题hr法务陪练", "url": "https://www.mac4comm.com/make-your-next-town-hall-an-engaging-two-way-discussion-dialogue-with-a-powerful-qa", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 双向 Q&A 设计（会前双向征集+可预埋防冷场+敏感题 HR/法务陪练+AV 多地预审+领导/高潜轮流答），冷场比尴尬更伤。", "topic": "staff-meeting"},
-{"title": "期中总结表彰大会·三维评选+四步流程", "normKey": "期中总结表彰大会三维评选四步流程", "url": "https://renrendoc.com/paper/463988049.html", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 期中总结表彰大会范式（战略复盘+表彰盛典 VCR/高管颁奖/感言+经验分享+领导寄语）+ 三维评选四步流程，避唯业绩论与暗箱。", "topic": "staff-meeting"},
-{"title": "全员会六大坑·强制到场/单向/躲难题/泄密/无跟进/不进化", "normKey": "全员会六大坑强制到场单向躲难题泄密无跟进不进化", "url": "https://prezentium.com/?p=3331", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 全员会六大坑清单（强制到场/单向/躲难题/泄密/无跟进/不进化），每一条都是「看起来省事实则伤信任」的隐性失败。", "topic": "staff-meeting"},
-{"title": "全员会最佳实践·讲清决策「为什么」+不回避负面", "normKey": "全员会最佳实践讲清决策为什么不回避负面", "url": "https://talenthub.glints.com/en-sg/blog/all-hands-meeting/", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 全员会沟通准则（讲清决策 why/大白话/换讲者/留 Q&A/诚实答难题/混合包容/会后总结）+ 常见错（只报喜/不行动反馈）。", "topic": "staff-meeting"},
-{"title": "全员会反面陷阱·甩锅/内圈梗/批竞品/讲者无备", "normKey": "全员会反面陷阱甩锅内圈梗批竞品讲者无备", "url": "https://www.atlassian.com/zh/blog/teamwork/how-to-create-better-all-hands-meetings", "sourceType": "secondary", "relation": "supervisor", "summary": "适用：上下级 — 全员会反面陷阱（单向广播/宣传机器甩锅/攻击竞品/内部梗劈圈/讲者无备），每条都是「显得不走心」的隐性减分。", "topic": "staff-meeting"},
-{"title": "万人全员大会直播·全球同步+多语纪要+合规", "normKey": "万人全员大会直播全球同步多语纪要合规", "url": "https://365.wps.cn/content/f8a30ff270564087839dcc10467e6c82.html", "sourceType": "primary", "relation": "supervisor", "summary": "适用：上下级 — 万人全员大会企业级直播（全球同步/多语纪要/合规白名单水印/提问预审/自动归档），24h 信息直达一线、差旅培训成本大降。", "topic": "staff-meeting"}
+ {
+  "title": "高管 Town Hall 控场框架·ACES 四步法",
+  "normKey": "高管townhall控场框架aces四步法",
+  "url": "https://confidenceplaybook.org/blog/leadership-presence-in-town-halls-how-to-command-any-room",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "适用：高管间 — Town Hall 高管控场 ACES 框架（致谢/澄清/结论先行/拉回主题）+ 黏人故事弧 + 尖锐问题认情绪不认框架，临场表现定信任涨跌。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "战略落地全员会·先宣贯再逐层对齐",
+  "normKey": "战略落地全员会先宣贯再逐层对齐",
+  "url": "https://www.lucidchart.com/blog/strategic-planning-communication",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "适用：高管间 — 战略落地先全员会统一宣贯（同口径压谣言）+ 讲清 why/WIIFM + OKR 框架对齐 + 持续 reinforced，规划再好不沟通=零。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "全员会 Run-of-Show 模板·含讲者/Q&A/后勤计划",
+  "normKey": "全员会runofshow模板含讲者qa后勤计划",
+  "url": "https://hogonext.com/templates/all-hands-meeting-agenda",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 全员会 run-of-show 模板（目标/run of show/讲者计划/Q&A 计划/后勤指名到人），把「谁讲/谁控场/谁写 recap」写进模板防翻车。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "虚拟全员会技术选型与角色分派",
+  "normKey": "虚拟全员会技术选型与角色分派",
+  "url": "https://www-zoom-com.translate.goog/en/resources/hosting-virtual-all-hands/",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 虚拟全员会形态选型（Meetings/Webinars/Events）+ 三角色分派（共享/控场/投票）+ dry run，技术翻车比内容更伤信任。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "Town Hall Q&A 应答准备·把难题变信任",
+  "normKey": "townhallqa应答准备把难题变信任",
+  "url": "https://www.commswith.ai/library/content/town-hall-qa-preparation",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — Town Hall Q&A 应答准备（原话问/简短答/借题 reinforcing/认情绪/离题 redirect/未答必跟进），只练演讲不练难题最易现场翻车。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "混合全员会·「每人一屏」+5 维度量",
+  "normKey": "混合全员会每人一屏5维度量",
+  "url": "https://www.usecarly.com/blog/all-hands-meeting",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 混合全员会「每人一屏+远程优先」+(聊天/Q&A moderator)+轮换时间公平+5 维度量，视频的人看直播=最大失败。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "双向 Q&A 设计·预埋问题+敏感题 HR/法务陪练",
+  "normKey": "双向qa设计预埋问题敏感题hr法务陪练",
+  "url": "https://www.mac4comm.com/make-your-next-town-hall-an-engaging-two-way-discussion-dialogue-with-a-powerful-qa",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 双向 Q&A 设计（会前双向征集+可预埋防冷场+敏感题 HR/法务陪练+AV 多地预审+领导/高潜轮流答），冷场比尴尬更伤。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "期中总结表彰大会·三维评选+四步流程",
+  "normKey": "期中总结表彰大会三维评选四步流程",
+  "url": "https://renrendoc.com/paper/463988049.html",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 期中总结表彰大会范式（战略复盘+表彰盛典 VCR/高管颁奖/感言+经验分享+领导寄语）+ 三维评选四步流程，避唯业绩论与暗箱。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "全员会六大坑·强制到场/单向/躲难题/泄密/无跟进/不进化",
+  "normKey": "全员会六大坑强制到场单向躲难题泄密无跟进不进化",
+  "url": "https://prezentium.com/?p=3331",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 全员会六大坑清单（强制到场/单向/躲难题/泄密/无跟进/不进化），每一条都是「看起来省事实则伤信任」的隐性失败。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "全员会最佳实践·讲清决策「为什么」+不回避负面",
+  "normKey": "全员会最佳实践讲清决策为什么不回避负面",
+  "url": "https://talenthub.glints.com/en-sg/blog/all-hands-meeting/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 全员会沟通准则（讲清决策 why/大白话/换讲者/留 Q&A/诚实答难题/混合包容/会后总结）+ 常见错（只报喜/不行动反馈）。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "全员会反面陷阱·甩锅/内圈梗/批竞品/讲者无备",
+  "normKey": "全员会反面陷阱甩锅内圈梗批竞品讲者无备",
+  "url": "https://www.atlassian.com/zh/blog/teamwork/how-to-create-better-all-hands-meetings",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 全员会反面陷阱（单向广播/宣传机器甩锅/攻击竞品/内部梗劈圈/讲者无备），每条都是「显得不走心」的隐性减分。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "万人全员大会直播·全球同步+多语纪要+合规",
+  "normKey": "万人全员大会直播全球同步多语纪要合规",
+  "url": "https://365.wps.cn/content/f8a30ff270564087839dcc10467e6c82.html",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 万人全员大会企业级直播（全球同步/多语纪要/合规白名单水印/提问预审/自动归档），24h 信息直达一线、差旅培训成本大降。",
+  "topic": "staff-meeting"
+ },
+ {
+  "title": "政府机关「领导班子定期务虚研讨制度」四步法（一主题+一学习+一调研+一研讨）",
+  "normKey": "政府机关领导班子定期务虚研讨制度四步法一主题一学习一调研一研讨",
+  "url": "https://www.sg.gov.cn/fgj/gkmlpt/content/0/438/post_438838.html",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "适用：高管间 — 把 offsite 从「一次性活动」升级为**写进制度的固定机制**的中文一手范本。韶关市发改局党组发文规定：每年两次务虚研讨（上半年第一季度、下半年第三季度），主体为领导班子成员，按务虚内容让相关科室与下属单位主要负责人**列席**（不是全员）。核心是「四个一」闭环：① 确定一个主题——紧扣中心工作与当前迫切需解决的重大问题和突出矛盾，明确要求「主题要集中、有针对性，防止面面俱到和内容空泛」；②",
+  "topic": "offsite"
+ },
+ {
+  "title": "务虚会的权力边界：不是决策机构、不替代常委会做决策（会前定 2-3 个议题）",
+  "normKey": "务虚会的权力边界不是决策机构不替代常委会做决策会前定23个议题",
+  "url": "https://dzb.sxct.edu.cn/info/1006/1681.htm",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "适用：高管间 — 高管 offsite 最常见的翻车方式有两种：一种是开完什么都没定，另一种是**越权定了不该在这定的事**，回去被正式会议推翻，信任崩塌。山西工学院校领导班子务虚会制度用一条硬条款划清边界：**「务虚会不是一级决策机构，不代替党委常委会、校长办公会做出决策」**。它的定位是「拓宽视野、注重谋划，树立全局性/系统性/前瞻性/科学性战略思维的重要平台」——达成共识、确立原则、制定计划、提出目标，但把最",
+  "topic": "offsite"
+ },
+ {
+  "title": "务虚会保密性设计：不出纪要、不作决策、不宣传报道（研讨成果单线上报）",
+  "normKey": "务虚会保密性设计不出纪要不作决策不宣传报道研讨成果单线上报",
+  "url": "http://www.gnzrmzf.gov.cn/info/1931/23492.htm",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "适用：高管间 — 高管 offsite 想要真话，就必须先解决「说了会被记录、被传出去、被当成表态」的恐惧。甘南藏族自治州人民政府务虚会议制度给了一条极其干净的设计：**「州政府务虚会议不出纪要，不作决策，不宣传报道。会议研讨成果向州委报告，抄送州人大常委会、州政协，必要时可在州政府全体会议上通报。」** 三个\"不\"把现场变成真正的安全屋，同时用\"成果单线上报 + 必要时通报\"保证不是白开——信息有出口，但不是逐字",
+  "topic": "offsite"
+ },
+ {
+  "title": "公司行为准则里的 offsite 酒精条款：管理者有义务营造「不鼓励过量饮酒」的场",
+  "normKey": "公司行为准则里的offsite酒精条款管理者有义务营造不鼓励过量饮酒的场",
+  "url": "https://ir.applieddigital.com/_assets/_1bb24339cb16920d1911758b44cc2380/appliedblockchaininc/db/2915/27045/file/APLD+-+Code+of+Conduct+%28Adopted+April+2024%29.pdf",
+  "sourceType": "primary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 多数公司的 offsite 都有酒，但很少有人把「谁负责」写清楚。Applied Digital 上市公司行为准则（2024 年 4 月董事会通过）给出一手条文范本，且**点名 offsite**：「在工作中、开展业务或参加公司相关活动时（无论现场还是 offsite）不得过量饮酒；**所有领导者都被要求营造出团队、活动、offsite 与环境是\"不鼓励过量饮用酒精或其他致醉物\"的**；管理者与团",
+  "topic": "offsite"
+ },
+ {
+  "title": "公司活动供酒政策模板（8 条硬约束：不自助取酒·持牌场所·限时供酒·提前 1h 停供）",
+  "normKey": "公司活动供酒政策模板8条硬约束不自助取酒持牌场所限时供酒提前1h停供",
+  "url": "https://ohsinsider.com/consumption-of-alcohol-at-company-functions-policy/?print=print",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 一份可直接改名落地的公司活动酒精政策全文模板，覆盖 offsite、年会、客户招待、退休/周年会、公司烧烤、年度表彰会。核心 8 条硬约束：① 供酒须**事先获得活动负责的公司官方批准**，批准后该管理者对员工与客人的合规负**最终责任**；② 办公室与作业区不得供酒，仅限餐厅/休息室/餐吧等指定区域；③ **严禁自助取酒**——酒可以提供，但必须由人服务，员工不得自取；④ 公司不供酒时员工**不",
+  "topic": "offsite"
+ },
+ {
+  "title": "团建受伤谁担责：强制出席 vs 自愿、雇主控制度、免责书、第三方供应商五因子",
+  "normKey": "团建受伤谁担责强制出席vs自愿雇主控制度免责书第三方供应商五因子",
+  "url": "https://alanripka.com/corporate-retreat-injuries-when-team-building-events-turn-into-liability-nightmares",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — offsite 的高风险来源恰恰是它\"看起来像玩\"：新场地、户外挑战、饮酒、晚间时段，让\"工作\"与\"娱乐\"边界模糊。律所实务总结出法院与保险公司审查责任归属的**五个关键因子**：① 出席是**强制还是自愿**（强制或强烈鼓励，事故极可能被认定为工伤/工作相关）；② 雇主对策划与监督的**控制程度**（出资、监督、排期越深，责任越重）；③ 是否存在**免责/弃权书**（可对抗一般过失，但多数司法辖",
+  "topic": "offsite"
+ },
+ {
+  "title": "海外/异地 offsite 保险清单：雇主责任+公共责任+商旅险+活动险四层，高风险活动清单",
+  "normKey": "海外异地offsite保险清单雇主责任公共责任商旅险活动险四层高风险活动清单",
+  "url": "https://campfire-company.com/blog/company-retreat-insurance-how-to-protect-your-team-and-events-abroad",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "适用：上下级 — 异地/出境 offsite 常见的三个\"万一\"：万一弄坏场地设施、万一场地方违约、万一有人在境外受伤。对应的是**四层保险**：多数公司已有的①雇主责任险（覆盖员工工作相关伤病索赔）与②公共责任险（第三方索赔），再加上通常必须**额外加买**的③商务旅行险（覆盖行程中员工健康、责任与活动）与④活动险（覆盖活动/场地期间的责任，含事故与**取消**）。频繁出行的团队买年度多次险比单次险更划算。必须逐",
+  "topic": "offsite"
+ }
 ]
