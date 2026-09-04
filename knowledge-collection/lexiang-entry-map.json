@@ -1,1122 +1,1128 @@
 {
- "staff-meeting": {
-  "folder_id": "a753a4ebc526495c9e9b2e2fb3cac314",
-  "wall": {
-   "entry_id": "f3b5ea59395e49ca859f8726142742c2",
-   "file_id": "a1415122f8034d8d988fb06e41be44ac",
-   "name": "staff-meeting.html"
+  "staff-meeting": {
+    "folder_id": "a753a4ebc526495c9e9b2e2fb3cac314",
+    "wall": {
+      "entry_id": "f3b5ea59395e49ca859f8726142742c2",
+      "file_id": "a1415122f8034d8d988fb06e41be44ac",
+      "name": "staff-meeting.html"
+    },
+    "rounds": [
+      {
+        "date": "2026-08-11",
+        "entry_id": "af3113ee47b14b74a76d9b057bfe244c",
+        "name": "员工大会-20260811",
+        "note": "初始全量页（改造前遗留，作为首轮）"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "f6d9b60cc79a4963aecc54bc0f036392",
+        "name": "staff-meeting-R1_20260807.html",
+        "note": "轮次页 R1 (+12) 测试上传"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "d305438f0d8b45859b22272dbe225fb6",
+        "name": "staff-meeting-R2_20260807.html",
+        "note": "轮次页 R2 (+1)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "03950bb7c7ed4a359a920f38023ae618",
+        "name": "staff-meeting-R3_20260807.html",
+        "note": "轮次页 R3 (+4)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "11054942799c4fffb920fa5915e3e155",
+        "name": "staff-meeting-R4_20260808.html",
+        "note": "轮次页 R4 (+10)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "d515c1a167f04a74826d9b9b37a234d6",
+        "name": "staff-meeting-R5_20260809.html",
+        "note": "轮次页 R5 (+8)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "c14e35d73b4d4ed180a63607e9140a98",
+        "name": "staff-meeting-R6_20260809.html",
+        "note": "轮次页 R6 (+10)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "da26d854bd044edba0b7f3ac07cea657",
+        "name": "staff-meeting-R7_20260810.html",
+        "note": "轮次页 R7 (+17)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "41d326c712254aacbd52f008cd402d27",
+        "name": "staff-meeting-R8_20260810.html",
+        "note": "轮次页 R8 (+11)"
+      },
+      {
+        "date": "2026-08-11",
+        "entry_id": "744b27a960df48418ccfbaa898be024c",
+        "name": "staff-meeting-2026-08-11-r10.html",
+        "note": "轮次页 R10 (+12)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "2e2d134ea2944145a42a45690a426ece",
+        "name": "staff-meeting-2026-08-12-r11.html",
+        "note": "轮次页 R11 (+11)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "edad6feafea14369bc0d4b0196f58aad",
+        "name": "staff-meeting-2026-08-13-r12.html",
+        "note": "轮次页 R12 (+13)"
+      },
+      {
+        "round": "r13",
+        "date": "2026-08-13",
+        "entry_id": "da9db485497d4866b7e93f312f829ee5",
+        "name": "staff-meeting-2026-08-13-r13.html"
+      },
+      {
+        "round": "r14",
+        "date": "2026-08-14",
+        "entry_id": "2d44b9e880664a15a151e441799c6df1",
+        "name": "staff-meeting-2026-08-14-r14.html",
+        "note": "轮次页 R14 (+11)"
+      },
+      {
+        "round": "r15",
+        "date": "2026-08-15",
+        "entry_id": "d520a22598134c6a96ada035ed58fd79",
+        "name": "staff-meeting-2026-08-15-r15.html",
+        "note": "轮次页 R15 (+12)"
+      },
+      {
+        "round": "r16",
+        "date": "2026-08-16",
+        "entry_id": "4c3ff313d31642058888c6ecb7447b55",
+        "name": "staff-meeting-2026-08-16-r16.html",
+        "note": "轮次页 R16 (+11)"
+      },
+      {
+        "date": "2026-08-16",
+        "entry_id": "01134ff1374e481980c3a03481e3c4aa",
+        "name": "staff-meeting-2026-08-16-r17.html",
+        "note": "轮次页 R17 (+10)"
+      },
+      {
+        "round": "r18",
+        "date": "2026-08-17",
+        "entry_id": "0eaf7aaeffdb44efbbd3e2b2ab94fad6",
+        "name": "staff-meeting-2026-08-17-r18.html",
+        "note": "轮次页 R18 (+11)"
+      },
+      {
+        "round": "r19",
+        "date": "2026-08-18",
+        "entry_id": "9b29f7a89b774806ac89376afa8faca7",
+        "name": "staff-meeting-2026-08-18-r19.html",
+        "note": "轮次页 R19 (+10)"
+      },
+      {
+        "date": "2026-08-19",
+        "entry_id": "73c874d1e1bb499cad162b2c447d8d99",
+        "name": "staff-meeting-2026-08-19-r20.html",
+        "note": "轮次页 R20 (+9)"
+      },
+      {
+        "date": "2026-08-20",
+        "entry_id": "31ce1c77bebc4c519f1caba35dc90703",
+        "name": "staff-meeting-20260820.html",
+        "note": "轮次页 R21 (+10)"
+      },
+      {
+        "date": "2026-08-21",
+        "entry_id": "37a78ca83f6e434290b90c187f93bf58",
+        "name": "staff-meeting-2026-08-21-r22.html",
+        "note": "轮次页 R22 (+16)｜新建模式，落员工大会子文件夹 a753a4eb"
+      },
+      {
+        "round": "r23",
+        "date": "2026-08-22",
+        "entry_id": "23a0fe6752c949168c653cf615bafdb3",
+        "name": "staff-meeting-2026-08-22-r23.html",
+        "note": "轮次页 R23 (+10)｜新建模式，落员工大会子文件夹 a753a4eb"
+      },
+      {
+        "date": "2026-08-23",
+        "entry_id": "89380cd02e3b4549addf27b82b0bd1d9",
+        "name": "staff-meeting-2026-08-23-r24.html"
+      },
+      {
+        "date": "20260826",
+        "entry_id": null,
+        "name": "staff-meeting-20260826.html",
+        "note": "轮次 R27 (+11：3③+8②)｜乐享待补传（token 过期/网络，待重连后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "staff-meeting-2026-08-27-r28.html",
+        "note": "轮次页 R28 (+15) · 待补传(token 401 过期)"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "staff-meeting-2026-09-02-r30.html",
+        "note": "轮次页 R30 (+7)｜乐享待补传（mcp.json lxmcp_ token 401 过期/断开，待重配后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "staff-meeting-20260902",
+        "note": "R31 增量页（乐享 token 401，待重连后补传）"
+      },
+      {
+        "date": "2026-09-03",
+        "entry_id": null,
+        "name": "staff-meeting-20260903",
+        "note": "R34 增量页（乐享 token 401，待重连后补传）"
+      },
+      {
+        "date": "2026-09-04",
+        "entry_id": null,
+        "name": "staff-meeting-20260904",
+        "note": "轮次页 R35 (+12：2③高管间+10②上下级，2一手+10二手)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
+      }
+    ]
   },
-  "rounds": [
-   {
-    "date": "2026-08-11",
-    "entry_id": "af3113ee47b14b74a76d9b057bfe244c",
-    "name": "员工大会-20260811",
-    "note": "初始全量页（改造前遗留，作为首轮）"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "f6d9b60cc79a4963aecc54bc0f036392",
-    "name": "staff-meeting-R1_20260807.html",
-    "note": "轮次页 R1 (+12) 测试上传"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "d305438f0d8b45859b22272dbe225fb6",
-    "name": "staff-meeting-R2_20260807.html",
-    "note": "轮次页 R2 (+1)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "03950bb7c7ed4a359a920f38023ae618",
-    "name": "staff-meeting-R3_20260807.html",
-    "note": "轮次页 R3 (+4)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "11054942799c4fffb920fa5915e3e155",
-    "name": "staff-meeting-R4_20260808.html",
-    "note": "轮次页 R4 (+10)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "d515c1a167f04a74826d9b9b37a234d6",
-    "name": "staff-meeting-R5_20260809.html",
-    "note": "轮次页 R5 (+8)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "c14e35d73b4d4ed180a63607e9140a98",
-    "name": "staff-meeting-R6_20260809.html",
-    "note": "轮次页 R6 (+10)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "da26d854bd044edba0b7f3ac07cea657",
-    "name": "staff-meeting-R7_20260810.html",
-    "note": "轮次页 R7 (+17)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "41d326c712254aacbd52f008cd402d27",
-    "name": "staff-meeting-R8_20260810.html",
-    "note": "轮次页 R8 (+11)"
-   },
-   {
-    "date": "2026-08-11",
-    "entry_id": "744b27a960df48418ccfbaa898be024c",
-    "name": "staff-meeting-2026-08-11-r10.html",
-    "note": "轮次页 R10 (+12)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "2e2d134ea2944145a42a45690a426ece",
-    "name": "staff-meeting-2026-08-12-r11.html",
-    "note": "轮次页 R11 (+11)"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "edad6feafea14369bc0d4b0196f58aad",
-    "name": "staff-meeting-2026-08-13-r12.html",
-    "note": "轮次页 R12 (+13)"
-   },
-   {
-    "round": "r13",
-    "date": "2026-08-13",
-    "entry_id": "da9db485497d4866b7e93f312f829ee5",
-    "name": "staff-meeting-2026-08-13-r13.html"
-   },
-   {
-    "round": "r14",
-    "date": "2026-08-14",
-    "entry_id": "2d44b9e880664a15a151e441799c6df1",
-    "name": "staff-meeting-2026-08-14-r14.html",
-    "note": "轮次页 R14 (+11)"
-   },
-   {
-    "round": "r15",
-    "date": "2026-08-15",
-    "entry_id": "d520a22598134c6a96ada035ed58fd79",
-    "name": "staff-meeting-2026-08-15-r15.html",
-    "note": "轮次页 R15 (+12)"
-   },
-   {
-    "round": "r16",
-    "date": "2026-08-16",
-    "entry_id": "4c3ff313d31642058888c6ecb7447b55",
-    "name": "staff-meeting-2026-08-16-r16.html",
-    "note": "轮次页 R16 (+11)"
-   },
-   {
-    "date": "2026-08-16",
-    "entry_id": "01134ff1374e481980c3a03481e3c4aa",
-    "name": "staff-meeting-2026-08-16-r17.html",
-    "note": "轮次页 R17 (+10)"
-   },
-   {
-    "round": "r18",
-    "date": "2026-08-17",
-    "entry_id": "0eaf7aaeffdb44efbbd3e2b2ab94fad6",
-    "name": "staff-meeting-2026-08-17-r18.html",
-    "note": "轮次页 R18 (+11)"
-   },
-   {
-    "round": "r19",
-    "date": "2026-08-18",
-    "entry_id": "9b29f7a89b774806ac89376afa8faca7",
-    "name": "staff-meeting-2026-08-18-r19.html",
-    "note": "轮次页 R19 (+10)"
-   },
-   {
-    "date": "2026-08-19",
-    "entry_id": "73c874d1e1bb499cad162b2c447d8d99",
-    "name": "staff-meeting-2026-08-19-r20.html",
-    "note": "轮次页 R20 (+9)"
-   },
-   {
-    "date": "2026-08-20",
-    "entry_id": "31ce1c77bebc4c519f1caba35dc90703",
-    "name": "staff-meeting-20260820.html",
-    "note": "轮次页 R21 (+10)"
-   },
-   {
-    "date": "2026-08-21",
-    "entry_id": "37a78ca83f6e434290b90c187f93bf58",
-    "name": "staff-meeting-2026-08-21-r22.html",
-    "note": "轮次页 R22 (+16)｜新建模式，落员工大会子文件夹 a753a4eb"
-   },
-   {
-    "round": "r23",
-    "date": "2026-08-22",
-    "entry_id": "23a0fe6752c949168c653cf615bafdb3",
-    "name": "staff-meeting-2026-08-22-r23.html",
-    "note": "轮次页 R23 (+10)｜新建模式，落员工大会子文件夹 a753a4eb"
-   },
-   {
-    "date": "2026-08-23",
-    "entry_id": "89380cd02e3b4549addf27b82b0bd1d9",
-    "name": "staff-meeting-2026-08-23-r24.html"
-   },
-   {
-    "date": "20260826",
-    "entry_id": null,
-    "name": "staff-meeting-20260826.html",
-    "note": "轮次 R27 (+11：3③+8②)｜乐享待补传（token 过期/网络，待重连后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-27",
-    "entry_id": null,
-    "name": "staff-meeting-2026-08-27-r28.html",
-    "note": "轮次页 R28 (+15) · 待补传(token 401 过期)"
-   },
-   {
-    "date": "2026-09-02",
-    "entry_id": null,
-    "name": "staff-meeting-2026-09-02-r30.html",
-    "note": "轮次页 R30 (+7)｜乐享待补传（mcp.json lxmcp_ token 401 过期/断开，待重配后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-09-02",
-    "entry_id": null,
-    "name": "staff-meeting-20260902",
-    "note": "R31 增量页（乐享 token 401，待重连后补传）"
-   },
-   {
-    "date": "2026-09-03",
-    "entry_id": null,
-    "name": "staff-meeting-20260903",
-    "note": "R34 增量页（乐享 token 401，待重连后补传）"
-   },
-   {
-    "date": "2026-09-04",
-    "entry_id": null,
-    "name": "staff-meeting-20260904",
-    "note": "轮次页 R35 (+12：2③高管间+10②上下级，2一手+10二手)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
-   }
-  ]
- },
- "offsite": {
-  "folder_id": "463f5f5387de4a9bb87b773aef79767b",
-  "rounds": [
-   {
-    "date": "2026-08-11",
-    "entry_id": "21975983edbb44208260c10cc89f5925",
-    "name": "Offsite-20260811",
-    "note": "初始全量页（改造前遗留，作为首轮）"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "22645c8c0ecf49acba475ab3793a76e4",
-    "name": "offsite-R1_20260807.html",
-    "note": "轮次页 R1 (+15)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "c4ebf8a49fbd44c488927c812fd1707a",
-    "name": "offsite-R2_20260807.html",
-    "note": "轮次页 R2 (+2)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "ee477aa31623406cae5ffc7a24e68784",
-    "name": "offsite-R3_20260808.html",
-    "note": "轮次页 R3 (+10)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "3be10612d52a4ef2b5b4007288fd1e40",
-    "name": "offsite-R4_20260809.html",
-    "note": "轮次页 R4 (+8)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "d584877389a1475a97700fbe13db9387",
-    "name": "offsite-R5_20260809.html",
-    "note": "轮次页 R5 (+4)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "f73e94d099374182bd5c8090918c0e9e",
-    "name": "offsite-R6_20260810.html",
-    "note": "轮次页 R6 (+3)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "f11956e54e1e436789947a5e18490fbc",
-    "name": "offsite-R7_20260810.html",
-    "note": "轮次页 R7 (+10)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "08e7151a3bd145109c68bd7da8daef6e",
-    "name": "offsite-R8_20260810.html",
-    "note": "轮次页 R8 (+6)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "a5f8860d406c45aeab1e46d7f1b5e5f8",
-    "name": "offsite-20260812.html",
-    "note": "轮次页 R9 (+5)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "4c2a7b5716fa4172a9344aedfeef5ea6",
-    "name": "offsite-20260812b.html",
-    "note": "轮次页 R10 (+9)"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "cc8a22a5f32b42dcb47a30d1fc203e10",
-    "name": "offsite-20260813.html",
-    "note": "轮次页·十一轮 enrich (+6)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "cfd2fa7906a14d1a8df1b736dc0a402a",
-    "name": "offsite-20260814.html",
-    "note": "轮次页 (+10)"
-   },
-   {
-    "date": "20260815",
-    "entry_id": "88677e296665400d89b4b3116d295bdb",
-    "name": "offsite-20260815.html",
-    "note": "轮次页·十四轮 enrich (+6)"
-   },
-   {
-    "date": "20260816",
-    "entry_id": "55afce65827341a6ac08f6a5c72b7cbd",
-    "name": "offsite-20260816.html",
-    "note": "轮次页·十五轮 enrich (+6)"
-   },
-   {
-    "date": "20260817",
-    "entry_id": "9d3994e25a284bd1adaa9bc4b6e73a39",
-    "name": "offsite-20260817.html",
-    "note": "轮次页 R17 (+6)"
-   },
-   {
-    "date": "2026-08-17",
-    "entry_id": "64e9e5facd5e466ebec610449aaafe19",
-    "name": "offsite-20260817b.html"
-   },
-   {
-    "date": "2026-08-18",
-    "entry_id": "ef9710c55a4b4931a9739cc13663094e",
-    "name": "offsite-20260818.html",
-    "note": "轮次页 R18 (+3)"
-   },
-   {
-    "date": "20260819",
-    "entry_id": "c95d935394074b4686486236d0d4f371",
-    "name": "offsite-20260819.html"
-   },
-   {
-    "date": "2026-08-20",
-    "entry_id": "e6576d5e3f63422abd80f45bb7f3f12d",
-    "name": "offsite-20260820.html",
-    "note": "轮次页 R20 (+6)"
-   },
-   {
-    "date": "2026-08-21",
-    "entry_id": "d90fff5eafb945e881cfc4f92553d30f",
-    "name": "offsite-20260821.html",
-    "note": "轮次页 R21 (+11)"
-   },
-   {
-    "date": "2026-08-22",
-    "entry_id": "1ef6f9d06520420bbedc521096c1244f",
-    "name": "offsite-20260822.html",
-    "note": "轮次页 R22 (+6)"
-   },
-   {
-    "date": "2026-08-23",
-    "entry_id": "58c44b93c4be474081ed9c0bdadc8d28",
-    "name": "offsite-2026-08-23-r23.html",
-    "note": "轮次页 R23 (+10)"
-   },
-   {
-    "date": "2026-08-25",
-    "entry_id": null,
-    "name": "offsite-2026-08-25-r27.html",
-    "note": "轮次页 R27（+17：早前预置 7 卡 + 本轮执行 10 卡）｜上传待补（token 过期，待重连乐享 MCP 后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-27",
-    "entry_id": null,
-    "name": "offsite-2026-08-27-r28.html",
-    "note": "轮次页 R28（+14：高管 retreat 2026趋势/制作框架/战略务虚/董事会治理/团队建设 + 经理层两日对齐/活动菜单/个人发展/远程灵感）｜上传待补（乐享 MCP 不可用/token 过期，待重连后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-28",
-    "entry_id": null,
-    "name": "offsite-2026-08-28-r29.html",
-    "note": "轮次页 R29（+5：中国法组织者安全保障义务/自甘风险、场地议价7杠杆、场地选型评分矩阵、Offsite工具栈、新CEO务虚愿景共建Retreat）｜上传待补（乐享 MCP token 401 过期，待重连后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-28",
-    "entry_id": null,
-    "name": "offsite-20260828.html",
-    "note": "轮次页 R30（+5：GitLab E-Group 季度4天 Offsite/敏感战略会议数据保密治理/领导力·高管 Offsite ROI 度量/中层团队 Offsite 协作练习/虚拟团队 Offsite）｜上传待补（乐享 MCP token 401 过期，待重连后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-09-02",
-    "entry_id": null,
-    "name": "offsite-20260902.html",
-    "note": "轮次页 R31 (+8：4③高管间+4②上下级，全二手，待上传)"
-   },
-   {
-    "date": "2026-09-05",
-    "entry_id": null,
-    "name": "offsite-20260905.html",
-    "note": "轮次页 R35 (+10：5③高管间+5②上下级)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
-   }
-  ]
- },
- "icebreaker": {
-  "folder_id": "f51480b0cfac4857bc28495b151c624f",
-  "rounds": [
-   {
-    "date": "2026-08-07",
-    "entry_id": "d6910256c1564ca19065240f2905eadd",
-    "name": "icebreaker-R1_20260807.html",
-    "note": "轮次页 R1 (+14)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "eb23efa800cb424381a2ad22fa47f339",
-    "name": "icebreaker-R2_20260807.html",
-    "note": "轮次页 R2 (+7)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "82561f4e69424ec2b0ff37e3b0d9ab48",
-    "name": "icebreaker-R3_20260808.html",
-    "note": "轮次页 R3 (+6)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "3bf180c97dd44bbc84d42067c3eeafac",
-    "name": "icebreaker-R4_20260809.html",
-    "note": "轮次页 R4 (+8)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "d19b4ed4cf5a4799894d6c3319cba251",
-    "name": "icebreaker-R5_20260810.html",
-    "note": "轮次页 R5 (+9)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "42c75851c1794da09ebb6ec84ccb19bb",
-    "name": "icebreaker-R6_20260810.html",
-    "note": "轮次页 R6 (+7)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
-    "file_id": "dd8b8a98d361450d8685c693e1527b6a",
-    "name": "icebreaker-2026-08-12-r8.html",
-    "note": "轮次页 R8 (+11)｜更新模式重传 file_id 已回填"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "a3a01f81f16a432086057ba75883836a",
-    "name": "icebreaker-2026-08-13-r9.html",
-    "note": "轮次页 R9 (+7)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
-    "name": "icebreaker-20260814.html",
-    "note": "轮次页 R10 (+7｜修正：替换误产12重复卡)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "4be7e25287674b70b7702e53a218f821",
-    "name": "icebreaker-2026-08-14-r11.html",
-    "note": "轮次页 R11 (+11)"
-   },
-   {
-    "date": "2026-08-15",
-    "entry_id": "e4e86eb77de34c51a7798d53d8e9d7f3",
-    "name": "icebreaker-2026-08-15-r12.html",
-    "note": "轮次页 R12 (+9)"
-   },
-   {
-    "round": "r13",
-    "date": "2026-08-16",
-    "entry_id": "c0d6ce65d6da4d0a879e57852aa6582e",
-    "name": "icebreaker-2026-08-16-r13.html",
-    "note": "轮次页 R13 (+11)"
-   },
-   {
-    "round": "r14",
-    "date": "2026-08-17",
-    "entry_id": "ca90b0c430f74aa2a0ea406d131f2e16",
-    "name": "icebreaker-2026-08-17-r14.html",
-    "note": "轮次页 R14 (+13)"
-   },
-   {
-    "round": "r15",
-    "date": "2026-08-18",
-    "entry_id": "556be0934e3b4c80b3a8e5b71f7e93b2",
-    "name": "icebreaker-2026-08-18-r15.html",
-    "note": "轮次页 R15 (+8)"
-   },
-   {
-    "round": "r17",
-    "date": "2026-08-19",
-    "entry_id": "4bdf090b23fc474a987754b8146d9f37",
-    "name": "icebreaker-2026-08-19-r17.html",
-    "note": "轮次页 R17 (+11)"
-   },
-   {
-    "round": "r18",
-    "date": "2026-08-20",
-    "entry_id": "267bfad0ecf543f788ad2010aa0c50d9",
-    "name": "icebreaker-2026-08-20-r18.html",
-    "note": "轮次页 R18 (+12)"
-   },
-   {
-    "date": "2026-08-21",
-    "entry_id": "b76f34656331441b9e0026b2782e0d7f",
-    "name": "icebreaker-2026-08-21-r19.html",
-    "note": "轮次页 R19 (+7)"
-   },
-   {
-    "date": "2026-08-22",
-    "entry_id": "3881decc44554c9a87f622ecb752e297",
-    "name": "icebreaker-2026-08-22-r20.html",
-    "note": "轮次页 R20 (+8)"
-   },
-   {
-    "date": "2026-08-23",
-    "entry_id": "322d057d18514ea0ae2e5ebd542058c7",
-    "name": "icebreaker-2026-08-23-r21.html",
-    "note": "轮次页 R21 (+10)"
-   },
-   {
-    "date": "2026-08-25",
-    "entry_id": null,
-    "name": "icebreaker-2026-08-25.html",
-    "note": "轮次页 R23 (+11) · 待补传(乐享 mcp token 过期 2026-07-27 起)"
-   },
-   {
-    "date": "2026-09-01",
-    "entry_id": null,
-    "name": "icebreaker-20260901.html",
-    "note": "轮次页 R26 (+9)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
-   },
-   {
-    "date": "2026-09-02",
-    "entry_id": null,
-    "name": "icebreaker-20260902.html",
-    "note": "轮次页 R28 (+13)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
-   },
-   {
-    "date": "2026-09-03",
-    "entry_id": null,
-    "name": "icebreaker-20260903.html",
-    "note": "轮次页 R29 (+9：3③高管间+6②上下级)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
-   },
-   {
-    "date": "2026-09-04",
-    "entry_id": null,
-    "name": "icebreaker-20260904.html",
-    "note": "轮次页 R30 (+10：4③高管间+6②上下级)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
-   }
-  ],
-  "wall": {
-   "entry_id": "637b3b31280140349221fbe6fa4e08ed",
-   "file_id": "3c5c841631e54e1bb56474afc95af1b6",
-   "name": "icebreaker.html",
-   "note": "R21 累计墙（193卡）in-place 更新"
+  "offsite": {
+    "folder_id": "463f5f5387de4a9bb87b773aef79767b",
+    "rounds": [
+      {
+        "date": "2026-08-11",
+        "entry_id": "21975983edbb44208260c10cc89f5925",
+        "name": "Offsite-20260811",
+        "note": "初始全量页（改造前遗留，作为首轮）"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "22645c8c0ecf49acba475ab3793a76e4",
+        "name": "offsite-R1_20260807.html",
+        "note": "轮次页 R1 (+15)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "c4ebf8a49fbd44c488927c812fd1707a",
+        "name": "offsite-R2_20260807.html",
+        "note": "轮次页 R2 (+2)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "ee477aa31623406cae5ffc7a24e68784",
+        "name": "offsite-R3_20260808.html",
+        "note": "轮次页 R3 (+10)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "3be10612d52a4ef2b5b4007288fd1e40",
+        "name": "offsite-R4_20260809.html",
+        "note": "轮次页 R4 (+8)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "d584877389a1475a97700fbe13db9387",
+        "name": "offsite-R5_20260809.html",
+        "note": "轮次页 R5 (+4)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "f73e94d099374182bd5c8090918c0e9e",
+        "name": "offsite-R6_20260810.html",
+        "note": "轮次页 R6 (+3)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "f11956e54e1e436789947a5e18490fbc",
+        "name": "offsite-R7_20260810.html",
+        "note": "轮次页 R7 (+10)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "08e7151a3bd145109c68bd7da8daef6e",
+        "name": "offsite-R8_20260810.html",
+        "note": "轮次页 R8 (+6)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "a5f8860d406c45aeab1e46d7f1b5e5f8",
+        "name": "offsite-20260812.html",
+        "note": "轮次页 R9 (+5)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "4c2a7b5716fa4172a9344aedfeef5ea6",
+        "name": "offsite-20260812b.html",
+        "note": "轮次页 R10 (+9)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "cc8a22a5f32b42dcb47a30d1fc203e10",
+        "name": "offsite-20260813.html",
+        "note": "轮次页·十一轮 enrich (+6)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "cfd2fa7906a14d1a8df1b736dc0a402a",
+        "name": "offsite-20260814.html",
+        "note": "轮次页 (+10)"
+      },
+      {
+        "date": "20260815",
+        "entry_id": "88677e296665400d89b4b3116d295bdb",
+        "name": "offsite-20260815.html",
+        "note": "轮次页·十四轮 enrich (+6)"
+      },
+      {
+        "date": "20260816",
+        "entry_id": "55afce65827341a6ac08f6a5c72b7cbd",
+        "name": "offsite-20260816.html",
+        "note": "轮次页·十五轮 enrich (+6)"
+      },
+      {
+        "date": "20260817",
+        "entry_id": "9d3994e25a284bd1adaa9bc4b6e73a39",
+        "name": "offsite-20260817.html",
+        "note": "轮次页 R17 (+6)"
+      },
+      {
+        "date": "2026-08-17",
+        "entry_id": "64e9e5facd5e466ebec610449aaafe19",
+        "name": "offsite-20260817b.html"
+      },
+      {
+        "date": "2026-08-18",
+        "entry_id": "ef9710c55a4b4931a9739cc13663094e",
+        "name": "offsite-20260818.html",
+        "note": "轮次页 R18 (+3)"
+      },
+      {
+        "date": "20260819",
+        "entry_id": "c95d935394074b4686486236d0d4f371",
+        "name": "offsite-20260819.html"
+      },
+      {
+        "date": "2026-08-20",
+        "entry_id": "e6576d5e3f63422abd80f45bb7f3f12d",
+        "name": "offsite-20260820.html",
+        "note": "轮次页 R20 (+6)"
+      },
+      {
+        "date": "2026-08-21",
+        "entry_id": "d90fff5eafb945e881cfc4f92553d30f",
+        "name": "offsite-20260821.html",
+        "note": "轮次页 R21 (+11)"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "1ef6f9d06520420bbedc521096c1244f",
+        "name": "offsite-20260822.html",
+        "note": "轮次页 R22 (+6)"
+      },
+      {
+        "date": "2026-08-23",
+        "entry_id": "58c44b93c4be474081ed9c0bdadc8d28",
+        "name": "offsite-2026-08-23-r23.html",
+        "note": "轮次页 R23 (+10)"
+      },
+      {
+        "date": "2026-08-25",
+        "entry_id": null,
+        "name": "offsite-2026-08-25-r27.html",
+        "note": "轮次页 R27（+17：早前预置 7 卡 + 本轮执行 10 卡）｜上传待补（token 过期，待重连乐享 MCP 后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "offsite-2026-08-27-r28.html",
+        "note": "轮次页 R28（+14：高管 retreat 2026趋势/制作框架/战略务虚/董事会治理/团队建设 + 经理层两日对齐/活动菜单/个人发展/远程灵感）｜上传待补（乐享 MCP 不可用/token 过期，待重连后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "offsite-2026-08-28-r29.html",
+        "note": "轮次页 R29（+5：中国法组织者安全保障义务/自甘风险、场地议价7杠杆、场地选型评分矩阵、Offsite工具栈、新CEO务虚愿景共建Retreat）｜上传待补（乐享 MCP token 401 过期，待重连后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "offsite-20260828.html",
+        "note": "轮次页 R30（+5：GitLab E-Group 季度4天 Offsite/敏感战略会议数据保密治理/领导力·高管 Offsite ROI 度量/中层团队 Offsite 协作练习/虚拟团队 Offsite）｜上传待补（乐享 MCP token 401 过期，待重连后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "offsite-20260902.html",
+        "note": "轮次页 R31 (+8：4③高管间+4②上下级，全二手，待上传)"
+      },
+      {
+        "date": "2026-09-05",
+        "entry_id": null,
+        "name": "offsite-20260905.html",
+        "note": "轮次页 R35 (+10：5③高管间+5②上下级)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
+      }
+    ]
+  },
+  "icebreaker": {
+    "folder_id": "f51480b0cfac4857bc28495b151c624f",
+    "rounds": [
+      {
+        "date": "2026-08-07",
+        "entry_id": "d6910256c1564ca19065240f2905eadd",
+        "name": "icebreaker-R1_20260807.html",
+        "note": "轮次页 R1 (+14)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "eb23efa800cb424381a2ad22fa47f339",
+        "name": "icebreaker-R2_20260807.html",
+        "note": "轮次页 R2 (+7)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "82561f4e69424ec2b0ff37e3b0d9ab48",
+        "name": "icebreaker-R3_20260808.html",
+        "note": "轮次页 R3 (+6)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "3bf180c97dd44bbc84d42067c3eeafac",
+        "name": "icebreaker-R4_20260809.html",
+        "note": "轮次页 R4 (+8)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "d19b4ed4cf5a4799894d6c3319cba251",
+        "name": "icebreaker-R5_20260810.html",
+        "note": "轮次页 R5 (+9)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "42c75851c1794da09ebb6ec84ccb19bb",
+        "name": "icebreaker-R6_20260810.html",
+        "note": "轮次页 R6 (+7)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "9e57ddb0577b4475acfec46ed9c66fc7",
+        "file_id": "dd8b8a98d361450d8685c693e1527b6a",
+        "name": "icebreaker-2026-08-12-r8.html",
+        "note": "轮次页 R8 (+11)｜更新模式重传 file_id 已回填"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "a3a01f81f16a432086057ba75883836a",
+        "name": "icebreaker-2026-08-13-r9.html",
+        "note": "轮次页 R9 (+7)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "a07b3224c6074ffd9673906d75f8e2f9",
+        "name": "icebreaker-20260814.html",
+        "note": "轮次页 R10 (+7｜修正：替换误产12重复卡)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "4be7e25287674b70b7702e53a218f821",
+        "name": "icebreaker-2026-08-14-r11.html",
+        "note": "轮次页 R11 (+11)"
+      },
+      {
+        "date": "2026-08-15",
+        "entry_id": "e4e86eb77de34c51a7798d53d8e9d7f3",
+        "name": "icebreaker-2026-08-15-r12.html",
+        "note": "轮次页 R12 (+9)"
+      },
+      {
+        "round": "r13",
+        "date": "2026-08-16",
+        "entry_id": "c0d6ce65d6da4d0a879e57852aa6582e",
+        "name": "icebreaker-2026-08-16-r13.html",
+        "note": "轮次页 R13 (+11)"
+      },
+      {
+        "round": "r14",
+        "date": "2026-08-17",
+        "entry_id": "ca90b0c430f74aa2a0ea406d131f2e16",
+        "name": "icebreaker-2026-08-17-r14.html",
+        "note": "轮次页 R14 (+13)"
+      },
+      {
+        "round": "r15",
+        "date": "2026-08-18",
+        "entry_id": "556be0934e3b4c80b3a8e5b71f7e93b2",
+        "name": "icebreaker-2026-08-18-r15.html",
+        "note": "轮次页 R15 (+8)"
+      },
+      {
+        "round": "r17",
+        "date": "2026-08-19",
+        "entry_id": "4bdf090b23fc474a987754b8146d9f37",
+        "name": "icebreaker-2026-08-19-r17.html",
+        "note": "轮次页 R17 (+11)"
+      },
+      {
+        "round": "r18",
+        "date": "2026-08-20",
+        "entry_id": "267bfad0ecf543f788ad2010aa0c50d9",
+        "name": "icebreaker-2026-08-20-r18.html",
+        "note": "轮次页 R18 (+12)"
+      },
+      {
+        "date": "2026-08-21",
+        "entry_id": "b76f34656331441b9e0026b2782e0d7f",
+        "name": "icebreaker-2026-08-21-r19.html",
+        "note": "轮次页 R19 (+7)"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "3881decc44554c9a87f622ecb752e297",
+        "name": "icebreaker-2026-08-22-r20.html",
+        "note": "轮次页 R20 (+8)"
+      },
+      {
+        "date": "2026-08-23",
+        "entry_id": "322d057d18514ea0ae2e5ebd542058c7",
+        "name": "icebreaker-2026-08-23-r21.html",
+        "note": "轮次页 R21 (+10)"
+      },
+      {
+        "date": "2026-08-25",
+        "entry_id": null,
+        "name": "icebreaker-2026-08-25.html",
+        "note": "轮次页 R23 (+11) · 待补传(乐享 mcp token 过期 2026-07-27 起)"
+      },
+      {
+        "date": "2026-09-01",
+        "entry_id": null,
+        "name": "icebreaker-20260901.html",
+        "note": "轮次页 R26 (+9)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "icebreaker-20260902.html",
+        "note": "轮次页 R28 (+13)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-03",
+        "entry_id": null,
+        "name": "icebreaker-20260903.html",
+        "note": "轮次页 R29 (+9：3③高管间+6②上下级)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-04",
+        "entry_id": null,
+        "name": "icebreaker-20260904.html",
+        "note": "轮次页 R30 (+10：4③高管间+6②上下级)｜乐享待补传(token 401 过期，待重配 mcp.json lxmcp_ token 后补传并回填 entry_id)"
+      }
+    ],
+    "wall": {
+      "entry_id": "637b3b31280140349221fbe6fa4e08ed",
+      "file_id": "3c5c841631e54e1bb56474afc95af1b6",
+      "name": "icebreaker.html",
+      "note": "R21 累计墙（193卡）in-place 更新"
+    }
+  },
+  "award": {
+    "folder_id": "f585d1b78510459db0ce807cc9688448",
+    "rounds": [
+      {
+        "date": "2026-08-11",
+        "entry_id": "bafb696e49254f779476a1f167850904",
+        "name": "颁奖-20260811",
+        "note": "初始全量页（改造前遗留，作为首轮）"
+      },
+      {
+        "date": "2026-08-06",
+        "entry_id": "9ab2bf97b0bd4b5ea82ab909d34e5970",
+        "name": "award-R1_20260806.html",
+        "note": "轮次页 R1 (+12)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "614885677f694c87babe98746c6de4e4",
+        "name": "award-R2_20260807.html",
+        "note": "轮次页 R2 (+7)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "b73051f3b9934654a0c043dce8f3d7c2",
+        "name": "award-R3_20260807.html",
+        "note": "轮次页 R3 (+1)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "32929f8d46f248b080c4b1aebbba8a72",
+        "name": "award-R4_20260807.html",
+        "note": "轮次页 R4 (+8)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "c78a8db1e6ed40778916997a8cef1deb",
+        "name": "award-R5_20260808.html",
+        "note": "轮次页 R5 (+6)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "d04f4bb22f4e4fad86810a38c6026e30",
+        "name": "award-R6_20260809.html",
+        "note": "轮次页 R6 (+3)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "1837103fef71430cb8aca88e1e0df988",
+        "name": "award-R7_20260810.html",
+        "note": "轮次页 R7 (+5)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "364dbe6affaa432a976c906c1588fad0",
+        "name": "award-R8_20260810.html",
+        "note": "轮次页 R8 (+9)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "724405b66a7949849e3b11a02b9d810d",
+        "name": "award-R9_20260810.html",
+        "note": "轮次页 R9 (+4)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "69fee095bf5140c081121b28089eb8e8",
+        "name": "award-20260812.html",
+        "note": "轮次页·十轮 enrich (+9)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "270b8b3b817c48398bf4de8b5f949269",
+        "name": "award-20260813.html",
+        "note": "轮次页·十一轮 enrich (+5)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "73a57f0c636347e69af9af0a4cb2fd6d",
+        "name": "award-20260814.html",
+        "note": "轮次页 R12 (+5)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "d7c356e68e1f4276b09ef92cf749904c",
+        "name": "award-20260814b.html",
+        "note": "轮次页 R13 (+7)"
+      },
+      {
+        "date": "2026-08-15",
+        "entry_id": "c6a0bc1e82c84b3cb842340e83e17f87",
+        "name": "award-20260815.html",
+        "note": "轮次页·十四轮 enrich (+6)"
+      },
+      {
+        "date": "20260816",
+        "entry_id": "9223a0b2cc7b4889a4293ad100c2b333",
+        "name": "award-20260816.html"
+      },
+      {
+        "date": "20260817",
+        "entry_id": "47401ce699a241f3b76e50bcbd08e9d7",
+        "name": "award-20260817.html"
+      },
+      {
+        "date": "20260818",
+        "entry_id": "24b9eedec04d417999d518af692a0359",
+        "name": "award-20260818.html"
+      },
+      {
+        "date": "20260818",
+        "entry_id": "91364d78edb9475d9f8f0fd3e0e6096f",
+        "name": "award-20260818b.html"
+      },
+      {
+        "date": "2026-08-19",
+        "entry_id": "7468717d49e34bab8d1da77a2fc45156",
+        "name": "award-20260819.html",
+        "note": "轮次页 R19 (+6：销售精英俱乐部/一线客服认可/AI驱动认可/女性领导表彰/公益志愿者表彰)"
+      },
+      {
+        "date": "2026-08-21",
+        "entry_id": "29b9abfe6a9a4b7eb47e70047a6f9a05",
+        "name": "award-20260821.html",
+        "note": "轮次页 R20 (+4：分布式混合团队经理认可框架/管理者认可话术与公开私下边界/M&A并购期认可桥接/组织变革期认可=转型基础设施)"
+      },
+      {
+        "date": "2026-08-21",
+        "entry_id": "7edd3d7edd0649b88157e2b4604c6d08",
+        "name": "award-20260821b.html",
+        "note": "轮次页 R21 (+6：长期服务里程碑奖/安全零事故班组/创意提案Kaizen/评优公平治理/总裁奖组织级/高管站台式认可)"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "30bd80cf5f0a4d8ab57b912fb7eba0bd",
+        "name": "award-20260822.html",
+        "note": "轮次页 R22 (+6：职工技术创新成果奖政府SOP/一线服务之星表彰/青年岗位能手团中央办法/省长质量奖一把手亲颁/认可ROI测算框架/多元包容DEI表彰)"
+      },
+      {
+        "date": "2026-08-23",
+        "entry_id": "6a316323adbc465bb4957908508795bf",
+        "name": "award-2026-08-23-r23.html",
+        "note": "轮次页 R23 (+10：典礼执行SOP/颁奖词撰写/线上典礼/内部表彰演出/即时奖金/价值观奖项/奖项品牌化/高端盛典制作/高管peer认可/高管团队内部认可)"
+      },
+      {
+        "date": "2026-08-24",
+        "entry_id": null,
+        "name": "award-2026-08-24-r24.html",
+        "note": "轮次页 R24 (+8)｜乐享待补传（token 过期跳过）"
+      },
+      {
+        "date": "2026-08-25",
+        "entry_id": null,
+        "name": "award-2026-08-25-r25.html",
+        "note": "轮次页 R25 (+9)｜乐享待补传（token 过期跳过）"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "award-20260827.html",
+        "note": "轮次页 R26 (+9)｜乐享待补传(token 过期跳过)"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "award-2026-08-28-r27.html",
+        "note": "轮次页 R27 (+7：提名平台端到端自动化/提名工作流治理/飞书五阶段表彰/简道云表扬公示/颁奖预算ROI+12周timeline/市属国企负责人荣誉体系官方办法/荣休五个一)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-01",
+        "entry_id": null,
+        "name": "award-2026-09-01-r28.html",
+        "note": "轮次页 R28 (+6：公平提名10步框架/奖项治理全周期审计追踪/评审隐性偏见防控政府指南/颁奖影像AVP制作策略/NACD董事会高管治理奖项/社会组织评比表彰合规办法)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-02",
+        "entry_id": null,
+        "name": "award-20260902.html",
+        "note": "轮次页 R29 (+7：颁奖个税代扣合规/经理SBI话术/积分制体系/直播推流实操/CEO高管荣誉/事迹萃取/高管荣誉晚宴)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-05",
+        "entry_id": null,
+        "name": "award-2026-09-05-r33.html",
+        "note": "轮次页 R33 (+8：2③高管间+2②上下级 全新增，4一手+4二手，待上传)"
+      }
+    ]
+  },
+  "openday": {
+    "folder_id": "22eea86cd58a46729ed69380092c2c13",
+    "wall": {
+      "entry_id": "443dbafc774f451792c0687d08815422",
+      "file_id": "87d500e4b9764db9bd2595b01fd86b64",
+      "name": "openday.html",
+      "note": "R28 本地更新（待重连乐享上传）：累计墙 220 卡（R27 207 + R28 13）"
+    },
+    "rounds": [
+      {
+        "date": "2026-08-11",
+        "entry_id": "460133b55d6542bda6e00fa7ec0fc6bc",
+        "name": "OpenDay-20260811",
+        "note": "初始全量页（改造前遗留，已失效-403，被新墙 a6ba9c... 取代）"
+      },
+      {
+        "date": "2026-08-06",
+        "entry_id": "b436d44a706f46188f8d8347447cce45",
+        "name": "openday-R1_20260806.html",
+        "note": "轮次页 R1 (+3)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "8d97df1de5df460c95ff2a5c76d4abb9",
+        "name": "openday-R2_20260807.html",
+        "note": "轮次页 R2 (+2)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "72ec66ba29c94e2b89b9ffbd1d241a6c",
+        "name": "openday-R3_20260808.html",
+        "note": "轮次页 R3 (+1)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "885265a544bf4533b5626e34c6425a13",
+        "name": "openday-R4_20260808.html",
+        "note": "轮次页 R4 (+1)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "a70413001c2a447a835a3e0c5b7a748a",
+        "name": "openday-R5_20260810.html",
+        "note": "轮次页 R5 (+3)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "fab4d7e440044dbeb370258b1e9b6e30",
+        "name": "openday-R6_20260810.html",
+        "note": "轮次页 R6 (+5)"
+      },
+      {
+        "date": "2026-08-11",
+        "entry_id": "d99449b7c4ff482090d712345efd245b",
+        "name": "openday-R7_20260811.html",
+        "note": "轮次页 R7 (+11)"
+      },
+      {
+        "date": "2026-08-11",
+        "entry_id": "7567bc49a5c64e35ae7c2c426f0e50e3",
+        "name": "openday-2026-08-11-r10.html",
+        "note": "轮次页 R10 (+11，根目录 5106d5b2 或归档，待复核)"
+      },
+      {
+        "date": "2026-08-12",
+        "entry_id": "a112b54c1ff7493e88d8b04d64da254a",
+        "name": "openday-2026-08-12-r11.html",
+        "note": "轮次页 R11 (+12)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "4ecc2b1ba5ef4a6b9eb6ef47eac2204e",
+        "name": "openday-2026-08-13-r12.html",
+        "note": "轮次页 R12 (+13)"
+      },
+      {
+        "date": "2026-08-14",
+        "entry_id": "981d40fafb77464ba303771e7082ef4f",
+        "name": "openday-2026-08-14-r13.html",
+        "note": "轮次页 R13 (+13)"
+      },
+      {
+        "round": "r14",
+        "date": "2026-08-15",
+        "entry_id": "0aee1e1d2cf047eabd427d56ee3c559c",
+        "name": "openday-2026-08-15-r14.html",
+        "note": "轮次页 R14 (+14)"
+      },
+      {
+        "round": "r15",
+        "date": "2026-08-15",
+        "entry_id": "72d39204c6194d61b79e238d6fb4b9d1",
+        "name": "openday-2026-08-15-r15.html",
+        "note": "轮次页 R15 (+15)"
+      },
+      {
+        "round": "r16",
+        "date": "2026-08-16",
+        "entry_id": "c9959976572e456fb39e8c4338c92e17",
+        "name": "openday-2026-08-16-r16.html",
+        "note": "轮次页 R16 (+16：校园/科技馆科普/市场监管食药安全/医院卫健/电力变电站公众开放日)"
+      },
+      {
+        "round": "r17",
+        "date": "2026-08-17",
+        "entry_id": "af3a1fd6484c477993112f27ec39575f",
+        "name": "openday-2026-08-17-r17.html",
+        "note": "轮次页 R17 (+15：气象台站/体育场馆/粮库/邮政快递政府/航道开放日向·全②上下级)"
+      },
+      {
+        "round": "r18",
+        "date": "2026-08-18",
+        "entry_id": "057a29d13d2741a9902979493959f99a",
+        "name": "openday-2026-08-18-r18.html",
+        "note": "轮次页 R18 (+12：汽车博物馆/考古工地/文博巴士/供电破邻避/地铁指挥中心/科研院所大科学装置/科技馆/消防站/污水厂环保开放日·全②上下级)"
+      },
+      {
+        "round": "r19",
+        "date": "2026-08-19",
+        "entry_id": "a5672fe0a2f249af8ef0c4d3ec6f7b19",
+        "name": "openday-2026-08-19-r19.html",
+        "note": "轮次页 R19 (+14：天文台/核电/海洋所/水厂/人防/植物所/非遗公众开放日·全②上下级)"
+      },
+      {
+        "date": "20260820",
+        "entry_id": "68bb5ba906934e69a96dce2ad51664cb",
+        "name": "openday-20260820.html",
+        "note": "轮次页 R20 (+7)｜新建模式"
+      },
+      {
+        "round": "r21",
+        "date": "2026-08-21",
+        "entry_id": "84c30f478478443096d0525d6ae840bf",
+        "name": "openday-2026-08-21-r21.html",
+        "note": "轮次页 R21 (+5：航天观礼/5G体验/新能源电站/三峡工程/戒毒所禁毒警示教育·全②上下级)"
+      },
+      {
+        "round": "r22",
+        "date": "2026-08-22",
+        "entry_id": "0494f04ec12f47228c21aac042792aa6",
+        "name": "openday-2026-08-22-r22.html",
+        "note": "轮次页 R22 (+5：档案馆方志馆/美术馆艺术馆/疾控中心实验室/政务服务中心市民中心/融媒体中心广电总台开放日向·全②上下级，全一手)"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "4cfc338fb76d4bd5a4453f4c7d6b449a",
+        "name": "openday-2026-08-22-r23.html",
+        "note": "轮次页 R23 (+7)"
+      },
+      {
+        "round": "r24",
+        "date": "2026-08-23",
+        "entry_id": "ae455b5ad92644d481d2cf191c72967d",
+        "name": "openday-20260823.html",
+        "note": "轮次页 R24 (+6：国企开放日城市级/企业公众开放日/工厂游方法论/车企工业旅游/政府开放月水务/高管间闭门可持续转型·5②1③)"
+      },
+      {
+        "date": "2026-08-26",
+        "entry_id": null,
+        "name": "openday-20260826-r27.html",
+        "note": "轮次页 R27 (+10)·待补传(token 401 过期)"
+      },
+      {
+        "date": "2026-08-26",
+        "entry_id": null,
+        "name": "openday-20260826-r28.html",
+        "note": "轮次页 R28 (+13，二十八轮补采：10②+3③，12一手+1二手，待上传)"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "openday-2026-08-27-r29.html",
+        "note": "轮次页 R29 (+13) · 上传待补（lexiang token 缺失，待重配后补传）"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "openday-2026-08-28-r30.html",
+        "note": "轮次页 R30 (+10) · 上传待补（lexiang token 缺失，待重配后补传）"
+      },
+      {
+        "date": "20260901",
+        "entry_id": null,
+        "name": "openday-20260901.html",
+        "note": "轮次页 R31 (+14)｜乐享待补传(token 401 过期，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "20260902",
+        "entry_id": null,
+        "name": "openday-2026-09-02-r32.html",
+        "note": "轮次页 R32 (+6)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "20260903",
+        "entry_id": null,
+        "name": "openday-2026-09-03-r33.html",
+        "note": "轮次页 R33 (+6)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "20260904",
+        "entry_id": null,
+        "name": "openday-20260904.html",
+        "note": "轮次页 R34 (+7)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "20260904",
+        "entry_id": null,
+        "name": "openday-2026-09-04-r35.html",
+        "note": "轮次页 R35 (+11)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
+      }
+    ]
+  },
+  "afternoontea": {
+    "folder_id": "96e0ca6a548e4202a12d43dc91b48938",
+    "wall": {
+      "entry_id": "b1d65629b354485cb3ed69068f070ab0",
+      "file_id": "3c18972eef5641d28750fc9b21465dec",
+      "name": "afternoontea.html",
+      "note": "R21 累计墙（138卡）；新建模式首推（此前 map 未记录 wall 条目）"
+    },
+    "rounds": [
+      {
+        "date": "2026-08-11",
+        "entry_id": "5839c020a9fd45d1ac44646d902573a2",
+        "name": "下午茶研讨-20260811",
+        "note": "初始全量页（含60卡，作为首轮）"
+      },
+      {
+        "date": "2026-08-06",
+        "entry_id": "59487a8426cc4c7c9d99c410e3db8585",
+        "name": "afternoontea-R1_20260806.html",
+        "note": "轮次页 R1 (+14)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "d1571dfc2e7549e49d3a71d3ae639da8",
+        "name": "afternoontea-R2_20260807.html",
+        "note": "轮次页 R2 (+1)"
+      },
+      {
+        "date": "2026-08-07",
+        "entry_id": "4fb79534e65b45249bae0c2325ce2d6d",
+        "name": "afternoontea-R3_20260807.html",
+        "note": "轮次页 R3 (+5)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "bbedd063c09d428e8908b689f2fc66d2",
+        "name": "afternoontea-R4_20260808.html",
+        "note": "轮次页 R4 (+5)"
+      },
+      {
+        "date": "2026-08-08",
+        "entry_id": "796de72d8d9b4445a8d3c0b3f2786d96",
+        "name": "afternoontea-R5_20260808.html",
+        "note": "轮次页 R5 (+11)"
+      },
+      {
+        "date": "2026-08-09",
+        "entry_id": "c7a6d93b82c34bb7afa0b8494dc6be35",
+        "name": "afternoontea-R6_20260809.html",
+        "note": "轮次页 R6 (+6)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "62536ec164f3427ba479bd4c4e5c4a6f",
+        "name": "afternoontea-R7_20260810.html",
+        "note": "轮次页 R7 (+5)"
+      },
+      {
+        "date": "2026-08-10",
+        "entry_id": "6b2262f9178642b38ca7e94e779752b4",
+        "name": "afternoontea-R8_20260810.html",
+        "note": "轮次页 R8 (+7)"
+      },
+      {
+        "date": "2026-08-11",
+        "entry_id": "a087db0d6c124a15a1ba6f959e179e29",
+        "name": "afternoontea-R9_20260811.html",
+        "note": "轮次页 R9 (+6)"
+      },
+      {
+        "date": "20260812",
+        "entry_id": "5cb99ba583894b23bd05fe1e63c8b588",
+        "name": "afternoontea-20260812.html",
+        "note": "轮次页·九轮 enrich (+5)"
+      },
+      {
+        "date": "2026-08-13",
+        "entry_id": "cd5d9b5c9b774c35817eb8d7d83485be",
+        "name": "afternoontea-20260813.html",
+        "note": "轮次页·十轮 enrich (+6)"
+      },
+      {
+        "date": "20260813",
+        "entry_id": "5831a5a0a0dc428a9a25cd110fe66f62",
+        "name": "afternoontea-20260813b.html",
+        "note": "轮次页·十一轮 enrich (+3)"
+      },
+      {
+        "date": "20260814",
+        "entry_id": "440a0c2f04be4fb1aed14e339fc8f7a0",
+        "name": "afternoontea-20260814.html",
+        "note": "轮次页·十二轮 enrich (+7)"
+      },
+      {
+        "date": "2026-08-15",
+        "entry_id": "06f56f4d2e5a430fbbdedd4578fd9660",
+        "name": "afternoontea-20260815.html",
+        "note": "轮次页·十三轮 enrich (+5)"
+      },
+      {
+        "date": "2026-08-15",
+        "entry_id": "4db98d4311c44b6ab9ba6c03d5c61a7d",
+        "name": "afternoontea-20260815b.html",
+        "note": "轮次页·十四轮 enrich (+4)"
+      },
+      {
+        "date": "20260816",
+        "entry_id": "622665881375469d858ac982068606f3",
+        "name": "afternoontea-20260816.html",
+        "note": "轮次页·十五轮 enrich (+7)"
+      },
+      {
+        "date": "20260817",
+        "entry_id": "9064594f5e0d4757ab2b39279dc338e1",
+        "name": "afternoontea-20260817.html"
+      },
+      {
+        "date": "20260818",
+        "entry_id": "f4f4cc9ae7934b43b1a17337471360fb",
+        "name": "afternoontea-20260818.html",
+        "note": "轮次页·十七轮 enrich (+6)"
+      },
+      {
+        "date": "20260819",
+        "entry_id": "d82bf8b5d37a4eefbeab7307df05c473",
+        "name": "afternoontea-20260819.html"
+      },
+      {
+        "round": "r19",
+        "date": "2026-08-19",
+        "entry_id": "e21da1da0e944df6ba48a7d5e8c1b176",
+        "name": "afternoontea-2026-08-19-r19.html",
+        "note": "轮次页 R19 (+12)"
+      },
+      {
+        "date": "2026-08-20",
+        "entry_id": "03ed1c27bad34278939a75001a211f2a",
+        "name": "afternoontea-20260820.html",
+        "note": "轮次页 R20 (+6：清风茶室廉政谈心/中鸿永信倾诉茶吧/Credera新人午餐会/EXL Coffee with CEO/国金证券董事长闭门会/2026 CGF董事CEO闭门会)"
+      },
+      {
+        "date": "2026-08-20",
+        "entry_id": "09337c737dfe4250b0c7cb30ef56dbcb",
+        "name": "afternoontea-2026-08-20-r21.html",
+        "note": "轮次页 R21 (+9：RRA非执行董事闭门午餐会/硅谷咖啡文化/Range skip-level议程模板/Skip-level深度指南2026/SpareFoot创始人炉边谈话/龙珠达总经理见面会/红府超市茶话会式座谈/中国邮政工会品茗+座谈/卓尔科技总经理接待日)"
+      },
+      {
+        "date": "20260821",
+        "entry_id": "cc62a5e0e81e4a839a8e2ce2c049b3ca",
+        "name": "afternoontea-20260821.html"
+      },
+      {
+        "date": "2026-08-22",
+        "entry_id": "3bb2ffaffc5c4ff7b70d7e4d46c5fa1b",
+        "name": "afternoontea-20260822.html",
+        "note": "轮次页 R23 (+6)｜新建模式，落 afternoontea 子文件夹 96e0ca6a"
+      },
+      {
+        "date": "20260822",
+        "entry_id": "8b1bed52b0ba4adf9fa39c75111e9745",
+        "name": "afternoontea-20260822b.html"
+      },
+      {
+        "date": "20260825",
+        "name": "afternoontea-20260825.html",
+        "entry_id": null,
+        "note": "轮次页 R27 (+11)｜上传待补（token/网络未通，待重连乐享 MCP 后跑 _put_afternoontea_r27_lexiang.py 补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-26",
+        "name": "afternoontea-20260826.html",
+        "entry_id": null,
+        "note": "轮次页 R28 (+10：4③高管间+6②上下级，4一手+6二手，待上传)"
+      },
+      {
+        "date": "2026-08-27",
+        "entry_id": null,
+        "name": "afternoontea-20260827.html",
+        "note": "轮次页 R29 (+10：信州产业园政企下午茶/沪企行高成长/浙商一带一路/兴琳下午茶/AI出海总裁闭门 + 绍兴水务董事长总经理接待日/小龙潭退休座谈/徽商荣休/华信电气三八/通信清算中心茗茶)｜上传待补（mcp.json lexiang token 缺失/过期，待重连乐享 MCP 后补传并回填 entry_id）"
+      },
+      {
+        "date": "2026-08-28",
+        "entry_id": null,
+        "name": "afternoontea-20260828.html",
+        "note": "轮次页 R30 (+9：4③高管间+5②上下级，6一手+3二手，待上传)"
+      },
+      {
+        "date": "20260901",
+        "entry_id": null,
+        "name": "afternoontea-20260901.html",
+        "note": "轮次页 R31 (+9：2③高管间+7②上下级，5一手+4二手，待上传)"
+      }
+    ]
   }
- },
- "award": {
-  "folder_id": "f585d1b78510459db0ce807cc9688448",
-  "rounds": [
-   {
-    "date": "2026-08-11",
-    "entry_id": "bafb696e49254f779476a1f167850904",
-    "name": "颁奖-20260811",
-    "note": "初始全量页（改造前遗留，作为首轮）"
-   },
-   {
-    "date": "2026-08-06",
-    "entry_id": "9ab2bf97b0bd4b5ea82ab909d34e5970",
-    "name": "award-R1_20260806.html",
-    "note": "轮次页 R1 (+12)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "614885677f694c87babe98746c6de4e4",
-    "name": "award-R2_20260807.html",
-    "note": "轮次页 R2 (+7)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "b73051f3b9934654a0c043dce8f3d7c2",
-    "name": "award-R3_20260807.html",
-    "note": "轮次页 R3 (+1)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "32929f8d46f248b080c4b1aebbba8a72",
-    "name": "award-R4_20260807.html",
-    "note": "轮次页 R4 (+8)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "c78a8db1e6ed40778916997a8cef1deb",
-    "name": "award-R5_20260808.html",
-    "note": "轮次页 R5 (+6)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "d04f4bb22f4e4fad86810a38c6026e30",
-    "name": "award-R6_20260809.html",
-    "note": "轮次页 R6 (+3)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "1837103fef71430cb8aca88e1e0df988",
-    "name": "award-R7_20260810.html",
-    "note": "轮次页 R7 (+5)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "364dbe6affaa432a976c906c1588fad0",
-    "name": "award-R8_20260810.html",
-    "note": "轮次页 R8 (+9)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "724405b66a7949849e3b11a02b9d810d",
-    "name": "award-R9_20260810.html",
-    "note": "轮次页 R9 (+4)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "69fee095bf5140c081121b28089eb8e8",
-    "name": "award-20260812.html",
-    "note": "轮次页·十轮 enrich (+9)"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "270b8b3b817c48398bf4de8b5f949269",
-    "name": "award-20260813.html",
-    "note": "轮次页·十一轮 enrich (+5)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "73a57f0c636347e69af9af0a4cb2fd6d",
-    "name": "award-20260814.html",
-    "note": "轮次页 R12 (+5)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "d7c356e68e1f4276b09ef92cf749904c",
-    "name": "award-20260814b.html",
-    "note": "轮次页 R13 (+7)"
-   },
-   {
-    "date": "2026-08-15",
-    "entry_id": "c6a0bc1e82c84b3cb842340e83e17f87",
-    "name": "award-20260815.html",
-    "note": "轮次页·十四轮 enrich (+6)"
-   },
-   {
-    "date": "20260816",
-    "entry_id": "9223a0b2cc7b4889a4293ad100c2b333",
-    "name": "award-20260816.html"
-   },
-   {
-    "date": "20260817",
-    "entry_id": "47401ce699a241f3b76e50bcbd08e9d7",
-    "name": "award-20260817.html"
-   },
-   {
-    "date": "20260818",
-    "entry_id": "24b9eedec04d417999d518af692a0359",
-    "name": "award-20260818.html"
-   },
-   {
-    "date": "20260818",
-    "entry_id": "91364d78edb9475d9f8f0fd3e0e6096f",
-    "name": "award-20260818b.html"
-   },
-   {
-    "date": "2026-08-19",
-    "entry_id": "7468717d49e34bab8d1da77a2fc45156",
-    "name": "award-20260819.html",
-    "note": "轮次页 R19 (+6：销售精英俱乐部/一线客服认可/AI驱动认可/女性领导表彰/公益志愿者表彰)"
-   },
-   {
-    "date": "2026-08-21",
-    "entry_id": "29b9abfe6a9a4b7eb47e70047a6f9a05",
-    "name": "award-20260821.html",
-    "note": "轮次页 R20 (+4：分布式混合团队经理认可框架/管理者认可话术与公开私下边界/M&A并购期认可桥接/组织变革期认可=转型基础设施)"
-   },
-   {
-    "date": "2026-08-21",
-    "entry_id": "7edd3d7edd0649b88157e2b4604c6d08",
-    "name": "award-20260821b.html",
-    "note": "轮次页 R21 (+6：长期服务里程碑奖/安全零事故班组/创意提案Kaizen/评优公平治理/总裁奖组织级/高管站台式认可)"
-   },
-   {
-    "date": "2026-08-22",
-    "entry_id": "30bd80cf5f0a4d8ab57b912fb7eba0bd",
-    "name": "award-20260822.html",
-    "note": "轮次页 R22 (+6：职工技术创新成果奖政府SOP/一线服务之星表彰/青年岗位能手团中央办法/省长质量奖一把手亲颁/认可ROI测算框架/多元包容DEI表彰)"
-   },
-   {
-    "date": "2026-08-23",
-    "entry_id": "6a316323adbc465bb4957908508795bf",
-    "name": "award-2026-08-23-r23.html",
-    "note": "轮次页 R23 (+10：典礼执行SOP/颁奖词撰写/线上典礼/内部表彰演出/即时奖金/价值观奖项/奖项品牌化/高端盛典制作/高管peer认可/高管团队内部认可)"
-   },
-   {
-    "date": "2026-08-24",
-    "entry_id": null,
-    "name": "award-2026-08-24-r24.html",
-    "note": "轮次页 R24 (+8)｜乐享待补传（token 过期跳过）"
-   },
-   {
-    "date": "2026-08-25",
-    "entry_id": null,
-    "name": "award-2026-08-25-r25.html",
-    "note": "轮次页 R25 (+9)｜乐享待补传（token 过期跳过）"
-   },
-   {
-    "date": "2026-08-27",
-    "entry_id": null,
-    "name": "award-20260827.html",
-    "note": "轮次页 R26 (+9)｜乐享待补传(token 过期跳过)"
-   },
-   {
-    "date": "2026-08-28",
-    "entry_id": null,
-    "name": "award-2026-08-28-r27.html",
-    "note": "轮次页 R27 (+7：提名平台端到端自动化/提名工作流治理/飞书五阶段表彰/简道云表扬公示/颁奖预算ROI+12周timeline/市属国企负责人荣誉体系官方办法/荣休五个一)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "2026-09-01",
-    "entry_id": null,
-    "name": "award-2026-09-01-r28.html",
-    "note": "轮次页 R28 (+6：公平提名10步框架/奖项治理全周期审计追踪/评审隐性偏见防控政府指南/颁奖影像AVP制作策略/NACD董事会高管治理奖项/社会组织评比表彰合规办法)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "2026-09-02",
-    "entry_id": null,
-    "name": "award-20260902.html",
-    "note": "轮次页 R29 (+7：颁奖个税代扣合规/经理SBI话术/积分制体系/直播推流实操/CEO高管荣誉/事迹萃取/高管荣誉晚宴)｜乐享待补传(token 过期/断开，待重连后补传并回填 entry_id)"
-   }
-  ]
- },
- "openday": {
-  "folder_id": "22eea86cd58a46729ed69380092c2c13",
-  "wall": {
-   "entry_id": "443dbafc774f451792c0687d08815422",
-   "file_id": "87d500e4b9764db9bd2595b01fd86b64",
-   "name": "openday.html",
-   "note": "R28 本地更新（待重连乐享上传）：累计墙 220 卡（R27 207 + R28 13）"
-  },
-  "rounds": [
-   {
-    "date": "2026-08-11",
-    "entry_id": "460133b55d6542bda6e00fa7ec0fc6bc",
-    "name": "OpenDay-20260811",
-    "note": "初始全量页（改造前遗留，已失效-403，被新墙 a6ba9c... 取代）"
-   },
-   {
-    "date": "2026-08-06",
-    "entry_id": "b436d44a706f46188f8d8347447cce45",
-    "name": "openday-R1_20260806.html",
-    "note": "轮次页 R1 (+3)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "8d97df1de5df460c95ff2a5c76d4abb9",
-    "name": "openday-R2_20260807.html",
-    "note": "轮次页 R2 (+2)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "72ec66ba29c94e2b89b9ffbd1d241a6c",
-    "name": "openday-R3_20260808.html",
-    "note": "轮次页 R3 (+1)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "885265a544bf4533b5626e34c6425a13",
-    "name": "openday-R4_20260808.html",
-    "note": "轮次页 R4 (+1)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "a70413001c2a447a835a3e0c5b7a748a",
-    "name": "openday-R5_20260810.html",
-    "note": "轮次页 R5 (+3)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "fab4d7e440044dbeb370258b1e9b6e30",
-    "name": "openday-R6_20260810.html",
-    "note": "轮次页 R6 (+5)"
-   },
-   {
-    "date": "2026-08-11",
-    "entry_id": "d99449b7c4ff482090d712345efd245b",
-    "name": "openday-R7_20260811.html",
-    "note": "轮次页 R7 (+11)"
-   },
-   {
-    "date": "2026-08-11",
-    "entry_id": "7567bc49a5c64e35ae7c2c426f0e50e3",
-    "name": "openday-2026-08-11-r10.html",
-    "note": "轮次页 R10 (+11，根目录 5106d5b2 或归档，待复核)"
-   },
-   {
-    "date": "2026-08-12",
-    "entry_id": "a112b54c1ff7493e88d8b04d64da254a",
-    "name": "openday-2026-08-12-r11.html",
-    "note": "轮次页 R11 (+12)"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "4ecc2b1ba5ef4a6b9eb6ef47eac2204e",
-    "name": "openday-2026-08-13-r12.html",
-    "note": "轮次页 R12 (+13)"
-   },
-   {
-    "date": "2026-08-14",
-    "entry_id": "981d40fafb77464ba303771e7082ef4f",
-    "name": "openday-2026-08-14-r13.html",
-    "note": "轮次页 R13 (+13)"
-   },
-   {
-    "round": "r14",
-    "date": "2026-08-15",
-    "entry_id": "0aee1e1d2cf047eabd427d56ee3c559c",
-    "name": "openday-2026-08-15-r14.html",
-    "note": "轮次页 R14 (+14)"
-   },
-   {
-    "round": "r15",
-    "date": "2026-08-15",
-    "entry_id": "72d39204c6194d61b79e238d6fb4b9d1",
-    "name": "openday-2026-08-15-r15.html",
-    "note": "轮次页 R15 (+15)"
-   },
-   {
-    "round": "r16",
-    "date": "2026-08-16",
-    "entry_id": "c9959976572e456fb39e8c4338c92e17",
-    "name": "openday-2026-08-16-r16.html",
-    "note": "轮次页 R16 (+16：校园/科技馆科普/市场监管食药安全/医院卫健/电力变电站公众开放日)"
-   },
-   {
-    "round": "r17",
-    "date": "2026-08-17",
-    "entry_id": "af3a1fd6484c477993112f27ec39575f",
-    "name": "openday-2026-08-17-r17.html",
-    "note": "轮次页 R17 (+15：气象台站/体育场馆/粮库/邮政快递政府/航道开放日向·全②上下级)"
-   },
-   {
-    "round": "r18",
-    "date": "2026-08-18",
-    "entry_id": "057a29d13d2741a9902979493959f99a",
-    "name": "openday-2026-08-18-r18.html",
-    "note": "轮次页 R18 (+12：汽车博物馆/考古工地/文博巴士/供电破邻避/地铁指挥中心/科研院所大科学装置/科技馆/消防站/污水厂环保开放日·全②上下级)"
-   },
-   {
-    "round": "r19",
-    "date": "2026-08-19",
-    "entry_id": "a5672fe0a2f249af8ef0c4d3ec6f7b19",
-    "name": "openday-2026-08-19-r19.html",
-    "note": "轮次页 R19 (+14：天文台/核电/海洋所/水厂/人防/植物所/非遗公众开放日·全②上下级)"
-   },
-   {
-    "date": "20260820",
-    "entry_id": "68bb5ba906934e69a96dce2ad51664cb",
-    "name": "openday-20260820.html",
-    "note": "轮次页 R20 (+7)｜新建模式"
-   },
-   {
-    "round": "r21",
-    "date": "2026-08-21",
-    "entry_id": "84c30f478478443096d0525d6ae840bf",
-    "name": "openday-2026-08-21-r21.html",
-    "note": "轮次页 R21 (+5：航天观礼/5G体验/新能源电站/三峡工程/戒毒所禁毒警示教育·全②上下级)"
-   },
-   {
-    "round": "r22",
-    "date": "2026-08-22",
-    "entry_id": "0494f04ec12f47228c21aac042792aa6",
-    "name": "openday-2026-08-22-r22.html",
-    "note": "轮次页 R22 (+5：档案馆方志馆/美术馆艺术馆/疾控中心实验室/政务服务中心市民中心/融媒体中心广电总台开放日向·全②上下级，全一手)"
-   },
-   {
-    "date": "2026-08-22",
-    "entry_id": "4cfc338fb76d4bd5a4453f4c7d6b449a",
-    "name": "openday-2026-08-22-r23.html",
-    "note": "轮次页 R23 (+7)"
-   },
-   {
-    "round": "r24",
-    "date": "2026-08-23",
-    "entry_id": "ae455b5ad92644d481d2cf191c72967d",
-    "name": "openday-20260823.html",
-    "note": "轮次页 R24 (+6：国企开放日城市级/企业公众开放日/工厂游方法论/车企工业旅游/政府开放月水务/高管间闭门可持续转型·5②1③)"
-   },
-   {
-    "date": "2026-08-26",
-    "entry_id": null,
-    "name": "openday-20260826-r27.html",
-    "note": "轮次页 R27 (+10)·待补传(token 401 过期)"
-   },
-   {
-    "date": "2026-08-26",
-    "entry_id": null,
-    "name": "openday-20260826-r28.html",
-    "note": "轮次页 R28 (+13，二十八轮补采：10②+3③，12一手+1二手，待上传)"
-   },
-   {
-    "date": "2026-08-27",
-    "entry_id": null,
-    "name": "openday-2026-08-27-r29.html",
-    "note": "轮次页 R29 (+13) · 上传待补（lexiang token 缺失，待重配后补传）"
-   },
-   {
-    "date": "2026-08-28",
-    "entry_id": null,
-    "name": "openday-2026-08-28-r30.html",
-    "note": "轮次页 R30 (+10) · 上传待补（lexiang token 缺失，待重配后补传）"
-   },
-   {
-    "date": "20260901",
-    "entry_id": null,
-    "name": "openday-20260901.html",
-    "note": "轮次页 R31 (+14)｜乐享待补传(token 401 过期，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "20260902",
-    "entry_id": null,
-    "name": "openday-2026-09-02-r32.html",
-    "note": "轮次页 R32 (+6)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "20260903",
-    "entry_id": null,
-    "name": "openday-2026-09-03-r33.html",
-    "note": "轮次页 R33 (+6)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "20260904",
-    "entry_id": null,
-    "name": "openday-20260904.html",
-    "note": "轮次页 R34 (+7)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
-   },
-   {
-    "date": "20260904",
-    "entry_id": null,
-    "name": "openday-2026-09-04-r35.html",
-    "note": "轮次页 R35 (+11)｜乐享待补传(whoami 探活失败/未连通，待重连后补传并回填 entry_id)"
-   }
-  ]
- },
- "afternoontea": {
-  "folder_id": "96e0ca6a548e4202a12d43dc91b48938",
-  "wall": {
-   "entry_id": "b1d65629b354485cb3ed69068f070ab0",
-   "file_id": "3c18972eef5641d28750fc9b21465dec",
-   "name": "afternoontea.html",
-   "note": "R21 累计墙（138卡）；新建模式首推（此前 map 未记录 wall 条目）"
-  },
-  "rounds": [
-   {
-    "date": "2026-08-11",
-    "entry_id": "5839c020a9fd45d1ac44646d902573a2",
-    "name": "下午茶研讨-20260811",
-    "note": "初始全量页（含60卡，作为首轮）"
-   },
-   {
-    "date": "2026-08-06",
-    "entry_id": "59487a8426cc4c7c9d99c410e3db8585",
-    "name": "afternoontea-R1_20260806.html",
-    "note": "轮次页 R1 (+14)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "d1571dfc2e7549e49d3a71d3ae639da8",
-    "name": "afternoontea-R2_20260807.html",
-    "note": "轮次页 R2 (+1)"
-   },
-   {
-    "date": "2026-08-07",
-    "entry_id": "4fb79534e65b45249bae0c2325ce2d6d",
-    "name": "afternoontea-R3_20260807.html",
-    "note": "轮次页 R3 (+5)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "bbedd063c09d428e8908b689f2fc66d2",
-    "name": "afternoontea-R4_20260808.html",
-    "note": "轮次页 R4 (+5)"
-   },
-   {
-    "date": "2026-08-08",
-    "entry_id": "796de72d8d9b4445a8d3c0b3f2786d96",
-    "name": "afternoontea-R5_20260808.html",
-    "note": "轮次页 R5 (+11)"
-   },
-   {
-    "date": "2026-08-09",
-    "entry_id": "c7a6d93b82c34bb7afa0b8494dc6be35",
-    "name": "afternoontea-R6_20260809.html",
-    "note": "轮次页 R6 (+6)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "62536ec164f3427ba479bd4c4e5c4a6f",
-    "name": "afternoontea-R7_20260810.html",
-    "note": "轮次页 R7 (+5)"
-   },
-   {
-    "date": "2026-08-10",
-    "entry_id": "6b2262f9178642b38ca7e94e779752b4",
-    "name": "afternoontea-R8_20260810.html",
-    "note": "轮次页 R8 (+7)"
-   },
-   {
-    "date": "2026-08-11",
-    "entry_id": "a087db0d6c124a15a1ba6f959e179e29",
-    "name": "afternoontea-R9_20260811.html",
-    "note": "轮次页 R9 (+6)"
-   },
-   {
-    "date": "20260812",
-    "entry_id": "5cb99ba583894b23bd05fe1e63c8b588",
-    "name": "afternoontea-20260812.html",
-    "note": "轮次页·九轮 enrich (+5)"
-   },
-   {
-    "date": "2026-08-13",
-    "entry_id": "cd5d9b5c9b774c35817eb8d7d83485be",
-    "name": "afternoontea-20260813.html",
-    "note": "轮次页·十轮 enrich (+6)"
-   },
-   {
-    "date": "20260813",
-    "entry_id": "5831a5a0a0dc428a9a25cd110fe66f62",
-    "name": "afternoontea-20260813b.html",
-    "note": "轮次页·十一轮 enrich (+3)"
-   },
-   {
-    "date": "20260814",
-    "entry_id": "440a0c2f04be4fb1aed14e339fc8f7a0",
-    "name": "afternoontea-20260814.html",
-    "note": "轮次页·十二轮 enrich (+7)"
-   },
-   {
-    "date": "2026-08-15",
-    "entry_id": "06f56f4d2e5a430fbbdedd4578fd9660",
-    "name": "afternoontea-20260815.html",
-    "note": "轮次页·十三轮 enrich (+5)"
-   },
-   {
-    "date": "2026-08-15",
-    "entry_id": "4db98d4311c44b6ab9ba6c03d5c61a7d",
-    "name": "afternoontea-20260815b.html",
-    "note": "轮次页·十四轮 enrich (+4)"
-   },
-   {
-    "date": "20260816",
-    "entry_id": "622665881375469d858ac982068606f3",
-    "name": "afternoontea-20260816.html",
-    "note": "轮次页·十五轮 enrich (+7)"
-   },
-   {
-    "date": "20260817",
-    "entry_id": "9064594f5e0d4757ab2b39279dc338e1",
-    "name": "afternoontea-20260817.html"
-   },
-   {
-    "date": "20260818",
-    "entry_id": "f4f4cc9ae7934b43b1a17337471360fb",
-    "name": "afternoontea-20260818.html",
-    "note": "轮次页·十七轮 enrich (+6)"
-   },
-   {
-    "date": "20260819",
-    "entry_id": "d82bf8b5d37a4eefbeab7307df05c473",
-    "name": "afternoontea-20260819.html"
-   },
-   {
-    "round": "r19",
-    "date": "2026-08-19",
-    "entry_id": "e21da1da0e944df6ba48a7d5e8c1b176",
-    "name": "afternoontea-2026-08-19-r19.html",
-    "note": "轮次页 R19 (+12)"
-   },
-   {
-    "date": "2026-08-20",
-    "entry_id": "03ed1c27bad34278939a75001a211f2a",
-    "name": "afternoontea-20260820.html",
-    "note": "轮次页 R20 (+6：清风茶室廉政谈心/中鸿永信倾诉茶吧/Credera新人午餐会/EXL Coffee with CEO/国金证券董事长闭门会/2026 CGF董事CEO闭门会)"
-   },
-   {
-    "date": "2026-08-20",
-    "entry_id": "09337c737dfe4250b0c7cb30ef56dbcb",
-    "name": "afternoontea-2026-08-20-r21.html",
-    "note": "轮次页 R21 (+9：RRA非执行董事闭门午餐会/硅谷咖啡文化/Range skip-level议程模板/Skip-level深度指南2026/SpareFoot创始人炉边谈话/龙珠达总经理见面会/红府超市茶话会式座谈/中国邮政工会品茗+座谈/卓尔科技总经理接待日)"
-   },
-   {
-    "date": "20260821",
-    "entry_id": "cc62a5e0e81e4a839a8e2ce2c049b3ca",
-    "name": "afternoontea-20260821.html"
-   },
-   {
-    "date": "2026-08-22",
-    "entry_id": "3bb2ffaffc5c4ff7b70d7e4d46c5fa1b",
-    "name": "afternoontea-20260822.html",
-    "note": "轮次页 R23 (+6)｜新建模式，落 afternoontea 子文件夹 96e0ca6a"
-   },
-   {
-    "date": "20260822",
-    "entry_id": "8b1bed52b0ba4adf9fa39c75111e9745",
-    "name": "afternoontea-20260822b.html"
-   },
-   {
-    "date": "20260825",
-    "name": "afternoontea-20260825.html",
-    "entry_id": null,
-    "note": "轮次页 R27 (+11)｜上传待补（token/网络未通，待重连乐享 MCP 后跑 _put_afternoontea_r27_lexiang.py 补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-26",
-    "name": "afternoontea-20260826.html",
-    "entry_id": null,
-    "note": "轮次页 R28 (+10：4③高管间+6②上下级，4一手+6二手，待上传)"
-   },
-   {
-    "date": "2026-08-27",
-    "entry_id": null,
-    "name": "afternoontea-20260827.html",
-    "note": "轮次页 R29 (+10：信州产业园政企下午茶/沪企行高成长/浙商一带一路/兴琳下午茶/AI出海总裁闭门 + 绍兴水务董事长总经理接待日/小龙潭退休座谈/徽商荣休/华信电气三八/通信清算中心茗茶)｜上传待补（mcp.json lexiang token 缺失/过期，待重连乐享 MCP 后补传并回填 entry_id）"
-   },
-   {
-    "date": "2026-08-28",
-    "entry_id": null,
-    "name": "afternoontea-20260828.html",
-    "note": "轮次页 R30 (+9：4③高管间+5②上下级，6一手+3二手，待上传)"
-   },
-   {
-    "date": "20260901",
-    "entry_id": null,
-    "name": "afternoontea-20260901.html",
-    "note": "轮次页 R31 (+9：2③高管间+7②上下级，5一手+4二手，待上传)"
-   }
-  ]
- }
 }

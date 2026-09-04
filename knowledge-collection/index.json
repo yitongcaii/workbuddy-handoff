@@ -15582,5 +15582,69 @@
     "relation": "exec",
     "summary": "HBR 高管剧本：新晋/空降高管融入现有领导班子（横向同侪）。招聘期即 onboarding 问团队动态；入职首月与最关键 3 位同侪逐一 1:1 建信任；内部晋升者主动 recontract 重置关系；以学习者姿态观察、几月后回检。",
     "topic": "icebreaker"
+  },
+  {
+    "title": "全国质量奖评审通知（中国质量协会官方）",
+    "normKey": "全国质量奖评审通知中国质量协会官方",
+    "url": "https://www.caq.org.cn/1218.html",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "中国质量协会发布第二十一届全国质量奖评审通知：奖项设组织类/项目类/团队类/个人类，申报 2026-01-30 至 05"
+  },
+  {
+    "title": "中国质量奖（国家政务服务平台·市场监管总局）",
+    "normKey": "中国质量奖国家政务服务平台市场监管总局",
+    "url": "https://gjzwfw.www.gov.cn/fwmh/item/item_11100000MB0194554T1000831003000.do",
+    "sourceType": "primary",
+    "relation": "exec",
+    "summary": "国家政务服务平台「中国质量奖」办事指南：事项类型=行政奖励，实施主体=市场监管总局，国家级，不收费。组织参评条件：近5年"
+  },
+  {
+    "title": "领导致辞稿写作技巧与范文（表彰大会开场）",
+    "normKey": "领导致辞稿写作技巧与范文表彰大会开场",
+    "url": "https://www.renrendoc.com/paper/496273393.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "领导致辞通用结构：①开篇(10%)定调子立基调——避开财务赘述，聚焦战略方向与核心使命；②回顾(70%)背景层(形势/政"
+  },
+  {
+    "title": "多巴胺领导力神经科学（Dopamine-Aware Leadership）",
+    "normKey": "多巴胺领导力神经科学DopamineAwareLeadership",
+    "url": "https://mindlabneuroscience.com/dopamine-aware-leadership-neuroscience/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "MindLAB Neuroscience：leader 的多巴胺状态通过镜像神经元与行为建模传导给团队——leader "
+  },
+  {
+    "title": "赞美释放多巴胺·Gallup Q12 数据",
+    "normKey": "赞美释放多巴胺GallupQ12数据",
+    "url": "https://www.gallup.com/workplace/236951/praise-praising-employees.aspx",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Gallup：认可好工作会释放多巴胺(腹侧纹状体/伏隔核)，创造自豪与愉悦并强化「再做一次」循环。Q12 显示仅不到1/"
+  },
+  {
+    "title": "认可的行为科学（马斯洛尊重层·多巴胺·心理安全）",
+    "normKey": "认可的行为科学马斯洛尊重层多巴胺心理安全",
+    "url": "https://www.kudos.com/blog/the-science-behind-employee-recognition",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "Kudos：认可满足马斯洛尊重层核心需求(成就+被欣赏)；接收欣赏→触发多巴胺与血清素→激活大脑奖励中心→形成感恩回路→"
+  },
+  {
+    "title": "积极赞美的神经科学（fMRI·心理安全威胁反应）",
+    "normKey": "积极赞美的神经科学fMRI心理安全威胁反应",
+    "url": "https://methodgrid.com/blog/the-human-machine-how-positive-praise-drives-success",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "MethodGrid：社会认可触发大脑奖励回路(类金钱奖励)——fMRI 显示听到正面反馈激活腹侧纹状体(奖励中心)；真"
+  },
+  {
+    "title": "年度颁奖典礼活动方案（获奖者故事三幕式+风险调控）",
+    "normKey": "年度颁奖典礼活动方案获奖者故事三幕式风险调控",
+    "url": "https://www.renrendoc.com/paper/494003158.html",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "年度颁奖典礼方案：内容叙事以「人」为核心——获奖者故事「三幕式」(困境→行动→蜕变：用行业数据/真实案例立挑战、聚焦团队"
   }
 ]
