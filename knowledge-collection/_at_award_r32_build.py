@@ -1,0 +1,116 @@
+# -*- coding: utf-8 -*-
+"""颁奖 r32 构建：注入累计墙 + 产出当轮新卡 tmp。"""
+import re, os
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+WALL = os.path.join(BASE, 'award', 'award.html')
+TMP = os.path.join(BASE, 'award', '.run_newcards.tmp.html')
+
+html = open(WALL, encoding='utf-8').read()
+
+def card(emoji, title, cat, rel_badge, val, exec_txt, url, note):
+    return f'''    <div class="hl">
+      <div class="top"><span class="emoji">{emoji}</span><h3>{title}</h3><span class="cat">{cat}</span><span class="badge {rel_badge}">{('② 上下级' if rel_badge=='r2' else '③ 高管间')}</span></div>
+      <p class="val">{val}</p>
+      <details class="exec"><summary>怎么做</summary><div class="inner">{exec_txt}</div></details>
+      <div class="src">🔗 <a href="{url}" target="_blank">{url}</a></div>
+      <div class="note">适用：{note}</div>
+    </div>
+'''
+
+cards = []
+# ===== ② 上下级 ×6 =====
+cards.append(card('📝', '颁奖词撰写「点题-叙事-升华」三层结构与技巧', '仪式内容', 'r2',
+  '优质颁奖词=成长的勋章、精神的火种。结构三层：①点题——凝练语言点明荣誉归属(「XX以…荣获XX奖」)快速聚焦；②叙事——用具象场景+数据化成果还原事迹(「凌晨3点的办公室→签下百万订单」)，拒绝模板化与空话；③升华——提炼精神内核关联企业价值观(「这份担当正是我们前行的底色」)。语言三质感：真诚感(用「他/她」拉近，拒「该员工」等冰冷称谓)+画面感(咖啡渍/泥泞鞋等细节)+温度感(朴素词汇传认可)。内容三维：岗位特质(销售突出业绩突破/技术突出攻坚)+独特事迹(避「努力认真」通用词，聚焦特殊困难)+精神性(升华为担当/协作符号)。',
+  '② HR/行政/主持写颁奖词：先按岗位列成就→挖工作细节闪光点成故事线→关联公司价值观升华；用具体数据(完成××项/挽回××万元)替代泛夸；避免全员套同一模板，每人一稿。',
+  'https://m.renrendoc.com/paper/507458683.html',
+  '② HR/行政/主持人起草员工表彰大会颁奖词（上下级权威背书场景，拒绝幼稚游戏/隐私暴露）。二手·人人文库范文。'))
+
+cards.append(card('🤝', '同事互评提名奖（Peer-nominated）项目搭建 5 步法', '同事互评', 'r2',
+  'Great Place To Work 官方方法论：①定类别——以公司价值观为基座(客户至上/创新/互助)，无价值观则员工调研提炼4-6项；②拆行为——每类对应可观察行为(如「帮困境同事完成难任务」)；③保可见——提名入口与获奖展示固定在易找处(内刊/会议 shout-out/公告栏/内部平台)，帖文须说明「为何被提名」；④定激励——非物质(认可即奖)或象征物(奖杯/甜点)或积分制(年度满额兑奖)；⑤做发动——多渠道内宣+领导参与背书(合法性)。关键：左给机会 Recognition 易聚拢少数显眼人，提名制让「不可见的支持工作」被看见。',
+  '② HR 搭同事互评奖：先锚价值观类别→定义每类行为样例→设固定提名/展示位→配轻量激励→领导首发示范；每月轮换主题防审美疲劳，读提名故事 aloud 让全员学「好长啥样」。',
+  'https://greatplacetowork.ie/resources/how-to-develop-a-peer-to-peer-recognition-programme',
+  '② HR/经理搭建同事互评提名奖（上下级共建、peer 参与，非平级向玩笑）。一手·Great Place To Work 官方方法论。'))
+
+cards.append(card('🏅', '长期服务奖（Years of Service）设计：里程碑+三组件+留存商业论证', '长期服务', 'r2',
+  'Workhuman 完整指南：正式服务奖在预定司龄里程碑(1/3/5/10/15/20/25/30年)庆祝员工全程贡献。有效项目=三组件协同：①有意义礼物(员工真想要：实物/体验/自选目录)②象征性纪念(定制首饰/刻字纪念品锚定里程碑)③认可时刻(公开或私下，由「重要的人」点名致谢)。非正式(经理自发、不一致)vs 正式(政策定、自动追踪、HR 统管)＝程序与姿态之别。商业论证：有正式认可的企业自愿流失率低31%；里程碑被认可的员工留任意向高30%(Gallup×Workhuman)；1万人公司建认可文化年省$16.1M 流失成本。尺度：5年与25年奖励须不同；远程/混合员工同等庆祝。',
+  '② HR 设计长期服务奖：定里程碑阶梯→礼物+纪念+时刻三组件齐备→自动化追踪司龄→远程员工同步办线上仪式；预算按「留任节省」反推，高管签批。',
+  'https://www.workhuman.com/blog/service-awards-for-employees',
+  '② HR/行政设计长期服务奖体系（上下级忠诚认可，非高管社交）。一手·Workhuman(Gallup 合作研究)。'))
+
+cards.append(card('🎬', '企业员工颁奖典礼流程脚本与主持串词设计', '仪式执行', 'r2',
+  '人人文库流程脚本：彩排至少1次全流程，打磨「颁奖-感言-节目」衔接防冷场/超时(单环节≤5分钟、致辞≤8分钟)。现场三阶段：①暖场开场——年度回顾片+故事化切入(「为把平凡做成非凡的伙伴喝彩」)介绍主题嘉宾；②领导致辞——数据化肯定(「客户满意度提升…」)+关联战略期望，拒「报告式」；③分层颁奖——从「标杆」到「新星」，每奖配1-2句价值解读、差异化音乐/灯光，奖项分个人业绩类/团队协作类/文化践行类各有串场模板。获奖代表半分钟感言+合影。核心：仪式感与效率平衡。',
+  '② 主持/HR 排颁奖典礼：先写分层奖项脚本(每奖价值解读)→定单环节≤5min 时间表→全流程彩排打磨衔接→领导致辞给「具象感动瞬间」模板拒念稿。',
+  'https://renrendoc.com/paper/484342579.html',
+  '② 主持/HR 执行员工颁奖典礼（上下级正式仪式，尊重不越界）。二手·人人文库流程脚本。'))
+
+cards.append(card('🏭', '一线/无固定工位(Deskless)员工 inclusive 认可设计', '包容认可', 'r2',
+  'Achievers Workforce Institute：全球70-80%劳动力无固定工位(零售/制造/医疗/物流)，却长期被「为办公桌设计」的认可程序漏掉——仅33%一线工过去一季获正式认可(Workhuman 2026 Barometer)，75%认为认可让其价值被看见。结构性障碍：①渠道可达——无公司电脑/邮箱，邮件/门户通知触达不到；②经理习惯——三班倒/共享设备/分散点位难一致及时；③可见性——一线贡献无数字痕迹难向上浮。解法：100%覆盖(无论岗位/地点/设备)＋in-the-moment 即时认可(贴近行为发生时)＋跨团队可见。extrinsic crowding-out 风险：奖励变唯一货币会削弱内在意义，须保护认可内在价值。',
+  '② HR/经理做一线认可：换触达渠道(车间屏/班前会/主管手机端非个人机)→经理现场即时点名→把安全/客服/协作行为显形上墙；奖励做辅助不喧宾夺主。',
+  'https://www.achievers.com/blog/recognition-programs-non-desk-offline-workers/',
+  '② HR/一线经理设计蓝领/夜班/门店员工认可（上下级、覆盖最广人群）。一手·Achievers Workforce Institute。'))
+
+cards.append(card('🌧️', '组织变革/裁员期认可：留人稳军心的「recognition 不能停」', '危机认可', 'r2',
+  'Appreciation at Work(5 Languages of Appreciation 框架)：动荡期认可最易被砍，却最该做。原则：①诚实落地——拒强行乐观，公开挑战+认努力非仅结果+说明正在发生什么；②双向告别——离者也要致谢(具体影响事例+真诚)，留者认其适应力与情绪重量；③避混合信号——庆祝式认可在裁员期刺眼，保尊重基调；④ manager 可见——直接上级一对一面谢比全员邮件更稳军心；⑤ peer 互认空间。留者常见幸存者愧疚+负荷翻倍，具体及时认可=「你仍被看见」的生命线；自愿流失在裁员后反而升，认可是最快稳住信号。',
+  '② 经理/HR 变革期认可：离者发具体影响致谢函→留者一对一点名其吸收额外负荷→经理保持可见不沉默→peer shout-out 渠道常开；绝不用庆祝掩盖阵痛。',
+  'https://appreciationatwork.com/blog/employee-recognition-during-crisis',
+  '② 经理/HR 在组织变革/裁员期做留者认可（上下级、敏感不越界、拒形式主义）。一手·Appreciation at Work 方法论。'))
+
+# ===== ③ 高管间 ×2 =====
+cards.append(card('🌐', 'Great Place To Work 认证：对外雇主品牌与招聘杠杆（战略奖）', '战略雇主奖', 'r3',
+  'Great Place To Work 官方：认证=员工体验第三方背书，两步(Trust Index 员工调研+ Culture Brief)，达65%信任基准即 Certified。对高管/HR 的战略价值：①招聘优势——2/3英国员工更愿投「认证为好雇主」公司；Wonolo 关闭率+30%、IDOC 90%新人因认证入职；②成本——Ayming 年省招聘代理费£173,300；③雇主自豪+品牌资产(可贴招聘页/邮件签名/周边)；④自动入围 Best Workplaces 榜单(一次申请多奖)；⑤留任高51%(vs 典型美国职场)。高管用法：把认证当「文化可被验证」的信号，对外招聘、对内自豪、对董事会证明文化投入回报。',
+  '③ 高管/HRD 用 GPTW 认证：先员工调研达65%基准→拿认证徽章铺招聘全渠道→自动入围 Best Workplaces→向董事会用「关闭率/留任/省招聘费」证明文化 ROI。',
+  'https://www.greatplacetowork.co.uk/certification',
+  '③ 高管/HRD 把外部文化奖项(GPTW)当雇主品牌与招聘杠杆（高管间战略视角，非内部游戏）。一手·Great Place To Work 官方。'))
+
+cards.append(card('🏛️', '战略认可五支柱框架：高管赞助(executive sponsorship)为第一支柱', '战略框架', 'r3',
+  '战略认可须五支柱同达80%成熟度才产生「文化变革」而非孤立赞赏瞬间：①高管赞助(visible commitment+资源)②价值观对齐③peer 参与④恰当奖励⑤测量系统。任一根柱弱则程序崩(如 peer 参与强但无测量证不了值；测得准但无高管赞助缺资源放大)。高管赞助具体抓手：定义项目目标/批预算/设计签批/亲自颁奖/直接认可。数据：社交平台(类内部 LinkedIn)产出10×邮件系统认可量；移动端60秒赞赏比桌面多5×；延迟1天认可效力减半；部门认可比<1:10(每10人<1位给予者)预示40%更高流失——认可频率是文化健康先行指标。',
+  '③ 高管搭认可体系：先把「高管赞助」列为第一支柱(亲自颁奖+批预算)→五支柱齐推至80%成熟→用认可分析(部门比/跨职能隐藏影响者)向董事会证 ROI，而非只做孤立颁奖。',
+  'https://loxie.app/learnwithloxie/winning-with-a-culture-of-recognition',
+  '③ 高管/HRD 设计企业级战略认可体系（高管间、商务化、以文化与留任 ROI 切入）。二手·Loxie 框架整理(五支柱模型)。'))
+
+# ---- 注入：第一 grid = sec3(高管间)，第二 grid = sec2(上下级) ----
+grids = list(re.finditer(r'<div class="grid">', html))
+assert len(grids) >= 2, f"expected >=2 grids, got {len(grids)}"
+def matching_close(h, start):
+    i = h.index('>', start) + 1
+    d = 0
+    while i < len(h):
+        if h[i:i+4] == '<div':
+            d += 1; i += 4
+        elif h[i:i+6] == '</div>':
+            d -= 1; i += 6
+            if d == 0:
+                return i
+        else:
+            i += 1
+    raise RuntimeError('no close')
+
+sec3_start = grids[0].start()
+sec3_close = matching_close(html, sec3_start)
+sec2_start = grids[1].start()
+sec2_close = matching_close(html, sec2_start)
+
+r3_cards = ''.join(c for c in cards if 'badge r3' in c)
+r2_cards = ''.join(c for c in cards if 'badge r2' in c)
+html = html[:sec3_close] + r3_cards + html[sec3_close:]
+# recompute sec2 close after sec3 insertion shift
+sec2_close2 = sec2_close + len(r3_cards)
+html = html[:sec2_close2] + r2_cards + html[sec2_close2:]
+
+# ---- hero 轮次段 ----
+hm = re.search(r'(<div class="hero">.*?<p>)(.*?)(</p>)', html, re.S)
+assert hm, 'hero p not found'
+new_p = hm.group(2) + ' ｜ 三十二轮 enrich 2026-09-04(+8)'
+html = html[:hm.start()] + hm.group(1) + new_p + hm.group(3) + html[hm.end():]
+
+open(WALL, 'w', encoding='utf-8').write(html)
+open(TMP, 'w', encoding='utf-8').write(''.join(cards))
+
+# 核对
+import re as _re
+print('total hl now:', _re.findall(r'<div class="hl">', html).__len__())
+print('r3:', html.count('badge r3'), 'r2:', html.count('badge r2'))
+print('footer ok:', '📌 本页由 yitong 沉淀整理' in html)
+print('hero tail:', new_p[-40:])
+print('TMP cards:', _re.findall(r'<div class="hl">', open(TMP,encoding="utf-8").read()).__len__())
