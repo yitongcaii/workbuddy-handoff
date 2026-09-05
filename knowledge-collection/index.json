@@ -15646,5 +15646,69 @@
     "sourceType": "secondary",
     "relation": "supervisor",
     "summary": "年度颁奖典礼方案：内容叙事以「人」为核心——获奖者故事「三幕式」(困境→行动→蜕变：用行业数据/真实案例立挑战、聚焦团队"
+  },
+  {
+    "title": "寻甸县政务服务中心“政府开放日”·“今天我当办事员”沉浸式走流程+局长坐诊",
+    "normKey": "寻甸县政务服务中心“政府开放日”·“今天我当办事员”沉浸式走流程+局长坐诊",
+    "url": "http://www.kmxd.gov.cn/c/2026-09-01/7175358.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "主题“今天我当办事员”：e办通终端+综窗模拟走流程+局长坐诊一对一解难题，诉求限期办结闭环"
+  },
+  {
+    "title": "平阴县2026年9月政府开放活动预告·多镇街“透明政务零距离”集中发布",
+    "normKey": "平阴县2026年9月政府开放活动预告·多镇街“透明政务零距离”集中发布",
+    "url": "http://www.pingyin.gov.cn/gongkai/site_pingyinxianxzfbgsb/channel_jkf_pingyinxianxzfbgsb_68f731ce9837b20f0a44894f/doc_6a9542943cb420bffbad1748.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "县政府办月度集中预告4场镇街开放日，统一清单降低参与门槛，“五公开”增进政民互信"
+  },
+  {
+    "title": "吴忠市监局红寺堡区分局“政府开放日”·跟随执法人员走真实检查四环节",
+    "normKey": "吴忠市监局红寺堡区分局“政府开放日”·跟随执法人员走真实检查四环节",
+    "url": "https://www.hongsibu.gov.cn/zzb/tzgg/202608/t20260819_5318033.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "按日常检查真实动线带群众走食品生产/商超/药店四环节，监管从幕后到台前"
+  },
+  {
+    "title": "新余市科技局“政府开放日”·走进2026科普讲解大赛",
+    "normKey": "新余市科技局“政府开放日”·走进2026科普讲解大赛",
+    "url": "https://kjj.xinyu.gov.cn/kjj/gggs/2026-09/01/content_af33d769b5e54462bf61632d7608420e.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "参观办公+观摩科普讲解大赛+座谈宣讲三段式，让公众看懂科技局在干什么"
+  },
+  {
+    "title": "中汽中心第六届职工家属开放日·家企同心硬核科技亲子参观",
+    "normKey": "中汽中心第六届职工家属开放日·家企同心硬核科技亲子参观",
+    "url": "https://www.catarc.ac.cn/detailDJ/9e678d6be1a4490187470cf7d07df1b9",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "高管出席+硬核实验室参观+儿童独立营+亲子游戏，家企同心最大规模品牌活动"
+  },
+  {
+    "title": "广发证券2026秋季资本论坛暨上市公司闭门交流会·800+上市公司4000机构",
+    "normKey": "广发证券2026秋季资本论坛暨上市公司闭门交流会·800+上市公司4000机构",
+    "url": "https://xxsb.gz-cmc.com/pages/2026/09/04/95f04cb48fbd49a5baf50bee1989888c.html",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "主论坛+10分论坛+闭门交流，800+上市公司与4000机构高层对话，长波周期共识"
+  },
+  {
+    "title": "2026秋季央国企CIO及数科公司高管峰会（第十九届）·AI落地场景与ROI",
+    "normKey": "2026秋季央国企CIO及数科公司高管峰会（第十九届）·AI落地场景与ROI",
+    "url": "https://www.cet.com.cn/wzsy/cyzx/10538795.shtml",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "定向邀约百人级央国企CIO/数科一把手，双主线AI场景落地+ROI实战共创"
+  },
+  {
+    "title": "2026企业智能化转型闭门研讨会·长沙站·CIO/CTO探营五八智谷",
+    "normKey": "2026企业智能化转型闭门研讨会·长沙站·CIO/CTO探营五八智谷",
+    "url": "https://www.cdiac.cn/active/detail?id=341",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "探营标杆+案例分享+深度研讨三段，CIO/CTO围绕AI规模化落地路径共创"
   }
 ]
