@@ -16481,5 +16481,93 @@
     "relation": "exec",
     "topic": "award",
     "summary": "③ 高管/校方办名人堂+终身成就奖（高管间、最高层颁授创始人董事长，商务标杆）。一手·香港理工大学官方发布。"
+  },
+  {
+    "title": "青岛市2026\"科技筑梦 育见未来\"科普游（7所高校实验室路线）",
+    "normKey": "青岛市2026\"科技筑梦育见未来\"科普游（7所高校实验室路线）",
+    "url": "https://www.qdast.org.cn/kxdt/KXYW/art/2026/art_d368cb1874e044409c975887963cda46.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "青岛市科协官网一手：7条高校实验室路线把国家级实验室变可预约科普课堂，常态化触达青少年",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "青岛市科协"
+  },
+  {
+    "title": "复旦大学复杂性状遗传调控全国重点实验室公众开放日",
+    "normKey": "复旦大学复杂性状遗传调控全国重点实验室公众开放日",
+    "url": "http://sklgdp.fudan.edu.cn/f1/de/c48803a782814/page.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "复旦官网一手：5-8年级中小学生进实验室，基因/植物/细胞三主题互动平台分龄分层",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "复旦大学"
+  },
+  {
+    "title": "南昌大学基础医学院实验室开放日（千名中小学生）",
+    "normKey": "南昌大学基础医学院实验室开放日（千名中小学生）",
+    "url": "https://bms.ncu.edu.cn/xyxw/ba86eba5efae474faf908e3996ee5d07.htm",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "南昌大学官网一手：千名中小学生显微探微观，规模承接+思政引领的医学科普范式",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "南昌大学"
+  },
+  {
+    "title": "新余市市场监管局2026\"政府开放日\"·探秘食药检测",
+    "normKey": "新余市市场监管局2026\"政府开放日\"·探秘食药检测",
+    "url": "https://scjg.xinyu.gov.cn/scj/gggs/2026-08/11/content_94d577dfb2e34aa599eb669ba1e989c6.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "summary": "新余市政府一手：食药检测透明化+亲子科普，四阶段看-讲-做-议闭环",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "新余市政府"
+  },
+  {
+    "title": "开放日设计方法论（Engage for Success）",
+    "normKey": "开放日设计方法论（EngageforSuccess）",
+    "url": "https://engageforsuccess.org/running-an-open-day/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "英国员工敬业度机构指南：互动/可看/安全/≤50人/定时/免费六原则+四段式开放日设计框架",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "Engage for Success"
+  },
+  {
+    "title": "迪拜商会在沪举办企业家圆桌会议（中企出海中东）",
+    "normKey": "迪拜商会在沪举办企业家圆桌会议（中企出海中东）",
+    "url": "https://new.qq.com/rain/a/20260706A05IBI00?refer=cp_1009",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "腾讯新闻二手：迪拜商会邀头部企业高管围绕出海中东政策/合规/落地务实对话",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "腾讯新闻"
+  },
+  {
+    "title": "GGF2026 出海全球化百人论坛·圆桌AI时代全球化",
+    "normKey": "GGF2026出海全球化百人论坛·圆桌AI时代全球化",
+    "url": "https://new.qq.com/rain/a/20260618A00RS800?refer=cp_1009",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "EqualOcean/腾讯新闻二手：出海智库论坛圆桌，企业创始人CEO围绕AI×全球化战略命题交锋",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "EqualOcean/腾讯新闻"
+  },
+  {
+    "title": "2026沪港企业家圆桌会·共拓十五五新格局",
+    "normKey": "2026沪港企业家圆桌会·共拓十五五新格局",
+    "url": "https://www.chinanews.com.cn/txy/2026/05-12/10619558.shtml",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "中国新闻网二手：沪港两地总商会邀政商高层围绕十五五/出海新生态战略对话",
+    "topic": "Open Day",
+    "slug": "openday",
+    "source": "中国新闻网"
   }
 ]
