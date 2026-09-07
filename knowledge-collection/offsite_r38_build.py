@@ -1,0 +1,215 @@
+# -*- coding: utf-8 -*-
+import json, os
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+TOPIC = "offsite"
+SLUG = "offsite"
+DATE = "20260908"
+ROUND = "三十八轮"
+RUN_LABEL = "三十八轮补采 +10"
+VAULT_NOTE = "Offsite-团建务虚-知识卡汇总"
+
+# ---- 10 cards (only supervisor / exec), all 二手 ----
+cards = [
+ # ③ 高管间
+ dict(emoji="🎯", title="高管 Offsite 规划 2026（三大目的 / 会前 facilitator 1对1访谈 45-60min / 预算基准 €3.5-7.5k每人 / Day0-2 议程 / 引导师甄选）",
+      cat="高管offsite规划", rel="exec", rel_text="高管间", src="二手", badge_r="r3", badge_b="b2", score=5,
+      url="https://easyhotelrfp.com/blog/leadership-offsite-planning",
+      val="高管 offsite 三目的（战略对齐/关系深化/硬议题决策——2-5 个常规会议不敢做的决定）；预算基准 €2,900-5,800/人（标准）、€4,500-9,000/人（高端目的地）；会前工作占 90% 价值：引导师对每位高管 45-60min 访谈（最想解决的3个问题/团队未说出口的张力/什么算浪费），合成真实议程；pre-read 2-4 份提前 7-14 天发（战略框架/匿名访谈主题/3-5 决策文档/会前问题）；Day0 抵达晚宴无议程→Day1 定调+硬议题深潜→Day2 决策综合+战略优先级(承诺3-5/砍3-5)+团队工作协议→Day3 半日每位高管 6个月 3 承诺+CEO 收尾+90天跟进；引导师甄选：浮现未说出口张力/守时纪律/落地决策/点名 CEO 主导/建心理安全/实时综合，参考 5+ 同规模团队，费用 €8k-25k（2-3天），顶级 €30-60k。",
+      inner="三目的(战略对齐/关系深化/硬议题决策-2-5个常规会不敢做的决定);预算基准€2.9-5.8k/人(标准)€4.5-9k/人(高端);会前占90%价值(引导师1对1访谈45-60min每位高管:最想解决3问题/未说出口张力/什么算浪费→合成真实议程;pre-read 2-4份提前7-14天:战略框架/匿名访谈主题/3-5决策文档/会前问题);Day0抵达晚宴无议程→Day1定调+硬议题深潜→Day2决策综合+战略优先级(承诺3-5/砍3-5)+团队工作协议→Day3半日每位高管6个月3承诺+CEO收尾+90天跟进;引导师甄选(浮现张力/守时纪律/落地决策/点名CEO主导/建心理安全/实时综合,参考5+同规模,费€8-25k,顶级€30-60k)。",
+      note="适用：③高管间（高管团队年度 offsite 规划）。二手源=酒店 RFP 平台实操指南（含预算基准+会前访谈 SOP）。补「战略 offsite 五步/季度节奏」之外「高管 offsite 怎么规划：三目的+会前访谈占 90% 价值+预算基准+引导师甄选」这一端到端规划骨架；区别于具体议程模板，本卡是「办一场高管 offsite 的全流程与钱」。"),
+ dict(emoji="🏛️", title="董事会 Retreat 规划（治理体战略务虚 / 会前逐人访谈 / 少汇报多对话 / 关系时间 / 收尾决策承诺 + 1.5日样本议程）",
+      cat="董事会retreat", rel="exec", rel_text="高管间", src="二手", badge_r="r3", badge_b="b2", score=5,
+      url="https://www.fusefacilitation.ca/blog/board-retreat-planning-guide",
+      val="董事会 retreat=治理体少有的离会战略务虚机会（常规董事会走议程/动议/Robert 规则，不适于开放探索）。何时办：年度战略复盘/领导层换届(新CEO/主席/新董事)/重大决定(并购/资本/转型)/失能或错位/行业剧变。设计五步：①定 2-3 个具体产出（非「想想战略」）；②会前逐人访谈（最该谈的/在回避的/什么算成功）→浮现真实议程；③为参与非汇报（汇报≤15min 后接结构化讨论，董事已收报告）；④刻意安排关系时间（非破冰，而是理解彼此视角，前一晚引导式晚宴）；⑤收尾决策与承诺（记下来，下次会议引用），否则数周内蒸发。样本议程 1.5 日：前晚引导晚宴→Day1 上午开场+环境扫描+战略问题1 小组→下午战略问题2+董事会效能对话。",
+      inner="董事会retreat=治理体离会战略务虚(常规董事会走议程动议Robert规则不适开放探索);何时办(年度战略复盘/领导换届新CEO主席新董事/重大决定并购资本转型/失能错位/行业剧变);设计五步(①定2-3具体产出非想想战略;②会前逐人访谈最该谈的/在回避的/什么算成功→浮现真实议程;③为参与非汇报汇报≤15min后接结构化讨论董事已收报告;④刻意关系时间非破冰理解彼此视角前晚引导晚宴;⑤收尾决策承诺记下来下次引用否则数周蒸发);样本1.5日(前晚引导晚宴→Day1上午开场+环境扫描+战略问题1小组→下午战略问题2+董事会效能对话)。",
+      note="适用：③高管间（董事会/治理层 retreat）。二手源=引导公司 board retreat 指南。补「董事会治理/CEO retreat」之外「董事会 retreat 怎么设计：何时办+五步+1.5日样本」，强调「少汇报多对话/收尾必须落承诺」；区别于公司高管 offsite，本卡是治理层视角的 retreat。"),
+ dict(emoji="👑", title="高管 Retreat 2.0·CEO 视角（组织目的→团队目的→角色问责→利益相关方→学习绩效 五步 / 新CEO百日为窗）",
+      cat="CEO retreat", rel="exec", rel_text="高管间", src="二手", badge_r="r3", badge_b="b2", score=5,
+      url="https://www.odgers.com/en-uy/insights/executive-retreats-20-how-ceos-can-achieve-more-when-uniting-teams/",
+      val="传统 offsite 默认 review 业务单元计划或改善协作，罕令团队重思运营模型。高 impact 高管 retreat 五步：①组织目的——把董事会/投资者期望译成共享领导议程；②团队目的——共创团队宪章/工作原则/角色清晰度（新CEO 必备，建共享身份）；③角色与问责——引导练习+赏识式探询浮现未说出口张力、对齐「卓越长什么样」、建挑战与建设性冲突规范；④利益相关方对齐——mapping 客户/伙伴/内部职能，明确每位高管如何 champion；⑤团队学习与绩效——反思建瓴、识别行为/绩效缺口、承诺发展路径。新CEO 前100天是关键窗（建信任/定节奏/设预期）；任何 CEO 渡转型/增长/错位都可重设方向。retreat 既是团队对齐平台，也是 CEO 领导力舞台（早期显信心意图愿景；资深者重设能量/处理绩效/reconnect 目的）；future-back 诊断（访谈/调研/脉冲）先于议程。",
+      inner="高impact高管retreat五步(①组织目的-把董事会投资者期望译成共享领导议程;②团队目的-共创团队宪章工作原则角色清晰度,新CEO必备建共享身份;③角色与问责-引导练习+赏识式探询浮现未说出口张力/对齐卓越长什么样/建挑战与建设性冲突规范;④利益相关方对齐-mapping客户伙伴内部职能明确每位高管如何champion;⑤团队学习与绩效-反思建瓴识别行为绩效缺口承诺发展路径);新CEO前100天关键窗(建信任定节奏设预期);任何CEO渡转型增长错位可重设方向;retreat既是团队对齐平台也是CEO领导力舞台(早期显信心意图愿景/资深者重设能量处理绩效reconnect目的);future-back诊断(访谈调研脉冲)先于议程。",
+      note="适用：③高管间（CEO 主导的高管 retreat）。二手源=高管搜寻公司 Odgers 洞察。补「新CEO愿景共建/CEO retreat」之外「高管 retreat 2.0 五步框架（组织→团队→角色→利益相关方→学习）」这一 CEO 视角系统法；区别于普通战略 offsite，本卡强调「团队作为整体必须交付什么」与 future-back 诊断。"),
+ dict(emoji="📊", title="高管 Retreat ROI 向董事会论证（pre/during/post 三阶段指标 + ROI 公式 + 行动追踪器）",
+      cat="ROI论证", rel="exec", rel_text="高管间", src="二手", badge_r="r3", badge_b="b2", score=5,
+      url="https://www.theinsiderstay.com/blog/executive-retreat-roi-how-to-prove-value-to-your-board-with-templates-you-can-use-today",
+      val="董事会三问：花多少/换回什么/怎么证明成了。论证在落地前就开始——pre-retreat 基线（决策周期天数/领导效能1-10/跨部门项目成功率/员工敬业度）；during（战略决定数/对齐位移/承诺记录 owner+deadline+成功标准）；post 30/90/365 天（行动项完成率/沟通频率改善/领导留存率/retreat 决策带来的营收或成本影响）。ROI 公式：(量化收益−总投入)÷总投入×100，例投 $150k 省 $500k→ROI 233%。关键：pre-retreat 基线是「before 照片」，无基线无法证改变；决策日志 24h 内发；30/60/90 检查日历会前排进日程；单 owner 跟踪所有承诺并升级停滞项。董事会要证据不要「感觉好」。",
+      inner="董事会三问(花多少/换回什么/怎么证明成了);论证落地前开始-pre-retreat基线(决策周期天数/领导效能1-10/跨部门项目成功率/员工敬业度);during(战略决定数/对齐位移/承诺记录owner+deadline+成功标准);post 30/90/365天(行动项完成率/沟通频率改善/领导留存率/retreat决策营收成本影响);ROI公式(量化收益−总投入)÷总投入×100,例投150k省500k→233%;关键(pre-retreat基线是before照片无基线无法证改变/决策日志24h内发/30-60-90检查日历会前排/单owner跟踪所有承诺升级停滞项;董事会要证据不要感觉好)。",
+      note="适用：③高管间（CEO/CHO 向董事会论证 offsite 预算与成效）。二手源=旅行顾问+Meta 战略session 经验文。补「ROI度量/30-60-90 落地」之外「怎么用 ROI 公式+三阶段指标向董事会要预算、要证据」这一对上沟通骨架；区别于 HR 内部度量，本卡是「对董事会的 ROI 论证话术」。"),
+ dict(emoji="🎲", title="高管 Offsite 商业沙盘推演（top150 领导者 / 竞争世界 / 决策权衡 / 宏观扫描盲区 / 反思+应用）",
+      cat="战略沙盘", rel="exec", rel_text="高管间", src="二手", badge_r="r3", badge_b="b2", score=5,
+      url="https://www.insight-experience.com/blog/executive-leadership-simulations-closing-the-gap-between-strategy-and-execution?hsLang=en-us",
+      val="把 offsite 从「听」变「做」：定制商业模拟让高管在竞争环境里做真实决策。案例：某太阳能公司 top150 领导者分 4 个平行「世界」各 6 队互搏+1 个国际对手，3 天（Day1 沉浸业务背景定战略假设/Day2 模拟多轮企业级决策+引导复盘浮现权衡模式/Day3 升级到企业视角分析跨队趋势+panel「so what」转译）。产出：建立企业级态势感知、在不确定中做战略决策、平衡短长期、财务运营纪律、文化支柱行为。关键设计——每轮决策后结构化反思（把注意力从「赢」转向「怎么框定决策/评权衡/领导行为影响」）；引入第 7 个国际对手逼全球基准；嵌入创新机会制造成本/速度/质量/风险权衡；扫描模型揭示多数 leader 只看内部与直接业务、忽视宏观（技术/监管/全球趋势）信号——让盲区可见促讨论。高管在压力安全环境里看见真实模式（决策怎么做的/冲突怎么处理的/信任哪断的/什么拖慢执行）。",
+      inner="把offsite从听变做-定制商业模拟让高管竞争环境做真实决策;案例太阳能公司top150领导者分4平行世界各6队互搏+1国际对手,3天(Day1沉浸业务背景定战略假设/Day2模拟多轮企业级决策+引导复盘浮现权衡模式/Day3升级企业视角分析跨队趋势+panel so what转译);产出(企业级态势感知/不确定中战略决策/平衡短长期/财务运营纪律/文化支柱行为);关键设计(每轮决策后结构化反思-从赢转向怎么框定决策评权衡领导行为影响;第7国际对手逼全球基准;嵌入创新机会制造成本速度质量风险权衡;扫描模型揭示多数leader只看内部与直接业务忽视宏观信号-盲区可见促讨论);高管压力安全环境看见真实模式(决策怎么做/冲突怎么处理/信任哪断/什么拖慢执行)。",
+      note="适用：③高管间（高管 offsite 战略沙盘/商业推演工作坊）。二手源=领导力模拟公司案例+博客。补「战略务虚/决策日议程」之外「用商业模拟 war-game 让高管在 safe 压力里暴露真实决策模式」这一体验式设计；区别于讲座式 offsite，本卡是「做中学」的高管沙盘。"),
+
+ # ② 上下级
+ dict(emoji="🤝", title="领导力发展 2日 Offsite 案例（14 名直属下级的 HR 领导团队 / 社会情绪智力测评 / 信任建立 / 团队规范）",
+      cat="领导力发展offsite", rel="supervisor", rel_text="上下级", src="二手", badge_r="r2", badge_b="b2", score=5,
+      url="https://bandelliandassociates.com/leadership-development-in-action-a-real-life-case-example",
+      val="案例：Fortune500 零售 HR 职能新 leader 接手 14 名直属下级，团队历史互斗、信任缺失、各自防备。干预：会前用 Bandelli 社会情绪智力测评（四维：建立融洽/理解差异/发展信任/培养影响）给全员测基线，leader 也测以表率；2 日 offsite——Day1 过四维能力+重点练「发展信任/培养影响」（团队最弱两项），分享测评分数与反思；Day2 专做关系建设与团队动力：信任练习开放分享人生故事、建立团队规范(engagement 行为)、收尾定未来 6 个月 1-2 发展目标是。产出：跨团队沟通与信任增强、冲突转建设性、leader 懂用发展杠杆。可迁移为公司「新 leader 接手问题团队」的 2 日发展 offsite：先测基线→offsite 练信任与影响→建团队规范→定发展目标。",
+      inner="案例Fortune500零售HR职能新leader接手14直属下级,团队历史互斗信任缺失各自防备;干预会前Bandelli社会情绪智力测评(四维建立融洽/理解差异/发展信任/培养影响)全员测基线,leader也测表率;2日offsite-Day1过四维能力+重点练发展信任/培养影响(团队最弱两项)分享测评分数与反思;Day2专做关系建设团队动力(信任练习开放分享人生故事/建团队规范engagement行为/收尾定未来6个月1-2发展目标);产出(跨团队沟通信任增强/冲突转建设性/leader懂发展杠杆);可迁移新leader接手问题团队2日发展offsite(先测基线→offsite练信任影响→建团队规范→定发展目标)。",
+      note="适用：②上下级（leader 带直属下级团队的发展型 offsite）。二手源=领导力发展咨询真实案例。补「新经理工作坊/信任」之外「用社会情绪智力测评+2日 offsite 重建问题团队信任」这一可抄案例；区别于平级破冰，本卡是「领导↔下属」团队发展 offsite。"),
+ dict(emoji="🏆", title="年度 2日 Retreat 案例（16 经理 + 4 总监 + 10 骨干 / 外部引导师中立 / 季度节奏 / WIFLE 诚实表达 / 报价 14天→5分钟）",
+      cat="年度管理retreat", rel="supervisor", rel_text="上下级", src="二手", badge_r="r2", badge_b="b2", score=5,
+      url="https://boolkah.com/case-study/sportsafe-success-story/",
+      val="案例：快速增长公司多区域各自为战、沟通孤岛。owner 原自跑战略会=自己声音主导；引入外部引导师后，每年季度 key directors+managers+key staff（16经理/4总监/10骨干）聚 2 日 offsite。Day1 总监战略，Day2 经理加入啃真实问题。引导师作中立仲裁，owner 退后成参与者，决策不再自上而下、更好。关键打法：季度明确单一产出（如把退货率 15%→<5% 用 13 周）；WIFLE（What I Feel Like Expressing）让人在不被责怪下诚实；成果：跨站点对齐、报价流程 14天→<5分钟（自动化）、被收购时「季度会结构」成卖点。启示：owner 退后+外部中立引导=真实对话；retreat 写进年度节奏（每季度）。",
+      inner="案例快速增长公司多区域各自为战沟通孤岛;owner原自跑战略会=自己声音主导;引入外部引导师后每年季度key directors+managers+key staff(16经理/4总监/10骨干)聚2日offsite;Day1总监战略Day2经理加入啃真实问题;引导师中立仲裁owner退后成参与者决策不再自上而下更好;关键打法(季度明确单一产出如退货率15%→<5%用13周/WIFLE让人在不被责怪下诚实/成果跨站点对齐+报价14天→<5分钟自动化+被收购时季度会结构成卖点);启示(owner退后+外部中立引导=真实对话/retreat写进年度节奏每季度)。",
+      note="适用：②上下级（owner/高管带经理与骨干的年度管理 retreat）。二手源=教练真实客户案例。补「经理务虚会创意/新任经理梯队」之外「owner 退后+外部中立引导+季度节奏」的年度管理 retreat 实操案例；区别于纯高管 offsite，本卡是「领导↔经理/骨干」的管理层 retreat。"),
+ dict(emoji="🎯", title="领导力 Retreat 活动选型（5 大绩效差距映射 / Day1 连接→Day2 绩效→Day3 承诺 排序 / 30-60-90 KPI 度量）",
+      cat="活动选型", rel="supervisor", rel_text="上下级", src="二手", badge_r="r2", badge_b="b2", score=5,
+      url="https://www.offsite.com/blog/leadership-retreat-activities",
+      val="选活动按「诊断差距」而非「好玩」——5 大差距：①战略对齐缺口（OKR 对齐工作坊/战略模拟）；②决策质量缺口（结构化辩论/商业模拟）；③反馈文化缺口（结构化反馈/360 预读）；④问责缺口（公开承诺仪式/90天问责搭档/行动规划 owner+deadline+成功标准）；⑤人际信任缺口（共享脆弱/体能挑战去层级/个人史练习/同伴欣赏仪式）。排序模型：Day1 连接与心理安全（低压力餐/挑战/故事，转「人模式」）→Day2 绩效议题（晨间认知高峰做最难对话/对齐/问责）→Day3 整合与承诺（行动规划/问责结构/公开承诺，勿用趣味收尾替代）。度量：会前与领导定 2-3 个可观测 KPI（决策瓶颈↓/跨职能沟通脉冲分↑/60天 OKR 进度），30/60/90 检查；把 offsite 当「绩效周期起点」非孤立事件。HR/策划者最大升级=「选有趣」→「选能补最大缺口」。",
+      inner="选活动按诊断差距非好玩-5大缺口(①战略对齐OKR对齐工作坊/战略模拟;②决策质量结构化辩论/商业模拟;③反馈文化结构化反馈/360预读;④问责缺口公开承诺仪式/90天问责搭档/行动规划owner+deadline+成功标准;⑤人际信任共享脆弱/体能挑战去层级/个人史练习/同伴欣赏仪式);排序模型(Day1连接与心理安全低压力餐/挑战/故事转人模式→Day2绩效议题晨间认知高峰做最难对话/对齐/问责→Day3整合与承诺行动规划/问责结构/公开承诺勿用趣味收尾替代);度量(会前定2-3可观测KPI决策瓶颈↓/跨职能沟通脉冲分↑/60天OKR进度,30-60-90检查;offsite当绩效周期起点非孤立事件);HR策划者最大升级=选有趣→选能补最大缺口。",
+      note="适用：②上下级（HR/行政 owner 选 offsite 活动）。二手源=offsite 平台活动指南。补「活动菜单/创意」之外「按绩效差距诊断选活动+排序+度量 ROI」这一策划者方法论；区别于列创意，本卡是「为什么选这个活动、怎么排、怎么证明有效」。"),
+ dict(emoji="📈", title="团建活动 ROI 度量（即时 / 30-90天 / 6-12月 三层 + 网络分析跨部互动 + 留存对照）",
+      cat="团建ROI度量", rel="supervisor", rel_text="上下级", src="二手", badge_r="r2", badge_b="b2", score=5,
+      url="https://wearespin.com/?p=3835/",
+      val="团建 ROI 不能只看满意度。即时指标（1-7天）：参与反馈分/活动完成率/可选环节自愿参与/平时不协作的同事互动质量。会后跟踪（行为+绩效）：月度员工敬业度脉冲、内部沟通频率与质量、团队领导评项目协作、参与团队生产率、缺勤与流失率、跨部门项目成功率与完成时长；用网络分析追不同部门员工互动/协作/互采意见频率（设计良好团建后显著提升）。客户满意度（投诉解决时长/复购）可反映内部改善。留存重点：对比参与者 vs 非参与者 vs 历史流失，量化招聘培训省成本。节奏：即时(1周)/短(30-90天)/长(6-12月，文化变革/领导发展需12-18月)；月度脉冲+季度绩效+半年综合，而非单次。工具：SurveyMonkey/Typeform 做 pre/post/30/90/180 调查；HRIS 追流失缺勤；Asana/Monday 追跨部协作；Culture Amp/Glint 测文化。训练主管识别记录行为变化。",
+      inner="团建ROI不能只看满意度;即时(1-7天参与反馈分/活动完成率/可选环节自愿参与/平时不协作同事互动质量);会后跟踪(行为+绩效:月度敬业度脉冲/内部沟通频率质量/团队领导评项目协作/参与团队生产率/缺勤流失率/跨部门项目成功率完成时长);网络分析追不同部门员工互动协作互采意见频率(设计良好团建后显著提升);客户满意度(投诉解决时长/复购)反映内部改善;留存重点对比参与者vs非参与者vs历史流失量化招聘培训省成本;节奏(即时1周/短30-90天/长6-12月文化变革领导发展需12-18月);月度脉冲+季度绩效+半年综合非单次;工具(SurveyMonkey/Typeform做pre/post/30/90/180;HRIS追流失缺勤;Asana/Monday追跨部协作;Culture Amp/Glint测文化;训练主管识别记录行为变化)。",
+      note="适用：②上下级（HR/行政 owner 度量团建活动 ROI）。二手源=团建活动公司指南。补「ROI度量/企业 retreat ROI」之外「团建（非高管）活动三层度量+网络分析+留存对照+工具栈」这一 HR 度量框架；区别于高管 offsite，本卡是「经理层/员工团建」的 ROI 证明。"),
+ dict(emoji="📐", title="企业 Retreat ROI 指标（eNPS / 部门流失率 / 首要战略目标达成 / ROE vs ROI / 30-90-180天审计）",
+      cat="retreatROI指标", rel="supervisor", rel_text="上下级", src="二手", badge_r="r2", badge_b="b2", score=5,
+      url="https://solanaspanishvillas.com?p=16895/",
+      val="企业 retreat 成功分三个间隔量：24h 内情绪共鸣即时调查→30天新想法落地检查→90-180天文化是否固化审计。即便无直接营收也能度量：追踪项目执行速度+跨部门协作频率（摩擦↓=工作加速=可量化增益）。最关键 KPI：eNPS、各部门流失率、首要战略目标达成度；用脉冲测「信任资本」（心理安全+协作）。基线=出发前 30 天设好。ROI vs ROE：ROI 看财务回报（招聘省/生产率），ROE 看是否达成基线阶段定性目标（如战略愿景清晰度）——CFO 要硬数，ROE 给故事灵魂。论证奢华场地：提「创新溢价」+减少干扰成本（标准酒店隐性分心+环境普通）；僻静高品质环境降皮质醇、促战略突破创意开放。地点是战略成功的沉默合伙人（自然沉浸+在地活动提升记忆留存与信任）。",
+      inner="企业retreat成功分三间隔量(24h内情绪共鸣即时调查→30天新想法落地检查→90-180天文化是否固化审计);即便无直接营收也能度量(追踪项目执行速度+跨部门协作频率,摩擦↓=工作加速=可量化增益);最关键KPI(eNPS/各部门流失率/首要战略目标达成度;脉冲测信任资本心理安全+协作;基线出发前30天设好);ROI vs ROE(ROI看财务回报招聘省/生产率,ROE看是否达成基线阶段定性目标如战略愿景清晰度-CFO要硬数ROE给故事灵魂);论证奢华场地(创新溢价+减少干扰成本标准酒店隐性分心环境普通;僻静高品质环境降皮质醇促战略突破创意开放);地点是战略成功沉默合伙人(自然沉浸+在地活动提升记忆留存与信任)。",
+      note="适用：②上下级（HR/行政 owner 选型与论证 retreat 场地与 ROI）。二手源=企业 retreat ROI 指南（2026）。补「团建 ROI 度量/ROI 论证」之外「eNPS+部门流失+ROE vs ROI+三间隔审计+场地论证」这一指标与对上框架；区别于高管 offsite，本卡是「企业/经理层 retreat」的度量与场地决策。"),
+]
+
+PAGES = "https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite"
+
+def card_html(c):
+    return (
+        '    <div class="hl">\n'
+        '      <div class="top"><span class="emoji">%s</span><h3>%s</h3>'
+        '<span class="cat">%s</span><span class="badge %s">%s</span>'
+        '<span class="badge %s">%s</span></div>\n'
+        '      <p class="val">%s</p>\n'
+        '      <details class="exec"><summary>怎么做</summary><div class="inner">%s</div></details>\n'
+        '      <div class="src">🔗 <a href="%s" target="_blank">%s</a></div>\n'
+        '      <div class="note">%s</div>\n'
+        '    </div>\n'
+    ) % (c["emoji"], c["title"], c["cat"], c["badge_r"], c["rel_text"],
+         c["badge_b"], c["src"], c["val"], c["inner"], c["url"], c["url"], c["note"])
+
+exec_cards = "".join(card_html(c) for c in cards if c["rel"]=="exec")
+sup_cards = "".join(card_html(c) for c in cards if c["rel"]=="supervisor")
+n_exec = sum(1 for c in cards if c["rel"]=="exec")
+n_sup = sum(1 for c in cards if c["rel"]=="supervisor")
+print("cards: exec=%d sup=%d total=%d" % (n_exec, n_sup, len(cards)))
+
+# ---------- 1. update summary wall offsite.html ----------
+html_path = os.path.join(BASE, TOPIC, TOPIC+".html")
+html = open(html_path, encoding="utf-8").read()
+sec3_header = html.find('<div class="sec sec3">')
+sec3_grid = html.find('<div class="grid">', sec3_header)
+sec2_header = html.find('<div class="sec sec2">')
+sec2_grid = html.find('<div class="grid">', sec2_header)
+footer_pos = html.rfind('<footer>')
+
+old_sec3 = html.count('class="hl"', 0, sec2_header)
+old_sec2 = html.count('class="hl"', sec2_header, footer_pos)
+print("before: sec3=%d sec2=%d" % (old_sec3, old_sec2))
+
+if "easyhotelrfp.com/blog/leadership-offsite-planning" in html:
+    print("WALL already has R38 cards, skip card injection")
+else:
+    html = html[:sec2_header] + exec_cards + html[sec2_header:footer_pos] + sup_cards + html[footer_pos:]
+new_sec3 = html.count('class="hl"', 0, html.find('<div class="sec sec2">'))
+new_sec2 = html.count('class="hl"', html.find('<div class="sec sec2">'), html.rfind('<footer>'))
+print("after: sec3=%d sec2=%d total=%d" % (new_sec3, new_sec2, new_sec3+new_sec2))
+
+html = html.replace('<span class="tag">%d 卡</span>' % old_sec3, '<span class="tag">%d 卡</span>' % new_sec3, 1)
+html = html.replace('<span class="tag">%d 卡</span>' % old_sec2, '<span class="tag">%d 卡</span>' % new_sec2, 1)
+
+prose_tail = ("｜ 2026-09-07 三十七轮补采 +10（领导力offsite议程四型/高管offsite议程模板/战略offsite5步/高管offsite季度节奏/有效高管务虚会 + 经理务虚会12创意/领导者务虚会12创意/新任经理梯队议程/高效团队offsite工作坊5要素/新经理工作坊）")
+add = (" ｜ 2026-09-08 三十八轮补采 +10（高管offsite规划2026三目的/会前facilitator访谈占90%价值/预算基准€3.5-7.5k/引导师甄选 + 董事会retreat规划/CEO retreat2.0五步/future-back诊断/ROI向董事会论证/商业沙盘推演 + 领导力发展2日offsite案例/年度管理retreat案例/活动选型按绩效差距/团建ROI度量/企业retreat ROI指标eNPS）")
+if prose_tail in html:
+    html = html.replace(prose_tail, prose_tail+add, 1)
+else:
+    print("WARN prose_tail not found")
+open(html_path, "w", encoding="utf-8").write(html)
+print("updated wall:", html_path)
+
+# ---------- 2. increment page ----------
+head = html[:html.index('</head>')+7]
+inc = head + '\n<body>\n<div class="wrap">\n'
+inc += '<div class="hero"><h1>Offsite 团建务虚 · 三十八轮增量页</h1>'
+inc += '<p>采集于 2026-09-08 ｜ 本轮 +%d（%d 高管间 + %d 上下级）｜ 仅 ②上下级 / ③高管间，已剔除平级/朋友向</p>' % (len(cards), n_exec, n_sup)
+inc += '<div class="relbar"><span>② 领导↔员工（上下级，supervisor）</span><span>③ 领导↔领导（高管间，exec）</span></div></div>\n'
+inc += '\n    <div class="sec sec3">\n    <h2>③ 领导↔领导（高管间 · exec）</h2>\n'
+inc += '<span class="tag">%d 卡</span>\n    <span class="desc">本轮新增高管间卡</span>\n  </div>\n' % n_exec
+inc += '  <div class="grid">\n' + exec_cards + '  </div>\n'
+inc += '\n    <div class="sec sec2">\n    <h2>② 领导↔员工（上下级 · supervisor）</h2>\n'
+inc += '<span class="tag">%d 卡</span>\n    <span class="desc">本轮新增上下级卡</span>\n  </div>\n' % n_sup
+inc += '  <div class="grid">\n' + sup_cards + '  </div>\n'
+inc += '<footer>📌 本页由 yitong 沉淀整理 · 文化活动知识库</footer>\n</div>\n</body>\n</html>\n'
+inc_path = os.path.join(BASE, TOPIC, "%s-%s.html" % (TOPIC, DATE))
+open(inc_path, "w", encoding="utf-8").write(inc)
+print("increment page:", inc_path, len(inc), "bytes")
+
+# ---------- 3. index.json ----------
+idx_path = os.path.join(BASE, "index.json")
+idx = json.load(open(idx_path, encoding="utf-8"))
+existing_urls = {e.get("url") for e in idx}
+added = 0
+for c in cards:
+    if c["url"] in existing_urls:
+        print("SKIP dup url:", c["url"]); continue
+    idx.append({
+        "title": c["title"], "normKey": c["title"], "url": c["url"],
+        "sourceType": "primary" if c["src"]=="一手" else "secondary",
+        "relation": c["rel"], "summary": c["val"][:120], "topic": TOPIC,
+    })
+    added += 1
+    existing_urls.add(c["url"])
+json.dump(idx, open(idx_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print("index.json appended:", added, "-> total", len(idx))
+
+# ---------- 4. Obsidian note ----------
+vault = "C:/Users/v_yitcai/Documents/Obsidian/活动/知识采集库"
+note_path = os.path.join(vault, "素材", SLUG, VAULT_NOTE+".md")
+note = open(note_path, encoding="utf-8").read()
+note = note.replace("知识卡汇总（272 卡", "知识卡汇总（282 卡", 1)
+note_tail = ("。｜ 2026-09-07 三十七轮补采 +10（领导力offsite议程四型/高管offsite议程模板/战略offsite5步/高管offsite季度节奏/有效高管务虚会 + 经理务虚会12创意/领导者务虚会12创意/新任经理梯队议程/高效团队offsite工作坊5要素/新经理工作坊）。")
+add_note = (" ｜ 2026-09-08 三十八轮补采 +10（高管offsite规划2026三目的/会前facilitator访谈占90%价值/预算基准€3.5-7.5k/引导师甄选 + 董事会retreat规划/CEO retreat2.0五步/future-back诊断/ROI向董事会论证/商业沙盘推演 + 领导力发展2日offsite案例/年度管理retreat案例/活动选型按绩效差距/团建ROI度量/企业retreat ROI指标eNPS）。")
+if note_tail in note:
+    note = note.replace(note_tail, note_tail+add_note, 1)
+else:
+    print("WARN note_tail not found")
+round_section = "\n## 轮次 20260908·三十八轮（+%d）\n\n| 卡 | 适用关系 | 一手/二手 |\n|---|---|---|\n" % len(cards)
+for c in cards:
+    round_section += "| %s（offsite.html） | %s | %s |\n" % (c["title"], c["rel_text"], c["src"])
+round_section += "\n> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite-20260908.html\n"
+round_section += "> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html\n\n"
+first_round = note.find("## 轮次")
+note = note[:first_round] + round_section + note[first_round:]
+open(note_path, "w", encoding="utf-8").write(note)
+print("updated obsidian note:", note_path)
+
+# ---------- 5. 00-index ----------
+idx00_path = os.path.join(vault, "00-知识采集索引.md")
+t = open(idx00_path, encoding="utf-8").read()
+sec_start = t.find("## 主题：Offsite")
+nxt = t.find("## 主题：", sec_start+5)
+end = nxt if nxt != -1 else len(t)
+rows = ""
+for c in cards:
+    rows += "| %s（offsite.html） | %d | %s | %s | %s |\n" % (c["title"], c["score"], c["src"], c["rel_text"], c["val"][:60])
+t = t[:end] + rows + t[end:]
+open(idx00_path, "w", encoding="utf-8").write(t)
+print("updated 00-index")
+
+# ---------- 6. lexiang map ----------
+map_path = os.path.join(BASE, "lexiang-entry-map.json")
+mp = json.load(open(map_path, encoding="utf-8"))
+mp[SLUG]["rounds"].append({"date": "2026-09-08", "entry_id": None,
+    "name": "%s-%s.html" % (TOPIC, DATE),
+    "note": "轮次页 R38 (+%d：%d③高管间+%d②上下级，全二手，0 peer 剔除)｜上传待补（乐享 MCP lxmcp_ token 401 过期，待重连后补传并回填 entry_id）" % (len(cards), n_exec, n_sup)})
+json.dump(mp, open(map_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print("updated map R38")
+
+# ---------- 7. last-topic ----------
+open(os.path.join(BASE, "last-topic.txt"), "w", encoding="utf-8").write("破冰\n")
+print("last-topic -> 破冰")
+print("DONE")
