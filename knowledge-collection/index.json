@@ -17233,5 +17233,101 @@
   "relation": "supervisor",
   "summary": "四川省达州中学杨柳校区新春前夕办新进教师茶话会，校级领导、全体中层干部、年级主任与新进教师齐聚；副校长代表学校致欢迎、优",
   "topic": "afternoontea"
+ },
+ {
+  "title": "高管 AI 数字分身出席内部会议·替代领导参与常规同步",
+  "normKey": "高管ai数字分身出席内部会议替代领导参与常规同步",
+  "url": "https://morningoverview.com/meta-is-building-an-ai-zuckerberg-to-handle-some-meetings",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "Meta 据 FT 开发 CEO 实时 3D 写实 AI 分身，可代表本人出席部分内部会议、答常规问题；治理红线=透明标注+对话留痕+人工升级通道，重大宣布仍须真人；Wharton 教授：考验在员工信不信。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "股权激励启动会·创始人讲 Why+HR 讲规则+坦诚 Q&A+授予仪式",
+  "normKey": "股权激励启动会创始人讲whyhr讲规则坦诚qa授予仪式",
+  "url": "https://www.diyangsh.com/archives/p70hp4e7",
+  "sourceType": "primary",
+  "relation": "exec",
+  "summary": "笛杨咨询原创：启动会四段=创始人亲讲 Why(事业共同体)/HR 大白话+案例演算讲规则/创始人坦诚答战略 Q&A/CEO 亲手发授予通知书仪式；目标超越告知达成理解→认同→共鸣。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "Purpose 渗透全员会·组织目的叙事+叠加个人目的",
+  "normKey": "purpose渗透全员会组织目的叙事叠加个人目的",
+  "url": "https://note.crossfields.jp/n/n06ac049c9270?hl=en",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "CrossFields 2026：ESG 逆风下更需把 purpose 渗到一线；别发金字塔图，改讲公司过去-现在-未来单一故事让员工共情，再给员工渠道叠加个人 My-Purpose；组织做平台而非单向宣讲。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "用全员会驱动 CSR 内部倡导·高管以身作则+月度 Impact Chats",
+  "normKey": "用全员会驱动csr内部倡导高管以身作则月度impactchats",
+  "url": "http://csrconnect.org/csr-india/building-a-csr-culture-of-internal-advocacy",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "CSR Connect：内部倡导靠 ownership 非 compliance；领导以身作则(全员会谈可持续目标/分享个人动机)、CEO 开月度 Impact Chats 收点子、spotlight 表彰；远程用 Slack 频道+虚拟 town hall 轮值主持。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "多语全员会引导技巧·提前定语言+术语库+80%语速+转录锚点",
+  "normKey": "多语全员会引导技巧提前定语言术语库80语速转录锚点",
+  "url": "https://www.lecsync.com/blog/how-to-run-multilingual-workshop-meeting",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "LecSync：三策略(lingua franca+实时转录/双语/全多语 AI)；会前 48h 发多语议程+上传术语表；会中讲者降速 80%、关键点停顿、实时转录投屏当锚点、鼓励任意语言贡献。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "全员会实时翻译·两种模式不打断对话流",
+  "normKey": "全员会实时翻译两种模式不打断对话流",
+  "url": "https://olva.ai/blog/real-time-translation-multilingual-meetings",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "OLVA：两模式=被动 participant-side(本地助手不打断不塞 bot)/共享 meeting-level(组织者开字幕流全员同视)；四原则=节奏不被打断/理解>逐字/参与者可控/同意隐私+会后翻译稿。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "全息 3D 远程在场·Google Beam 缩混合办公包容鸿沟",
+  "normKey": "全息3d远程在场googlebeam缩混合办公包容鸿沟",
+  "url": "https://uctoday.com/google-beam-adds-3d-group-meeting-support-for-zoom-and-google-meet",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "UC Today：Google Beam 用 65 寸光场屏+6 摄像头让远端以真人尺寸入会、空间音频定位发言；Google 研究称较网格视频社会连接+50%、贡献感+21%，从硬件层补远程包容缺口。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
+ },
+ {
+  "title": "ESG 主题内部大会·ESG 评估+影响度量+数据说话",
+  "normKey": "esg主题内部大会esg评估影响度量数据说话",
+  "url": "https://www.firstevent.co.uk/our-work/esg-focused-internal-conference-first-event-kick-off",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "First Event 2026：聚曼城 Etihad 球场融合战略/可持续/engagement；会前 ESG 评估、Impact Report 度量得 Advanced；会后目标理解+51%、角色理解+31%、100% 签 ESG Charter。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r38",
+  "date": "2026-09-08"
  }
 ]
