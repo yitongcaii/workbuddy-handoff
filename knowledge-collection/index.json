@@ -16785,5 +16785,95 @@
   "slug": "staff-meeting",
   "round": "r37",
   "date": "2026-09-07"
+ },
+ {
+  "title": "领导力 Offsite 议程结构·单决策日/2日/3日/半日四型",
+  "normKey": "领导力offsite议程结构单决策日2日3日半日四型",
+  "url": "https://culturevitale.com/journal/leadership-offsite-agenda-switzerland",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "按决策强度分四型议程(单日/2日/3日/半日);最难议题前置、每天留白、独立引导、行动带owner+日期;瑞士换场景支撑不同质量对话",
+  "topic": "offsite"
+ },
+ {
+  "title": "高管 Offsite 议程模板·小高管群目标→对齐→连接",
+  "normKey": "高管offsite议程模板小高管群目标→对齐→连接",
+  "url": "https://www.ask.com/news/design-high-impact-leadership-offsite-agenda",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "小高管群2日模板(D1目标→战略→权衡→情景→动态;D2路线图→风险→决策→问责);最小跨职能群+预读问卷+中性引导+产出反推",
+  "topic": "offsite"
+ },
+ {
+  "title": "战略 Offsite 5 步·≤8人决策层+会前作业+向上/向下沟通",
+  "normKey": "战略offsite5步≤8人决策层+会前作业+向上向下沟通",
+  "url": "https://chameleoncollective.com/blog/strategic-offsites-5-steps-to-success",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "战略offsite5步(≤8决策层/会前作业/2日方向执行/双向沟通计划/问责);决策层最小化+会前准备决定现场质量",
+  "topic": "offsite"
+ },
+ {
+  "title": "高管 Offsite 季度节奏·Q1定方向/Q2评估/Q3校准/Q4复盘",
+  "normKey": "高管offsite季度节奏q1定方向q2评估q3校准q4复盘",
+  "url": "https://www.metavent.io/post/executive-offsite-planning-that-actually-drives-decisions-in-changing-times",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "高管offsite季度节奏(Q1方向/Q2评估/Q3校准/Q4复盘);决策优先于演示、环境匹配目标、修复高管归属感",
+  "topic": "offsite"
+ },
+ {
+  "title": "有效高管务虚会·Bob Frisch 30年经验(目标承诺/会前消化/30-60天closure)",
+  "normKey": "有效高管务虚会bobfrisch30年经验目标承诺会前消化3060天closure",
+  "url": "https://chiefexecutive.net/plan-effective-executive-retreat/amp/",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "Frisch法则(单一目标承诺/资料会前消化/30-60天reconvene收尾/团队精简可变阵/专家只澄清不引导);closure靠会后reconvene",
+  "topic": "offsite"
+ },
+ {
+  "title": "12 经理务虚会创意·按场景分(从经理到leader/危机模拟/授权/文化)",
+  "normKey": "12经理务虚会创意按场景分从经理到leader危机模拟授权文化",
+  "url": "http://www.theoffsiteco.com/news/manager-retreat-ideas",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "经理retreat12创意按场景(心智转变/危机模拟+镇静/授权艺术/文化构建者/Mini-MBA);主题对齐真痛点而非凑活动",
+  "topic": "offsite"
+ },
+ {
+  "title": "12 领导者务虚会创意·户外/创意/厨艺/战略模拟/Wellness 五类",
+  "normKey": "12领导者务虚会创意户外创意厨艺战略模拟wellness五类",
+  "url": "https://www.offsite.com/blog/leader-retreats",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "领导者retreat15+活动五类(户外/创意/厨艺/战略解题/Wellness);活动服务目标、高低能量交替、留白色空间",
+  "topic": "offsite"
+ },
+ {
+  "title": "新任经理梯队务虚会·样本议程(高管欢迎/实务管理/小组破题/问责)",
+  "normKey": "新任经理梯队务虚会样本议程高管欢迎实务管理小组破题问责",
+  "url": "https://www.braintrustprofessionalinstitute.com/retreat-agendas",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "新经理梯队务虚会样本(高管欢迎/真实破题/赞赏式探询/问责+一周impact meeting);真实题+高管背书+会后闭环",
+  "topic": "offsite"
+ },
+ {
+  "title": "高效团队 Offsite 工作坊·5要素(诊断定任务/目标架构/体验+复盘/团队协议/转移监测)",
+  "normKey": "高效团队offsite工作坊5要素诊断定任务目标架构体验+复盘团队协议转移监测",
+  "url": "https://www.bitou.de/en/team-development/offsite-workshop-building-an-effective-team",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "团队offsite工作坊五要素(诊断先行/少数目标/体验必复盘/团队协议/会后监测);以协作改变衡量而非以氛围",
+  "topic": "offsite"
+ },
+ {
+  "title": "新经理工作坊·沟通如leader/时间优先级/授权不微管/高绩效团队/难谈话",
+  "normKey": "新经理工作坊沟通如leader时间优先级授权不微管高绩效团队难谈话",
+  "url": "https://skillpath.com/seminar/workshop-for-new-managers",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "新经理工作坊模块(沟通如leader/授权不微管/难谈话/高绩效团队/行动规划);技能可练+当场落行动规划",
+  "topic": "offsite"
  }
 ]
