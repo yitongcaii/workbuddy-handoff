@@ -16875,5 +16875,68 @@
   "relation": "supervisor",
   "summary": "新经理工作坊模块(沟通如leader/授权不微管/难谈话/高绩效团队/行动规划);技能可练+当场落行动规划",
   "topic": "offsite"
+ },
+ {
+  "title": "高管务虚开场活动库（连接与对齐升级）",
+  "normKey": "高管务虚开场活动库连接与对齐升级",
+  "url": "https://www.offsite.com/blog/leadership-activities-teams",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "Compliment Circle/CI/Barter Puzzle/Chat Waterfall/Emoji Check-In 把破冰升级成有目的的连接与对齐动作，可接虚拟版",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "领导力静修 10 步全程规划（含 48h 复盘+KPI）",
+  "normKey": "领导力静修10步全程规划含48h复盘kpi",
+  "url": "https://www.offsite.com/leadership-retreats",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "10 步从目标/KPI→破冰→工作坊→团建→公益→健康→社交→技术断电→物流分设→48h 匿名复盘+30/60 天 KPI 追踪",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "个人历史练习 Personal Histories（心理安全基石·HBR）",
+  "normKey": "个人历史练习personalhistories心理安全基石hbr",
+  "url": "https://giveriver.com/blog/team-bonding-exercise-ultimate-guide",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "每人讲 2-3 段人生故事把同事还原成「人」，HBR 引用的心理安全基石，30min 低门槛不尴尬可持续",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "跨部门即兴工作坊「Yes, and」信任构建",
+  "normKey": "跨部门即兴工作坊yesand信任构建",
+  "url": "https://boomforbusiness.nl/blog/7-team-building-activities-that-strengthen-trust-between-departments",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "即兴「Yes,and」先接住再叠加逼人实时倾听互相托底，混编部门无脚本协作，心态迁移真实跨部门项目",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "岗位互换日 + 午餐轮盘（零预算拆孤岛）",
+  "normKey": "岗位互换日午餐轮盘零预算拆孤岛",
+  "url": "https://teambuildingworld.com/interdepartmental-team-activities/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "Lunch Roulette 随机配对午餐+话题卡、Department Swap Day 跟岗一整天建同理心，都季度固定成文化基础设施",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "按隔阂类型匹配协作活动格式（选型框架）",
+  "normKey": "按隔阂类型匹配协作活动格式选型框架",
+  "url": "https://www.thebigsmokeevents.com/?p=4437/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "按隔阂类型匹配格式（沟通慢→Giant Jenga/争影响力→Horse Racing/不了解流程→Scavenger Hunt/全组织→quiz）",
+  "topic": "icebreaker"
+ },
+ {
+  "title": "跨部门协作 5 类活动菜单（2026·含时长/人数/单价）",
+  "normKey": "跨部门协作5类活动菜单2026含时长人数单价",
+  "url": "https://learn.offsiteio.com/team-building-activities/5-team-building-activities-that-maximize-cross-department-collaboration-in-2026",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "烹饪赛/逃生舱/户外课/公益共建/黑客松五类，按预算人数远程与否选型、配 debrief 把洞察接回工作",
+  "topic": "icebreaker"
  }
 ]
