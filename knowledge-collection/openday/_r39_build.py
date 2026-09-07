@@ -1,56 +1,137 @@
-<div class="hl">
+# -*- coding: utf-8 -*-
+"""Open Day r39 enrich build — 8 new cards (②×5 / ③×3), all NEW in index."""
+import json, os, re
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+WALL = os.path.join(BASE, 'openday.html')
+TMP  = os.path.join(BASE, '.run_newcards.tmp.html')
+IDX  = os.path.join(os.path.dirname(BASE), 'index.json')
+
+# ---- 8 cards ----
+cards = []
+
+# ② 上下级 ×5 （全一手）
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🏛️</span><h3>文庙街道2026"政府开放日"·沉浸式体验基层便民服务大厅（自助终端+帮办代办）</h3><span class="cat">基层政务开放日</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
   <p class="val">宁阳县文庙街道2026.9.3办"政府开放日"，邀群众代表走进街道便民服务大厅，沉浸式感受基层政务服务；代表实地走访营业执照/食品经营许可/社保医保/民政救助/卫健服务等高频业务窗口，亲手操作自助服务终端体验自助查询与业务申报，工作人员现场科普办事材料/时限/帮办代办；代表结合自身经历就优化办事指引提建议，街道建台账逐项吸纳转化为优化举措；附2026政府开放月意见建议办理汇总表（范女士建议加强老年人帮办，已采纳落实一对一帮办代办）。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"基层街道开放日"做成政务透明化样板——以"便民服务大厅实景体验+高频业务窗口走通+自助终端实操+政策现场科普"四环节把政务服务从后台搬前台；用"帮办代办/老年一对一"兜底数字鸿沟；建立意见建议台账逐项吸纳闭环，把开放日变民意直通车；基层政府以服务者姿态、群众以被服务者身份零距离对话。</div></details>
   <div class="src">🔗 <a href="http://www.ny.gov.cn/art/2026/9/4/art_362479_10372282.html" target="_blank">www.ny.gov.cn/art/2026/9/4/art_362479_10372282.html</a></div>
   <div class="note">适用：② 基层政务开放日（宁阳县政府官网一手），街道以服务者姿态，群众代表走进便民大厅实操办事、提建议建台账，尊重边界、专业不幼稚。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🏥</span><h3>鹰潭市卫健委2026"政府开放月"·数智赋能便民就医（资源共享中心+橙心助老）</h3><span class="cat">卫健政务开放日</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
   <p class="val">鹰潭市卫健委2026.8.21在鹰潭市人民医院办"政府开放日"，十余名市民代表沉浸式体验便民就医；资源共享中心讲解"基层检查+中心诊断+全域结果互认"机制、演示云端影像/远程心电、急诊影像30分速报与心梗预警；门诊智慧便民大厅切换患者视角体验AI导诊/诊间支付，并亮"橙心助老"适老化品牌（人工专窗+志愿者陪诊）；健康管理中心参观6000㎡体检专区（体重管理门诊/早癌筛查/体检云档案/慢病随访全周期）；座谈副院长介绍医改成效，代表就挂号/转诊/老年就医建言，各科室现场答疑+问卷征集。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"卫健开放日"做成数智便民实景课——以"区域医疗资源集约（结果互认/远程诊断）+智慧门诊（AI导诊/诊间支付）+适老化兜底（橙心助老）"三层展示公立医院提质；用"患者视角切换+老年陪诊"破数字鸿沟；座谈建诉求-反馈-整改闭环；卫健领导以服务者姿态、市民以被服务者身份对话。</div></details>
   <div class="src">🔗 <a href="http://www.yingtan.gov.cn/art/2026/8/24/art_11264_1609209.html" target="_blank">www.yingtan.gov.cn/art/2026/8/24/art_11264_1609209.html</a></div>
   <div class="note">适用：② 卫健政务开放日（鹰潭市政府官网一手），卫健委与医院以服务者姿态，市民代表体验数智便民+适老陪诊、建言就医痛点，专业严谨、不娱乐化。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🪨</span><h3>河北地质大学2026"高校自然科学实验室开放日"·"我是小小科学家"（地学/水资源/矿物化石）</h3><span class="cat">高校实验室开放日</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
   <p class="val">河北地质大学2026全国科技活动周首场面向青少年的"高校自然科学实验室开放日"，主题"我是小小科学家"，依托地球科学/水资源/矿产资源特色平台，把真实实验室变科普场所；正定开元小学/解放街小学百余名学生走进校园，观看科学演示、在指导下参与简易实验（水资源/矿物标本/化石模型/测量仪器），配地球科学展览讲解+自然科学互动竞答；创新"科研场景沉浸+动手探究体验"模式，体现"实验室即课堂、研究者即讲解员"，激发主动探究兴趣；由河北省地质学会/石家庄科普中心/多个重点实验室协办。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"高校实验室开放日"做成地学科普专场——以地球科学/水资源/矿产特色平台做"实验室即课堂"转化，用"真实实验演示+小学生动手探究+标本化石观察+竞答"四件套把高深地学变可触科普；"研究者即讲解员"降门槛；可常态化服务青少年科学素养，是高校科研资源科普化的地学范式。</div></details>
   <div class="src">🔗 <a href="https://www.hbast.org.cn/detail.thtml?id=220289" target="_blank">www.hbast.org.cn/detail.thtml?id=220289</a></div>
   <div class="note">适用：② 高校地学实验室开放日（河北省科协一手），地学团队以科学引路人姿态，小学生沉浸实验+标本观察，分龄分层、专业不幼稚。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🐟</span><h3>广东医科大学2026"实验室开放日"·探秘水中小白鼠斑马鱼（基因编辑显微注射+荧光观察）</h3><span class="cat">高校实验室开放日</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
   <p class="val">广东医科大学东莞创新研究院2026.5.23办"探秘水中小白鼠——走进斑马鱼的生命世界"实验室开放日，近300名中小学师生家长走进校园；涵盖科普讲座（斑马鱼在科研与产业应用）+实验室参观+荧光斑马鱼显微观察+基因编辑显微注射演示；志愿者带分批走进养殖区（循环水系统/各发育阶段实物）、分子生物学实验室（DNA提取/PCR/电泳/基因编辑测序图对比）、功能实验室（荧光显微镜观察GFP/RFP荧光斑马鱼与透明胚胎、活体胚胎心跳血液）；现场演示斑马鱼卵显微注射（挑卵/拉针/基因敲除试剂注射/回收），融知识性趣味性实践性。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"生命科学开放日"做成模式动物专场——以斑马鱼"水中小白鼠"为抓手，用"科普讲座+养殖区观察+分子实验演示+荧光显微+基因编辑显微注射"五段把基因编辑/发育生物学变可触探索；志愿者分组引导+显微镜实操降门槛；高校以科学引路人姿态、中小学生沉浸前沿生物技术，专业不幼稚。</div></details>
   <div class="src">🔗 <a href="https://www.gdmu.edu.cn/info/1488/68962.htm" target="_blank">www.gdmu.edu.cn/info/1488/68962.htm</a></div>
   <div class="note">适用：② 高校生命科学实验室开放日（广东医科大学一手），科研团队以引路人姿态，中小学生观察荧光斑马鱼+看基因编辑注射，前沿生物科普、分龄分层。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">👂</span><h3>上科大 iHuman 研究所2026实验室开放日·探索听觉奥秘与神奇细胞（实验观察记录本）</h3><span class="cat">高校实验室开放日</span><span class="badge r2">上下级</span><span class="badge b1">一手</span></div>
   <p class="val">上海科技大学 iHuman 研究所2026.5.31办年度品牌科普"动物听觉和神奇的细胞之旅"实验室开放日，约200名中小学生及家长参与；钟桂生研究员讲《听觉和耳聋基因》科普讲座+日常护耳倡导；设六大模块（4实验+2特色实验室参观）：显微镜观细胞/细胞计数仪/测听实验室探听觉/动植物解剖模型；小鼠听力测试平台成人气焦点；特别设计《实验观察记录本》"现象捕捉-数据转化-问题衍生"三阶训练，引导学生像科学家规范记录，评优颁奖；连续三年与青少年见面成科普名片。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"科普开放日"做出科学思维方法论——不止"看热闹"，用《实验观察记录本》三阶训练（现象→数据→问题）把参观变"像科学家一样记录"的实操；六大模块轮转+志愿者导师引导降门槛；高校以科学引路人姿态、青少年在真实科研场景练科学思维，是可复制的高校科普范式。</div></details>
   <div class="src">🔗 <a href="https://ihuman.shanghaitech.edu.cn/2026/0604/c9698a1123608/page.htm" target="_blank">ihuman.shanghaitech.edu.cn/2026/0604/c9698a1123608/page.htm</a></div>
   <div class="note">适用：② 高校生命科学实验室开放日（上科大一手），研究所以科学引路人姿态，中小学生探听觉基因+用记录本练科学思维，分龄分层、专业不幼稚。</div>
-</div>
-<div class="hl">
+</div>''')
+
+# ③ 高管间 ×3
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🌏</span><h3>2026中国企业出海战略峰会（虹桥·圆桌研讨+出海四大维度框架）</h3><span class="cat">出海峰会/高管圆桌</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
   <p class="val">虹桥海外发展服务中心联合鼎霸出海、长三角G60科创走廊联席会议办2026.1.23"中国企业出海战略峰会"，"线下分享+圆桌研讨"汇聚200位深耕中东/东南亚市场的企业负责人、出海高管、投资精英与行业专家；鼎霸出海创始人袁先楚从市场研判/差异化路径/全球资源整合/风险规避四维度构建出海战略框架；圆桌由出海平台/人力/检测/律所负责人围绕人才储备/合规体系/服务生态协同深度研讨，凝聚全方位出海方案；中心持续打造长三角企业"走出去"服务第一站。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"出海峰会"做成高管战略对话场——以"主题分享（市场研判+路径设计+资源整合+风险规避四维度框架）+圆桌研讨（人才/合规/生态协同）"把开放日变中企出海智力枢纽；用"务实合作贯穿全程"替代寒暄，是虹桥官方出海高管对话范本（一手）。</div></details>
   <div class="src">🔗 <a href="https://segg.sh.gov.cn/pxhd/hdhg/20260130/e6d72f7723c14edfb1f6974f042c2de1.html" target="_blank">segg.sh.gov.cn/pxhd/hdhg/20260130/e6d72f7723c14edfb1f6974f042c2de1.html</a></div>
   <div class="note">适用：③ 出海战略峰会（虹桥海外发展服务中心一手），主办方以跨境生态组织者姿态，企业负责人/出海高管/投资人围绕出海战略务实对话，商务化、以共同目标切入，层级清晰不越界。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🌐</span><h3>全球华商乐聚博鳌·华商领袖与华人智库圆桌会（博鳌亚洲论坛·十五五机遇）</h3><span class="cat">华商高管圆桌/博鳌</span><span class="badge r3">高管间</span><span class="badge b1">一手</span></div>
   <p class="val">博鳌亚洲论坛2026年年会·华商领袖与华人智库圆桌会议3.25在海南博鳌举行，中国侨商联合会会长谢国民、荣誉会长张茵等全球华商领袖与华人智库专家参会；紧扣"把握新机遇实现新发展"，十余年持续聚焦"华商携手繁荣丝路/共建人类命运共同体/十五五高水平开放/海南自贸港"等主题；印尼金光APP副总裁翟京丽分享跨国制造经验、关注区域经济一体化/数智赋能/绿色转型；美国华商会会长邓龙首次参会即启动海南投资论证；圆桌会成为全球华商"朋友聚会+相互学习+捕捉中国机遇"的同场交流平台。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"华商圆桌"做成全球同侪对话场——以博鳌亚洲论坛为超级场景，由侨商联合会背书邀全球华商领袖+智库专家，围绕"中国发展新机遇/区域一体化/绿色转型"战略对话（非寒暄）；用"年度机制+主题递进"沉淀信任网络，把开放日变全球华商资源与机遇对接场；商务化、以共同目标切入。</div></details>
   <div class="src">🔗 <a href="https://www.zytzb.gov.cn/zytzb/2026-03/27/article_2026032711052659709.shtml" target="_blank">www.zytzb.gov.cn/zytzb/2026-03/27/article_2026032711052659709.shtml</a></div>
   <div class="note">适用：③ 华商高管圆桌（中央统战部一手），华商领袖以同侪战略伙伴姿态对话，商务化、以中国发展新机遇/区域协同共同目标切入，忌幼稚互动。</div>
-</div>
-<div class="hl">
+</div>''')
+
+cards.append('''<div class="hl">
   <div class="top"><span class="emoji">🚀</span><h3>2026中关村企业家创新发展大会·企业家圆桌论坛（科创开放新高地）</h3><span class="cat">科创企业家圆桌/协会</span><span class="badge r3">高管间</span><span class="badge b2">二手</span></div>
   <p class="val">中关村科技企业家协会成立四十周年之际，2026.7.21在京举行"企业家创新发展大会"；会长罗玏典阐释"连接·服务·贡献"三位一体体系（联动全球科创社群/科技金融赋能/攻坚硬科技出海）；企业家圆桌论坛围绕"跨界联动·融通全域·全球协同：打造中关村科创开放新高地"议题，就机器人产业应用/自动驾驶商业化/科创投资机遇/全球化创新与出海深度对话；启动协会与新华网共进合作平台（科创对接/品牌塑造五大功能）；宇树G1人形机器人/无人配送车现场互动展应用成果。</p>
   <details class="exec"><summary>怎么做</summary><div class="inner">把"科创企业家大会"做成开放创新对话场——以协会为组织者，用"会长战略蓝图（连接/服务/贡献）+企业家圆桌（机器人/自动驾驶/出海）+权威媒体合作平台"把开放日变科创生态枢纽；圆桌聚焦"跨界联动/全球协同"战略命题（非产品宣讲），是科创企业家同侪对话范本（人民网二手）。</div></details>
   <div class="src">🔗 <a href="https://finance.people.com.cn/BIG5/n1/2026/0721/c1004-40765167.html" target="_blank">finance.people.com.cn/BIG5/n1/2026/0721/c1004-40765167.html</a></div>
   <div class="note">适用：③ 科创企业家圆桌（人民网二手），协会以科创生态组织者姿态，企业家围绕开放新高地/出海战略对话，商务化、以命题共创切入、层级清晰。</div>
-</div>
+</div>''')
+
+# ---- split into ② (first 5) and ③ (last 3) ----
+cards_2 = cards[:5]
+cards_3 = cards[5:]
+
+# ===== 1. update cumulative wall =====
+html = open(WALL, encoding='utf-8').read()
+
+assert html.count('<span class="tag">267 卡</span>') == 1, "sec2 tag count mismatch"
+assert html.count('<span class="tag">59 卡</span>') == 1, "sec3 tag count mismatch"
+html = html.replace('<span class="tag">267 卡</span>', '<span class="tag">272 卡</span>', 1)
+html = html.replace('<span class="tag">59 卡</span>', '<span class="tag">62 卡</span>', 1)
+
+# hero round append (anchor on current last round text)
+assert html.count('沪港圆桌)</p>') == 1, "hero anchor not unique"
+html = html.replace('沪港圆桌)</p>',
+                   '沪港圆桌)</p> ｜ 三十九轮补采 2026-09-07(+8，文庙街道·鹰潭数智便民·河北地质·广东医科斑马鱼·上科大听觉 + 出海战略峰会·华商博鳌圆桌·中关村科创圆桌)', 1)
+
+# insert ② cards before the mixed grid at the 🍳 breakfast meeting anchor
+m = re.search(r'<div class="grid">\s*<div class="hl">\s*<div class="top"><span class="emoji">🍳</span>', html)
+assert m, "mixed grid anchor not found"
+insert_at = m.start()
+html = html[:insert_at] + '\n'.join(cards_2) + '\n' + html[insert_at:]
+
+# insert ③ cards before </body>
+body_pos = html.rfind('</body>')
+html = html[:body_pos] + '\n'.join(cards_3) + '\n' + html[body_pos:]
+
+open(WALL, 'w', encoding='utf-8').write(html)
+
+# ===== 2. write tmp newcards file (all 8 for gen_run_page) =====
+open(TMP, 'w', encoding='utf-8').write('\n'.join(cards))
+
+# ===== 3. update index.json =====
+idx = json.load(open(IDX, encoding='utf-8'))
+meta = [
+ ('文庙街道2026"政府开放日"·沉浸式体验基层便民服务大厅','http://www.ny.gov.cn/art/2026/9/4/art_362479_10372282.html','primary','supervisor','宁阳县政府一手：群众代表走进街道便民服务大厅实操自助终端+提建议建台账，政务透明化基层样板','宁阳县政府'),
+ ('鹰潭市卫健委2026"政府开放月"·数智赋能便民就医','http://www.yingtan.gov.cn/art/2026/8/24/art_11264_1609209.html','primary','supervisor','鹰潭市政府一手：资源共享中心结果互认+智慧门诊诊间支付+橙心助老适老化，卫健开放日数智便民实景','鹰潭市政府'),
+ ('河北地质大学2026高校自然科学实验室开放日·我是小小科学家','https://www.hbast.org.cn/detail.thtml?id=220289','primary','supervisor','河北省科协一手：地学/水资源/矿物化石平台做实验室即课堂，小学生动手探究科普范式','河北省科协'),
+ ('广东医科大学2026实验室开放日·探秘斑马鱼基因编辑','https://www.gdmu.edu.cn/info/1488/68962.htm','primary','supervisor','广东医科大学一手：荧光斑马鱼观察+基因编辑显微注射演示，模式动物生命科学前沿科普','广东医科大学'),
+ ('上科大iHuman研究所2026实验室开放日·听觉奥秘与细胞','https://ihuman.shanghaitech.edu.cn/2026/0604/c9698a1123608/page.htm','primary','supervisor','上科大一手：听觉基因讲座+六大模块+实验观察记录本三阶训练，科普开放日科学思维方法论','上科大iHuman研究所'),
+ ('2026中国企业出海战略峰会（虹桥·出海四大维度框架）','https://segg.sh.gov.cn/pxhd/hdhg/20260130/e6d72f7723c14edfb1f6974f042c2de1.html','primary','exec','虹桥海外发展服务中心一手：200位出海高管圆桌，市场研判/路径/资源/风险四维度出海战略框架','虹桥海外发展服务中心'),
+ ('全球华商乐聚博鳌·华商领袖与华人智库圆桌会','https://www.zytzb.gov.cn/zytzb/2026-03/27/article_2026032711052659709.shtml','primary','exec','中央统战部一手：博鳌亚洲论坛华商圆桌，全球华商领袖围绕十五五/自贸港机遇同侪战略对话','中央统战部'),
+ ('2026中关村企业家创新发展大会·企业家圆桌论坛','https://finance.people.com.cn/BIG5/n1/2026/0721/c1004-40765167.html','secondary','exec','人民网二手：中关村科创企业家圆桌，机器人/自动驾驶/出海命题跨界联动，科创开放新高地','人民网'),
+]
+existing = {e.get('url','').strip().lower().rstrip('/') for e in idx}
+added = 0
+for title, url, st, rel, summ, src in meta:
+    if url.strip().lower().rstrip('/') in existing:
+        continue
+    idx.append({
+        'title': title, 'normKey': title.replace(' ',''), 'url': url,
+        'sourceType': st, 'relation': rel, 'summary': summ,
+        'topic': 'Open Day', 'slug': 'openday', 'source': src
+    })
+    existing.add(url.strip().lower().rstrip('/'))
+    added += 1
+
+json.dump(idx, open(IDX, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print(f"WALL updated. cards_2={len(cards_2)} cards_3={len(cards_3)} index_added={added} total_index={len(idx)}")
