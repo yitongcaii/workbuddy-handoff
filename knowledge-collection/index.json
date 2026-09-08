@@ -17491,5 +17491,95 @@
     "relation": "supervisor",
     "summary": "Chron.com+HBR 新经理首 day 破冰:首场员工会短聚焦(介绍+icebreaker+下一步+收尾),Weather Check 读情绪+Two Truths 混纸抽签+Adjective Game+带无麸质坚果零食;HBR 先建关系再冲 KPI",
     "topic": "icebreaker"
+  },
+  {
+    "title": "城发集团2026年\"五一\"优秀员工表彰大会（党委书记讲话\"以奋斗者为本\"·三期望·身份无差别贡献有回报）",
+    "normKey": "城发集团2026年\"五一\"优秀员工表彰大会党委书记讲话\"以奋斗者为本\"三期望身份无差别贡献有回报",
+    "url": "https://www.xncfjt.net/index.php?s=index/show/index&id=3121",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "award",
+    "summary": "② 国企HR/党委五一表彰（上下级、以奋斗者为本讲话+身份平权，非平级游戏）。一手·城发集团官网。"
+  },
+  {
+    "title": "湖南盐业集团2026年度工作会暨总结表彰（董事长特别奖/价值营销标杆/质量标兵/安全先进个人/精益改善之星/金点子奖·责任状签订）",
+    "normKey": "湖南盐业集团2026年度工作会暨总结表彰董事长特别奖价值营销标杆质量标兵安全先进个人精益改善之星金点子奖责任状签订",
+    "url": "https://gzw.hunan.gov.cn/gzjg/gqdt/202602/t20260224_33919450.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "award",
+    "summary": "② 国企年度工作会+多维表彰矩阵（上下级、责任状+质量/安全/精益/金点子奖项，治理视角）。一手·湖南省国资委官网。"
+  },
+  {
+    "title": "长方集团康铭盛2026年度表彰大会暨年会盛典（优秀协作/员工/业绩奖·管委会主任\"付出就有回报\"·团圆晚宴抽奖）",
+    "normKey": "长方集团康铭盛2026年度表彰大会暨年会盛典优秀协作员工业绩奖管委会主任\"付出就有回报\"团圆晚宴抽奖",
+    "url": "https://cfled.com/jituanxinwen/93.html",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "award",
+    "summary": "② 表彰与年会合办（上下级、价值观口号+晚宴抽奖凝聚，尊重不越界）。一手·长方集团官网。"
+  },
+  {
+    "title": "安全生产隐患内部举报奖励机制（即时小额现金20-5000元+通报表扬+评优优先·湖北\"多看一眼奖五千\"）",
+    "normKey": "安全生产隐患内部举报奖励机制即时小额现金205000元+通报表扬+评优优先湖北\"多看一眼奖五千\"",
+    "url": "https://yjt.hubei.gov.cn/fbjd/dtyw/mtbd/sjmt/202606/t20260617_5960184.shtml",
+    "sourceType": "primary",
+    "relation": "supervisor",
+    "topic": "award",
+    "summary": "② EHS/高管隐患上报即时奖励（上下级、小额现金+通报的日常微认可，治理视角）。一手·湖北省应急厅。"
+  },
+  {
+    "title": "棒线厂/东晓生物\"金点子\"合理化建议颁奖（一线提案评审+奖金勋章·\"让点子变金子\"评审闭环落地）",
+    "normKey": "棒线厂东晓生物\"金点子\"合理化建议颁奖一线提案评审+奖金勋章\"让点子变金子\"评审闭环落地",
+    "url": "https://www.toutiao.com/article/7615516327645594162/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "topic": "award",
+    "summary": "② 全员合理化建议\"金点子\"颁奖（上下级、提案评审闭环+勋章认可，非peer互评）。二手·今日头条/晋钢控股。"
+  },
+  {
+    "title": "孟加拉首届 ESG Excellence Awards（UN全球契约+ESG Institute·32企业3人·20类别·独立评审·部长见证）",
+    "normKey": "孟加拉首届ESGExcellenceAwardsUN全球契约+ESGInstitute32企业3人20类别独立评审部长见证",
+    "url": "https://en.prothomalo.com/corporate/n1ncfm2gwg",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "award",
+    "summary": "③ 国际机构 ESG 奖项体系（高管间、20类可量化+独立评审+政商见证，商务化）。二手·Prothom Alo。"
+  },
+  {
+    "title": "爱尔兰 Business&Finance ESG Awards 2026（Grand Prix+ESG Leader·含员工福祉奖/治理领导力奖/社会影响奖）",
+    "normKey": "爱尔兰Business&FinanceESGAwards2026GrandPrix+ESGLeader含员工福祉奖治理领导力奖社会影响奖",
+    "url": "https://www.grantthornton.ie/news-centre/esg-awards-2026-winners",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "award",
+    "summary": "③ 机构 ESG 奖项含员工福祉/治理领导力（高管间、高管级可持续表彰，商务化）。二手·Grant Thornton。"
+  },
+  {
+    "title": "ASEAN Outstanding Business Award 2026 终身成就奖（LBS集团执行主席·\"远见商业领导与社区卓越\"）",
+    "normKey": "ASEANOutstandingBusinessAward2026终身成就奖LBS集团执行主席\"远见商业领导与社区卓越\"",
+    "url": "https://lbs.com.my/press-releases/tan-sri-lim-hock-san-honoured-with-asean-lifetime-achievement-award",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "award",
+    "summary": "③ 区域商协终身成就奖（高管间、商业+社区卓越捆绑，一手新闻稿）。一手·LBS 官网新闻稿。"
+  },
+  {
+    "title": "菲律宾 Mansmith Awards for CEOs 2026（创新/创业/终身成就·奖杯由雕塑家定制\"突破常规的领导力\"）",
+    "normKey": "菲律宾MansmithAwardsforCEOs2026创新创业终身成就奖杯由雕塑家定制\"突破常规的领导力\"",
+    "url": "https://highlights.thenewchannel.com/when-innovation-meets-dedication-greatness-is-celebrated",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "topic": "award",
+    "summary": "③ 机构 CEO 奖项+奖杯即领导哲学具象（高管间、奖项体验设计，商务化）。二手·The New Channel。"
+  },
+  {
+    "title": "五征集团2026\"先锋实干家荣誉盛典\"（13项荣誉·金鼎奖最高·221位经销商/服务商/供应商/用户/海外实干家登台·董事长致谢）",
+    "normKey": "五征集团2026\"先锋实干家荣誉盛典\"13项荣誉金鼎奖最高221位经销商服务商供应商用户海外实干家登台董事长致谢",
+    "url": "http://www.sd.xinhuanet.com/20260124/5dc2d3e01a0848ea9b8be81bfcc2526e/c.html",
+    "sourceType": "primary",
+    "relation": "exec",
+    "topic": "award",
+    "summary": "③ 企业生态伙伴表彰盛典（高管间、供应商/经销商/用户同台授奖，商务化）。一手·新华网。"
   }
 ]
