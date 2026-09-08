@@ -191,6 +191,12 @@
         "entry_id": null,
         "name": "staff-meeting-20260904",
         "note": "轮次页 R35 (+12：2③高管间+10②上下级，2一手+10二手)｜乐享待补传(connector disconnected/token 401，待重连后补传并回填 entry_id)"
+      },
+      {
+        "date": "2026-09-08",
+        "entry_id": null,
+        "name": "staff-meeting-2026-09-08-r39.html",
+        "note": "轮次页 R39 (+8：4③高管间+4②上下级，全二手，0 peer 剔除)｜乐享待补传(lexiang lxmcp_ token 401 过期，待重连后补传并回填 entry_id)"
       }
     ]
   },
