@@ -18442,5 +18442,95 @@
     "summary": "先算地理(>25-30%差旅困难则混合);议程锚1-2现场高价值块≤120min+异步前置;远端平等三招(平行触点欢迎包/双facilitator/混编breakout);2-3天最强,虚拟拆半日;KPI看出席→虚拟,看跨职能承诺→混合",
     "normKey": "混合公司团队retreat23天远端平等三招异步替同步",
     "topic": "offsite"
+  },
+  {
+    "title": "新任 CEO 百天五阶段框架·pre-boarding 利益方地图 + 前 30 天只学不决策",
+    "normKey": "新任ceo百天五阶段框架preboarding利益方地图前30天只学不决策",
+    "url": "https://www.c-suite-strategy.com/first-100-days-as-ceo-a-five-phase-framework-to-land-your-mandate",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 新任CEO/一号位落地头百天（c-suite-strategy.com·二手），五阶段=授权期而非冲刺，pre-boarding利益方地图+前30天只学不决策+每阶段day plan，先读现实再动（高管间/新CEO百天）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管入职四阶段框架·stakeholder mapping 两问 + 倾听之旅 3 问 + 90 天沟通计划",
+    "normKey": "高管入职四阶段框架stakeholdermapping两问倾听之旅3问90天沟通计划",
+    "url": "https://deliberatedirections.com/executive-onboarding-guide/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管/C-suite 入职过渡（Deliberate Directions·二手），四阶段从pre-boarding到完全融入，stakeholder mapping两问+倾听3问+90天沟通计划，先建关系网再出成绩（高管间/高管入职）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新领导同化（NLA）完整指南·外部引导 + 入职后 2–3 周 + 30/90 天跟进",
+    "normKey": "新领导同化nla完整指南外部引导入职后23周3090天跟进",
+    "url": "https://leadingwithheart.com/?p=57/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 新任高管/CEO 与团队同化（Leading with Heart·二手），NLA完整指南——外部引导+2-3周时机+30/90天跟进+5项度量，与onboarding互补只管关系与期望共建（高管间/新领导同化）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管同化最佳实践·入职期拉长至 6–12 月 + 团队测评画像 + 领导人开场共识目标",
+    "normKey": "高管同化最佳实践入职期拉长至612月团队测评画像领导人开场共识目标",
+    "url": "https://strategic-imperatives.com/blog-post-holder/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 新任高管融入既有团队（Strategic Imperatives·二手），同化最佳实践——期拉长至6-12月+团队测评画像+领导人开场+共识目标，把onboarding当过程非事件（高管间/高管同化）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管入职 90 天清单·按 HR/IT/CEO董事会/新高管 四角色分流 + 4 大坑",
+    "normKey": "高管入职90天清单按hritceo董事会新高管四角色分流4大坑",
+    "url": "https://enboarder.com?p=19944/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 组织层面高管入职落地（Enboarder·二手），90天清单按HR/IT/CEO董事会/新高管四角色分流+4大坑，把onboarding当连续旅程非首周导向（高管间/高管入职清单）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "接管新团队 21 问·拆成 3–4 场 1:1（信任/偏好/积怨/动机 四类）",
+    "normKey": "接管新团队21问拆成34场11信任偏好积怨动机四类",
+    "url": "https://knowyourteam.com/blog/2022/06/12/21-questions-to-ask-when-taking-over-a-new-team/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新经理/新主管接手既有团队（Know Your Team·二手），21问拆3-4场1:1（信任/偏好/积怨/动机四类），私密场景给安全感也便深挖，用问题照亮盲区（上下级/接管新团队）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新主管首次 1:1 结构化七问·历史/优先级/状态/顾虑/优势/志向/生活",
+    "normKey": "新主管首次11结构化七问历史优先级状态顾虑优势志向生活",
+    "url": "http://www.adsuminsights.com/first-100-days-initial-meetings-with-your-staff",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新主管/经理首周与成员1:1（Adsum Insights·二手），结构化七问（历史/优先级/状态/顾虑/优势/志向/生活），信号=关心人+盯优先级+早露顾虑，首周缓判断（上下级/新主管首次1:1）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "心理安全感三练习·价值观工作坊 / Fear Conversation / 无责备复盘",
+    "normKey": "心理安全感三练习价值观工作坊fearconversation无责备复盘",
+    "url": "https://psychsafety.co.uk/three-simple-exercises-to-build-psychological-safety-in-your-team/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 经理在团队内建心理安全感（PsychSafety.co.uk·二手），三练习（价值观工作坊/Fear Conversation/无责备复盘），leader先示范脆弱、团队共创行为期待（上下级/心理安全感）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "首次团队会议 6 要素议程·破冰 + 我怎么支持你 + 沟通规范 + 节奏 + 期望 + Q&A",
+    "normKey": "首次团队会议6要素议程破冰我怎么支持你沟通规范节奏期望qa",
+    "url": "https://hypercontext.com/blog/meetings/first-team-meeting-agenda",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新经理首场团队会议（Hypercontext·二手），6要素议程（破冰/支持/沟通/节奏/期望/Q&A），会前发邮件+round-table，把首会变工作契约非演讲（上下级/首次团队会议）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "心理安全感日常仪式·一词打卡 / 赞赏圈 / 失误故事轮 / 潜规则拆解",
+    "normKey": "心理安全感日常仪式一词打卡赞赏圈失误故事轮潜规则拆解",
+    "url": "https://mci.edu.au/articles/building-psychological-safety-in-teams-hr-leaders",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 经理/HR 在日常建心理安全感（MCI·二手），五仪式（一词打卡/赞赏圈/失误故事轮/潜规则拆解/盲区脑暴），小投入持续嵌入、领导先示范（上下级/心理安全感仪式）。",
+    "topic": "icebreaker"
   }
 ]
