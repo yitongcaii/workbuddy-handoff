@@ -18295,5 +18295,89 @@
   "relation": "supervisor",
   "summary": "中国茶叶博物馆「茶韵聚青力·清风筑同心」青年员工座谈会在梅家坞茶文化村举办，近五年新入职员工骨干与馆领导关工委领导走进茶",
   "topic": "afternoontea"
+ },
+ {
+  "title": "AI 数字人 CEO 视频内通·高频常规更新（危机/重大变革须真人）",
+  "normKey": "ai数字人ceo视频内通高频常规更新危机重大变革须真人",
+  "url": "https://khaby.ai/use-cases/ai-avatar-internal-comms",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "KHABY AI：CEO 高保真数字分身按脚本生成内部视频，填补高频小更新空白（周更业务摘要/政策解读/多地同步，2-3 倍文字邮件参与）；信息类可用、危机/重大变革/文化里程碑须真人；治理三基线：肖像授权+内容范围限定+高管审签+AI 使用披露。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "高管 Q&A 难问题/敌意问题·四步应答（acknowledge→substance→constraints→next）",
+  "normKey": "高管qa难问题敌意问题四步应答acknowledgesubstanceconstraintsnext",
+  "url": "https://winningpresentations.com/tag/town-hall-question-response",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "Winning Presentations：Q&A 四步法——承认情绪不认框架+60 秒实质（结论→理由→约束）+点出未尽+给下一步；敌意问题误判是 over-explain 方法论（像 filibuster）；虚拟场读聊天队列、每步前停 2 秒。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "高管全员会 临场气场·肢体语言（占空间+眼神+能量先于内容）",
+  "normKey": "高管全员会临场气场肢体语言占空间眼神能量先于内容",
+  "url": "https://mazterpiece.com/the-executives-guide-to-public-speaking-body-language",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "Mazterpiece：高管可信度开场前已由身体判定；占住空间再拿麦（用满台边角非只站中央）、持续眼神接触（思考停顿也看人）、能量先于内容（走到台前就带能量）；姿势是可训练杠杆非性格天赋。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "全员会 频率/节奏 决策（月度理想·季度大·危机周更·Q&A≥30%）",
+  "normKey": "全员会频率节奏决策月度理想季度大危机周更qa30",
+  "url": "https://roamjobs.com/terms/all-hands",
+  "sourceType": "secondary",
+  "relation": "exec",
+  "summary": "RoamJobs：频率按规模与变革速度——初创剧变周更、成熟月度、超大季更+部门补；锁 45 分钟、议程 3-4 题、Q&A≥30%；会前 2-3 天发议程+匿名收题；随意取消=释放「沟通只在有事时重要」信号。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "RTO 返office 全员会沟通·live forum 而非邮件+先听后推+区分两类体验",
+  "normKey": "rto返office全员会沟通liveforum而非邮件先听后推区分两类体验",
+  "url": "https://www.ragan.com/?p=337621/",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "Ragan(Stellantis)：RTO 考验是员工是否觉得被理解；用现场全员会而非邮件宣布（语气/nuance/即时回应）、推前做调研焦点小组真去听、承认「常驻 office」与「习惯远程」是两种体验、宣布后领导物理在场面对面。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "IPO 里程碑全员会·org meeting 当日 townhall+quiet period+只谈业务不谈发行",
+  "normKey": "ipo里程碑全员会orgmeeting当日townhallquietperiod只谈业务不谈发行",
+  "url": "https://newstreetir.com/?p=389",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "New Street IR/Gilmartin：IPO 以 org meeting 起跑、当日开全员 townhall 讲为何上市/上市意味着什么/对外唯一联系人；HR 提前做内幕交易培训；S-1 翻转后邮件庆贺+静默期+FAQ+townhall；全程只谈业务不谈估值/时间表/发行；防 gun-jumping。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
+ },
+ {
+  "title": "全员会 Q&A 准备模板·message themes+likely/sensitive questions+follow-up",
+  "normKey": "全员会qa准备模板messagethemeslikelysensitivequestionsfollowup",
+  "url": "https://hogonext.com/templates/town-hall-qa-prep",
+  "sourceType": "secondary",
+  "relation": "supervisor",
+  "summary": "HogoNext：可复用 Q&A 准备 doc——message themes(主信息/变与不变/语气)+likely questions(为何问+草稿+数据+负责人)+sensitive questions(安全边界+法务/HR 审+bridge)+over-answering 禁区+follow-up plan(未答谁跟/recap/截止/反馈)。",
+  "topic": "员工大会",
+  "slug": "staff-meeting",
+  "round": "r40",
+  "date": "2026-09-09"
  }
 ]
