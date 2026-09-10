@@ -18987,5 +18987,95 @@
     "relation": "supervisor",
     "summary": "远程团队10个可采购offsite活动，每个带价格区间/人数/地点三栏便于比价排期；采购视角按预算与人数筛，避免拍脑袋选贵的不合适。",
     "topic": "offsite"
+  },
+  {
+    "title": "一把手离任交接·最后100天仪式感闭环（情感收尾+分层交接+校友关系+董事会激励）",
+    "normKey": "一把手离任交接最后100天仪式感闭环情感收尾分层交接校友关系董事会激励",
+    "url": "http://thesavoirgroup.com/insights/the-last-100-days-mastering-the-art-of-the-executive-exit",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 一把手/CEO 离任交接（The Savoir Group·二手），最后100天仪式感闭环——情感收尾+分层交接(driver→passenger→不在车里)+接力棒符号+董事会经济滑道+alumni 关系，把离任当第二重要的一百天（高管间/一把手离任交接）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管团队冲突修复·Alignment/Repair/Norms 三框架 + 高管修复协议",
+    "normKey": "高管团队冲突修复alignmentrepairnorms三框架高管修复协议",
+    "url": "https://info.brightarrowcoaching.com/conflict-as-a-catalyst",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管团队冲突/失能修复（Bright Arrow Coaching·二手），Conflict-to-Connection 三框架（Alignment/Repair/Norms）+高管修复协议+冲突规范，把冲突从隐藏操作系统变成连接（高管间/高管团队冲突修复）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "领导力团队契约·把 disagreement 规则写进 operating norms（禁邮件开火/实时解决/公开对齐）",
+    "normKey": "领导力团队契约把disagreement规则写进operatingnorms禁邮件开火实时解决公开对齐",
+    "url": "https://businessconsultingresources.com/managing-leadership-tension-strategies-to-build-trust-and-alignment",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管团队把冲突规则显式化（BCR·二手），Leadership Team Charter/Operating Norms——禁邮件开火+实时解决+公开对齐+常设张力段+外部教练，把张力变连接（高管间/领导力团队契约）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管团队冲突解决 Blueprint·RACI 厘清权责 + listen-first rounds + 外部顾问提速 30%",
+    "normKey": "高管团队冲突解决blueprintraci厘清权责listenfirstrounds外部顾问提速30",
+    "url": "http://growthshuttle.com/conflict-resolution-executive-teams-smes/",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管团队冲突根因干预（Growth Shuttle·二手），Conflict Resolution Blueprint——RACI 厘清权责+领导力培训四块+规律反馈+safety 对话+外部顾问提速 30%，60% 争端源于角色模糊（高管间/高管冲突解决蓝图）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "高管团队五大 dysfunction 诊断与干预（信任缺失→冲突恐惧→承诺缺→问责回避→结果漠视）",
+    "normKey": "高管团队五大dysfunction诊断与干预信任缺失冲突恐惧承诺缺问责回避结果漠视",
+    "url": "https://quarterdeck.co.uk/articles/leadership-team",
+    "sourceType": "secondary",
+    "relation": "exec",
+    "summary": "适用：③ 高管团队系统性失能诊断（Quarterdeck·二手），Lencioni 五级 dysfunction——信任缺失→冲突恐惧→承诺缺→问责回避→结果漠视，逐层干预、结构强化（高管间/高管团队失能诊断）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理反馈·Radical Candor 直言+关怀 2×2 + SBI（情境/行为/影响）24–48h 内给",
+    "normKey": "新经理反馈radicalcandor直言关怀22sbi情境行为影响2448h内给",
+    "url": "http://www.radicalcandor.com/blog/4-ways-help-new-managers-succeed/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新经理给团队反馈（Radical Candor·二手），直言+关怀 2×2 + SBI（情境/行为/影响）24–48h 内给 + 先 solicite 上行反馈，避 ruinous empathy（上下级/新经理反馈框架）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理生存指南·一致性小承诺建信任 + 1:1 五段模板 + 管理前同事",
+    "normKey": "新经理生存指南一致性小承诺建信任11五段模板管理前同事",
+    "url": "https://winwithmotivation.com/first-time-manager-survival-guide",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新任经理落地生存（Win With Motivation·二手），一致小承诺建信任+1:1 五段模板（绝不错过）+Radical Candor 反馈+管前同事，靠信任非职权（上下级/新经理生存指南）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "跨职能团队破冰 10 法·非正式联结 + 公司问答 + 多元对话 + 两真一假 + 密室",
+    "normKey": "跨职能团队破冰10法非正式联结公司问答多元对话两真一假密室",
+    "url": "https://teambuildingworld.com/cross-functional-team-building/",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 经理带跨职能/矩阵团队破冰（Team Building World·二手），10 法（非正式联结/公司问答/多元对话/两真一假/密室+必做 debrief），破部门墙建关系（上下级/跨职能团队破冰）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "新经理委派·情境领导 4 档拨盘（Direct/Coach/Support/Delegate）+『我在挡你什么路』",
+    "normKey": "新经理委派情境领导4档拨盘directcoachsupportdelegate我在挡你什么路",
+    "url": "https://www.scienceofpeople.com/communication-skills-for-new-managers",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 新经理任务委派（Science of People·二手），情境领导 4 档拨盘（Direct/Coach/Support/Delegate）+『我在挡你什么路』+SBI 反馈，委派是拨盘非开关（上下级/新经理委派拨盘）。",
+    "topic": "icebreaker"
+  },
+  {
+    "title": "破冰选型框架·按情境匹配（新团队/跨职能/冲突重置）+ 必做 debrief + 可选 pass",
+    "normKey": "破冰选型框架按情境匹配新团队跨职能冲突重置必做debrief可选pass",
+    "url": "https://www.pryor.com/blog/goal-setting-activities-from-process-to-product-to-outcome",
+    "sourceType": "secondary",
+    "relation": "supervisor",
+    "summary": "适用：② 经理/HR 选破冰活动（Pryor·二手），按情境匹配框架（新团队/跨职能/虚拟/offsite）+文化包容+必做 debrief+可选 pass+领导先示范，破冰是目的驱动非随机游戏（上下级/破冰选型框架）。",
+    "topic": "icebreaker"
   }
 ]
